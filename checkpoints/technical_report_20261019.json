@@ -1,0 +1,43 @@
+{
+  "completed_at": "2026-10-19",
+  "status": "complete",
+  "outputs": {
+    "pptx": {
+      "path": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_技術動向レポート_20261019.pptx",
+      "bytes": 115354,
+      "sha256": "f1058ae1e39f78190cebfda72cb91b184ef7f3204555fc311acd24d2d15eec67"
+    },
+    "docx": {
+      "path": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_技術動向レポート_20261019.docx",
+      "bytes": 59087,
+      "sha256": "e8b10a931e7eb949918ab318e19477f3f2257d132d79f1ddd8b5410c37d34fc2"
+    },
+    "html": {
+      "path": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_技術動向レポート_20261019.html",
+      "bytes": 97306,
+      "sha256": "aa1bbe68a006328552ac588df51a4f2aa5f7773b684a98989781cddfeae12e80"
+    }
+  },
+  "slides": 12,
+  "word_pages_including_sources": 13,
+  "selected_case_cards": 36,
+  "source_groups": 32,
+  "format_roles": {
+    "pptx": "全体像・技術方式・人の役割・年度変化を比較図表で要約",
+    "docx": "章立てした解説と比較表、出典一覧",
+    "html": "分野別解説・36事例の検索・年度比較切替・公式リンク"
+  },
+  "checks": {
+    "word_render": "Microsoft Wordによる13ページの出力を目視確認",
+    "slide_render": "12枚を目視確認、表と文字は編集可能",
+    "pptx_package": "artifact-tool最終化の整合性・配置・再読込確認後、Windowsハードリンク制約のため検証済み候補をコピー",
+    "html": "ID・内部リンク・出力リンク・全36事例の分野付与を確認。ブラウザー操作検証は未実施",
+    "existing_outputs_unchanged": 7
+  },
+  "limitations": [
+    "2026年は公式発表に基づく事前調査。展示実演・導入効果は未確認",
+    "2024年の記載欠落を新規性と解釈しない",
+    "公式記載・AI分析・開発仮説・未確認を区別",
+    "619掲載行は詳細URLなしのため内容未取得。今回新規取得なし"
+  ]
+}

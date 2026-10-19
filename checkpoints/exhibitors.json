@@ -1,0 +1,86 @@
+{
+  "checked_date": "2026-10-16",
+  "source": "JIMTOF official alphabetical catalog",
+  "years": {
+    "2024": {
+      "listing_rows": 1281,
+      "unique_company_names_exact_whitespace_normalized": 1243,
+      "rows_with_detail_link": 988,
+      "rows_without_detail_link": 293,
+      "joint_rows": 163,
+      "internal_rows": 63,
+      "missing_booth": 0,
+      "group_counts": {
+        "1": 180,
+        "2": 122,
+        "3": 136,
+        "4": 138,
+        "5": 109,
+        "6": 112,
+        "7": 77,
+        "8": 28,
+        "9": 19,
+        "10": 5,
+        "oversea": 355
+      },
+      "failures": [],
+      "listing_coverage": "all 11 alphabetical groups retrieved",
+      "exhibition_content_retrieved": 0,
+      "official_announced_total": null,
+      "remaining": "詳細本文・展示内容全件。詳細リンクなし行の企業公式資料。共同/内部出展の親会社。公式公表総数との別指標照合。",
+      "files": [
+        "data\\exhibitors_2024.csv",
+        "data\\exhibitors_2024.json"
+      ]
+    },
+    "2026": {
+      "listing_rows": 1146,
+      "unique_company_names_exact_whitespace_normalized": 1132,
+      "rows_with_detail_link": 820,
+      "rows_without_detail_link": 326,
+      "joint_rows": 129,
+      "internal_rows": 48,
+      "missing_booth": 0,
+      "group_counts": {
+        "1": 162,
+        "2": 115,
+        "3": 123,
+        "4": 112,
+        "5": 90,
+        "6": 97,
+        "7": 67,
+        "8": 29,
+        "9": 19,
+        "10": 6,
+        "oversea": 326
+      },
+      "failures": [],
+      "listing_coverage": "all 11 alphabetical groups retrieved",
+      "exhibition_content_retrieved": 0,
+      "official_announced_total": null,
+      "remaining": "詳細本文・展示内容全件。詳細リンクなし行の企業公式資料。共同/内部出展の親会社。公式公表総数との別指標照合。",
+      "files": [
+        "data\\exhibitors_2026.csv",
+        "data\\exhibitors_2026.json"
+      ]
+    }
+  },
+  "notes": [
+    "掲載行数・企業名重複除去数・公式発表出展者総数は別指標。",
+    "内部調査用キャッシュ。原典の文章・画像の無断転載はしない。",
+    "詳細ページと展示内容、親出展社の明示関係は次工程。"
+  ],
+  "robots_status": "404 Not Found; no robots directives published",
+  "terms": {
+    "2024": {
+      "url": "https://www.jimtof.org/2024/jp/terms.html",
+      "cache": "sources/2024_terms.html",
+      "summary": "保証制限・準拠法・文章画像写真の無断転載禁止。自動収集固有の禁止記載は確認されず。"
+    },
+    "2026": {
+      "url": "https://www.jimtof.org/jp/terms.html",
+      "cache": "sources/2026_terms.html",
+      "summary": "保証制限・準拠法・文章画像写真の無断転載禁止。自動収集固有の禁止記載は確認されず。"
+    }
+  }
+}

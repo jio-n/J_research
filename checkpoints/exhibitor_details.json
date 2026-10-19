@@ -1,0 +1,143 @@
+{
+  "checked_date": "2026-10-16",
+  "selected_years": [
+    2026,
+    2024
+  ],
+  "company_filters": [],
+  "attempted_this_run": 1797,
+  "retrieved_this_run": 1797,
+  "failures": [],
+  "years": {
+    "2026": {
+      "selected_detail_links": 820,
+      "selected_remaining": 0,
+      "cumulative_detail_records": 820,
+      "cumulative_main_exhibits_extracted": 753,
+      "all_master_linked_rows_remaining": 0,
+      "master_rows_without_detail_links": 326,
+      "files": [
+        "data\\exhibitor_details_2026.json",
+        "data\\exhibitor_details_2026.csv"
+      ]
+    },
+    "2024": {
+      "selected_detail_links": 988,
+      "selected_remaining": 0,
+      "cumulative_detail_records": 988,
+      "cumulative_main_exhibits_extracted": 887,
+      "all_master_linked_rows_remaining": 0,
+      "master_rows_without_detail_links": 293,
+      "files": [
+        "data\\exhibitor_details_2024.json",
+        "data\\exhibitor_details_2024.csv"
+      ]
+    }
+  },
+  "original_list_masters_unchanged": true,
+  "remaining_scope": "詳細URLなし行は対象外。全社の解釈・展示確度分類・親出展社の同定は別工程。",
+  "stopped_on_access_restriction": false,
+  "merged_masters": {
+    "2024": {
+      "year": 2024,
+      "total_listing_rows": 1281,
+      "detail_records": 988,
+      "rows_with_introduction": 943,
+      "rows_with_main_exhibits": 887,
+      "rows_not_retrieved": 0,
+      "rows_without_detail_url": 293,
+      "csv": "data\\exhibitors_2024_with_details.csv"
+    },
+    "2026": {
+      "year": 2026,
+      "total_listing_rows": 1146,
+      "detail_records": 820,
+      "rows_with_introduction": 768,
+      "rows_with_main_exhibits": 753,
+      "rows_not_retrieved": 0,
+      "rows_without_detail_url": 326,
+      "csv": "data\\exhibitors_2026_with_details.csv"
+    }
+  },
+  "next_all_details_command": "& 'C:/Users/paulr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe' scripts/collect_exhibitor_details.py --year 2024 2026",
+  "console_display_warnings": [
+    {
+      "year": 2026,
+      "company_name": "Alfred H. Schütte GmbH",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=vEZxaF9VL2k",
+      "error": "'cp932' codec can't encode character '\\xfc' in position 13: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2026,
+      "company_name": "Honsberg Metallsägen GmbH",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=P6slu1ImzAU",
+      "error": "'cp932' codec can't encode character '\\xe4' in position 16: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2026,
+      "company_name": "Mägerle AG Maschinenfabrik",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=d8itxGo2_dc",
+      "error": "'cp932' codec can't encode character '\\xe4' in position 1: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2026,
+      "company_name": "Mägerle AG Maschinenfabrik",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=ru3zqT_-q0c",
+      "error": "'cp932' codec can't encode character '\\xe4' in position 1: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2026,
+      "company_name": "Röders GmbH",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=ZjA8l9ImAE8",
+      "error": "'cp932' codec can't encode character '\\xf6' in position 1: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2026,
+      "company_name": "Schwäbische Werkzeugmaschinen GmbH",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=kw9LLCnBLZI",
+      "error": "'cp932' codec can't encode character '\\xe4' in position 4: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2026,
+      "company_name": "United Machining Mill AG · LIECHTI",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=TV4m8rG-6WU",
+      "error": "'cp932' codec can't encode character '\\xb7' in position 25: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2024,
+      "company_name": "Mägerle AG Maschinenfabrik",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=ZjA8l9ImAE8",
+      "error": "'cp932' codec can't encode character '\\xe4' in position 1: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2024,
+      "company_name": "Mägerle AG Maschinenfabrik",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=skJOsZ3QJkQ",
+      "error": "'cp932' codec can't encode character '\\xe4' in position 1: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2024,
+      "company_name": "Nakanishi Jäger GmbH",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=D32qr7rTbsg",
+      "error": "'cp932' codec can't encode character '\\xe4' in position 11: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    },
+    {
+      "year": 2024,
+      "company_name": "WIKUS-Sägenfabrik, Wilh. H. Kullmann GmbH & Co KG",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=BaQWeJkVd-8",
+      "error": "'cp932' codec can't encode character '\\xe4' in position 7: illegal multibyte sequence",
+      "impact": "Console print failed after data was saved. UTF-8 CSV/JSON and HTML are present."
+    }
+  ],
+  "csv_scope": "全掲載行を保持した説明本文・主な出展物付きCSV。未掲載と未取得を区別。"
+}

@@ -1,0 +1,26 @@
+{
+  "2024": {
+    "listing_rows": 1281,
+    "rows_with_description": 943,
+    "rows_with_main_exhibits": 887,
+    "listing_rows_preserved": true,
+    "name_booth_preserved": true,
+    "maximum_description_chars": 1065
+  },
+  "2026": {
+    "listing_rows": 1146,
+    "rows_with_description": 768,
+    "rows_with_main_exhibits": 753,
+    "listing_rows_preserved": true,
+    "name_booth_preserved": true,
+    "maximum_description_chars": 1112
+  },
+  "screenshot_example": {
+    "company": "DMG森精機株式会社",
+    "booth": "E8005",
+    "description_chars": 461,
+    "main_exhibits_chars": 375,
+    "screenshot_key_content_preserved": true,
+    "paragraph_breaks_preserved": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "status": "公開資料の追補・成果物保存・最低限検証済み",
+  "checked_date": "2026-10-18",
+  "source_records": 13,
+  "updated_cards": 10,
+  "updated_companies": 8,
+  "alias_confirmations": 1,
+  "scope": "未確認事項の追補。28社全資料の全件再取得ではない。",
+  "cache_files": 9,
+  "limits": [
+    "Beckhoff2025記事は検索索引で確認。本文openは404、誌面PDFは容量超過。",
+    "カネテックLPは再度Cache miss。別サイトで回避せず、既存の公式索引確認と質問を保持。",
+    "ALFREDの2026詳細ページのweb抽出は失敗。保存済み10/16原文を保持。追加仕様は未確認。"
+  ],
+  "remaining": [
+    "ToolDiscoveryのAI算定方式・制約、ALFRED固有仕様は公開資料で補完できず現地確認へ。",
+    "実機の停止・再試行・復帰と操作権限は製品別に確認待ち。確認表12件を保存。",
+    "研究候補は公開情報に基づく条件付き判断。実験・現地検証・最終1枚は未実施。"
+  ],
+  "research_candidates": 5,
+  "open_questions": 12,
+  "outputs": [
+    "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_技術整理と全体マップ_v1.html",
+    "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_カテゴリー別出展索引_v1.xlsx"
+  ],
+  "next_action": "現地確認表12論点の証拠を収集し、各テーマの検証開始条件を満たすか判定する。公開情報で残った仕様を推定で補完しない。1枚集約は未着手。"
+}

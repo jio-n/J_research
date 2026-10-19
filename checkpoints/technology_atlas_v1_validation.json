@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "fact_cards": 334,
+  "companies": 309,
+  "task_categories": 36,
+  "evidence_records": 626,
+  "checks": [
+    "カード必須項目・根拠参照",
+    "出典URL・原典キャッシュ",
+    "CSV/JSON全件一致",
+    "HTML内リンク・出力ファイル",
+    "展示確度の重要な区別",
+    "SVG構文・文字の図外はみ出し"
+  ],
+  "preview_path": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_技術全体マップ_v1.png",
+  "html_browser_interaction": "未検証：ブラウザーのURLポリシーがfile://の自動観察を拒否。回避は実施せず。",
+  "sha256": {
+    "outputs\\JIMTOF2026_技術整理と全体マップ_v1.html": "81e68dd2a39f73799db76f0b0c68353a4f6c4896742ccde4a6305084ca93f09c",
+    "outputs\\JIMTOF2026_技術全体マップ_v1.png": "24494b770048149a550db20d336eb2e38e5d9f5a3d6e6dbbf95d11aef9ce389a",
+    "data\\research\\technology_atlas_v1\\fact_cards.csv": "04daf43cb4890ef22b51a0d81f829a1102670a720841d033aab2900639ced3da"
+  }
+}

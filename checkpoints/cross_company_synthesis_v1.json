@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "analysis_date": "2026-10-18",
+  "source_checked_date": "2026-10-16",
+  "companies": 28,
+  "cards": 33,
+  "positions": 35,
+  "method_families": 10,
+  "year_patterns": 6,
+  "common_issues": 5,
+  "research_candidates": 5,
+  "scope": "訪問優先28社・33カード。SOFIXの予測／搬送、SiemensのTokn／海外物流試験を分けた35配置。市場全体の比率・性能順位ではない。",
+  "remaining": [
+    "未公開の承認権限・失敗検知・再試行・復帰条件は確認待ち。公開情報不足を製品の欠陥としない。",
+    "ToolDiscoveryとユシロALFREDの補足技術資料、2024同名原典不足は継続残件。",
+    "研究候補は既存機能との重複確認・現地質問・小規模実験を経て選定する。最終1枚への集約は未着手。"
+  ],
+  "supplement_checked_date": "2026-10-18",
+  "open_questions": 12,
+  "alias_confirmations": 1,
+  "checks": [
+    "28社33カードを35配置に漏れなく対応",
+    "別機能・海外別実証の分離",
+    "全分析行のカードID・根拠ID・原典URL・該当箇所",
+    "研究候補→共通論点→事実カード→原典の対応",
+    "比較図SVGリンク・PNG寸法",
+    "社名変更の公式根拠と2024監視・補給の照合",
+    "研究判断5件・質問12件の根拠・開始条件",
+    "事実・分析・研究仮説と未確認の区別"
+  ],
+  "followup": {
+    "checked_date": "2026-10-18",
+    "source_records": 13,
+    "updated_cards": 10,
+    "updated_companies": 8,
+    "alias_confirmations": 1,
+    "scope": "未確認事項の追補。28社全資料の全件再取得ではない。",
+    "cache_files": 9,
+    "limits": [
+      "Beckhoff2025記事は検索索引で確認。本文openは404、誌面PDFは容量超過。",
+      "カネテックLPは再度Cache miss。別サイトで回避せず、既存の公式索引確認と質問を保持。",
+      "ALFREDの2026詳細ページのweb抽出は失敗。保存済み10/16原文を保持。追加仕様は未確認。"
+    ],
+    "remaining": [
+      "ToolDiscoveryのAI算定方式・制約、ALFRED固有仕様は公開資料で補完できず現地確認へ。",
+      "実機の停止・再試行・復帰と操作権限は製品別に確認待ち。確認表12件を保存。",
+      "研究候補は公開情報に基づく条件付き判断。実験・現地検証・最終1枚は未実施。"
+    ]
+  },
+  "source_basis": "基礎613出典を保持し、10/18の再確認・既存原典再読を含む公式根拠13件を追補。台帳626件。全原ページを再取得した件数ではない。",
+  "html_browser_interaction": "file://自動観察はポリシー制限のため未検証",
+  "sha256": {
+    "JIMTOF2026_方式別比較マップ_v1.svg": "22fad8643f1fbe0be451d31775106956b4158baea7d1948fa074d3062b9d3175",
+    "JIMTOF2026_年度変化比較図_v1.svg": "1666d1e338577bbf8ceb8a63be6318ac37aabc5d3f7221fa003e8725378771eb",
+    "research_candidates.csv": "ccb2aec0d4c33ddd07482315144fc63f89f7a636566df94c80aab2c26fab85b9"
+  },
+  "visual_review": "変更した年度比較図、Excelの研究判断・現地確認表・Engineering承認欄を画像確認。ブラウザー操作・Excel実アプリは未検証。"
+}

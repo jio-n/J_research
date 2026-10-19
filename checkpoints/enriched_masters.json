@@ -1,0 +1,22 @@
+{
+  "2024": {
+    "year": 2024,
+    "total_listing_rows": 1281,
+    "detail_records": 988,
+    "rows_with_introduction": 943,
+    "rows_with_main_exhibits": 887,
+    "rows_not_retrieved": 0,
+    "rows_without_detail_url": 293,
+    "csv": "data\\exhibitors_2024_with_details.csv"
+  },
+  "2026": {
+    "year": 2026,
+    "total_listing_rows": 1146,
+    "detail_records": 820,
+    "rows_with_introduction": 768,
+    "rows_with_main_exhibits": 753,
+    "rows_not_retrieved": 0,
+    "rows_without_detail_url": 326,
+    "csv": "data\\exhibitors_2026_with_details.csv"
+  }
+}

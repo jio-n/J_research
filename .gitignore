@@ -3,4 +3,14 @@ __pycache__/
 *.pyc
 ~$*
 .chart-data-*/
-sources/
+/sources/**
+!/sources/README.md
+!/sources/cache_manifest.csv
+
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+.codex/
+.aws/

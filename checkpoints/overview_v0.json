@@ -1,0 +1,19 @@
+{
+  "slide_count": 1,
+  "required_sections": [
+    "1　結果サマリ",
+    "2　技術動向",
+    "3　今後の方向性",
+    "4　調査結果の提言"
+  ],
+  "claims_with_source_mapping": 11,
+  "evidence_records_in_notes": 89,
+  "company_comparison_rows": 42,
+  "both_year_comparisons": 33,
+  "technology_items": 33,
+  "themes": 3,
+  "visit_candidates": 13,
+  "final_pptx_reopened_and_rendered": true,
+  "powerpoint_native_application_opened": false,
+  "remaining": "詳細URLなし619行・説明不足・名称変更候補・現地検証は補足とstatus.jsonへ記録済み。"
+}

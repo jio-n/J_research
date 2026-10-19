@@ -1,0 +1,28 @@
+{
+  "status": "exported",
+  "output": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_カテゴリー別出展索引_v1.xlsx",
+  "categories": 9,
+  "associations": 548,
+  "companies": 309,
+  "cards": 334,
+  "calculated_category_counts": [
+    12,
+    8,
+    12,
+    23,
+    57,
+    112,
+    279,
+    13,
+    32
+  ],
+  "preview_directory": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\.build\\category_index",
+  "native_excel_open": "未確認",
+  "directory_extension": {
+    "cards": 344,
+    "associations": 456,
+    "sheets": 11,
+    "native_direct_exhibitor_links": 813,
+    "existing_9_sheets_cells_preserved": true
+  }
+}

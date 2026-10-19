@@ -1,0 +1,119 @@
+{
+  "status": "保存・最小確認完了",
+  "date": "2026-10-19",
+  "scope": {
+    "atlas_cards": 334,
+    "additional_research_cards": 7,
+    "split_exhibit_cards": 3,
+    "directory_rows": 344,
+    "company_name_keys": 309,
+    "classified_rows": 337,
+    "pending_card_ids": [
+      "AC005",
+      "AC053",
+      "AC099",
+      "AC112",
+      "AC132",
+      "AC178",
+      "AC277"
+    ],
+    "topic_associations": 456,
+    "comparison_rows": 57,
+    "note": "取得済み334候補＋追加調査7＋既存説明から別展示を分離3カード。各社の全製品を分解した件数ではない。テーマ重複・同一企業の複数掲載を含む。2026公式詳細820件の関連語検索を補助に実施。詳細URLのない619掲載行は未取得。"
+  },
+  "evidence_records": 640,
+  "unique_source_urls": 629,
+  "html_panels": [
+    "全体像",
+    "分野別のまとめ",
+    "技術から企業を探す",
+    "開発の方向",
+    "技術全体マップ",
+    "企業別の年度比較",
+    "カテゴリー索引",
+    "出典・調査範囲"
+  ],
+  "validation": {
+    "html_structure": "344候補パネル・344年度比較パネル、26マップテーマの対応を確認",
+    "javascript_syntax": "node --check 合格",
+    "workbook_sheets": 11,
+    "preserved_existing_sheets": 9,
+    "preserved_existing_cell_values_and_formulas": true,
+    "native_hyperlink_formulas": 1398,
+    "new_direct_exhibitor_links": 813,
+    "spreadsheet_changed_ranges": "追加索引・年度比較・マップ・リンク列を画像確認",
+    "native_browser_and_excel_operation": "今回未実施"
+  },
+  "outputs": [
+    "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_技術整理と全体マップ_v1.html",
+    "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_カテゴリー別出展索引_v1.xlsx",
+    "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\data\\research\\report_v0\\technology_directory.csv"
+  ],
+  "remaining": [
+    "用途分類保留7カード（一覧の分類保留に表示）",
+    "一次分類196カードは両年原典があるが個別機能差は未判定",
+    "各社の全製品を個別アイテムに分解したものではない",
+    "詳細URLのない619掲載行の内容未取得・全公表出展者総数との突合未完了"
+  ],
+  "next": "事前レビュー後、必要な候補の個別機能・年度差を確認。1枚への再集約は今回行わない。",
+  "resume_commands": [
+    "python scripts/build_report_completion.py",
+    "python scripts/report_completion_html.py",
+    "node scripts/build_category_workbook.mjs"
+  ],
+  "layout_update": {
+    "date": "2026-10-19",
+    "scope": "技術から企業を探す画面のみ",
+    "maximum_content_width_px": 2200,
+    "columns": {
+      "1200px以上": 3,
+      "1800px以上": 4,
+      "701–1199px": 2,
+      "700px以下": 1
+    },
+    "card_count": 344,
+    "research_data_unchanged": true,
+    "matrix": "A仕事×役割を既定表示、B仕事×技術方式、従来カード型の3方式を切替",
+    "visual_browser_check": "今回未実施",
+    "header_compaction": {
+      "vertical_padding_px": [
+        10,
+        11
+      ],
+      "company_font_px": 22,
+      "product_visible_lines": 2,
+      "full_item_text": "既存の詳細欄・title属性に保持"
+    }
+  },
+  "matrix_update": {
+    "date": "2026-10-19",
+    "scope": {
+      "total": 344,
+      "roles_classified": 252,
+      "methods_classified": 186,
+      "job_unconfirmed": 39,
+      "note": "重複配置あり。方式・役割の分類は分析。未配置は未確認であり、機能なし・企業なしという意味ではない。"
+    },
+    "a": {
+      "job_columns": 7,
+      "role_rows": 4,
+      "cells": 28
+    },
+    "b": {
+      "job_columns": 7,
+      "method_rows": 5,
+      "cells": 35
+    },
+    "cell_preview_limit": 2,
+    "all_candidates_access": "セルから該当全候補の一覧をダイアログ表示。役割・方式未確認、対象業務未確認、横断基盤は別ボタンで全件表示。",
+    "source_links": "2026／2024出展ページ・公式技術資料・根拠ID・年度比較へ接続",
+    "data_file": "data/research/report_v0/matrix_classification.json",
+    "research_source_data": "変更なし",
+    "checks": [
+      "元の344カードを保持",
+      "HTMLのID重複・タグ対応・A28セル／B35セルを確認",
+      "JavaScript node --check 成功"
+    ],
+    "native_browser_operation": "今回未実施"
+  }
+}

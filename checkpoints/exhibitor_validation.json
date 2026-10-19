@@ -1,0 +1,186 @@
+{
+  "2024": {
+    "group_checks": [
+      {
+        "group": "1",
+        "raw_company_cells": 180,
+        "master_rows": 180,
+        "matches": true
+      },
+      {
+        "group": "10",
+        "raw_company_cells": 5,
+        "master_rows": 5,
+        "matches": true
+      },
+      {
+        "group": "2",
+        "raw_company_cells": 122,
+        "master_rows": 122,
+        "matches": true
+      },
+      {
+        "group": "3",
+        "raw_company_cells": 136,
+        "master_rows": 136,
+        "matches": true
+      },
+      {
+        "group": "4",
+        "raw_company_cells": 138,
+        "master_rows": 138,
+        "matches": true
+      },
+      {
+        "group": "5",
+        "raw_company_cells": 109,
+        "master_rows": 109,
+        "matches": true
+      },
+      {
+        "group": "6",
+        "raw_company_cells": 112,
+        "master_rows": 112,
+        "matches": true
+      },
+      {
+        "group": "7",
+        "raw_company_cells": 77,
+        "master_rows": 77,
+        "matches": true
+      },
+      {
+        "group": "8",
+        "raw_company_cells": 28,
+        "master_rows": 28,
+        "matches": true
+      },
+      {
+        "group": "9",
+        "raw_company_cells": 19,
+        "master_rows": 19,
+        "matches": true
+      },
+      {
+        "group": "oversea",
+        "raw_company_cells": 355,
+        "master_rows": 355,
+        "matches": true
+      }
+    ],
+    "total_rows": 1281,
+    "all_group_counts_match": true,
+    "unique_record_ids": true,
+    "missing_company_name": 0,
+    "missing_booth": 0,
+    "duplicate_name_booth_groups": [
+      {
+        "normalized_name": "株式会社兼松ケージーケイ",
+        "booth": "AM103",
+        "record_ids": [
+          "EXH-2024-57522a6d98baf9dc",
+          "EXH-2024-d6c695f4ab26eed1"
+        ]
+      },
+      {
+        "normalized_name": "三菱電機株式会社",
+        "booth": "S2002",
+        "record_ids": [
+          "EXH-2024-dd624202f56aa0f6",
+          "EXH-2024-4bb9bbd90b15185b"
+        ]
+      }
+    ]
+  },
+  "2026": {
+    "group_checks": [
+      {
+        "group": "1",
+        "raw_company_cells": 162,
+        "master_rows": 162,
+        "matches": true
+      },
+      {
+        "group": "10",
+        "raw_company_cells": 6,
+        "master_rows": 6,
+        "matches": true
+      },
+      {
+        "group": "2",
+        "raw_company_cells": 115,
+        "master_rows": 115,
+        "matches": true
+      },
+      {
+        "group": "3",
+        "raw_company_cells": 123,
+        "master_rows": 123,
+        "matches": true
+      },
+      {
+        "group": "4",
+        "raw_company_cells": 112,
+        "master_rows": 112,
+        "matches": true
+      },
+      {
+        "group": "5",
+        "raw_company_cells": 90,
+        "master_rows": 90,
+        "matches": true
+      },
+      {
+        "group": "6",
+        "raw_company_cells": 97,
+        "master_rows": 97,
+        "matches": true
+      },
+      {
+        "group": "7",
+        "raw_company_cells": 67,
+        "master_rows": 67,
+        "matches": true
+      },
+      {
+        "group": "8",
+        "raw_company_cells": 29,
+        "master_rows": 29,
+        "matches": true
+      },
+      {
+        "group": "9",
+        "raw_company_cells": 19,
+        "master_rows": 19,
+        "matches": true
+      },
+      {
+        "group": "oversea",
+        "raw_company_cells": 326,
+        "master_rows": 326,
+        "matches": true
+      }
+    ],
+    "total_rows": 1146,
+    "all_group_counts_match": true,
+    "unique_record_ids": true,
+    "missing_company_name": 0,
+    "missing_booth": 0,
+    "duplicate_name_booth_groups": [
+      {
+        "normalized_name": "イルジンジャパン株式会社",
+        "booth": "W4023",
+        "record_ids": [
+          "EXH-2026-4cf44dfd2bc07e2b",
+          "EXH-2026-d3c9a9c625e8cd68"
+        ]
+      }
+    ]
+  },
+  "name_matching": {
+    "both_year_name_candidates": 823,
+    "only_2024": 419,
+    "only_2026": 308,
+    "note": "名称一致のみ。社名変更・統合・表記揺れ未調査。出展内容差分は未取得のため比較不能。"
+  }
+}

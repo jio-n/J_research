@@ -1,0 +1,262 @@
+{
+  "checked_date": "2026-10-16",
+  "listing_rows": {
+    "2024": 1281,
+    "2026": 1146
+  },
+  "linked_details_retrieved": {
+    "2024": 988,
+    "2026": 820
+  },
+  "candidate_2026_name_keys": 342,
+  "reviewed_company_keys": 309,
+  "fact_cards": 334,
+  "task_categories": 36,
+  "populated_task_categories": 36,
+  "cards_by_phase": {
+    "段取り・搬送": 13,
+    "共通の実装基盤・要素": 5,
+    "工場運用・保全": 15,
+    "受注・加工準備": 9,
+    "加工・状態監視": 8,
+    "制御開発・立上げ": 6,
+    "検査・工具運用": 13,
+    "追加候補（出展説明単位）": 265
+  },
+  "cards_by_delta": {
+    "対象・構成・要素の追加記載": 7,
+    "2026具体化・機能差未確定": 19,
+    "2024個別比較不能": 74,
+    "2024から継続": 19,
+    "2024以前の方式を確認・製品群を具体化": 2,
+    "2024以前からの基盤・展示差分未確定": 1,
+    "担当タスクの追加記載": 11,
+    "2024に提供発表済み・2026出展記述を具体化": 1,
+    "2025の製品・機能追加を確認": 1,
+    "両年原典あり・機能差未判定": 191,
+    "搬送対象・構成の追加記載": 2,
+    "2024から継続・AIの記載を追加": 1,
+    "2024から継続・構成を具体化": 1,
+    "2024から継続・AIの記載を具体化": 1,
+    "2024から継続・構成を追加記載": 1,
+    "2024から継続・Adv構成と提供方法を具体化": 1,
+    "旧社名照合：監視・補給は2024既存、ALFRED固有差未確定": 1
+  },
+  "evidence_records": 626,
+  "new_primary_web_pages": 10,
+  "card_comparison_scope": "従来69用途と追加265掲載を整理。追加重点19掲載のうち両年原典比較13掲載（同名12＋公式社名変更照合1）、2024未照合6掲載。",
+  "remaining": [
+    "ツールディスカバリーのAI算定方式とALFREDの補足技術資料は未確認",
+    "判断から指令への権限・人の承認・失敗復帰は未公開箇所が残る",
+    "2024同名出展資料不足と法人別名の照合は未完了",
+    "2026展示予定と他会場・国外実証の機能を区別。現地実機・成功率・採用件数は未検証",
+    "候補集合345掲載は一次仕分け済み。追加候補の全製品・入力・権限・年度差分を同じ深さで精査したものではない。分類保留1掲載あり。",
+    "一覧に詳細URLがない619行と原典説明欠損には未捕捉の可能性",
+    "ロボットの軸・センサ・ハンド、AIモデル・操作権限、成功率・導入実績・市場規模は個別に未確認",
+    "2024詳細がない企業と名称変更の法人照合は比較不能を保持",
+    "2026は展示予定。参考出品、動画のみ、製品発表、既存製品を分離",
+    "研究開発候補5件は仮説として保存。既存機能との重複・適用条件を確認して採否を決める。最終1枚への集約は未着手。"
+  ],
+  "explicit_label_scan": {
+    "searched_detail_rows": 820,
+    "terms": [
+      "フィジカルAI",
+      "エージェント"
+    ],
+    "matched_listing_rows": 9,
+    "reviewed_listing_rows": 9,
+    "limitations": "語を明示した掲載に限る。AI全社の網羅・採用率ではない。CoAgent等の別表現も別途重点レビュー。"
+  },
+  "category_index": {
+    "categories": 9,
+    "associations": 548,
+    "companies": 309,
+    "items": 334,
+    "scope": "候補345掲載・342名称キーを一次仕分け。既存の重点69カードと追加候補の出展説明単位カードは精査深度を区別。",
+    "definitions": [
+      {
+        "category_id": "C01",
+        "category": "フィジカルAI",
+        "definition": "認識・判断と物理動作の結合。メーカーが同語で示す基盤・部品も、応用本体と分けて掲載。",
+        "boundary": "呼称だけでは動作生成・汎化・自律性を認定しない。",
+        "item_count": 12,
+        "company_count": 11
+      },
+      {
+        "category_id": "C02",
+        "category": "AIエージェント・対話支援",
+        "definition": "開発・運用・業務を助けるエージェント、対話型AI、連携基盤。",
+        "boundary": "回答・提案・操作・人の承認を分ける。対話支援を自律実行と扱わない。",
+        "item_count": 8,
+        "company_count": 6
+      },
+      {
+        "category_id": "C03",
+        "category": "加工準備・業務AI",
+        "definition": "工程・CAM・図面検索・見積などの準備／業務にAIを利用。",
+        "boundary": "自動生成した提案の正しさ、NCの実機適用までを保証しない。",
+        "item_count": 12,
+        "company_count": 12
+      },
+      {
+        "category_id": "C04",
+        "category": "検査・診断・予測AI",
+        "definition": "画像・振動・時系列・記録等のAI判定、診断、寿命・異常予測。",
+        "boundary": "AIの対象が原典で具体的なものを掲載。一般の計測器を一律にAI扱いしない。",
+        "item_count": 23,
+        "company_count": 21
+      },
+      {
+        "category_id": "C05",
+        "category": "設計・製造DX",
+        "definition": "設計・CAM・NC検証・測定計画・設計製造データをデジタルで結ぶ。",
+        "boundary": "デジタル化・シミュレーションとAIを区別する。",
+        "item_count": 57,
+        "company_count": 53
+      },
+      {
+        "category_id": "C06",
+        "category": "工場運用DX",
+        "definition": "設備・生産・品質・工具・保全データの活用、計画、遠隔運用。",
+        "boundary": "データがつながることと、判断・操作を委任できることを区別する。",
+        "item_count": 112,
+        "company_count": 103
+      },
+      {
+        "category_id": "C07",
+        "category": "自動化",
+        "definition": "搬送・段取り・加工付帯・検査・補正・ソフト処理等の作業を機械やソフトで行う。",
+        "boundary": "固定手順・ルール・人の事前設定も含む。AI利用・自律判断は必須ではない。",
+        "item_count": 279,
+        "company_count": 264
+      },
+      {
+        "category_id": "C08",
+        "category": "自律化",
+        "definition": "状況に応じた判断と実行を担う限定タスク、及びメーカーが自律化を掲げる提案。",
+        "boundary": "限定タスクと構想・範囲未確認を区別。固定手順や自動補正だけでは付けない。",
+        "item_count": 13,
+        "company_count": 13
+      },
+      {
+        "category_id": "C09",
+        "category": "AI実装・連携基盤",
+        "definition": "学習モデルの制御実装、データの意味・接続、撮像、IPC等を支える。",
+        "boundary": "基盤を備えることと、特定AIタスクが実装済みであることを区別する。",
+        "item_count": 32,
+        "company_count": 30
+      }
+    ]
+  },
+  "candidate_screening": {
+    "rows": 345,
+    "name_keys": 342,
+    "dispositions": {
+      "既存の重点カードで分類済み": 47,
+      "カテゴリー付与（一次整理）": 210,
+      "カテゴリー付与（周辺要素）": 55,
+      "分類保留（具体機能不足）": 1,
+      "対象外（語の一致・用途等）": 32
+    },
+    "additional_tagged_records": 265,
+    "additional_focused_reviews": 19,
+    "additional_two_year_fulltext_comparisons": 13,
+    "additional_focused_without_2024": 6,
+    "coverage_basis": "凍結した2026関連候補集合。キーワードで拾わなかった他の出展者全ての非該当を保証するものではない。",
+    "official_alias_comparisons": 1
+  },
+  "visit_priorities": {
+    "rows": 37,
+    "categories": 9,
+    "companies": 28,
+    "basis": "カテゴリー内の調査者による訪問順案。性能・市場規模・採用率のランキングではない。"
+  },
+  "priority_deepening": {
+    "companies": 28,
+    "items": 33,
+    "new_official_source_records": 33,
+    "supplemented_companies": 26,
+    "catalogue_only_companies": 2,
+    "source_status_counts": {
+      "企業・開発元の補足公式資料を確認": 31,
+      "公式出展説明まで・補足技術資料未確認": 1,
+      "公式出展説明まで・ALFRED追加仕様未確認／2024旧社名原典と社名変更を補足照合": 1
+    },
+    "retrieval_scope": "web本文抽出・検索索引で該当箇所を確認。原ページ全文を取得した件数ではない。",
+    "retrieval_limits": [
+      {
+        "evidence_id": "EDP-01",
+        "result": "LP本文はCache miss。公式LPの検索索引にある2024出展等を確認"
+      },
+      {
+        "evidence_id": "EDP-02",
+        "result": "公式PDF本体は10MiB超過で取得不可。検索索引のGH5仕様記述を確認"
+      },
+      {
+        "evidence_id": "EDP-11",
+        "result": "公式導入事例の本文抽出は0行。検索索引の読取り・人の補正の説明を確認"
+      },
+      {
+        "evidence_id": "EDP-27",
+        "result": "公式出展報告本文は取得エラー。検索索引の2024初披露品一覧を確認"
+      }
+    ],
+    "remaining": [
+      "ツールディスカバリーのAI算定方式とALFREDの補足技術資料は未確認",
+      "判断から指令への権限・人の承認・失敗復帰は未公開箇所が残る",
+      "2024同名出展資料不足と法人別名の照合は未完了",
+      "2026展示予定と他会場・国外実証の機能を区別。現地実機・成功率・採用件数は未検証"
+    ],
+    "checked_date": "2026-10-16",
+    "followup_checked_date": "2026-10-18"
+  },
+  "cross_company_synthesis": {
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "companies": 28,
+    "cards": 33,
+    "positions": 35,
+    "method_families": 10,
+    "year_patterns": 6,
+    "common_issues": 5,
+    "research_candidates": 5,
+    "scope": "訪問優先28社・33カード。SOFIXの予測／搬送、SiemensのTokn／海外物流試験を分けた35配置。市場全体の比率・性能順位ではない。",
+    "remaining": [
+      "未公開の承認権限・失敗検知・再試行・復帰条件は確認待ち。公開情報不足を製品の欠陥としない。",
+      "ToolDiscoveryとユシロALFREDの補足技術資料、2024同名原典不足は継続残件。",
+      "研究候補は既存機能との重複確認・現地質問・小規模実験を経て選定する。最終1枚への集約は未着手。"
+    ],
+    "supplement_checked_date": "2026-10-18",
+    "open_questions": 12,
+    "alias_confirmations": 1
+  },
+  "remaining_followup": {
+    "checked_date": "2026-10-18",
+    "source_records": 13,
+    "updated_cards": 10,
+    "updated_companies": 8,
+    "alias_confirmations": 1,
+    "scope": "未確認事項の追補。28社全資料の全件再取得ではない。",
+    "cache_files": 9,
+    "limits": [
+      "Beckhoff2025記事は検索索引で確認。本文openは404、誌面PDFは容量超過。",
+      "カネテックLPは再度Cache miss。別サイトで回避せず、既存の公式索引確認と質問を保持。",
+      "ALFREDの2026詳細ページのweb抽出は失敗。保存済み10/16原文を保持。追加仕様は未確認。"
+    ],
+    "remaining": [
+      "ToolDiscoveryのAI算定方式・制約、ALFRED固有仕様は公開資料で補完できず現地確認へ。",
+      "実機の停止・再試行・復帰と操作権限は製品別に確認待ち。確認表12件を保存。",
+      "研究候補は公開情報に基づく条件付き判断。実験・現地検証・最終1枚は未実施。"
+    ]
+  },
+  "report_path": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_技術整理と全体マップ_v1.html",
+  "data_path": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\data\\research\\technology_atlas_v1",
+  "resume_command": "python scripts/build_technology_atlas.py",
+  "status": "成果物保存・整合性検証済み。ブラウザー操作は未検証",
+  "canonical_spec_sha256": "3440a2a5013ff9e0ce97f133eac20f8740b674dc89bd80edc4a387f2604f5e61",
+  "cross_company_synthesis_validation": "checkpoints\\cross_company_synthesis_v1.json",
+  "category_workbook_path": "C:\\Users\\paulr\\resarch\\JIMTOF2026_Research\\outputs\\JIMTOF2026_カテゴリー別出展索引_v1.xlsx",
+  "category_validation": "checkpoints/category_workbook_v1.json",
+  "validation_path": "checkpoints/technology_atlas_v1_validation.json",
+  "next_action": "現地確認表12論点の証拠を収集し、各テーマの検証開始条件を満たすか判定する。公開情報で残った仕様を推定で補完しない。1枚集約は未着手。"
+}
