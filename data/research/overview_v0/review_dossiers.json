@@ -1,0 +1,1533 @@
+[
+  {
+    "review_id": "V001",
+    "selection": "DMG森精機",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-0a8f65b79a06b12e",
+          "year": 2024,
+          "company_name": "DMG森精機株式会社",
+          "booth": "E8001",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=lOXEEpvlXpM",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "DMG MORIが提案する「マシニング・トランスフォーメーション（MX）」をテーマに、\n複合加工機・５軸加工機・アディティブマニュファクチャリングによる工程集約、\nお客様の生産性向上に貢献する自動化システム、地球環境の保護に貢献するGXの取組み、\nそして、全体プロセスから生じる情報の収集・可視化・分析を行うDXをご紹介いたします。\nブースでは高精度5軸制御横形マシニングセンタ 「INH 63」や自律走行ロボット\n「AMR 2000」、世界初披露となる製品や当社認定周辺機器（DMQP）を含めた\n最新ソリューションをご提案いたします。",
+          "main_exhibits": "・複合加工機：NTX 500、NZ QUATTRO\n・5軸制御横形マシニングセンタ：INH 63\n・5軸制御マシニングセンタ：DMU 65 monoBLOCK 2nd Generation\n・レーザ金属積層造形機&5軸複合加工機：LASERTEC 3000 DED hybrid\n・自律走行ロボット：AMR 2000、WH-AMR 10\n・パレットハンドリングシステム：PH Cell 500\n・ワークハンドリングシステム：MATRIS Light、Robo2Go Milling",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-0a8f65b79a06b12e.html"
+        },
+        {
+          "exhibitor_record_id": "EXH-2024-dcc1181d496aca4b",
+          "year": 2024,
+          "company_name": "DMG森精機株式会社",
+          "booth": "AM126",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=ym-EER7BJeY",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "日本初披露となるパウダーベッド方式（SLM）のレーザ金属積層造形機\n「LASERTEC 30 SLM 3rd Generation」による実演加工や\n多数のワーク展示を通して金属積層造形（アディティブマニュファクチャリング）における\n最新のソリューションをご紹介いたします。\nまた、東8ホール（ブース番号：E8001）では金型補修やコーティングに最適な\nパウダーノズル方式（DED）による、アディティブマニュファクチャリングと\n切削加工のハイブリッド機「LASERTEC 3000 DED hybrid」による実演加工を\nご覧いただけます。",
+          "main_exhibits": "・レーザ金属積層造形機：LASERTEC 30 3rd Generation\n・レーザ金属積層造形機&5軸複合加工機：LASERTEC 3000 DED hybrid\n(東8ホール/ブース番号E8001にて展示）",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-dcc1181d496aca4b.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-3ff8a9f4ec9f1c07",
+          "year": 2026,
+          "company_name": "DMG森精機株式会社",
+          "booth": "E8005",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "DMG MORIが提唱する「マシニング・トランスフォーメーション（MX）」をテーマに、最新の複合加工機・5軸加工機による工程集約、自律走行ロボットAMRを含む多彩な自動化システム、AIエージェントの工作機械への実装など、生産プロセス全体を効率化するDXをご紹介します。\n新たに旋削にも対応した高精度5軸制御横形マシニングセンタ「INH 63 FD」と、新開発のガントリローダを世界初公開します。\nさらに、チップバケットなどを搬送する自律走行ロボット「AMR 1000」、変種変量生産に対応するワーク&パレットハンドリングシステム「MATRIS WPH 210」を日本初公開します。\nまた、パレットハンドリングシステムと接続した立形複合研削盤「TKV 85 with PH Cell 500」の展示に加え、新開発の横中ぐりマシニングセンタ「PBN 200」の主軸ユニットも展示し、DMG MORIグループのトータルソリューションをご提案します。\n併せて、第21回切削加工ドリームコンテストの全応募作品をブース内に展示します。",
+          "main_exhibits": "・5軸制御横形マシニングセンタ：INH 63 FD（ミルターンテーブル仕様）\n・複合加工機：NTX 2500 3rd Generation\n・ガントリローダ：GX Flex\n・5軸制御立形マシニングセンタ：DMC 65 monoBLOCK 2nd Generation\n・ワーク & パレットハンドリングシステム：MATRIS WPH 210\n・自律走行ロボット：AMR 1000、AMR 2000\n・立形複合研削盤 & パレットハンドリングシステム：TKV 85 with PH Cell 500\n・DX Office：CELOS DYNAMICpost、CELOS VISUALprogramming 3D、DMG MORI TMS、my DMG MORIなど\n・工具自動着脱/測定セル：Automation Cube ONE（HAIMER社製）",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-3ff8a9f4ec9f1c07.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V002",
+    "selection": "ファナック",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-b2a1ea182571e6ac",
+          "year": 2024,
+          "company_name": "ファナック株式会社",
+          "booth": "S2001",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=N0RgOmmcwZw",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "●製造現場の効率化に貢献する新世代のCNC・サーボシステム、Series 500i-A CNC ＋ αi-Dシリーズサーボ。多様な機械構成に自在に対応できる軸制御技術と『削る前に判る』デジタルツイン技術 ●協働ロボットのバリエーション紹介とAIを含む多彩なアプリケーション ●加工性能、稼働率、使いやすさを追求し、加工・成形の自動化と高い生産性を実現するロボマシン ●工場全体の視点で製造現場のスマート化を可能にするFIELD system Basic Package",
+          "main_exhibits": "●Series 500i-A CNC、αi-Dシリーズサーボ、I/Oユニット、FANUC Smart Digital Twin、段取り支援機能、サーボ学習オシレーション(ねじ切り対応) ●協働ロボットCRXシリーズ、高精度・高剛性ロボットM-800、AI高速バラ積みロボットシステム、ロボットシステム設計支援ツール(ROBOGUIDE)、AIも活用したロボットのIoT商品(ZDT) ●⼩型切削加⼯機FANUC ROBODRILL α-DiB Plusシリーズ 、電動射出成形機FANUC ROBOSHOT α-SiBシリーズ 、ワイヤ放電加⼯機FANUC ROBOCUT α-CiCシリーズ ●FIELD system Basic Package、機械状態監視、AIサーボモニタ",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-b2a1ea182571e6ac.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-40a56e23f52ed1c4",
+          "year": 2026,
+          "company_name": "ファナック株式会社",
+          "booth": "S2001",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "●知的作業を安全に自動化するフィジカルAI CNC。多様な機械構成に対応し高精度加工と工程集約を実現する最新CNC。加工性能向上に貢献し、使いやすさ、信頼性、保守性を高めた省エネルギーのサーボシステム●生成AIによるロボット駆動など、オープンプラットフォームを活用したフィジカルAIで、加工現場のさらなる生産性向上を実現するファナックロボット●加工性能、稼働率、使いやすさを追求し、さらなる生産性の向上と適用範囲の拡大を実現するロボマシン●設備データを簡単な設定で収集・可視化し、稼働状況や異常兆候の把握を支援するFIELD system Basic Package",
+          "main_exhibits": "●フィジカルAI CNC、Series 500i-A/100i-A CNC、αi-Dシリーズサーボ、FANUC Smart Digital Twin、iHMI2 Programming、GALVANO SCANNER●フィジカルAI・オープンプラットフォームのアプリケーション事例、簡単に使える協働ロボット、新型ロボット、ロボットマシニング、最新制御装置、IoT、デジタルツインなどの新商品・新機能●⼩型切削加⼯機FANUC ROBODRILL DCシリーズ、ワイヤ放電加⼯機FANUC ROBOCUT α-CiCシリーズ●FIELD system Basic Package",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-40a56e23f52ed1c4.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V003",
+    "selection": "オークマ",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-acfdaa6e19137c04",
+          "year": 2024,
+          "company_name": "オークマ株式会社",
+          "booth": "E6048",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=iFfGVH0vPS8",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "製造業の現場では、労働人口減少による人手不足、さらには気候変動など様々な社会課題に直面しています。\nオークマブースでは「ともに創る明日へのステップ」をテーマに、\nこれらの社会課題を解決する様々なソリューションをご提案します。\n人手不足に対して、工程集約による生産性向上を実現する5軸制御マシニングセンタや複合加工機、\n手作業による小ロット加工と機内ロボットによる量産加工を簡単に切り替えられるARMROID、\nそして簡単に機械に接続でき、柔軟な運用が可能な省スペースロボットセルによる自動化提案、\n更にロボット・周辺機器や搬送装置などを組み合わせた自動化展示にて、\nお客様の課題に応じたソリューションをご提案します。\nまた、高精度・高生産性と脱炭素を両立する「Green-Smart Machine」を中心に、\n省エネと生産性を向上するオークマの脱炭素や知能化技術を多数展示し、\n皆様が抱える課題の解決をサポートします。\nぜひ会場でご覧ください。",
+          "main_exhibits": "1サドルCNC旋盤 LB3000 EX Ⅲ\n1サドルCNC旋盤 LB3000 EX Ⅲ+ロボットシステム\n複合加工機+次世代ロボットシステム MULTUS B250Ⅱ ARMROID\n複合加工機+ロボット加工セル MULTUS B300Ⅱ smarTwinCELL\n複合加工機 MULTUS U3000\n立形マシニングセンタ MB-46VⅡ\n立形マシニングセンタ MB-56VⅡ+移動式協働ロボット OMR20\n5軸制御立形マシニングセンタ MU-500VⅢ+移動式協働ロボット OMR20\n立形マシニングセンタ MB-80V\n新・横形マシニングセンタ 2台\n5軸制御立形マシニングセンタ+多面APC MU-6300V\n5面加工門形マシニングセンタ MCR-S\nCNC円筒研削盤 GP26W",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-acfdaa6e19137c04.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-83dac2656a4ec28c",
+          "year": 2026,
+          "company_name": "オークマ株式会社",
+          "booth": "E3028",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "労働力不足や原材料価格の高騰、環境対応などの社会課題に加え、市場ニーズの多様化への対応が求められる中、生産現場にはこれまで以上に高い柔軟性と生産性が求められています。オークマブースでは、新機種・新製品4機種を含む計10台の最新鋭の機械を出展し、工程集約、自動化、AI・知能化技術を融合した最新技術とソリューションをご紹介します。\n工程集約では、5軸制御マシニングセンタや複合加工機によるワンチャッキング加工を実現し、段取り時間やリードタイムを短縮することで、生産性向上に貢献します。自動化ソリューションでは、ワーク搬送やパレット搬送などを通じて、多品種少量・変種変量生産における省人化と品質の安定化を実現します。さらに、AI・知能化技術では、独自の熱変位制御技術やAIを活用した機能により、加工品質の維持と設備稼働率の向上、生産現場におけるデータ活用を推進します。\nまた、CNC装置OSPやAR、自動化、アフターサービスの各コーナーでは、お客様それぞれの課題に応じた未来のものづくりを、体験、相談、実演を通じてご紹介します。\nぜひオークマブースで、最新のソリューションをご体感ください。",
+          "main_exhibits": "新5軸制御立形マシニングセンタ\n新5軸制御横形マシニングセンタ\n5軸制御立形マシニングセンタ「MU-6300V-L」\n複合加工機＋ビルトインロボット「MULTUS B250Ⅱ ARMROID」\n複合加工機「MULTUS U2000」\n1サドルCNC旋盤「LB3000 EX Ⅲ」\n1サドルCNC旋盤＋移動式協働ロボット「LB3000 EX Ⅲ＋OMR20」\n立形マシニングセンタ「MB-46VEⅡ」\n立形マシニングセンタ「MB-100V」\n横形マシニングセンタ＋多面APC「MB-5000HⅡ＋タワーAPC」",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-83dac2656a4ec28c.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V004",
+    "selection": "ヤマザキマザック",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-a3b00812febe546c",
+          "year": 2024,
+          "company_name": "ヤマザキマザック株式会社",
+          "booth": "E5001",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=q0OrZBKM3uQ",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "「マザトロールで創るモノづくり革新」をテーマに、出展企業最大規模のブースに最新鋭の工作機械、レーザ加工機、自動化システムを出展いたします。\n当社の工作機械に搭載されているCNC装置マザトロールは、1981年に世界初の対話式プログラミングを可能とした革新的なCNC装置として誕生しました。以降、さまざまな先進機能を導入しながら進化を続けています。JIMTOF2024では、進化し続けるCNC装置マザトロールをはじめ、モノづくりを革新する複合的なソリューションをご提案いたします。\n昨今の製造業ではAIやロボティクスなどの技術革新が著しい一方で、浸透度にはばらつきがあり、その活用は一部に留まっています。また、年々深刻化する人材不足や気候変動への対応がますます重要となっており、省人化・効率化の推進、環境負荷の軽減を両立する取り組みが求められています。\nヤマザキマザックはこれらの課題解決に共に取り組んでまいります。先進加工技術の活用、機械のポテンシャルを最大限に活用した工程集約、自動化のトータルサポートなど、生産性向上のための最適な方法を複合的にご提案いたします。",
+          "main_exhibits": "JIMTOF2024では、当社のイノベーションの象徴であるCNC装置マザトロールを中心に、機械、ソフトウェア、サービス/サポートを組み合わせたトータルソリューションをご提案いたします。昨今の人材不足・企業間のデジタル技術格差・環境エネルギー問題などに対応するご提案を行い、製造業の重要課題を解決し、モノづくりに革新をもたらすヤマザキマザックの最新技術をぜひ、会場でご体感ください。\n出展内容や出展機の詳細は、当社のJIMTOF2024 特設サイトをご確認ください。\n特設サイト：https://marketing.mazak.com/jimtof2024",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-a3b00812febe546c.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-67e8b88c3b5b9c06",
+          "year": 2026,
+          "company_name": "ヤマザキマザック株式会社",
+          "booth": "E1001",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "ヤマザキマザックは、「複合加工の原点から、その先へ。INTEGREX - The Origin of Multi-Tasking -」をテーマに出展します。INTEGREXは、複合加工という新たな価値を提案し、生産現場の変革を支えてきました。本展示では、その思想を体現する最新のINTEGREXシリーズをはじめ、自動化やデジタル技術、AIを活用した最新ソリューションをご紹介します。さらに、工程集約の進化によって広がる加工の可能性と、高付加価値生産を実現する新たなモノづくりのアプローチをご提案します。工作機械、自動化、デジタル、AIを融合し、これからのモノづくりと生産の新たな姿をぜひ会場でご体感ください。",
+          "main_exhibits": "JIMTOF2026では、当社を代表する複合加工機「INTEGREX」を中心に展示します。複合加工機のエントリーモデルから、ギア加工に対応したモデル、さらに3D造形・補修・コーティングを可能にするAM（金属積層造形）技術を搭載したハイブリッドモデルまで、幅広いニーズに対応するラインアップをご紹介します。\nまた、自動化システムやデジタルソリューションとの連携により、生産性向上や省人化、高付加価値生産の実現に向けたご提案を行います。ヤマザキマザックの先進技術が切り拓く次世代のモノづくりを、ぜひ会場でご覧ください。\n出展内容および出展機の詳細は、当社のJIMTOF2026特設サイトをご確認ください。\n特設サイト：https://www.mazak.com/discover/jp-ja/jimtof2026/",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-67e8b88c3b5b9c06.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V005",
+    "selection": "ベッコフオートメーション",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-13da9e5ad5605d11",
+          "year": 2026,
+          "company_name": "ベッコフオートメーション株式会社",
+          "booth": "E2028",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "工作機械のCNCの多くはブラックボックス化されており、切削加工の状態を正確に把握することは困難となっている。そのため、従来のCNCを用いて先端的な切削加工の研究を行ったり、高度な技術開発を実施したりすることは不可能である。そこで、自由な制御実装が可能なPCベースCNCの活用を提案する。これを用いると、センサ信号や制御情報の高速サンプリング・FFT等のライブラリを用いたデータ解析・独自の制御ロジック追加によるCNCフィードバックといったことが実現可能である。展示ブースではこのオープンなCNCを用いた3つの機能開発事例を紹介する。1つ目は、多様なセンサを用いたデータ収集とインプロセスでの解析処理による切削状態モニタリング。2つ目は、CNCおよびサーボ制御の独自機能開発により実現する高精度な同時制御加工。3つ目は、バーチャル工作機械として実装したハードウェアモデルを用いて学ぶCNC基礎講座。いずれも工作機械の自由度の高い機能開発事例であり、オープンなCNCの拡張性を示す展示として紹介する。",
+          "main_exhibits": "1. TwinCAT CNC : オープンで自由度の高いCNC．自作制御処理やAIを用いたモジュールの組込み、センサ信号情報のリアルタイムモニタリングなどが実現可能。\n2. TwinCAT C++ : C++言語で開発されたソフトウェアをTwinCAT上に取り込み、機械装置の制御への活用を可能とするリアルタイムCNCプラットフォーム。\n3. TwinCAT Target for Simulink : Simulinkにて作成された制御モデルを取り込み、TwinCATをSimulinkのリアルタイムコントローラとして機械装置の制御に活用することが可能なソフトウェア。\n4. TwinCAT Machine Learning Creator : データサイエンスの専門知識がなくても、制御エンジニアが自らAIモデルをノーコードで自動作成し、PLCに実装して制御への活用を可能とする開発ツール。\n5. TwinCAT CoAgent : TwinCAT向けに開発された生成AIを活用したチャットベースの対話型AIであり、PLCプログラミング・HMIの設計開発・アラーム診断と対策などを実現。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-13da9e5ad5605d11.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V006",
+    "selection": "EPLAN",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-93f615d537b02148",
+          "year": 2024,
+          "company_name": "EPLAN株式会社",
+          "booth": "E2033",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=50efK4rQsHs",
+          "parse_status": "説明本文のみ掲載（主な出展物欄なし）",
+          "exhibition_introduction": "Eplanは電気設計から製造までデータがつながる 3D電気CAD提供しています。\nEplanの電気CADで、回路図作成の効率化はもちろん標準化も可能。部品表や端子図などの各種帳票類も自動生成でき、工数削減につながります。その電気設計データをベースに、制御盤の3Dレイアウト設計も可能にします。\n制御盤の3Dデータは製造工程ともつながります。制御盤の組立配線を支援するツールは作業の標準化をサポートします。\n電気設計から制御盤の製造工程までつながる仕組みを是非ご覧ください。",
+          "main_exhibits": "",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-93f615d537b02148.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-0855541afdd2d828",
+          "year": 2026,
+          "company_name": "EPLAN株式会社",
+          "booth": "S1067",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=FHsQAvmFusY",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "機械設計は3D化や自動化が進む一方、電気設計や制御盤設計にはまだ多くの手作業が残っていませんか？Eplanは、回路図設計から3D制御盤設計まで、回路図、部品情報、制御盤設計のデータをつなぎます。電気設計の標準化や設計資産の再利用をサポートし、機械設計との連携も可能です。さらに、AI機能「Eplan Copilot」が、設計に必要な知識やEplanの操作をサポート。工作機械・装置メーカーのエンジニアリングを、より効率的なプロセスへと進化させます。",
+          "main_exhibits": "Electric P8では、回路図作成に加え、部品情報や接続情報を設計データとして管理・活用できます。さらに、標準化した回路や過去の設計資産を再利用することで、電気設計の効率化を支援します。\nPro Panelでは、P8の設計データをもとに制御盤を3Dで設計。部品配置や配線を検討し、設計データを制御盤製造にも活用できます。\nEplan Copilotでは、AIがEplanの操作や設計業務に必要な知識をサポートします。\n回路図から3D制御盤設計、AI活用まで、データを中心とした一連のエンジニアリングをご覧いただけます。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-0855541afdd2d828.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V007",
+    "selection": "Hexagon Manufacturing Intelligence",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-6aee6ba316afc22c",
+          "year": 2026,
+          "company_name": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E7035",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=oUyVPjxvy-U",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "品質保証の自働化が、製造現場を次のステージへ。\nHexagonは、測定の自動化、品質データの活用、自律的な品質改善を実現する最新のスマート品質保証ソリューションを紹介します。国内初公開となる次世代オールデジタル三次元測定機「MAESTRO」をはじめ、高速・高精度な自動検査を実現する「PRESTO」、測定ソフトウェア「PC-DMIS」、さらに産業用CTデータ解析・品質評価ソフトウェア「VG」を展示します。\n測定から検査、分析、工程改善までをつなぐデジタル品質保証の未来を、実機デモとソフトウェア体験を通じてご覧ください。",
+          "main_exhibits": "Maestro 三次元測定機\nGlobal S 三次元測定機\nAbsolute Arm\nLeica Absolute Tracker\nPresto Quality Station\nVGSTUDIO Max\nGeomagic Design X\nHexagon Q-Das",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-6aee6ba316afc22c.html"
+        },
+        {
+          "exhibitor_record_id": "EXH-2026-e1fe7485b53ef3a9",
+          "year": 2026,
+          "company_name": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "人の技術を、AIとデジタルの力で受け継ぐ。\n熟練技術者が培ってきた加工ノウハウを企業の資産として継承・活用するための最新ソリューションを紹介します。AI機能「ProPlanAI」を搭載したCAMソフトウェア「Esprit Edge」を中心に、デジタルツインによる加工シミュレーション、工程最適化、加工ノウハウの標準化を提案します。\nまた、金型・部品加工分野向けソリューションとして、WorkNCをはじめとするMould & Dieソリューションを展示し、高品質加工と生産性向上を両立するデジタル製造環境をご紹介します。さらに、機上計測ソリューションMTMやイノベーションエリアでは、製造現場のお困りごとに対し、Hexagonのデジタル技術をつなげた課題解決アプローチをご提案します。",
+          "main_exhibits": "Esprit Edge\nWorkNC\nVisi\nDesigner\nAM Studio\nNCsimul\nWorkXplore\nRadan\nEdgecam\nHexagon Machine Tool Measurement",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-e1fe7485b53ef3a9.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V008",
+    "selection": "ジェービーエムエンジニアリング",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-468efda5ec0521cb",
+          "year": 2024,
+          "company_name": "ジェービーエムエンジニアリング株式会社",
+          "booth": "E5028",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=G-8gydwhMvE",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "時間・コスト・作業も効率化を実現する、世界でもっとも使われている3次元CAD/CAMシステム\nMastercamを展示‼\n切削CAMとして長年に渡り多くのお客様から御支持を頂いているMastercam。その強みは製造現場の多様な要求に対し、加工マシンの能力と使用工具・ホルダ等の特性を生かした最適設定を生み出せる機能性にあると言えます。本出展ではMastercamと工具メーカー様、ホルダメーカー様の機能性を最大限に引き出した「CAMシステムとの最適コラボレーション」を新たなアプローチとして提案させて頂きます。切削加工に求められる加工精度、品質、加工スピード、トータル的な生産性向上、またDXを含めたSDGsに対応する持続可能な社会実現に取り組むCAMと工具、ホルダ、のコラボを御覧ください。",
+          "main_exhibits": "Mastercam\n・加工サンプル\n・加工動画",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-468efda5ec0521cb.html"
+        },
+        {
+          "exhibitor_record_id": "EXH-2024-4c08c8836dd3737b",
+          "year": 2024,
+          "company_name": "ジェービーエムエンジニアリング株式会社",
+          "booth": "AM111",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=ZBxZW2vyjUw",
+          "parse_status": "説明本文のみ掲載（主な出展物欄なし）",
+          "exhibition_introduction": "当ブースでは、製造プロセス革新の急先鋒として意識されているAM工法の標準化に向けてWLAM(ワイヤレーザ),LMD(レーザメタルデポジション)を対象とした具体的な活用法をご提案いたします。今回は、昨今注目を集めているブルーレーザ搭載のWLAMマシンMeltio M600、国際特許取得済みのセンターフィード＆マルチビームヘッドを搭載した国産LMDマシンALPIONというワイヤタイプ、パウダータイプそれぞれのマシンで実演加工を行います。金属ワイヤを使用した高密度な造形や非モルテン方式による圧倒的な速度感を是非ご覧ください。レーザクラッディングにおいて重要なファクタであるリアルタイムモニタリング制御、表面改質、マルチマテリアル、補修、薄膜コートのイノベーションについても常駐スタッフが詳しくご説明いたします。\nブース内ミニセミナでは、両タイプ所有のユーザによる実践AMセミナや開発者による理論のご説明、AMを実用化するために必要な周辺技術のご紹介を予定しております。また、スペシャルゲストの登壇も企画して居りますのでご期待ください。当社は常に最先端技術をリサーチし、実用レベルに落とし込んだ一気通貫のソリューションでお客さまと共に歩みます。",
+          "main_exhibits": "",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-4c08c8836dd3737b.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-8e1cb5ee900beda8",
+          "year": 2026,
+          "company_name": "ジェービーエムエンジニアリング株式会社",
+          "booth": "E2002",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=VrAjMTKmxdw",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "これまで培ってきた技術とノウハウを活かし、日本の“モノづくり”を支援してきたジェービーエムエンジニアリングのソリューションを出展します。\n長年に渡り多くのお客様からご支持をいただいているCAD/CAMシステム「Mastercam」。\n製造現場の多様な要求に対し、工作機械の能力と工具およびホルダーの特性を活かせる最適な設定が可能な当製品と、工具およびホルダーの機能性を最大限に引き出した各メーカー様とのコラボレーションをご提案いたします。\nまた、AIを活用することで、手動で行っていたCAMプログラミング作業の多くを自動化し、現場の生産性が飛躍的に向上する「CAMAssist」も展示します。",
+          "main_exhibits": "Mastercam\n・加工サンプル\n・加工動画",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-8e1cb5ee900beda8.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V009",
+    "selection": "CGTech",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-996eea8cc8b38be6",
+          "year": 2024,
+          "company_name": "株式会社CGTech",
+          "booth": "E5042",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=AxDUk3YbQDI",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "Vericutは、CAD/CAMシステムのCL(Cutter Location)データのシミュレーションとは異なり、CNCマシンで実際に使用される『GコードNCプログラム』でシミュレーションを行い、エラーや干渉などの危険を防止し、加工効率の向上を実現するCNCマシンシミュレーションソフトウェアです。\nVericutは、さまざまなCNCマシン（複合加工機や複合旋盤、５面加工機、５軸加工機など）の『GコードNCプログラム』シミュレーションに対応し、機械動作におけるマクロプログラム、システム変数、マクロ変数、ATC動作、パレットチェンジなどの機内動作を細部まで忠実に再現します。\nさらに、Vericutは、機械の干渉の検出だけではなく、シミュレーションで加工された切削モデルとCADでの設計モデルの比較による削り過ぎ／削り残しの事前検査(オートディフ)、さらに刃物負荷を考慮したNCプログラムの最適化(Force)などの多彩な機能を提供します。\nVericutは、お客様の加工現場の安全かつ高精度な加工の実現をサポートします。",
+          "main_exhibits": "CNCマシンシミュレーションソフトウェア Vericut V9.4\n－ CNCマシンとVericutを接続 －\nVericut V9.4は、製品の核となる部分の改良に加えて、製造ワークフロー全体での接続性向上に焦点を当て、組織が既に持っているリソースを活用してより多くのことができるようになりました。\nVericut V9.4には、V9.3から導入されたCNCマシン接続に、CNCマシンモニターが追加されました。VericutはCNCマシンに直接接続し、作業フロアでマシンの動作をリアルタイムモニタリングできます。Vericut内でNCプログラムやサブルーチンが実行されているかを確認し、マシンの動作やスピンドルの動きを監視し、スピンドルや送り速度にオーバーライドが適用されたかどうかを確認し、緊急停止による加工の中断や生産サイクルモードから外れたことを識別できます。\nCNCプリチェックは、マシンオペレーターがVericutで検証された内容と一致するかどうかを確認できます。これは加工前の最終チェックであり、誤ったバージョンや編集が含まれているNCプログラム、欠落や異なるワークまたは工具のオフセットなどの違いを識別して機械を実行する前に調査および解決できます。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-996eea8cc8b38be6.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-5bd703fc37f6b69e",
+          "year": 2026,
+          "company_name": "株式会社CGTech",
+          "booth": "S3014",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=41U8xW4UkcM",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "Vericutは、NCプログラムの検証・最適化を実現する世界標準のシミュレーションソフトウェアです。工作機械、工具、治具、ワークを含めた実機環境をデジタル上で再現し、加工前に干渉や加工不良を防止します。JIMTOF2026では、5軸加工機・複合加工機向け最新ソリューション、AIを活用した加工最適化、デジタルツインによる製造DXをご紹介します。",
+          "main_exhibits": "・Vericut CNCシミュレーション\n・Vericut オプティマイザー（NCプログラム最適化スタンドアロン）\n・Vericut Force（NCプログラム最適化モジュール）\n・Vericut Icam ポストプロセッサ\n・5軸加工シミュレーション\n・複合加工機シミュレーション\n・デジタルツイン活用事例\n・CAMシステム連携ソリューション",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-5bd703fc37f6b69e.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V010",
+    "selection": "オートデスク",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-6c0faf83fd75f5c5",
+          "year": 2024,
+          "company_name": "オートデスク株式会社",
+          "booth": "E5009",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=5CWUqNS_dBw",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "JIMTOF2024のオートデスクブースでは、いま加工業界で大きな注目を集めている未来の設計・製造ソリューション「Fusion」の CAM 機能を中心に、皆様の加工業務や設備をよりスムーズに、より快適に、そしてよりコストエフェクティブにする、オートデスクの CAM 関連ソリューションやパートナー企業のテクノロジーをご紹介します。",
+          "main_exhibits": "・CAD/CAM/CAE/PCB 統合型クラウドソリューション「Fusion」\n・高速5軸加工を実現する専門的なCAM「Fusion with PowerMill」\n・CNCプログラミングの自動化ソフトウェア「Fusion with FeatureCAM」",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-6c0faf83fd75f5c5.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-d680c617bfdb1dc2",
+          "year": 2026,
+          "company_name": "オートデスク株式会社",
+          "booth": "S3019",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=Y_kC6hMTghk",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "JIMTOF2026 では、Autodesk が描く、設計から製造までをシームレスにつなぐ未来をご紹介します。AI と 2 軸から同時 5 軸まで対応する高度な CAM による支援、クラウドベースのデータ管理・コラボレーション・PLMを通じて、製品データ、人、プロセスを統合。製品ライフサイクル全体で情報がつながるものづくりを支援します。",
+          "main_exhibits": "Autodesk Fusion\nAutodesk Fusion Manage\nAutodesk Moldflow\nAutodesk Product Design & Manufacturing Collection\nAutodesk Platform Services",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-d680c617bfdb1dc2.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V011",
+    "selection": "たけびし",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-40d4b5d13046ec04",
+          "year": 2024,
+          "company_name": "株式会社たけびし",
+          "booth": "E7053",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=SiZMI-OH8_k",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "たけびしは商社でありながら、国際標準の通信規格「OPC UA」対応のオリジナル商品を開発・販売し、生産現場のマルチベンダー化をリードしてきたベンダーでもあります。主力製品である産業用通信ソフトウェア「デバイスエクスプローラ OPCサーバー」は、400シリーズ/100ベンダー以上の制御機器にアクセス可能なOPCサーバーソフトウェアです。「OPC UA」は機器ごとに業界共通の「情報モデル」を取り決めてデータを交換しやすいようになっており、相互運用性や拡張性の高さから、普及が進んでいます。本展示会では、「OPC UA情報モデル」を活用して、ベンダー独自の通信仕様とデータ構造を吸収し、データ連携をスムーズ且つセキュアに実現する方法をご提案いたします。\nたけびしのオリジナル商品は、進化し続ける製造現場の最適化を強力に支援します。機器のデータをシームレスに連携するソリューションで、製造現場をもっとスマートにする方法をご提案いたします。",
+          "main_exhibits": "「デバイスエクスプローラ OPCサーバー」・・・PLCや工作機械、ロボットなど制御機器のデータをOPCやMQTTに変換し、上位システムと連携するソフトウェア。400シリーズ/100ベンダー以上の豊富な接続性が特徴です。国内シェアNo１・海外でも多数導入実績がございます。\n「デバイスゲートウェイ」・・・設備の情報を取得し、クラウド等のIoTサービスへ橋渡しするユニットおよびソフトウェア。OPC UA/MQTT/HTTP/FTP/SNMP等に対応しており、多彩なIoTサービスと連携できます。\n「デバイスブレイン」・・・三菱電機シーケンサ用組込AIパッケージ。現場にあるMELSEC iQ-RでAIを実行できるようにするためのソフトウェアです。ノーコードでAIモデルを作成でき、ラダープログラムから簡単にAIを利用できるようになります。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-40d4b5d13046ec04.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-081de7433f10d228",
+          "year": 2026,
+          "company_name": "株式会社たけびし",
+          "booth": "S3015",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw",
+          "parse_status": "説明本文のみ掲載（主な出展物欄なし）",
+          "exhibition_introduction": "OPC UA情報モデル対応OPCサーバーを軸にデータ収集から活用、AIエージェント連携までの活用シナリオをご紹介します。",
+          "main_exhibits": "",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-081de7433f10d228.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V012",
+    "selection": "シーイーシー",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-4a8084ab7dc7ed68",
+          "year": 2024,
+          "company_name": "株式会社シーイーシー",
+          "booth": "E5022",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=WS9ql5D41fQ",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "\"製造業のデジタル支援をデータ収集から活用までワンストップで提供、「ものづくりDXの将来構想を見据えた」包括的なソリューションを体感いただけます。\n数多くの工場IoTシステムを手がけてきた経験から、高度化する現場課題を解決へ導くと同時に、早急に対応が求められている脱炭素や自然災害対策といった社会的課題にも取り組み、持続可能な社会の実現に貢献。\nさらには、未来の産業構造を支える新しい枠組みを見据え、企業や業界を横断したデータ連携により、単なる課題解決にとどまらない「新たな経済成長を促進する基盤作り」を支援いたします。\n「データ収集」「蓄積・整理」「活用」の各展示ブースでは、自社製品やサービス、スクラッチ開発、パートナー企業製品を組み合わせた、最適なデジタル支援をご提案。\nシーイーシーは、製造現場の効率化を実現し、経済と社会の両面で新たな価値を創造し、より高精度で効率的な製造プロセスの実現を支援いたします。\"",
+          "main_exhibits": "生産現場データ収集ツール（Facteye）、IoTプラットフォーム、生産現場および全社データ利活用基盤・データ分析基盤（大量データ蓄積プラットフォーム（Visual Factory、データレイク、DWH、データマート、クラウド））データ活用製品（対話型AI、RaAP、省電力シミュレーション）",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-4a8084ab7dc7ed68.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-a4e5abed33d00e30",
+          "year": 2026,
+          "company_name": "株式会社シーイーシー",
+          "booth": "E2006",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=tW-C9oF94EQ",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "製造現場では、「古い設備からデータが取得できない」「設備ごとにデータ形式が異なる」「設備データと品質データを結び付けられない」「データが各所に散在している」といった課題により、改善活動が担当者の経験や勘に依存しがちです。\n弊社のソリューションでは、製造DXを実現する仕組みです。設備や作業データをリアルタイムに収集・可視化し、稼働状況の把握や手入力作業の削減、生産性向上を支援します。収集したを集約し、不良・停止要因の分析や生産ロスの定量化、品質改善や稼働率向上につながる改善施策の立案を可能にします。\nIoTデータの収集から利活用、AI活用までを一貫して支援し、製造現場のデータドリブン経営を推進します。異常や故障の予兆検知、人材不足への対応、工場間でのノウハウ展開を実現し、最適な計画変更による生産性向上、計画工数の削減、設備停止の未然防止、品質ばらつきの抑制、技術伝承といった成果につなげます。",
+          "main_exhibits": "生産現場データ収集ツール（Facteye）\nデータ利活用基盤（Resolana）",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-a4e5abed33d00e30.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V013",
+    "selection": "Smart Craft",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-e04c5180b870cfec",
+          "year": 2026,
+          "company_name": "株式会社Smart Craft",
+          "booth": "S3002",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=WqjRB6DEqN0",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "工程の進捗も、検査記録の所在も、人に聞かなければ分からない。多品種少量・短納期が進むなか、そうした現場は少なくありません。Smart Craftは、工程管理・品質管理・在庫管理を一気通貫でデジタル化するクラウド製造実行システム（MES）です。\nブースでは製造現場を想定したデモ環境をご用意し、タブレットでの作業指示の受け取りから、生産実績・不良の入力、検査記録の登録、在庫の引き当てまでをお試しいただけます。切削・研削などの機械加工はもちろん、板金、装置組立、樹脂成形まで幅広い生産形態に対応しています。\n【見どころ】\n1. 現場が使い続けられるUI：教育コストを抑え、入力が定着する画面設計\n2. ノーコードで自社仕様に：工程・帳票・検査項目を現場主導で設定・改善\n3. 生産／品質／在庫がつながる：二重入力を撤廃し、蓄積データはAI分析へ\n4. 導入事例のご紹介：量産から一品一様まで、規模も業種も異なる現場での成果\n5. 個別相談コーナー：課題をお聞きし、「何から始めるべきか」をその場でご提案\n紙・Excel運用からの脱却をご検討中の方も、既存システムの見直しをご検討中の方も、ぜひお立ち寄りください。",
+          "main_exhibits": "【クラウド製造実行システム「Smart Craft」デモンストレーション】\n■工程管理：タブレットへの作業指示配信、生産実績・稼働・不良の入力、工程進捗と負荷のリアルタイム可視化、図面・作業手順書のペーパーレス閲覧\n■品質管理：検査成績書・チェックシートの電子化、写真や測定値の記録、ロット／シリアル単位のトレーサビリティ、不適合・是正処置の管理\n■在庫管理：入出庫・払出、仕掛品と製品在庫の把握、ロケーション管理、棚卸業務の効率化\n■データ活用／AI：生産性・不良率・リードタイムを分析するダッシュボード、蓄積した実績データを活かすAI機能\n■システム連携：基幹システム（ERP・生産管理）や設備データとのAPI連携\n■ノーコード設定：自社の工程・帳票・マスタに合わせた設定と、現場主導での改善運用\n【個別相談】\n機械加工、板金、装置組立、樹脂成形など、業種・規模の異なる現場での活用例を交えながら、課題の整理、スモールスタートの進め方、既存システムとの共存方針、投資対効果の考え方まで、専任担当がその場でご相談に応じます。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-e04c5180b870cfec.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V014",
+    "selection": "ものレボ",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-0d20b8d359caaf68",
+          "year": 2026,
+          "company_name": "ものレボ株式会社",
+          "booth": "W3042",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=sccKfxE4bYo",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "製造業に特化したクラウド型工程管理アプリ「MonoRevo（ものレボ）」を展示します。少量多品種・短納期の現場を対象に、これまでExcelやホワイトボードなどに分散していた工程情報を一元化し、「誰が・何を・いつまでに・どこまで進めているか」をリアルタイムに見える化します。\n工程設計から工程計画、進捗管理までを一つの仕組みで管理でき、急な納期変更や工程変更にも柔軟に対応。設備・作業者の負荷状況を把握しながら、効率的な生産計画を立案できます。また、稼働率・利益率などのデータ分析、既存システムとの連携に加え、AIによる類似図面検索や自動見積、工程設計・スケジューリングの自動化にも対応しています。\n「工程管理をデジタル化したい」「Excel管理から脱却したい」「現場の進捗をリアルタイムで把握したい」といった課題をお持ちの方は、ぜひブースにお立ち寄りください。",
+          "main_exhibits": "製造業専門のクラウド型工程管理アプリ「ものレボ工程管理」を中心に、製造現場のDXを支援する各種機能・活用事例を展示します。\n・工程管理・生産進捗管理システム「ものレボ工程管理」\n・工程計画・自動スケジューリング機能\n・製造現場の進捗・負荷状況の見える化\n・生産実績・稼働率・利益率などの分析機能\n・AIを活用した疑似図面検索・自動化機能\n・既存システムとの拡張・連携機能\n・切削・精密機械加工、金型、板金などの導入事例\n会場では実際の操作画面をご覧いただきながら、Excelやホワイトボードで行っていた工程管理をデジタル化し、現場の情報を一元管理する方法をご紹介します。特に、少量多品種・短納期の切削加工現場における納期管理、工程負荷の把握、進捗の見える化、業務効率化について、具体的な活用方法をご提案します。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-0d20b8d359caaf68.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V015",
+    "selection": "ソフィックス",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-fe73b3efeba99679",
+          "year": 2024,
+          "company_name": "株式会社ソフィックス",
+          "booth": "E4046",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=WNiUW-E-atY",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "株式会社ソフィックスは「機械加工の自律化」をテーマに、製造業の課題解決のヒントとなる技術提案、製品を展示致します。",
+          "main_exhibits": "展示物①：カメラによるメーター読み取り自動連係システム\n展示物②：自動切粉除去システム\n展示物③：AIによる熱変位補正量予測",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-fe73b3efeba99679.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-5045517fca4eabf6",
+          "year": 2026,
+          "company_name": "株式会社ソフィックス",
+          "booth": "E1067",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "SOFIXブースでは、「工場の自律化」をテーマに、AI、3D、ロボット制御技術を活用した次世代のものづくりをご紹介します。\nミニ工場展示では、自動搬送システム構築フレームワーク「SOFIXCAN Fleeter」、機械学習ライブラリ「SOFIXCAN AI Forecast」、コンパクト3Dカーネル「SOFIXCAN Λ3D」が連携し、人の判断や指示に依存せず、生産を止めない工場の実現イメージを実演します。\nさらに、「SOFIXCAN ΩEye」による現場の見える化・状況把握を通じて、自律化工場を支える情報基盤もご提案します。\nソフィックスが考える「止まらない工場」「自ら判断して動く工場」の未来を、ぜひ会場でご体感ください。",
+          "main_exhibits": "展示物①：工場自律化システム-ミニ工場の展示\n・SOFIXCAN Λ 3D Kernel(コンパクト３Dカーネル)\n(1) オリジナル３Dシステムの開発請け負い\n(2) システム要求に合わせた機能の実装\n(3) パネルコンピュータへの組み込みも可能\n・SOFIXCAN AI Forecast(機械学習ライブラリ)\n(1) 顧客設備に合わせたAIモデルの開発・組込み\n(2) 時系列データによる設備異常予兆を検知\n(3) 画像データによる輪郭抽出・特徴量解析\n・SOFIXCAN Fleeter(搬送システムフレームワーク)\n(1) 上位システム、機器との連携\n(2) 顧客システム、機器に合わせたコンポーネントを開発\n展示物②：古い機械の稼働監視\n・SOFIXCAN Ω Eye(操作パネル画像認識システム)\n(1) カメラでメーターなどを撮影し、データ化する\n(2) ランプ・文字・各種メーターを同時に読み取り可能\n(3) Modbus連携機能などで、データをPLCに書き込み可能",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-5045517fca4eabf6.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V016",
+    "selection": "パナソニックプロダクションエンジニアリング",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-97b572819459a34c",
+          "year": 2026,
+          "company_name": "パナソニックプロダクションエンジニアリング株式会社",
+          "booth": "W3086",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=5mrMofo3nN8",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "2014年にパナソニックモノづくりの中心を担う MI本部傘下の事業会社として設立されました。 パナソニックが長年培ってきた蓄積技術と生産技術ノウハウを掛け合わせた生産設備や ソフトウェアを提供する会社です。 展示会では、導入経験豊富な技術者とディスカッション頂くことも可能です。 詳しく聞きたい内容や、ご興味のある内容がございましたら、まずはご相談いただければと思います。\n今回は特に”工場搬送DXを支える、遠隔管制型自動搬送ソリューション”としてを\"X-Area　Remote\"展示致します。",
+          "main_exhibits": "【X-Area Remote】\nAIを活用した遠隔管制システム「X-Area Remote」によって、オペレータが専門知識を持たずとも、1人で複数台のロボットや設備などを遠隔からモニタリングや操作ができ、稼働中のエラーや不意なトラブルに対応することができます。\n【遠隔管制システム X-Area Remoteの特長】\n導入で終わらない。導入後の運用負荷と、将来の増設・変更まで見据えた\nX-Area　R emote なら、「安定 ・ 安心 ・ 効率 ・ 進化」を、ひとつの運用基盤で実現します。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-97b572819459a34c.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V017",
+    "selection": "ミツトヨ",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-903545e2d36880d4",
+          "year": 2024,
+          "company_name": "株式会社ミツトヨ",
+          "booth": "E7131",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=1CDoltPa9rk",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "2024年のJIMTOFでは、、「ミツトヨが考えるスマートファクトリー」と「お客様それぞれの事情に応じた課題解決」の２つのテーマにお客様の課題解決をご提案する展示をいたします｡受入検査、部品加工、組立まで、製造現場で起きる様々な課題を解決する計測ソリューションをご提案いたします。また会期中にビッグサイト内会議室にて、ワークショップやセミナーも開催いたします。ミツトヨのJIMTOF2024にぜひご期待ください！",
+          "main_exhibits": "：ミツトヨが考える「スマートファクトリー」のご提案エリア\n└「スマートファクトリー」に関する総合的な展示を行います\n三次元測定機ロボットシステム　MiBOT e-system\n三次元測定機用自動測定プログラム生成ソフトウェア　MiCAT Planner\nCNC 三次元測定機　CRYSTA Apex V シリーズ\n画像測定機非接触3D 計測システム　QVWLI HYPER Pro シリーズ\n表面粗さ・輪郭形状測定機　フォームトレーサアヴァンシリーズ\n小型表面粗さ測定機　サーフテストSJ-220\n高速・高精度デジマチックマイクロメーター　カンタマイクMD-E\n非接触レーザトラッキングシステム　API ダイナミック9D レーダー※\n3 次元フォトグラメトリシステム　V-STARS※\n※( 株)TACC お取り扱い商品となります。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-903545e2d36880d4.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-a9bb55df60fab4d5",
+          "year": 2026,
+          "company_name": "株式会社ミツトヨ",
+          "booth": "E7085",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=a7y3JtW8DXM",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "テーマは『はかる』をこえる 『はかる』でこえる。ミツトヨは精密測定機器を「生産財」として定義し、正しく測定をする以上の価値を提供することを目指し、“作る”と“測る”が一体となることで自律的・持続的に動き続ける「止まらない工場」を実現するためのご提案を行います。今までの測定の常識を超えた製造現場で活躍できる測定機を多数ラインナップする予定です。品質管理部門の方だけでなく、製造部門、生産技術部門の方にも期待をもっていただけるような展示となっています。",
+          "main_exhibits": "三次元測定機を活用した自動化ソリューション展示\n3Dデータ活用による加工工程支援ソリューション展示\n計測データの集約・活用を実現する計測プラットフォーム展示\n半導体製造装置部品向け測定ソリューション展示\nCNC三次元測定機\n形状測定機\nマニュアル画像測定機\n測定工具・デジタル測定ソリューション（U-WAVEシリーズほか）\n接触／非接触センサ、リニヤスケール、エンコーダなどのセンシング製品\n大型ワーク向け計測ソリューション展示",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-a9bb55df60fab4d5.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V018",
+    "selection": "レニショー",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-4b6a0a8bc0bfc519",
+          "year": 2024,
+          "company_name": "レニショー株式会社",
+          "booth": "E7026",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=ekM3exgIAtc",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "東7ホールに出展するレニショーは、製造・検査や保全業務など各業務でお客様が抱える問題点を解決すべく、レニショー独自の幅広い精密測定と位置決めに特化した技術により、お客様の製造プロセスの制御を支援する一貫したソリューションをご紹介します。",
+          "main_exhibits": "- RMI-QE 工作機械用次世代型無線信号伝達方式プローブ計測システム\n- NC4+ Blue レーザー工具計測システム\n- REVO-2 三次元測定用マルチセンサー 5 軸測定システム\n- Equator 汎用ゲージングシステム\n- XM-60 マルチアクシスキャリブレータ\n- XK10 アライメントレーザーシステム\n- QC20 ワイヤレスボールバーシステム\n- FORTiS クローズドタイプ光学式アブソリュートエンコーダ\n- RESOLUTE 光学式アブソリュートエンコーダ\n- AksIM-2 磁気式アブソリュートエンコーダ\n- Fixtures 測定機用固定治具\n- RCS 産業用ロボット製品\n- Renishaw Central データプラットフォーム",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-4b6a0a8bc0bfc519.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-0b525ce2fc2efcd9",
+          "year": 2026,
+          "company_name": "レニショー株式会社",
+          "booth": "E7089",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=pYGmVz5GC1c",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "レニショーは、「計測を通じて、お客様の自動化を実現する」をテーマに出展いたします。\n東7ホールのレニショーブースでは、製造、検査、保全など、ものづくりの各工程におけるお客様の課題解決を支援するため、工程全体を制御し、生産性向上と自動化を実現するレニショー独自のトータルソリューションをご紹介します。",
+          "main_exhibits": "- RMP400S 工作機械用多目的プローブ【国内初披露】\n- RUP60 工作機械用オンマシン超音波厚さ計測プローブ【国内初披露】\n- NC4+ Blue レーザー工具計測システム\n- REVO-2 三次元測定用マルチセンサー 5 軸測定システム\n- Equator 汎用ゲージングシステム\n- XM-60 マルチアクシスキャリブレータ\n- XK10 アライメントレーザーシステム\n- QC20 ワイヤレスボールバーシステム\n- FORTiS クローズドタイプ光学式アブソリュートエンコーダ\n- RESOLUTE 光学式アブソリュートエンコーダ\n- AksIM-2 磁気式アブソリュートエンコーダ\n- Fixtures 測定機用固定治具\n- RCS 産業用ロボット製品\n- Renishaw Central データプラットフォーム",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-0b525ce2fc2efcd9.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V019",
+    "selection": "ブルーム-ノボテスト",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-637cd369d44217f1",
+          "year": 2024,
+          "company_name": "ブルーム-ノボテスト株式会社",
+          "booth": "E7132",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=Zz8BlB0Ylio",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "弊社ブースでは自動化に必須となる機上測定器とアプリケーションをご紹介します。昨今の社会情勢の中で生じる人材不足やスキル継承など、加工現場が直面する課題に対して機上測定の活用によりどのようなアプローチで効率化ができるのかをご提案します。また加工前～加工後の各プロセスにおける機上測定器の具体的な活用方法を実機デモ等によりご紹介します。特に今春リリースしました機上にてワークの三次元形状測定が可能なソフトウェア「FormContorol X(エックス)」は、実際に操作を頂けるコーナーもご用意します。最先端となる機上測定ソリューションの進化を是非体感ください。",
+          "main_exhibits": "工具測定用レーザシステム「LC50-DIGILOG」は精密加工における工具管理に欠かせないソリューションです。工作機械の主軸に工具をセットした状態で、実加工回転数で工具長や工具径を測定し補正を行うことが可能です。また振れ量の測定、チッピングや摩耗の検知などにより加工不良を抑制します。更に専用のソフトウェア「LC-Vision」の活用で、工具の形状モニタリングや多刃工具の各刃の高さ測定、また測定結果に基づく工具長径方向のフィッティングなど、工具測定分野における新しい価値を提供します。\nワーク形状測定用ソフトウェア「FormControl X」は機外測定機で行っている測定プロセスを工作機内に取り込むことにより従来の測定効率を格段に向上させます。ワークを測定する為の機外測定機までの運搬や測定段取り、追加工が必要となった時の工作機械までの再運搬や再心出しに掛かる時間、工数が不要となります。対話型のプログラム作成方式や測定順序の自動最適化などの機能により誰でも簡単にソフトウェアを活用頂けます、更にクライアントサーバアーキテクチャの採用によりタブレットやスマホなどで何時でも何処でも測定結果の確認を頂くことが可能です。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-637cd369d44217f1.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-30d3fc8503eab132",
+          "year": 2026,
+          "company_name": "ブルーム-ノボテスト株式会社",
+          "booth": "E7084",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=_njqMb9vBpc",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "「機上測定のスマートシフト ～人か機上か、その境界が生産性を変える～」 をテーマに、人材不足が深刻化する中で加工工程の効率化をご検討されている皆様へ、工具やワークの測定工程を工作機械内に集約し、自動化を実現する多彩な機上測定ソリューションをご紹介します。\nブースでは、実機デモンストレーションに加え、毎時開催するプレゼンテーションにて、機上測定機器の具体的な活用事例や導入効果、自動化のステップアップをご紹介いたします。ソフトウェア「FormContorol X(エックス)」の体験コーナーもご用意します。最先端となる機上測定ソリューションの進化を是非ご体感ください。\nさらに、3分でわかる現場改善診断「BLUMレベル」チェックを実施しております。自社の現場自動化レベルをチェックしてみてください。\n皆様のご来場を心よりお待ちしております。",
+          "main_exhibits": "・工具測定用レーザシステム「LC50-DIGILOG」、新製品「LC54-DIGILOG」\n・工具測定結果の可視化＆解析用ソフトウェア「LC-VISION」、新機能「GrindingContorl」\n・ワーク測定用タッチプローブ「TCシリーズ」\n・ワーク輪郭形状測定ソフトウェア「FormControl X」\n・ワーク面粗さ測定システム「TC64-RG」\n・接触式工具長スイッチ「ZX-Speed」\nなど",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-30d3fc8503eab132.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V020",
+    "selection": "マーポス",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-ca977c1b24ff04e4",
+          "year": 2024,
+          "company_name": "マーポス株式会社",
+          "booth": "E7107",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=K8FKaawJkn0",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "「e-モビリティ時代」の自動車市場を支える強力なプレーヤーであるべく、マーポスは挑戦を続けます。弊社ブースでは、工作機械業界向け最新アプリケーションから、電気モーターの製造工程における制御と最適化、歯車部品の品質管理、組み立て後のシステム機能チェックまで、幅広いソリューションをご紹介します。\nまた、工作機械にモニタリングシステムや高精度機上計測装置などを搭載し、最新の計測システムを実演します。",
+          "main_exhibits": "- NVH歯車解析装置 NVHG-EAR\n- 電気モーター機能テストシステム e.d.c. LT400\n- ギガ/メガキャスティング対応ダイカスト金型表面温度監視システム TTV\n- 小型ワーク用フレキシブル非接触式測定機 OPTOFLASH\n- 工作機械向けプロセス／品質コントロール・モジュラーシステム BLU\n- CCDカメラ搭載非接触工具測定装置 VTS\n- 工作機械用ツール/プロセス/マシンモニタリングシステム ARTIS\n- ワイヤレス手持ち測定用ゲージ I-WAVE2\n- マニュアル測定用表示器 Merlin Plus",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-ca977c1b24ff04e4.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-f8f9701c1858fd1a",
+          "year": 2026,
+          "company_name": "マーポス株式会社",
+          "booth": "E7087",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=tThKOA-gm8s",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "製造業における熟練作業者不足が深刻化するなか、自動化・無人化生産へのニーズは高まり続けています。\nマーポスブースは、「工場自動化を支援する測定技術」をコンセプトとし、個人の経験則に依存しない「スキルレス化」と生産性を最大化する「自動化」の両立を実現する最新測定ソリューションをご紹介します。\nまた、工作機械にモニタリングシステムや高精度機上計測装置などを搭載し、最新の計測システムを実演します。",
+          "main_exhibits": "- CCDカメラ搭載非接触工具測定装置 VTS\n- 工具計測用非接触レーザーシステム ML3G\n- 超広帯域通信タッチプローブ MUPS\n- マシン、工具、およびプロセスモニタリングシステム ARTISモニタリングシステム\n- 研削盤向けプロセス／品質コントロール・モジュラーシステム BLU\n- NVHギア解析装置 NVH GEAR\n- 光学式フレキシブル非接触式測定器 OPTOFLASH\n- オールインワン計測コンピューター Merlin Core",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-f8f9701c1858fd1a.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V021",
+    "selection": "HACARUS",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-9705ee2e4555e787",
+          "year": 2026,
+          "company_name": "株式会社ＨＡＣＡＲＵＳ",
+          "booth": "S1031",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "良品画像だけで外観検査を立ち上げられるAIソフトウェア「HACARUS Check ZERO」を、日東商事株式会社ブースにて紹介します。少量の良品で学習してすぐに検査を始められ、運用中は不良品・良品の追加学習（デュアルチューニング）で見逃しと過検出を抑えます。加工部品の外観検査をAIで自動化したい方は、ぜひお立ち寄りください。",
+          "main_exhibits": "外観検査AIソフトウェア「HACARUS Check ZERO」",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-9705ee2e4555e787.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V022",
+    "selection": "日東商事",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-c9ed318301cfa721",
+          "year": 2024,
+          "company_name": "日東商事株式会社",
+          "booth": "E5040",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=S23RMUbJOQs",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "この度の出展において、工作機械及び産業機械専門商社の弊社が取り扱っている製品の中でも\n皆様の生産現場の一助となり得る機械設備を2機種、展示いたします。\n1.　CNCワイヤ放電精密コンターマシン　TX150\n2.　フルデジタル制御　形彫放電加工機　Ax1601\n実際の製品をご覧頂き、その魅力を存分にお伝えできればと存じます。\nご興味のあるお客様は、この機会に是非ご来場くださいます様、お願い申し上げます。",
+          "main_exhibits": "【CNCワイヤ放電精密コンターマシン　TX150】\n・高強度・高靭性のモリブデン鋼ワイヤーの使用により、高速加工を実現！\n・ワイヤーを正転・逆転させて繰り返し加工を行うことでランニングコストの低減が図れます。\n・また、機械サイズも幅1400mm×奥行き700mm×高さ1600mmと大変コンパクトなものとなっており、限られたフロアースペースでも導入が可能となります。\n【フルデジタル制御 形彫放電加工機　Ax1601】\n・設置面積が幅650mm×奥行650mm×高さ1760mmと、従来の形彫放電加工機と比較しコンパクトでありながら、\n移動ストロークはX軸250mm×Y軸250mm×Z軸250mmとなっており、大型ワークの加工も可能！\n・入力内容は①加工深さ　②縮小代　③面粗度　④材質　⑤揺動パターンの5つだけ。\n高難易度の加工でも、作業者のスキルに関係なく、安定した加工が可能となります。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-c9ed318301cfa721.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-2972a72fbb425425",
+          "year": 2026,
+          "company_name": "日東商事株式会社",
+          "booth": "S1031",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=GozGZRxlviw",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "1．CNCワイヤー放電精密コンターマシン「TX150」\n省スペースで設置可能な超小型ワイヤ放電加工機。\nモリブデンワイヤを繰り返し使用することでランニングコストを抑えながら、超硬・チタン・ニッケル合金などの難削材加工や、金属3Dプリント造形品の切り離し、粗取り加工などに対応します。\n2．AI外観検査システム「HACARUS Check」\nAIを活用し、製品のキズ・欠け・汚れなどの外観異常を自動検出。人による目視検査の負担軽減と、検査品質の安定化・省人化を支援します。",
+          "main_exhibits": "【CNCワイヤー放電精密コンターマシン TX150】\n① 畳1枚弱の超コンパクトサイズ\n据付寸法 W1,400 × L700 × H1,600mm\n狭い工場や限られたスペースにも設置しやすい\n一般的なドアを通過できるサイズ\n機械前面から操作・ワイヤ交換・基本メンテナンスが可能\n② モリブデンワイヤの繰り返し使用による低ランニングコスト\n約200mのモリブデンワイヤを正転・反転させて繰り返し使用\nワイヤの消耗コストを抑えた運用が可能。\n【HACARUS　check】\n① AIによる外観検査の自動化\nキズ・打痕・汚れ・欠け・鋳巣などの外観異常をAIで自動判定し、目視検査の負担を軽減。\n② 少量の良品データからAIを構築\n大量の不良品データを集めなくても、少量の良品画像を使って学習できることが大きな特徴です。少量多品種の製造現場にも対応しやすい。\n③ 360°の多面検査に対応\n協働ロボット、カメラ、照明を組み合わせ、ワークをさまざまな角度から撮像。従来の固定カメラでは難しかった側面・裏面を含む立体物の検査にも対応可能。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-2972a72fbb425425.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V023",
+    "selection": "ハイデンハイン",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-f2eb658775195fbf",
+          "year": 2024,
+          "company_name": "ハイデンハイン株式会社",
+          "booth": "E7123",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=GFSwCXSxe9o",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "クーラントや結露などの内部汚染に対して飛躍的な耐性を兼ね備え、エアパージレスでの稼働が可能な新型アブソリュートリニアエンコーダLC 6シリーズとアブソリュート角度エンコーダRNC 1シリーズに搭載した最新光学式走査原理True Image技術をご紹介いたします。\nその他、機上計測用システムとしてワイヤレス通信式高精度タッチプローブTS 460、ツールプリセッタ・顕微鏡・外観検査装置の3つの機能を一体化し、工具の摩耗や折損を迅速かつ確実に検出するビジョンシステムVT 122、加工エリアに常置可能で、レーザー式システムと比べて各工具交換を最大6秒短縮するインダクティブ式工具折損検出器TD 110も出展いたします。\n出展者ワークショップも開催いたしますので、ぜひご参加ください。\n■開催日時: 11月6日(水) 11:00～12:00\n■発表会場: 会議棟 6F 607 会議室\n■発表テーマ: 「先進的なエンコーダ技術」\n※登録不要、直接会場にお越しください。",
+          "main_exhibits": "システムコストを削減し、機械稼働率の向上を実現する製品を出展いたします。\n①アブソリュートリニアエンコーダLC 6シリーズ\n②アブソリュート角度エンコーダRCN 1シリーズ\n③ワーク計測用ワイヤレスタッチプローブTS 460/TS 760\n④工具検査用ビジョンシステムVT 122\n⑤工具折損検出器TD 110\n⑥コンパレータエンコーダRVM 4000\n⑦インダクティブ式アブソリュートデュアルエンコーダKCI 120Dplus\n⑧ETEL製トルクモータTMC / TMB+\n⑨LTN製スリップリング",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-f2eb658775195fbf.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-34a393c5512352bc",
+          "year": 2026,
+          "company_name": "ハイデンハイン株式会社",
+          "booth": "E7043",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "クーラントや結露などの内部汚染に対して高い耐性を備え、エアパージレスで安定稼働を実現するアブソリュートリニアエンコーダLC 6シリーズ(第二世代登場)を出展します。TRUE IMAGE TECHNOLOGY最適化による性能向上に加え、保護等級IP54への向上により、過酷な環境での信頼性を高めました。その他、工具長計測機能とVTC 6.0によるAI摩耗診断に対応したビジョンシステムVT 122、高性能ダイレクトドライブを実現するETELのトルクモータ、複数軸を高精度に制御するMULTI-DOFソリューションを展示し、製造現場を支える技術をご紹介します。",
+          "main_exhibits": "システムコストを削減し、機械稼働率の向上を実現する製品を出展いたします。\n①アブソリュートリニアエンコーダLC 6シリーズ\n②アブソリュート角度エンコーダRCN 5001シリーズ\n③光学走査方式組込み型角度エンコーダECA 4000シリーズ\n④インクリメンタルリニアエンコーダLIP 6000 Dplus\n⑤コンパレータエンコーダRVM 4000\n⑥グリッドエンコーダKGM 200\n⑦ワーク計測用ワイヤレスタッチプローブTS 460/TS 760\n⑧工具検査用ビジョンシステムVT 122\n⑨工具折損検出器TD 110\n⑩ETEL製トルクモータTMC / TMB+ /TMK",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-34a393c5512352bc.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V024",
+    "selection": "モリマシナリー",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-4ebf1b79ac5626ad",
+          "year": 2024,
+          "company_name": "モリマシナリー株式会社",
+          "booth": "S3017",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=yEoPl5sH6Sg",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "スマート工場化に向け、マシニングセンター用切削工具の管理・運用をマネジメントいたします。\n展示機ツールコラージュは刃先の状態を撮像し、欠け・摩耗検出を行う。これまで撮像箇所は人入力での細かな設定が必要だったが、それらを補うAI学習ソフトをついに開発した。アッセンブリした工具を測定場所に置けば自動で診断箇所を認知し、欠け・摩耗検出を実施する。自動化や無人化を目指す上で、工具管理への省人化に目指したツールコラージュをぜひご覧ください。",
+          "main_exhibits": "\"ツールコラージュ\"は切削工具の刃先を撮像し、欠けや摩耗を検出する。検出基準はユーザー毎の知見をAIに学習させることでニーズに合った検出基準を構築する。学習により判定のみではなく判定箇所の自動検出も可能となる。細かな刃先の設定も簡素化することができる。工具の摩耗判断において、技能者の知見継承や人材不足、判定基準の均一化などの課題を解決する。\n\"ツールソムリエ\"は工場内の工具を一括収納し、保管工具の情報を管理・共有し、見える化することで、在庫管理や工具段取りの効率化、属人化の防止などを目指す。工具を探す作業、欠品や重複購入の防止、使用頻度の把握などに期待する。工場内の工具を一括マネジメントすることで管理業務を支援する。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-4ebf1b79ac5626ad.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-68c359877b3aafb6",
+          "year": 2026,
+          "company_name": "モリマシナリー株式会社",
+          "booth": "S3048",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "切削工具管理が変わる――スマート工場の未来を切り開く新技術を体験してください。\n展示機「ツールコラージュ」は、高精度カメラで刃先を自動撮像し、AIと画像検査で欠け・摩耗を自動認識、即座に判定・記録。従来は熟練者がルーペで行っていた判断を標準化し、検査工数を大幅に削減。\n新開発の「ツールコラージュアナライザー」は、現場の摩耗幅データを蓄積・学習し、寿命予測と最適交換タイミングを提示。ムダな交換を抑え、生産性と稼働率の向上に直結。\n現場導入も簡単なツールコラージュ。その性能をぜひ展示会場でご体感ください。",
+          "main_exhibits": "「ツールコラージュ」は、画像検査ソフトとAIを活用し、刃先の欠けや摩耗を自動検出する装置です。熟練技能士のルーペ作業を代替し、負担軽減と作業時間の大幅短縮を実現します。また、専用分析ソフト「ツールコラージュアナライザー」を用いて摩耗量を測定、摩耗状況を数値化することで工具寿命を正確に予測し、生産効率を向上させます。\n「ツールソムリエ」は工具情報を記録し、ホルダごと収納可能な管理システムです。多種類の少量生産や無人運転が進む現場での工具重複購入や所在不明を解決します。さらに、工具管理ソフト、工作機械、ロボット、ツールプリセッターと連携し、工具の入出庫を完全自動化。登録情報を基に所在を即座に把握し、管理画面選択でロボットが必要な工具を工具台車に自動搬送します。これにより、作業時間の短縮や複数業務との併行が可能になります。\n今年の展示会に「ツールソムリエ」は実機を出展しませんが、ロボットシステムの説明動画・資料を展示しております。ぜひお立ち寄りいただき、自動管理システムのご紹介いたします。\n「ツールコラージュ」と「ツールソムリエ」は、スマート工場化・工具運用効率化を支える革新技術です。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-68c359877b3aafb6.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V025",
+    "selection": "イマオコーポレーション",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-b366bfe59792bd9c",
+          "year": 2024,
+          "company_name": "株式会社イマオコーポレーション",
+          "booth": "W2002",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=MTYTZ2Km3zM",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "イマオコーポレーションは「治具のイマオ」「クランプのイマオ」としてお客様のご期待に応えるべく、これまでのJIMTOFにおいてお客様のご要望から生まれた製品をはじめ、特長のある治具部品を出展してまいりました。\n今回のJIMTOF2024におきましても、その考えが変わることはありません。\nその考えにプラスする形で、ロボットによる自動化に対応するための治具部品を今回初出品いたします。\nイマオコーポレーションは新たなイメージを皆様に認知いただけるよう、これまでのイメージとは異なる治具部品も出品いたします。\n新たな製品やイメージを実感いただくために、是非とも当社ブースにお越しください。",
+          "main_exhibits": "●ワンタッチクランプ\nレバー操作でクランプ・アンクランプが可能な工具レスのクランプです。\n工具での操作に比べ、ワークの段取り時間が大幅に削減でき、作業性、生産性が向上します。\n今回、新たな機構のワンタッチクランプを初出展！\n『軽い操作でクランプ力が一定』なのに『高クランプ力』で固定することができます。\nブースでは、人によるクランプ作業だけでなく、協働ロボットによるクランプ作業の自動化を実演しています。\n●ロボット周辺機器\n・SMARTSHIFT ロボットシステム\n協働ロボットのロボットアームの水平移動だけで簡単にツール交換ができるメカ式のツールチェンジャーで、ツール交換に電力やエアは不要です。\n電気やエアを使用する様々なエンドエフェクターを取り付けることができ、1台のロボットで複数の作業を効率的に行うことができます。\n・pneumagiQ ニューマジック\n2つのエンドエフェクターを使い分け、形状の異なるワークの同時搬送や2つの作業をこなすことが可能です。\nダブルハンドで従来よりロボットを効率的に動かし、生産効率を一段と引き上げます。\nその他、多種多様なクランプ部品、段取り改善に繋がる製品を数多く展示いたします。\nぜひご期待ください！",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-b366bfe59792bd9c.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-99234148cbcc9c85",
+          "year": 2026,
+          "company_name": "株式会社イマオコーポレーション",
+          "booth": "W2001",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=shuDpJLDn-A",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "イマオコーポレーションは「治具のイマオ」「クランプのイマオ」としてお客様のご期待に応えるべく、お客様のご要望から生まれた製品をはじめ、特長のある治具部品を出展しています。\n今回の出展テーマは「『困った』を治具で解決」。\n現場の課題を改善するイマオの治具ソリューションを、3つのエリアで具体的にご紹介します。\n【ワーク保持の「困った」を解決】薄物・素形材・小物など各場面における解決策\n【工程集約の「困った」を解決】多面加工を実現するための豊富な手段\n【段取りの「困った」を解決】生産状況に合わせた段取り改善策\n今回、ロボットによる自動化に対応するための治具部品を初出展いたします。\nイマオコーポレーションは新たなイメージを皆様に認知いただけるよう、これまでのイメージとは異なる治具部品も出展いたします。\n現場のお困りごと解決のために、新たな製品やイメージを実感いただくために、是非とも当社ブースにお越しください。",
+          "main_exhibits": "●ナットランナー治具\nロボットハンドに取付けたナットランナーでクランプ・ アンクランプができる治具で、ワーク固定の自動化・省人化を実現します。\nシンプルなメカ式構造のため、従来の油圧クランプやエアクランプとは異なり配管・配線が不要です。\nサイズや新タイプなどバリエーション追加して展示します。\n●ロボット周辺機器\nロボットハンドのフィンガーを自動交換できる製品を展示します。内蔵バネを利用したメカ式機構のため追加の電気配線やエア配管は不要で、ロボットの単純動作で素早く交換できます。ひとつのロボットハンドで多品種生産にも柔軟に対応できます。\n●その他治具\n薄物ワークや異形状ワーク、またビビリ対策などお客様のお困り毎を解決できる治具を多数出展いたします。\nまた、薄物の非磁性体ワークに最適で、曲面や傾斜面などにもフィットして保持することができる、初お披露目の製品も出展いたします。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-99234148cbcc9c85.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V026",
+    "selection": "エヌティーツール",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-1362c9bd5b1abbea",
+          "year": 2024,
+          "company_name": "エヌティーツール株式会社",
+          "booth": "W2050",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=pYGmVz5GC1c",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "エヌティーツールでは､マシニングセンター用ツールホルダに留まらず､CNC旋盤用ツールホルダも出展致します。\nエヌティーツールのツールホルダは､独自の構造で､自動化･省人化･加工精度向上･段取り時間短縮･機械稼働率向上など､様々お客様の生産現場をサポート致します。\nブース内では､加工のデモンストレーションを行い､加工について様々なご提案をさせて頂きます。",
+          "main_exhibits": "防錆処理ホルダ:標準にてホルダに防錆処理を行っている為､ホルダが錆びる事がありません(一部商品除く)。\n高圧洗浄用ツーリング:機械主軸からのクーラント(極低圧～高圧まで対応)を機械主軸を回転させるだけでホルダ先端から15Mpaの高圧クーラントを吐出し切粉除去を行う事が出来ます(マシニングセンター用､旋盤用)\n各種旋盤用ホルダ：他社にないハイドロ(油圧機構)を使用した､高精度･防振性･操作性(着脱が容易)に優れたホルダ。\n非接触ツールプリセッタ：完全自社開発のツールプリセッタは簡単に操作出来る仕様になっており､コンパクトな商品から刃物交換まで自動で行える商品を御用意。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-1362c9bd5b1abbea.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-e3e0ddff337c4b17",
+          "year": 2026,
+          "company_name": "エヌティーツール株式会社",
+          "booth": "W2019",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=iW3vesxy4DU",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "自動化・省人化・工程集約をテーマに、既存の工作機械を活用したローコストな自動化を提案する。「マテハンホルダ」は、主軸スルークーラント圧を利用してワーク搬送や工程間の受け渡しを自動化。「BoostMaster」は、主軸回転を動力にクーラントを最大15MPaまで加圧し、切屑処理の自動化・効率化を実現する。さらに、自動旋盤向けに工具交換の作業性を高める各種製品を展示。生産性向上と作業者の負担軽減に貢献する製品群を紹介する。",
+          "main_exhibits": "自動化・省人化・工程集約を実現する製品を中心に、工作機械用ツールホルダおよび周辺機器を幅広く展示する。主な出展物は、主軸スルークーラント圧を利用してワーク搬送・工程間の受け渡しを自動化する「マテハンホルダ」、増圧したクーラントで切屑を除去する「クーラント増圧ツール Boost Masterシリーズ」である。自動旋盤向けには、レンチ1本で簡単に工具交換ができ、狭い機内での作業性を向上させる「CNC自動旋盤用ハイドロチャック ST・L-PHC」、微小フロート機構によりタップ寿命を向上させ、スパナを使わず交換できるタップホルダ「CNC自動旋盤用 シンクロフィットⅡ」を展示する。さらに、独自の油圧室構造でビビりを抑制する「ハイドロチャックホルダシリーズ」、工具交換・洗浄・測定を自動化し、工程別ユニットを柔軟に組み合わせられる「全自動プリセットシステム」などを紹介する。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-e3e0ddff337c4b17.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V027",
+    "selection": "牧野フライス製作所",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-47147775438b1543",
+          "year": 2024,
+          "company_name": "株式会社牧野フライス製作所",
+          "booth": "E3034",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=95Yl5dQv2vI",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "今回のJIMTOFでは、「FIND YOUR WAY TOGETHER」をテーマといたしました。\nお客様との「対話」をさらに大切にしながら、お客様の日頃のお困りごとを共に解決したいという私たちの思いを込めました。\n新製品のご紹介から、機械、技術、そしてサポートまで、様々なご提案を準備しております。\n市場で高い評価を頂いてるV33シリーズを刷新し、更なる安定した高精度・高面品位加工を実現する新型立形マシニングセンタV300を展示します。\n大型化が進む金型の加工時間を大幅に短縮し、安定した加工面と高精度を実現する新型立形マシニングセンタV900を展示します。\n高い加工性能と作業性を追求した5軸制御横形マシニングセンタa500iRは、5軸加工による工程集約、長時間の無人運転に貢献する様々な機能を実機にてご紹介します。\n「時間あたりの生産性」と「面積当たりの生産性」を追求した5軸制御立形マシニングセンタDA500は、省スペースでの自働化を実現するパレットマガジン仕様を展示します。\n高速・高精度・高信頼性を誇る部品加工向け5軸制御立形マシニングセンタDA300は、大容量ワークパレットシステムと工具マガジンが一体化した、オールインワンの自働化パッケージを展示します。",
+          "main_exhibits": "立形マシニングセンタ V900、5軸制御横形マシニングセンタ a500iR、5軸制御立形マシニングセンタ DA500、5軸制御立形マシニングセンタ DA300自働化パッケージ、横形マシニングセンタa51nx、横形マシニングセンタJ5、パレット搬送システムPZ1、細穴放電加工機EDBV3、自律走行型モバイルロボットiAssist",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-47147775438b1543.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-4da41646b2511bcf",
+          "year": 2026,
+          "company_name": "株式会社牧野フライス製作所",
+          "booth": "E1024",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=M5OL10ECBTE",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "マキノは、実機展示による加工技術の紹介をはじめ、生産性向上を支援するソフトウェア、自動化、アフターサービスまで、ものづくりの現場を支える幅広いソリューションをご提案します。\n実機展示では、国内初出展となる5軸制御横形マシニングセンタ「a630iT」、幅広い生産形態に対応する「a61nx」、複雑形状部品の加工に対応する5軸制御立形マシニングセンタ「DA500」に加え、新製品の3軸立形マシニングセンタを展示します。\nまた、高精度・高面品位が求められる金型や高精度プレス金型の加工事例、レーザ、研削、放電によるセラミックス加工事例もご紹介します。さらに、「MASシリーズ」、自動化を含む生産ライン全体のエンジニアリング、「マキノマシンケアパッケージ」などを通じ、生産現場全体の改善につながる取り組みをご紹介します。",
+          "main_exhibits": "5軸制御横形マシニングセンタ「a630iT」、横形マシニングセンタ「a61nx」、5軸制御立形マシニングセンタ「DA500」、新製品3軸立形マシニングセンタ、加工事例、MASシリーズ、自動化ソリューション、生産ラインエンジニアリング、マキノマシンケアパッケージ",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-4da41646b2511bcf.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V028",
+    "selection": "松浦機械製作所",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-b390cad41822d79d",
+          "year": 2024,
+          "company_name": "株式会社松浦機械製作所",
+          "booth": "E3019",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=_4GLIXLZuKE",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "『Let’s Start with Matsuura 』をテーマに、自動化設備導入に踏み出すお客様の不安やお困りごとを解消するソリューションをラインアップで紹介。設備導入から安定稼働まで、機械・CAM・アプリケーション・アフターサービスの一貫したトータルソリューションを提供し、自動化・無人運転にはじめて取り組むお客様を手厚くサポートする。東3ホールでは【5軸＋マルチパレットではじめる自動化・無人運転】・【GibbsCAMではじめる簡単5軸プログラミング】をキーワードに、5軸入門機として使いやすさとコストパフォーマンスを実現した『MX-420 PC10』、更なる長時間無人運転・変種変量生産を実現する『MAM72-42V PC32』の2台に加え、JIMTOF2024で世界初披露となる新型5軸機を展示・実演する。特別展AMエリア（南2ホール）では【LUMEXではじめる高機能金型・部品製造】をキーワードに、レーザ焼結と高速切削を1台で実現するハイブリッド金属3Dプリンタ『LUMEX Avance-25』の実機と、金型の高精度化、納期・コストの大幅改善、ダイカスト金型等の活用事例を最新サンプルワークにて紹介する。マツウラHPのJIMTOF専用サイトでは開催前から期間中まで展示会の見どころをお届けする。",
+          "main_exhibits": "MX-420 PC10は【はじめてでも安心・簡単5軸】をコンセプトに小型部品加工の自動化を実現。フロアパレットシステム（PC10）＋90本工具マガジンで省スペースな自動化システムを構築し、コンパクトなサイズながら高剛性かつ充分な加工エリア・作業性を確保。MAM72-42V PC32は5軸加工による工程集約･高精度複雑加工を実現しつつ【変種変量生産】【長時間無人運転】に対応。省スペースかつ大容量のタワーパレットシステム（PC32）＋マトリクス工具マガジン（130本/330本ベース）を標準搭載し、お客様が抱える生産現場の効率化や労働力不足などの問題解決を実現する。標準搭載した新オペレーティングシステム「MiOS4（マイオスフォー）」は、多品種少量生産に対する柔軟性を更に向上。従来個別に管理していたプログラム、作業指示書、画像データ、ワークオフセット等を1つの加工データ（プロジェクト）とし、それを入れ替えるだけで必要なワークが加工できる様になり、ワーク毎の管理がよりシンプルになった。また、誰でも安心で確実な無人運転が行える様に、パレット/工具設定は従来通りシンプルなまま、運転前に準備未完の段取りを一目で確認できるホーム画面を新たに開発した。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-b390cad41822d79d.html"
+        },
+        {
+          "exhibitor_record_id": "EXH-2024-879a787152ae8c93",
+          "year": 2024,
+          "company_name": "株式会社松浦機械製作所",
+          "booth": "AM115",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=coHqGCjVn0c",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "『Let’s Start with Matsuura 』をテーマに、自動化設備導入に踏み出すお客様の不安やお困りごとを解消するソリューションをラインアップで紹介。設備導入から安定稼働まで、機械・CAM・アプリケーション・アフターサービスの一貫したトータルソリューションを提供し、自動化・無人運転にはじめて取り組むお客様を手厚くサポートする。東3ホールでは【5軸＋マルチパレットではじめる自動化・無人運転】・【GibbsCAMではじめる簡単5軸プログラミング】をキーワードに、5軸入門機として使いやすさとコストパフォーマンスを実現した『MX-420 PC10』、更なる長時間無人運転・変種変量生産を実現する『MAM72-42V PC32』の2台に加え、JIMTOF2024で世界初披露となる新型5軸機を展示・実演する。特別展AMエリア（南2ホール）では【LUMEXではじめる高機能金型・部品製造】をキーワードに、レーザ焼結と高速切削を1台で実現するハイブリッド金属3Dプリンタ『LUMEX Avance-25』の実機と、金型の高精度化、納期・コストの大幅改善、ダイカスト金型等の活用事例を最新サンプルワークにて紹介する。マツウラHPのJIMTOF専用サイトでは開催前から期間中まで展示会の見どころをお届けする。",
+          "main_exhibits": "レーザによる「金属積層造形」とマシニングセンタによる「高速・高精度切削加工」を融合したハイブリッド金属 3D プリンタ。従来の金属加工には無い設計の自由度やハイブリッド工法による製造リードタイム短縮を実現することで、高付加価値金型市場を中心としたお客様の多様なニーズに対応。ハイサイクル成形を実現する為、三次元水管・ポーラス造形を自由自在に配置した金型製作が可能。軽量かつ高剛性を実現する為、中空造形・トポロジー最適化された部品製作が可能。2022年の商品改良では更なる長時間連続運転を実現し、造形品の製造コストに直結する生産性の向上や作業負荷の低減を可能にした。造形・切削パスはLUMEX専用CAMソフトで簡単一括生成。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-879a787152ae8c93.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-d6d5c21a94f5a131",
+          "year": 2026,
+          "company_name": "株式会社松浦機械製作所",
+          "booth": "E3030",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=K_X61J2xV_w",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "『シン・5軸 ～5軸加工のその先へ～』をテーマに、5軸をコアとした自動化・無人運転による新たな生産性向上をご提案します。慢性的な人手不足や生産効率向上など、これからのものづくりが抱える課題に応える最新ソリューションを、実機・実演を通じてご紹介します。\n注目は、5軸加工と旋削加工を1台に集約した5軸複合マシニングセンタ。エントリーモデル「MX-520T PC7」と、世界初披露！となる大型ワーク対応の「MX-850T PC4」(NEW)の2機種を展示します。さらに、より使いやすく進化した「GIBBSCAM2026」や、ハイブリッド金属3Dプリンタ「LUMEX」による高機能金型・部品の最新加工サンプルも展示・実演します。\nまた、タワーパレットシステムPC7、フロアパレットシステムPC4、簡単・安心・確実なOS「MiOS(マイオス)」を組み合わせた、長時間無人運転や変種変量生産を実現する自動化ソリューションをご提案します。「ヘール加工」「スロット加工」など専用設定画面を活用した新たな加工方法もご紹介します。\nJIMTOF専用サイトでは、開催前から会期中まで、展示会の最新情報や見どころを発信します。",
+          "main_exhibits": "5軸加工と旋削加工を1台に集約した5軸複合マシニングセンタ2機種を実演展示します。\n「MX-520T PC7」は、ベースモデル「MX-520」の優れた操作性と5軸加工性能を継承し、旋削機能を追加した5軸複合マシニングセンタのエントリーモデルです。5軸加工から旋削加工までを1台で完結し、最大ワークサイズφ520×H330mm、最大ワーク質量175kgに対応します。\nさらに、世界初披露となる「MX-850T PC4 (NEW)」を展示。加工エリアと加工能力を大幅に向上させ、最大ワークサイズφ850×H385mm (制限付き)、最大ワーク質量400kgに対応します。\n2機種によるワンチャッキング複合加工を実演し、工程集約による生産性向上と加工精度の安定化を提案します。また、省スペースのマルチパレットシステム「PC4／PC7」と120本工具マガジンを組み合わせ、効率的な自動化・無人運転を実現。さらに、直感的でわかりやすい操作性を備えた「MiOS 4」により、加工準備から運転、スケジュール管理までを簡単・確実に行います。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-d6d5c21a94f5a131.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V029",
+    "selection": "中村留精密工業",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-0d97e855cc40afc7",
+          "year": 2024,
+          "company_name": "中村留精密工業株式会社",
+          "booth": "E5033",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=RYK326OoMn4",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "「現場の負担を削る」をテーマに、新製品を含む7台の工作機械・自動化システムとソフトウェアを出展いたします！\n2024年3月に初登場した新製品「NTY3-100V」は、スピードに特化した3タレット2スピンドルの複合精密CNC旋盤です。すべてのタレットにＹ軸・ミーリングを標準搭載し、上下・左右の同時加工に対応しました。また加工中のアイドルタイムを短縮する「クロノカット」をはじめとした、スピードアップのための新技術も多数搭載！その速さを、ぜひ会場でお確かめください。\nこの他にも新製品を多数出展予定です！",
+          "main_exhibits": "複合精密CNC旋盤\n- WY-150V (新製品)\n- NTY3-100V\n- SC-100\nATC型複合加工機\n- JX-200\n自動化システム\n- NTRX-300 + New Robot System\n- SC-200ⅡL + GR-203 High-Speed\n工作機械／工具の破損検知ソリューション\n- Dr. Tool\nこの他にも新製品を出展予定！",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-0d97e855cc40afc7.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-68d6123fc6036ee4",
+          "year": 2026,
+          "company_name": "中村留精密工業株式会社",
+          "booth": "E2027",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=C7A_2ZTDXNw",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "「省スペースで、“できる”を最大に。」をテーマに、新製品を含む工作機械、自動化システムの計6製品およびソフトウェアを出展します。コンパクトな機械を中心に、限られたスペースでも広い加工領域や高い加工能力を実現する製品をご提案します。\n特に注目の「NT-Flex+」は、機械奥行1,380mmのコンパクト設計により、限られたスペースにも設置可能です。さらに、品種切替え時の段取り効率や難削材加工への対応力など、現場の多様なニーズに応える性能を備えています。省スペース化と生産性向上の両立を目指すお客様に、新たな選択肢をご提案します。\nまた、自動化システム「RoboSync」は、専用ワークストッカーを必要とせず、既存のパレットや台車をそのまま活用できるため、省スペースで柔軟かつ効率的な自動化を実現します。導入時のレイアウト変更や追加設備を最小限に抑えながら、自動化による生産効率向上をサポートします。\n限られたスペースだからこそ、広がるものづくりの可能性。\nぜひ会場で、最新の製品・技術をご体感ください。このほかにも新製品の初披露や出展機による加工実演など、多彩な展示をご用意しております。皆様のご来場を心よりお待ちしております。",
+          "main_exhibits": "複合精密CNC旋盤\n- WT-150V\n- NT-Flex+\n- AS-200L\nATC型複合加工機\n- JX-200\n自動化システム\n- RoboSync\n対話型NCプログラミングソフトウェア\n- Protona\nこの他にも新製品を出展予定！",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-68d6123fc6036ee4.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V030",
+    "selection": "TAKISAWA",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-e1ab1722ec95b1cc",
+          "year": 2024,
+          "company_name": "株式会社TAKISAWA",
+          "booth": "E3013",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=K00DRD-BngA",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "NIDECグループとしてニデックマシンツール、ニデックオーケーケーとともに出展。\n技術を合わせた「NIDECギヤ加工ソリューション」をご提案いたします。\nJIMTOFで初披露となる新製品も出展いたします。\nグループとなり加速する技術力・対応力をご覧ください。",
+          "main_exhibits": "新製品\n・複合CNC旋盤\nTAKISAWAフラッグシップモデル\n・複合加工機 TMX-4000IIST\nロボットによる自動化のごご提案\n・複合CNC旋盤　TM-3000Y2\n・ロボットシステム　TR-20W\n日本国内に投入！台湾滝澤の大型立形旋盤\n・立形CNC旋盤　VTL-760",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-e1ab1722ec95b1cc.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-8ac76ba19b2d4f41",
+          "year": 2026,
+          "company_name": "株式会社TAKISAWA",
+          "booth": "E3013",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "NIDECグループとしてニデックマシンツール・ニデックオーケーケーとともに出展します。\nTAKISAWAは4台の出展機で革新的なソリューションをご提案します。",
+          "main_exhibits": "①ミドルクラス複合加工機「TEX-2500S GR」（世界初出展）\nコンセプトは「Flexible、Fast、Economic」。ギア加工対応「GR仕様」による旋削から歯車加工までの究極の工程集約をご覧ください。\n②非円形加工CNC旋盤「TPS-3100HⅡ」\n誕生から30年。ピストン加工のベストセラー機がロボット産業へ進出。独自の非円形加工技術を駆使し、ヒューマノイドに不可欠な減速機部品の加工をご提案します。\n③立形CNC旋盤「VTL-450M」\n熱変形を抑える左右対称構造と強力な主軸により、安定した重切削を実現。最大加工径450mmで多様なワークに対応します。\n④ロボットシステム「TR-20W」（参考出品）\nフィジカルAIを搭載。自動化の壁となる切粉の絡まりを自ら判断・除去する画期的なデモを実演します。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-8ac76ba19b2d4f41.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V031",
+    "selection": "シマダマシンツール",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-9b05eab0ee6b1f19",
+          "year": 2024,
+          "company_name": "株式会社シマダマシンツール",
+          "booth": "E6026",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=WZjeoEoTWXw",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "半分以下のスペースで2倍以上の生産効率を！\n■2主軸1NC旋盤2SI-8 Mk-Ⅱ\n「ゼロ秒ローディング」と「1・2次交互加工」で2つのロスタイムがゼロになり、サイクルタイムを短縮したいあなたの手助けができます。\nロボット機上マウントだからロボットスペースも不要。Y軸とテールストック搭載で複合加工にも対応します。\n■4主軸2NC旋盤HS4200\n「1・2次交互加工＝AA/BB加工」で加工条件やローダースピードは一切変えずに”頑張らないで” サイクルタイムの大幅短縮ができます。\nロボット機上マウントだからスペースも極小ですみ、ロボットをスライドレール上で移動させれば、どんな搬送ラインも安価に構築できます。\n■カム式6軸自動盤バーマシン MM-A16\n人類がこれまでに到達した中で真に最速で、最短の加工時間を実現するNC旋盤です。\n人類史上世界最速とはいかなる機械なのか、巨大な機械式時計を彷彿とさせる美しいムーブメントを公開展示しますので、是非その目でお確かめ下さい。\n■NCスライド２基搭載8軸自動盤SS-8NC-W\n8本の主軸による工程分割でサイクルタイムを大幅短縮！粗加工は油圧、仕上加工は2基のNCスライドで行うハイブリッド仕様で安価に高精度な大量生産を実現。",
+          "main_exhibits": "■2主軸１NC旋盤　2SI-8 Mk-Ⅱ\n加工と同時にワークの脱着を行う「ゼロ秒ローディング」コンセプトで倍速加工を実現。ビルトインモーターとXYZの３軸制御及びミ―リングタレットであらゆる形状の加工に対応。\n■4主軸2NC旋盤　HS4200\n４本の主軸による「1・2次２個同時加工」で加工タイム差による待ち時間を解消。機上マウントのロボットをスライドレール上で移動させる事ができ、どんな搬送ラインも安価に構築可能。\n■カム式6軸自動盤バーマシン MM-A16\n人類がこれまでに到達した中で真に最速で、最短の加工時間を実現するNC旋盤です。\n人類史上世界最速とはいかなる機械なのか、巨大な機械式時計を彷彿とさせる美しいムーブメントを公開展示しますので、是非その目でお確かめ下さい。\n■NC2基搭載8軸自動盤\n8本の主軸による工程分割でサイクルタイムを大幅短縮。\n粗加工は油圧シリンダー、仕上加工はNCスライドで行うハイブリッド仕様で安価に高精度な大量生産を実現。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-9b05eab0ee6b1f19.html"
+        },
+        {
+          "exhibitor_record_id": "EXH-2024-9379cec5b3317a33",
+          "year": 2024,
+          "company_name": "株式会社シマダマシンツール",
+          "booth": "AM103",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=bLvQhW7XtZw",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "半分以下のスペースで2倍以上の生産効率を！！\n■4主軸2NC旋盤HS4200\n「1・2次交互加工＝AA/BB加工」で加工条件やローダースピードは一切変えずに”頑張らないで” サイクルタイムの大幅短縮ができます。\nロボット機上マウントだからスペースも極小ですみ、ロボットをスライドレール上で移動させれば、どんな搬送ラインも安価に構築できます。",
+          "main_exhibits": "4主軸2NC旋盤　HS4200\n４本の主軸による「1・2次２個同時加工」で加工タイム差による待ち時間を解消。機上マウントのロボットをスライドレール上で移動させる事ができ、どんな搬送ラインも安価に構築可能。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-9379cec5b3317a33.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-f1923bd974b0a68e",
+          "year": 2026,
+          "company_name": "株式会社シマダマシンツール",
+          "booth": "E2018",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "半分以下のスペースで2倍以上の生産効率を！\n■2主軸１NC立型ターニングセンタ　VT2-700\n大物部品加工の常識を変える！\n立旋盤2台とマシニングセンタ2台の計4工程を1台に集約。\n工程切替はわずか6秒、マシニング工程を削減できる、生産性を飛躍的に高める立型複合旋盤です。\n■4主軸2NC旋盤　HS4200\n超高生産性4スピンドル旋盤とフィジカルAI搭載のレール走行ロボットが融合。\n次世代の自動化セルが実現する、未来のモノづくりと工作機械をご提案します。",
+          "main_exhibits": "■”新製品”2主軸１NC立型ターニングセンタ　VT2-700\nφ700の大型加工で「着脱時間ゼロ」の衝撃。4工程を1台に集約する究極の高能率マシン。\n大物部品加工における「現場の無駄」を徹底的に排除した、新開発の立型複合旋盤です。\n最大の特長は、一方の主軸で加工を行っている最中に、もう一方の主軸でワークの着脱ができることです。これにより、従来の大型旋盤では避けられなかった着脱時の待機時間を完全にゼロにしました。\n更に従来、立旋盤2台とマシニングセンタ2台で構成していた計4工程を、この1台に集約しました。\n■4主軸2NC旋盤　HS4200\n1・2次工程の加工タイム差による無駄な待ち時間を完全に解消します。\n既存の加工条件やローダースピードを変えることなく、自然にサイクルタイムを短縮できます。\n【JIMTOF2026注目機能】\nフィジカルAIによる自動段取り替え：\nAIを活用し、「誰でも簡単にできる」段取り替えを実現しました。\nフレキシブル搬送ラインの展示：\nガントリーレールにロボットを取り付けることで、従来のロボットの弱点であった狭い動作範囲を克服。1台のロボットで素材と完成品のパレタイジングを行い、安価かつフレキシブルな自動搬送システムをご提案します。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-f1923bd974b0a68e.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V032",
+    "selection": "日本精工",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-d8453de9c1e222bb",
+          "year": 2024,
+          "company_name": "日本精工株式会社",
+          "booth": "W2026",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=5maDHvHPff8",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "今回のJIMTOF2024 出展テーマは\n「MORE THAN PRECISION - あたらしい動きが、次の世界をつくりだす -」\nといたしました。お客様に納得・共感していただけることを目指し、\n弊社が追い求め続けている「モノづくり」と、地球環境への貢献の両輪で、\n様々な製品・サービスを展示致します。\n是非この機会に、NSK ブースへご来場賜りますようお願い申し上げます。",
+          "main_exhibits": "〇精密単列円筒ころ軸受 ロバストライド™（新製品）：\nグリース潤滑での性能を向上（グリース寿命約60%向上、グリース許容回転数約20％向上等）\n〇低フリクションボールねじ　MT-Frix™（新製品）：\n従来品と剛性同等、寸法互換で、動摩擦トルクを最大50%低減\n〇NSKリニアガイド™ NH型／NS型 高作動オプション（新製品）：\n転動体の競り合いを緩和し、なめらかな動きを実現（標準シリーズNH型／NS型と寸法完全互換）\n〇状態監視ソリューション：\nNSKの振動のエキスパートと高度診断AIがリモートでお客様の設備の状態を監視し、異常を早期に検知します。\nこれにより、計画外のダウンタイムを減らし、設備の稼働率を最大化します。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-d8453de9c1e222bb.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-62cab8e20b370ad9",
+          "year": 2026,
+          "company_name": "日本精工株式会社",
+          "booth": "W2048",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=hzAGGAi5wL4",
+          "parse_status": "説明本文のみ掲載（主な出展物欄なし）",
+          "exhibition_introduction": "“トライボロジーソリューションで理想の動きを共に実現する\"をテーマに出展。軸受を中心とした機械部品ビジネスだけでなく、ユニット製品によるシステムの最適化提案や顧客課題を解決するソリューションビジネスを展示します。",
+          "main_exhibits": "",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-62cab8e20b370ad9.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V033",
+    "selection": "日本エスケイエフ",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-bd4781f862943a1d",
+          "year": 2024,
+          "company_name": "日本エスケイエフ株式会社",
+          "booth": "S3021",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=_wNjhm1EAFE",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "軸受メーカーのパイオニアとして、長年培ってきた知識や経験を元に開発された軸受や、それを支えるソフトウェア、潤滑システム、シール技術などを紹介します。工作機械の用途ごとの、高速化、高荷重化、静音化、長寿命化、評価・改善、管理、コストなどを改善するソリューションをぜひご覧ください。\nSKFはTOGETHER, WE RE-IMAGINE ROTATION FOR A BETTER TOMORROWをパーパスとし、人と地球のために、インテリジェントでクリーンなソリューションを創造しています。",
+          "main_exhibits": "軸受、潤滑システム、シール、エンジニアリングサービス、状態監視装置など、工作機械における回転機械の性能を最適化する様々なソリューションを紹介します。\n(新製品)ウルトラファスト・シリーズ: 新熱処理、内部構造の最適化、新保持器等を採用し、最大20%の高速化を実現した軸受。\n(新製品)エクストリーム・プラットフォーム: 高速・高荷重の過酷なニーズに応じてテーラーメイドで設計される最新性能の軸受。\nインジェクションオイラー: エアレス潤滑を可能にする、高精度・極微少量オイル計量装置。\n切削加工シール: 厳しい用途に対応して自由な形状・素材で製造されるシール。耐クーラント特性や耐摩耗性の高いターンテーブル回転機構部用シールや耐久性や信頼性の高いターンテーブルブレーキ機構部用シールなど。\nエンジニアリングサービス: 高度なシミュレーションツールを使い、最適なスピンドル設計を提供。\nなど。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-bd4781f862943a1d.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-5d9bce36b179df04",
+          "year": 2026,
+          "company_name": "日本エスケイエフ株式会社",
+          "booth": "S3031",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=h22pEjdpmdU",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "SKFは、主軸周辺の課題解決をテーマに、軸受、シール、潤滑、状態監視、シミュレーションを組み合わせた工作機械向けソリューションを紹介します。ブースでは、ものづくりを支える製品技術と、お客様に提供する安心・快適性・信頼性を体感いただけます。エアレス微少油潤滑、フローティング・リップシールを搭載した環境対策スピンドルなどを通じて、圧縮空気削減、省エネルギー、静音化、状態基準保全、信頼性向上に貢献するSKFの技術をご覧ください。",
+          "main_exhibits": "環境対策スピンドル、マルチログ常時監視装置、エアレス微少油潤滑、フローティング・リップシール、Adaptive Lubrication System、スピンドル設計支援・技術コンサルタント、切削加工シール、潤滑配管加工例、FFTデータコレクター/アナライザー、磁気軸受などを展示予定です。環境対策スピンドルでは、スピンドルのデジタル化、静音運転、圧縮空気使用量削減、信頼性向上を紹介します。エアレス微少油潤滑は、従来のオイルエア・オイルミスト潤滑に代わる潤滑方式として、圧縮空気使用量の大幅削減や静かな作業環境に貢献します。フローティング・リップシールは、主軸運転中の非接触シールと停止中の接触シールにより、異物侵入防止と省エネルギーを両立します。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-5d9bce36b179df04.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V034",
+    "selection": "Wintech Automation",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-91da9549581befac",
+          "year": 2024,
+          "company_name": "Wintech Automation Co., Ltd.",
+          "booth": "E7025",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=-09Q4AWJx1E",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "ウィンテックオートメーションは2004年に設立され、超硬合金インサートプロセスに使用される検査装置および自動化装置の専門メーカーです。当社は、融合技術開発を基に超硬合金インサート製造工程の自動化を実現するHAM（Hardmetal Automation Machine）シリーズ製品と、製造が完了した超硬合金インサートの最終検査を担当するHIM（Hardmetal Inspection Machine）シリーズ製品を販売しています。\n本社は販売する製品は超硬合金インサートの製作および検査のすべての段階にわたって総括的に関与する機器であり、超硬合金インサートの製造および検査前工程を総括する自動化装置を製作する企業は本社が唯一です。",
+          "main_exhibits": "ホーニング形状検査機\nこの設備は、2D型投影機と3D測定器の複合化された設備で、従来の汎用測定器や形状分析器とは異なり、インサートTip専用の「ホーニング形状検査」および「ホーニング寸法検査」に最適化されています。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-91da9549581befac.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-ab8167d419f015eb",
+          "year": 2026,
+          "company_name": "Wintech Automation Co., Ltd",
+          "booth": "W3051",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg",
+          "parse_status": "説明本文のみ掲載（主な出展物欄なし）",
+          "exhibition_introduction": "WTAは、超硬工具製造工程における高精度加工と自動化・DX化を実現する「HGM-DX 自動両面研削システム」とインサート専用検査機をご紹介します。 高精度両面研削をベースに、自動ハンドリング、ドレッシング、製品測定を一体化。加工後の製品厚みや刃先高さを自動測定し、測定データを研削機へリアルタイムにフィードバックすることで加工公差を自動補正し、安定した加工品質と長時間の無人運転を実現します。\nWTA独自の画像処理技術を活用した検査機では、製品の外観・寸法・色を高精度に自動検査の設備を紹介します。",
+          "main_exhibits": "",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-ab8167d419f015eb.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V035",
+    "selection": "Walter Maschinenbau",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-cf1c72146dc075db",
+          "year": 2024,
+          "company_name": "Walter Maschinenbau GmbH",
+          "booth": "E1089",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=lCRhaAH1JOM",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "●C.O.R.E.（Customer Oriented REvolution)\n●LCC ( LASER CONTOUR CHECK) 工具研削盤、放電加工機内に設置でき、加工中の工具の品質を確認できる\n●ATPシステム（Automated Tool Production)　WALTER機のみならず、他社製の加工機・設備も統合し、自動化を図ることができるシステム\n●レーザ加工機　Vision Laser　2025年リリース予定　11月６日開発責任者が来日し、ワークショップを開催\n●小径工具（工具径0.1㎜～）向けのCNC工具測定機　HELICHECK　NANO",
+          "main_exhibits": "●CNC工具放電研削盤　HELITRONIC POWER DIAMOND400\nワンチャックで、PCD / CBN工具を放電し、ハイス/超硬工具を研削加工が可能。\n対象工具径3 -380 mm、最大工具長520 mm、最大工具重量50 kg。\n2頭のベルト駆動スピンドル　もしくは、砥石交換装置をご利用の場合は、ワンスピンドルを採用可能。\n最新の放電ジェネレーター「FINE　PULSE」を採用し、高品位な面粗さが実現可能。\nその他、ロボットローダー、砥石交換装置、高効率化オプションを幅広く取り揃えている。\n高剛性に裏付けされた、高精度工具加工が可能。\n●CNC工具測定機　HELICHECK NANO\n花崗岩をベースに採用し、耐振性、熱安定性も備えており高精度な工具測定が可能。\n高精度ボールねじとリニアガイドが優れた位置決め精度を保証\n対象工具径　0.1-16ｍｍ　対象工具長　0.5-120ｍｍ\nEUX, MPE値　1.2 + L / 300）µm\n非接触測定により、高い繰り返し精度と、高精度測定が可能。\n●工具研削・放電用ソフトウェア　TOOL STUDIO\n数クリックで、標準工具のプログラム作成も可能なユーザーフレンドリーなソフトウェア\n複雑な形状の工具も柔軟性のあるソフトウェアでプログラム可能\nプログラムで見た通りに研削・放電が可能",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-cf1c72146dc075db.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-660584ca47c42612",
+          "year": 2026,
+          "company_name": "Walter Maschinenbau GmbH",
+          "booth": "E8001",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=roSu2EMRXwk",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "工具製造の未来を支えるトータルソリューション\nWALTERは、工具製造・再研磨分野における世界有数のブランドとして、研削、放電加工、測定、自動化、ソフトウェアを統合したトータルソリューションを提供しています。\nJIMTOFでは、日本初公開となるVISION LASERとAUTOMATED TOOL PRODUCTION（ATP）をはじめ、工具製造工程全体の効率化と自動化を実現する最新技術をご紹介します。さらに、高精度工具放電・研削盤HELITRONIC POWER DIAMOND 400、工具測定機HELICHECK PLUS、プログラミングソフトウェアHELITRONIC TOOL STUDIOを展示し、高精度・高効率な工具製造プロセスをご提案します。\nATPは研削盤、放電加工機、測定機を連携させる次世代自動化システムとして日本初公開。人手不足や生産効率向上へのニーズに応える無人生産ソリューションをご紹介します。\n主な対応分野\n・切削工具製造\n・工具再研磨\n・PCD・CBN工具加工\n・工具測定・品質管理\n・自動化・省人化\n・スマートファクトリー化",
+          "main_exhibits": "・VISION LASER（日本初公開）：レーザー加工による次世代工具製造ソリューション\n・AUTOMATED TOOL PRODUCTION（ATP）：（日本初公開） 研削・測定・放電加工を統合する自動化システム\n・HELITRONIC POWER DIAMOND 400： PCD・CBN工具に対応した高精度工具研削盤\n・HELICHECK PLUS： 高精度全自動工具測定機\n・ROBOCELL ：工具製造の無人化・自動化を支援するロボットセル\n・HELITRONIC TOOL STUDIO　： 工具設計から加工プログラム作成までをサポートするソフトウェア",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-660584ca47c42612.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V036",
+    "selection": "Innovalia Metrology",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-5bfdfb0d9b3dbf21",
+          "year": 2024,
+          "company_name": "Innovalia Metrology",
+          "booth": "E7083",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=WPabQbHCkho",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "最先端の測定技術を工作機械に\n弊社独自開発によるM3測定技術を工作機械に応用したM3MH機上測定ソフトウェア、3軸から同時5軸加工機の制御装置(メーカー、モデルを問わず)に簡単な接続方法で直接通信が可能になります。主な機能に、迅速なセットアップ、機上測定、またアーティファクトを用いた加工機の精度検証が挙げられ、使用するセンサーも(メーカー、モデルを問わず)接触、輪郭、光学センサーに対応しております。M3MHは非常に扱いやすく、CADがあればオフラインでプログラミングを行い、シミュレーション機能で5軸接触や測定所要時間の確認ができ、測定戦略や加工戦略に応じて3次元測定器と同様の高度なアライメントの使用や、複雑な幾何形状、寸法・幾何公差の測定が可能です。加工対象物を機外に取り出すことなく、そのまま機内で測定を行うことにより、加工プロセスの工数削減や時間短縮、高度なトレーサビリティによる信頼性の向上を可能にし、リアルタイムでプロセス制御を行い、加工機の傾向を検出し欠陥品防止にも貢献します。M3MHは機械加工プロセスの最適化を可能にする測定CAMです。",
+          "main_exhibits": "M3MH:工作機械用機上測定ソフトウェア\n3軸から同時5軸加工機対応。　セットアップ、測定、精度検証の3つの大きな機能を備えた最新の測定ソリューションです。(制御装置およびプローブのメーカー、種類に制限無し。)\nMHチェック / MH CHECK\nテトラへドロン（検証用アーティファクト）と併用し、プローブの校正、回転軸および空間精度の検証といった工作機械の自主点検が短時間で可能になります。衝突の発生時だけでなく、定期的に行えばその履歴から加工機の傾向も把握可能になります。\nオプティスキャンMH / OptiScan MH\n工作機械に3Dスキャニングを搭載し機上測定をステップアップ。接触型センサより取得可能なデータ量と作業時間の短縮は圧倒的に有利です。カラーマッピングでの測定結果の表示が可能になります。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-5bfdfb0d9b3dbf21.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-aad5ec46ee3c1b0c",
+          "year": 2026,
+          "company_name": "Innovalia Metrology",
+          "booth": "S4001",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=gvfw4D5z-qc",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "【出展テーマ】 「加工と計測の融合」でワーク載せ替えゼロへ！機上測定CAMソフト『M3MH』\n【見どころ】 機外計測のための「ワークの載せ替え」や、再セットアップ（芯出し）の手間、手戻りロスに悩んでいませんか？本ブースでは、既存の加工機で「機内計測・評価」を完結させる測定CAMソフト『M3MH』を出展します。\n■圧倒的な後付け互換性 メーカー・モデルを問わず、3軸から同時5軸加工機まで簡単な接続で直接通信が可能。接触・輪郭・光学式など、今お使いのセンサーもそのまま活かせます。\n■CAD連携でオフライン作成 オフィスで事前に測定プログラムを作成し、5軸の接触ルートや時間をシミュレーション。複雑な幾何公差の機上評価も簡単に行え、熟練工へのスキル依存から脱却できます。\n■現場にもたらす劇的な導入効果 機外に出さず機内でそのまま測定することで、段取り替えの自動化や芯出し短縮によるリードタイム削減、リアルタイム制御による不良品防止、全数検査による夜間無人運転の推進を実現します。",
+          "main_exhibits": "【M3MH機上測定ソフトウェア】\n「ワークを一度下ろすと再加工の芯出しが大変」「機外の3次元測定器が空くまでの待ち時間が長い」といった、加工と計測の“分断”によるロスに悩んでいませんか？\n本ソフトは、既存の加工機に「後付け」で高度なインライン計測・評価機能を付加する測定CAMシステムです。\n■製造部・CAM部の課題を同時解決\nワークの載せ替え不要：機内でそのまま高精度なアライメントや寸法・幾何公差の機上評価を行い、手戻りロスを撲滅。\n芯出し作業の短縮：段取り替えの自動化を推進し、リードタイムを劇的に削減。\n熟練工のスキル依存からの脱却：CAD連携によるオフラインプログラミングと5軸シミュレーション機能により、誰でも安全かつ簡単に測定が行えます。\nさらに、アーティファクトを用いた加工機の精度検証機能や、ATC連動・加工後の全数検査による「無人運転の完全自動化」までを強力にサポートします。\n今の加工プロセスを崩さず、無駄だけを削ぎ落とすシステムをぜひブースでご体感ください！",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-aad5ec46ee3c1b0c.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V037",
+    "selection": "ニコン",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-355a8b64dbe15eb3",
+          "year": 2024,
+          "company_name": "株式会社ニコン",
+          "booth": "E7073",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=anszOsTbjDI",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "■ロボットと組み合わせた自動搬送システムの実機展示・・画像測定システムNEXIV\n■大型NEXIVを利用した、各種測定機能の実演（形状評価、表面形状、他）\n■最新型　多機能X線CT検査装置のご案内\n■工業用、実体顕微鏡＋顕微鏡デジタルカメラ＋自動ステージによる、パーティクル自動検査実演\n■測定顕微鏡による、半自動測定実演\n■金属3Dプリンタ&レーザー除去加工機・・・造形サンプル展示\n■インライン向け新製品のご紹介　3Dイメージング、LuFact\n■開発中製品の紹介",
+          "main_exhibits": "■ロボットと組み合わせた自動搬送システムの実機展示・・画像測定システムNEXIV\n■大型NEXIVを利用した、各種測定機能の実演（形状評価、表面形状、他）\n■最新型　多機能X線CT検査装置のご案内\n■工業用、実体顕微鏡＋顕微鏡デジタルカメラ＋自動ステージによる、パーティクル自動検査実演\n■測定顕微鏡による、半自動測定実演\n■金属3Dプリンタ&レーザー除去加工機・・・造形サンプル展示\n■インライン向け新製品のご紹介　3Dイメージング、LuFact\n■開発中製品の紹介",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-355a8b64dbe15eb3.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-14dacc540e4ddb57",
+          "year": 2026,
+          "company_name": "株式会社ニコン",
+          "booth": "E7001",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=lmqsWTyiVAY",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "ニコンブースでは、「見る」「測る」「解る」をキーワードに、お客様のものづくり現場を支えるソリューションをご紹介します。精密計測、外観検査から内部解析までを網羅するトータルソリューションを通じて、品質向上と生産性向上を実現します。\n本展示会では製品のデモ展示に加え、最新技術や活用事例をご紹介するセミナーも開催いたします。人と機械が共創する社会の実現を目指すニコンの技術を是非ご覧ください。",
+          "main_exhibits": "●測る\n画像測定システムNEXIV VMZ-S6555\n測定顕微鏡 MM400+E-MAX\nレーザーレーダ MV5X\nアブソリュートエンコーダ MAR-M700MFA\n●見る\n工業用顕微鏡 SMZ18+DS100、ECLIPSE LV100AMS\nX線CT検査装置 VOXLSシリーズ\nX線CT受託検査サービス\n産業用カメラレンズ Rayfact\n装置組込顕微鏡ユニット CMシリーズ\n●解る\nロボットビジョンシステム",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-14dacc540e4ddb57.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V038",
+    "selection": "ミロクリエ",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-edb749152f11c762",
+          "year": 2026,
+          "company_name": "株式会社ミロクリエ",
+          "booth": "E2016",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=IQhLnLagU5I",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "保全業務が、変わる。\n「ミロクルカルテ」は、保全現場のリアルな声から生まれ、今も進化を続ける設備保全クラウドサービスです。\n「計画保全」「事後保全」「日常点検」「予備品管理」など、保全業務に必要な機能を標準搭載。PC・スマホ・タブレットから直感的に操作でき、写真・動画・音声入力にも対応しているため、デジタルが苦手な方からベテラン、若手まで、誰もが無理なく記録を残せます。\n蓄積された作業履歴は、分析グラフや故障原因・コスト分析として自動的に「見える化」。これまで熟練者の頭の中にしかなかったノウハウを組織の資産に変え、技術継承と業務改善を同時に実現します。\n紙やExcelへの転記作業もなくなり、月数時間かかっていた入力工数を大幅に削減できた導入事例も生まれています。\n故障を減らし、保全業務そのものを変えていく——現場が本当に使いこなせる設備保全クラウド、それが「ミロクルカルテ」です。\nさらに、ミロクルカルテは多彩な「現場密着型AI」をオプションとして用意。現場の状況やお悩みに合わせてお選びいただけます。詳しくは下記「主な出展物」をご覧ください。",
+          "main_exhibits": "●本体\n設備保全クラウドシステム　ミロクルカルテ\n・保全記録を蓄積・整理し、活用できるクラウドシステム\n・設備保全業務に必要な機能全般を標準搭載\n●現場密着型AIオプション\n・ミロクルAIメーター読み取り（α版）：\nメーターを撮るだけで、AIが目盛りを読み取り、点検入力欄へ数値と画像を自動反映\n・ミロクルAI分析レポート：\n保全記録をAIが読み解き、業界標準KPIのグラフ＋解説レポートを即時生成\nOEE（設備総合効率）・MTBF・MTTR・パレートなど30種類以上の分析メニューから選ぶだけ\n追加質問をチャットで深掘りも可能\n・ミロクルAI保全ナビ：\n現場状況をそのまま音声入力。不足項目や表記ゆれも補正・ガイドし、文章も適切な文章に整形\n類似トラブルや対応のヒントを対話形式で提示。まるでベテランがそばにいる安心感\n・ミロクルカルテAIヘルプチャット：\nミロクルカルテの全ての質問をAIが24時間365日受付／回答。マニュアルにない活用例も提供\n・ミロクルAIオフライン点検：\n紙・PDFの点検記録のデータ化を支援。防爆エリアや通信が不安定な現場でお薦め",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-edb749152f11c762.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V039",
+    "selection": "UEL",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-27cfcadf6ff0bb83",
+          "year": 2024,
+          "company_name": "UEL株式会社",
+          "booth": "E2036",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=uIeoIsq5v7g",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "FCS社製クランプ治具の設計支援システムを紹介。\n本システムは、加工に最適な治具構成を自動決定し、段取り作業の標準化を行うことが可能である。\nクランプ治具の製造元であるFCS社が推奨する加工時の治具構成ルールをナレッジDBとして搭載し、お客様の大切な製品を高速・高精度に加工する最適なクランプ治具構成を提案するシステムとなっている。\n本システムの開発元である当社は、国産唯一の3次元統合CAD/CAMシステムとして金型製造を支える\n『CADmeister』の開発で培った技術・ノウハウを結集。そこに、長年の金型製造で培った加工技術・ノウハウをもつTMW、クランピングシステムとして多くの実績を誇り、業界の一歩先をリードするFCSが三位一体となり本システムを開発。\n「設計段階で段取り工程を決める」ことで、より高品質なシステム化が実現する。\n本ブースでは、『BreylSimulator』活用術の提案並びに『CADmeister』を始めとする当社ソリューションとの連携による更なる効率化・自動化を提案。また、昨夏リリースしたデータ連携基盤『InforLoom』の利活用による製造DXの実現への道筋を分かり易く解説する。",
+          "main_exhibits": "・CADmeister：3次元CAD/CAM/CAEシステム\n・BreylSimulator：自動クランプ治具設計システム\n・3DAviewmeister：ビジュアライゼーションツール\n・IoT-Visualization：IoT/3D可視化システム\n・InforLoom：データ連携基盤",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-27cfcadf6ff0bb83.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-c56628752376bfc4",
+          "year": 2026,
+          "company_name": "UEL株式会社",
+          "booth": "S1024",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=dBv-8tktfaE",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "当社は、国産唯一の3次元統合CAD/CAMシステムとして金型製造を支える『CADmeister』の開発で培った技術・ノウハウを結集。そこに、長年の金型製造で培った加工技術・ノウハウをもつTMW、クランピングシステムとして多くの実績を誇り、業界の一歩先をリードするFCSが三位一体となりクランプ治具設計支援システム『BreylSimulator』を開発。「設計段階で段取り工程を決める」ことで、より高品質なシステム化を実現する。\n本ブースでは、『BreylSimulator』活用術の提案並びに『CADmeister』を始めとする当社ソリューションとの連携による更なる効率化・自動化を提案。金型設計・製作分野へのAI適用から技術継承を支援するXRソリューションまで、ものづくりの基盤を支える技術で全体プロセスを最適化します。また、データ連携基盤『InforLoom』の利活用による製造DX実現への道筋を分かり易く解説する。",
+          "main_exhibits": "・CADmeister：3次元CAD/CAM/CAEシステム\n・BreylSimulator：自動クランプ治具設計システム\n・XDaevr：XRソリューション\n・AIソリューション\n・IoT-Visualization：IoT/3D可視化システム\n・InforLoom：データ連携基盤",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-c56628752376bfc4.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V040",
+    "selection": "テクノア",
+    "years": {
+      "2024": [
+        {
+          "exhibitor_record_id": "EXH-2024-5a7f836124194d7f",
+          "year": 2024,
+          "company_name": "株式会社テクノア",
+          "booth": "E5044",
+          "detail_url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=lmqsWTyiVAY",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "中小製造業様のDXを推進する生産管理＆AI・IoTソリューションをご紹介！ ITツールと伴走型支援で、経営改善・業務の効率化・生産性向上をサポートします。\nテクノアは、システム開発を通じて、日本のものづくりの根幹を支える中小製造業様を応援しています。 テクノアブースでは、「守りのDX」の代表格である、導入実績4,500社超の生産管理システム『TECHSシリーズ』をはじめとした生産管理ソリューション、AIを活用した業務プロセスの変革や新たなビジネスモデルを創出する「攻めのDX」を実現するソリューションをご案内いたします。",
+          "main_exhibits": "クラウド対応型生産管理システム『TECHSシリーズ』\n導入実績4,500社超！大ベストセラーの生産管理システムです。\n個別受注や多品種少量生産といった中小製造業様に特化し、システム導入による「業務改善」や「データの見える化」だけでなく、生産性向上と営業力強化、原価低減の実現をサポートいたします。\n▼『TECHS』シリーズは、生産形態に応じて2つの製品を用意しております。\n◇クラウド対応型：個別受注型機械・装置業様向け生産管理システム『TECHS-NOA』\n◇【NEW】クラウド対応型：多品種少量型：部品加工業様向け生産管理システム『TECHS-BK』\n▼ユーザー様の導入事例はこちら：https://www.techs-s.com/case",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2024_EXH-2024-5a7f836124194d7f.html"
+        }
+      ],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-670300ff3c6adb61",
+          "year": 2026,
+          "company_name": "株式会社テクノア",
+          "booth": "S3009",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=sSRmH-KuV8U",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "テクノアは「守り」と「攻め」両輪のDXソリューションで、中小製造業様の課題解決を支援する。\n「守りのDX」では、情報のデジタル化とデータ活用による業務効率化を実現するクラウド対応型生産管理システム『TECHS』シリーズをはじめ、生産管理・工程管理のソリューションを展示する。中でも、ミスミ社の4,000万点超の商品データとの標準連携により、購買業務のDX化・調達業務の効率化を実現するソリューションを紹介する。\n「攻めのDX」では、AI・IoT・企業間連携を活用し、仕事のしかたの変革や新たなビジネス価値の創出を支援するソリューションを展示する。\n『TECHS』シリーズは、1994年に個別受注型の機械・装置製造業様、多品種少量型の部品加工業様に特化したパッケージソフトとして開発された。クラウド対応やスマホ実績収集オプションなど、多くのユーザー様の声をもとに、日々改善・進化を続けている。導入実績4,500社超を誇る『TECHS』シリーズが提供する「コスト削減」「利益体質の実現」「経営力の強化」といった導入効果を、ぜひブースで体験いただきたい。",
+          "main_exhibits": "中小製造業様向け クラウド対応型生産管理システム『TECHS』シリーズ\n個別受注や多品種少量生産といった中小製造業様に特化した、クラウド対応型 生産管理システム。導入実績4,500社超の大ベストセラー製品です。\nシステム導入による「業務改善」や「データの見える化」だけでなく、生産性向上と営業力強化、原価低減の実現をサポートします。\n▼『TECHS』シリーズ｜生産形態に応じた２つの製品\n◇クラウド対応型：個別受注型機械・装置業様向け生産管理システム『TECHS-S NOA』\n◇クラウド対応型：多品種少量型：部品加工業様向け生産管理システム『TECHS-BK』\n【新機能】\n『TECHS-BK』のクラウド版に対応した新オプション「スマホ実績収集オプション」が登場。スマートフォンで実績登録が可能になりました。2025年6月の発売以降も、ロット管理機能の追加、オンプレミス環境に対応とアップデートを続けています。\n『TECHS-S NOA』がアップデート、ミスミ社の商品データベース（4,000万点超）とAPI連携を開始。見積・発注・受入業務を自動化し、購買部門の生産性《最大2倍》を目指す新サービスを2026年7月1日より提供開始いたしました。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-670300ff3c6adb61.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V041",
+    "selection": "匠技研工業",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-772ea44d0e95dba2",
+          "year": 2026,
+          "company_name": "匠技研工業株式会社",
+          "booth": "S3011",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258",
+          "parse_status": "主な出展物のみ掲載（説明本文なし）",
+          "exhibition_introduction": "",
+          "main_exhibits": "匠フォースは、見積・設計・調達・原価管理などの業務を担う、製造業のためのAIエージェントです。AIが自律的に作業を進め、人は承認や判断に専念。使うほど現場のノウハウを学習して組織の力に変え、AI時代の新しい働き方を実現します。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-772ea44d0e95dba2.html"
+        }
+      ]
+    }
+  },
+  {
+    "review_id": "V042",
+    "selection": "興和オプトロニクス",
+    "years": {
+      "2024": [],
+      "2026": [
+        {
+          "exhibitor_record_id": "EXH-2026-d8cb2091f35c6af8",
+          "year": 2026,
+          "company_name": "興和オプトロニクス株式会社",
+          "booth": "S3104",
+          "detail_url": "https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ",
+          "parse_status": "説明本文・主な出展物を保存済み",
+          "exhibition_introduction": "興和オプトロニクスは、長年の経験によって蓄積された光学設計技術と、国内生産による高い品質管理力を強みに、お客様の課題に応じた最適なビジョンソリューションを提供しています。さらに、AIや画像処理技術を融合することで、検査・計測・監視分野における高度な自動化・省人化を支援しています。\n興和オプトロニクスの技術力を結集して開発されたのが、「耐環境ビジョンユニット」です。工作機械内部や製造ラインなど、水・油・粉塵・切粉が飛散する過酷な環境下でも安定した撮像を実現し、現場の状況を鮮明に可視化します。独自の回転機構とエアー制御技術により、レンズ面への液体や汚れの付着を抑制し、常にクリアな視界を維持。さらに、防水・耐油構造や高耐久部材の採用により、一般的なカメラでは対応が難しい環境でも長期間の運用が可能です。\nまた、ビジョンプロセッサやAIと連携することで、異常検知や品質管理、加工状態の監視、遠隔モニタリングなど幅広い用途に対応。製造現場の「見える化」だけでなく、生産性向上や予知保全、省人化・自動化の実現にも貢献します。",
+          "main_exhibits": "【工作機械の「異常を見逃さない」 RWシリーズ・耐ミスト/粉塵レンズ×AI画像処理ソリューション】\n工作機械の自動化が進む中、工具折損や切粉巻付きなどの不具合は品質不良や生産性低下の要因となっています。興和オプトロニクスは、RWシリーズと耐ミスト/粉塵レンズ、AI画像処理技術を組み合わせ、加工現場の稼働状況をリアルタイムに見える化するソリューションを提供します。\nRWシリーズは水や油が飛散する環境でも鮮明な撮像を実現し、耐ミスト/粉塵レンズはミストや粉塵が発生する過酷な環境下でも安定した視認性を確保します。取得した映像をAIが解析することで、切粉の異常蓄積や工具折損・摩耗を自動検知し、不良品の発生や設備トラブルを未然に防止します。\nこれにより、設備停止時間の削減、歩留まり向上、工具寿命の最大化を実現。工作機械へ新たな「視覚」と「判断力」を提供し、監視自動化や予防保全を通じて、スマートファクトリー化と生産性向上に貢献します。",
+          "evidence_locator": "main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp",
+          "evidence_type": "公式カタログ掲載・出展者記述。2026は展示予定で現地実演未確認。",
+          "checked_date": "2026-10-16",
+          "cache_path": "sources\\detail_2026_EXH-2026-d8cb2091f35c6af8.html"
+        }
+      ]
+    }
+  }
+]

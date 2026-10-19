@@ -1,0 +1,3650 @@
+{
+  "title": "JIMTOF2026 AIと自動化の動向調査",
+  "date": "2026-10-19",
+  "catalogue_date": "2026-10-16",
+  "census": {
+    "basis": "全掲載行を処理し、NFKC・空白除去・casefoldの名称キーで集約。法人単位の完全名寄せではない。",
+    "rules": {
+      "AI明示": "(?<![a-z])ai(?![a-z])|人工知能|機械学習|深層学習|生成ai|machine learning|deep learning",
+      "生成AIとエージェント": "生成ai|エージェント|大規模言語|\\bllm\\b|generative ai|coagent|copilot|chatgpt",
+      "フィジカルAI明示": "フィジカル\\s*ai|physical\\s*ai",
+      "自動化と省人化": "自動化|省人|省力|無人|ロボット|ハンドリング|自動搬送|自動計測|自動測定|自動検査|automation|robot|unmanned",
+      "設計製造のデジタル化": "デジタルツイン|シミュレ|自動プログラ|(?<![a-z])(?:cad|cam)(?![a-z])|工程設計|工程計画|見積|digital twin|simulation",
+      "工場運用とデータ連携": "(?<![a-z])(?:dx|ax|iot|mes|aps|opc)(?![a-z])|データ連携|データ活用|稼働監視|稼働管理|工程管理|生産管理|工具管理|デジタル化|smart factory",
+      "状態監視と補正": "機上計測|加工監視|状態監視|異常検|予知|予兆|予防保全|適応制御|補正|インプロセス|in.process|condition monitoring",
+      "自律の明示": "自律|autonomous"
+    },
+    "2024": {
+      "input": "data\\exhibitors_2024_with_details.csv",
+      "sha256": "b3ba608c7c7213b55776a9a72253e4df053c73e92c459a7e7a089287b884d9f1",
+      "listing_rows": 1281,
+      "name_keys": 1242,
+      "text_name_keys": 933,
+      "text_coverage_pct": 75.1,
+      "no_text_name_keys": 309,
+      "theme_counts": {
+        "AI明示": 29,
+        "生成AIとエージェント": 1,
+        "フィジカルAI明示": 0,
+        "自動化と省人化": 245,
+        "設計製造のデジタル化": 61,
+        "工場運用とデータ連携": 87,
+        "状態監視と補正": 47,
+        "自律の明示": 8
+      },
+      "theme_rates": {
+        "AI明示": 3.1,
+        "生成AIとエージェント": 0.1,
+        "フィジカルAI明示": 0.0,
+        "自動化と省人化": 26.3,
+        "設計製造のデジタル化": 6.5,
+        "工場運用とデータ連携": 9.3,
+        "状態監視と補正": 5.0,
+        "自律の明示": 0.9
+      }
+    },
+    "2026": {
+      "input": "data\\exhibitors_2026_with_details.csv",
+      "sha256": "b617d3d1ea26c3f0252687650e88c7f91f1d91a47f11865368551f6e9f005387",
+      "listing_rows": 1146,
+      "name_keys": 1131,
+      "text_name_keys": 800,
+      "text_coverage_pct": 70.7,
+      "no_text_name_keys": 331,
+      "theme_counts": {
+        "AI明示": 57,
+        "生成AIとエージェント": 7,
+        "フィジカルAI明示": 7,
+        "自動化と省人化": 249,
+        "設計製造のデジタル化": 54,
+        "工場運用とデータ連携": 77,
+        "状態監視と補正": 37,
+        "自律の明示": 10
+      },
+      "theme_rates": {
+        "AI明示": 7.1,
+        "生成AIとエージェント": 0.9,
+        "フィジカルAI明示": 0.9,
+        "自動化と省人化": 31.1,
+        "設計製造のデジタル化": 6.8,
+        "工場運用とデータ連携": 9.6,
+        "状態監視と補正": 4.6,
+        "自律の明示": 1.2
+      }
+    },
+    "matched_panel": {
+      "name_keys": 538,
+      "counts": {
+        "AI明示": {
+          "2024": 22,
+          "2026": 40
+        },
+        "生成AIとエージェント": {
+          "2024": 0,
+          "2026": 5
+        },
+        "フィジカルAI明示": {
+          "2024": 0,
+          "2026": 7
+        },
+        "自動化と省人化": {
+          "2024": 172,
+          "2026": 193
+        },
+        "設計製造のデジタル化": {
+          "2024": 43,
+          "2026": 39
+        },
+        "工場運用とデータ連携": {
+          "2024": 59,
+          "2026": 57
+        },
+        "状態監視と補正": {
+          "2024": 31,
+          "2026": 26
+        },
+        "自律の明示": {
+          "2024": 4,
+          "2026": 6
+        }
+      },
+      "transitions": {
+        "AI明示": {
+          "both": 15,
+          "added_wording": 25,
+          "removed_wording": 7
+        },
+        "生成AIとエージェント": {
+          "both": 0,
+          "added_wording": 5,
+          "removed_wording": 0
+        },
+        "フィジカルAI明示": {
+          "both": 0,
+          "added_wording": 7,
+          "removed_wording": 0
+        },
+        "自動化と省人化": {
+          "both": 133,
+          "added_wording": 60,
+          "removed_wording": 39
+        },
+        "設計製造のデジタル化": {
+          "both": 31,
+          "added_wording": 8,
+          "removed_wording": 12
+        },
+        "工場運用とデータ連携": {
+          "both": 35,
+          "added_wording": 22,
+          "removed_wording": 24
+        },
+        "状態監視と補正": {
+          "both": 11,
+          "added_wording": 15,
+          "removed_wording": 20
+        },
+        "自律の明示": {
+          "both": 2,
+          "added_wording": 4,
+          "removed_wording": 2
+        }
+      }
+    },
+    "cooccurrence_2026": {
+      "生成AIとエージェント": 7,
+      "フィジカルAI明示": 7,
+      "自動化と省人化": 32,
+      "設計製造のデジタル化": 14,
+      "工場運用とデータ連携": 19,
+      "状態監視と補正": 11,
+      "自律の明示": 5
+    },
+    "notes": [
+      "語の明示件数は採用率・市場シェア・成熟度ではない。分類は重複。",
+      "同名パネルにも説明量・製品選択の年度差がある。語の追加は新機能登場を意味しない。",
+      "情報欠損を陰性として扱わない。社名変更は本パネルに自動追加しない。"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "JIMTOF2026 開催概要",
+      "url": "https://www.jimtof.org/jp/outline.html",
+      "locator": "会期・開場時間・東4〜6ホール休館",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S02",
+      "title": "JIMTOF2026 企画展示と特別企画",
+      "url": "https://www.jimtof.org/jp/evt_show.html",
+      "locator": "ロボティクス企画・きさげロボット・AM ZONE",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S03",
+      "title": "2026年版ものづくり白書 概要",
+      "url": "https://www.meti.go.jp/report/whitepaper/mono/2026/pdf/gaiyo.pdf",
+      "locator": "20ページ AIロボティクス戦略の整理",
+      "checked": "2026-10-19",
+      "published": "2026-05"
+    },
+    {
+      "id": "S04",
+      "title": "日工会 会員104社の出展見どころ",
+      "url": "https://www.jmtba.or.jp/news/news-16826/",
+      "locator": "104社・10月26日に完全版公開予定",
+      "checked": "2026-10-19",
+      "published": "2026-10-15"
+    },
+    {
+      "id": "S05",
+      "title": "DMG森精機 JIMTOF2026",
+      "url": "https://www.dmgmori.co.jp/sp/jimtof/jimtof2026/",
+      "locator": "GX Flex・AMR・工具管理から保全までの連携",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S06",
+      "title": "DMG MORI Condition Agent",
+      "url": "https://www.dmgmori.co.jp/corporate/en/news/2026/20260706_conditionagent_e.html",
+      "locator": "対象機と2026年4月受注分からの標準提供。検索収録と既存根拠台帳で確認",
+      "checked": "2026-10-19",
+      "published": "2026-07-06"
+    },
+    {
+      "id": "S07",
+      "title": "マザック JIMTOF2026",
+      "url": "https://www.mazak.com/discover/jp-ja/jimtof2026/",
+      "locator": "工程集約・E1001・AI紹介動画の公開予定",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S08",
+      "title": "オークマ JIMTOF2026",
+      "url": "https://www.okuma.co.jp/english/show/jimtof/2026/",
+      "locator": "ARMROID・OMR20・Tower APC・AI and Intelligent Technologies",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S09",
+      "title": "ファナック 新商品発表展示会2026",
+      "url": "https://www.fanuc.co.jp/ja/profile/news/article/article33.html",
+      "locator": "FAコーナ デジタルで確認してから適用するフィジカルAI CNC",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S10",
+      "title": "三菱電機 JIMTOF2026 出展案内",
+      "url": "https://fa-site.mitsubishielectric.co.jp/fa/events-seminars/exhibitions/2026/jimtof2026/index.html",
+      "locator": "CNC・省人化ソリューションと実機展示なしの注記",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S11",
+      "title": "NIDECグループ JIMTOF2026",
+      "url": "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+      "locator": "TR-20W 切粉除去は参考出品・Nidec NC Twin",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S12",
+      "title": "ジェイテクト JIMTOF2026",
+      "url": "https://toyoda.jtekt.co.jp/jimtof2026/",
+      "locator": "Mill-Plan・ファインティーチレス・工場マネジメント",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S13",
+      "title": "ミツトヨ JIMTOF特設サイト",
+      "url": "https://www.mitutoyo.co.jp/jimtof/",
+      "locator": "MiSTARと加工機の連携・RA-Robot・品質管理DXセミナー",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S14",
+      "title": "レニショー JIMTOF2024 Central紹介",
+      "url": "https://www.renishaw.com/jp/renishaws-new-smart-manufacturing-data-platform-showcases-smart-factory-automation-at-imts-2024--48184",
+      "locator": "2024年時点のRenishaw Central展示",
+      "checked": "2026-10-19",
+      "published": "2024年の展示案内"
+    },
+    {
+      "id": "S15",
+      "title": "Renishaw Centralと工程制御",
+      "url": "https://www.renishaw.com/jp/smart-manufacturing-data-platform-for-industrial-process-control--47853",
+      "locator": "計測データ収集・処理・工程制御。既存根拠台帳も参照",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S16",
+      "title": "Hexagon JIMTOF2026 国内初展示",
+      "url": "https://prtimes.jp/main/html/rd/p/000000027.000148625.html",
+      "locator": "E2013・E7035・ProPlanAIとMAESTRO",
+      "checked": "2026-10-19",
+      "published": "2026-10-14"
+    },
+    {
+      "id": "S17",
+      "title": "ESPRIT EDGE リリース履歴",
+      "url": "https://hexagon.com/products/esprit-edge/release-highlights",
+      "locator": "2025.2 ProPlanAI導入・2026.1旋削等の商用拡張・2026.2も掲載",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S18",
+      "title": "CloudNC Mastercam向け提供開始",
+      "url": "https://www.cloudnc.com/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+      "locator": "3軸・3+2軸、北米販売を含む提供開始発表",
+      "checked": "2026-10-19",
+      "published": "2024-07-25"
+    },
+    {
+      "id": "S19",
+      "title": "CloudNC CAM Assist for Mastercam",
+      "url": "https://www.cloudnc.com/ja/mastercam",
+      "locator": "戦略生成とプログラマーの確認・調整。版と国内提供条件は現地確認",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S20",
+      "title": "Beckhoff TwinCAT Chat",
+      "url": "https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html",
+      "locator": "PLCコード作成支援の既存性",
+      "checked": "2026-10-19",
+      "published": "2023-04"
+    },
+    {
+      "id": "S21",
+      "title": "Beckhoff CoAgent 技術発表",
+      "url": "https://www.beckhoff.com/en-us/company/press/open-model-independent-ai-assistance-for-automation-programming-and-controls-engineering-2026-06.html",
+      "locator": "PLC・I/O・HMI、Operationsは今後の拡張との記載",
+      "checked": "2026-10-19",
+      "published": "2026-06-23"
+    },
+    {
+      "id": "S22",
+      "title": "HACARUS Check ZERO 正式販売",
+      "url": "https://hacarus.com/ja/press-release/20250707-news/",
+      "locator": "少量良品学習・追加学習。発売は2025年",
+      "checked": "2026-10-19",
+      "published": "2025-07-07"
+    },
+    {
+      "id": "S23",
+      "title": "OPC UA情報モデルとAIエージェント",
+      "url": "https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/",
+      "locator": "MCP Adapterは提供計画。既存台帳EDP-06と照合",
+      "checked": "2026-10-19",
+      "published": "2026-06"
+    },
+    {
+      "id": "S24",
+      "title": "中村留 JIMTOF2026",
+      "url": "https://www.nakamura-tome.co.jp/lp/jimtof2026/",
+      "locator": "RoboSync・既存台車／パレットの利用・E2027",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S25",
+      "title": "パナソニック AI支援型遠隔操作の実証",
+      "url": "https://news.panasonic.com/jp/press/jn260713-1",
+      "locator": "障害物停止時の人による遠隔回避。別会場の実証",
+      "checked": "2026-10-19",
+      "published": "2026-07-13"
+    },
+    {
+      "id": "S26",
+      "title": "匠フォース AIエージェント発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000057137.html",
+      "locator": "引合受領から見積書作成・人の確認修正承認",
+      "checked": "2026-10-19",
+      "published": "2026-07-17"
+    },
+    {
+      "id": "S27",
+      "title": "東京精密 JIMTOF2026",
+      "url": "https://www.accretech.com/jp/product/measuring/event/20261026_jimtof.html",
+      "locator": "出展日程確認。具体展示内容の記載不足",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "S28",
+      "title": "松浦機械 JIMTOF2026",
+      "url": "https://exhibition-matsuura.com/entrance/",
+      "locator": "MX-850T PC4・MX-520T PC7・GibbsCAM2026",
+      "checked": "2026-10-19",
+      "published": "掲載日記載なし"
+    },
+    {
+      "id": "C01-2026-1",
+      "title": "DMG森精機株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C01-2024-1",
+      "title": "DMG森精機株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=lOXEEpvlXpM",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C01-2024-2",
+      "title": "DMG森精機株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=ym-EER7BJeY",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C02-2026-1",
+      "title": "ヤマザキマザック株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C02-2024-1",
+      "title": "ヤマザキマザック株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=q0OrZBKM3uQ",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C03-2026-1",
+      "title": "オークマ株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C03-2024-1",
+      "title": "オークマ株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=iFfGVH0vPS8",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C04-2026-1",
+      "title": "株式会社牧野フライス製作所 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=M5OL10ECBTE",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C04-2024-1",
+      "title": "株式会社牧野フライス製作所 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=95Yl5dQv2vI",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C05-2026-1",
+      "title": "ファナック株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C05-2024-1",
+      "title": "ファナック株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=N0RgOmmcwZw",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C06-2026-1",
+      "title": "三菱電機株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C06-2024-1",
+      "title": "三菱電機株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=30li0vWcseI",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C07-2026-1",
+      "title": "シーメンス株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=EBIotJu7lrg",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C07-2024-1",
+      "title": "シーメンス株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=nYvFR1vpbuE",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C08-2026-1",
+      "title": "株式会社ジェイテクト 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=cW9RNSMEfso",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C08-2024-1",
+      "title": "株式会社ジェイテクト 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=mjIyOzHh7nU",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C09-2026-1",
+      "title": "ニデックマシンツール株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=oS1WYTzqdvg",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C09-2024-1",
+      "title": "ニデックマシンツール株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=F6J7FmEp-qk",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C09-2024-2",
+      "title": "ニデックマシンツール株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=QF9JlOzN9Gk",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C10-2026-1",
+      "title": "ニデックオーケーケー株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=cIGcLA71ub0",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C10-2024-1",
+      "title": "ニデックオーケーケー株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=15EOJWcvGE8",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C11-2026-1",
+      "title": "株式会社ソディック 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=k6keXdSLQmQ",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C11-2024-1",
+      "title": "株式会社ソディック 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=VYjGUrtgdX4",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C12-2026-1",
+      "title": "株式会社アマダ 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=lwacRdqPa60",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C12-2024-1",
+      "title": "株式会社アマダ 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=Jc5GYaUqS1I",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C13-2026-1",
+      "title": "ブラザー工業株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=lOXEEpvlXpM",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C13-2024-1",
+      "title": "ブラザー工業株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=hoSOue_ZEek",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C14-2026-1",
+      "title": "株式会社松浦機械製作所 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K_X61J2xV_w",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C14-2024-1",
+      "title": "株式会社松浦機械製作所 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=_4GLIXLZuKE",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C14-2024-2",
+      "title": "株式会社松浦機械製作所 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=coHqGCjVn0c",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C15-2026-1",
+      "title": "シチズンマシナリー株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=sqCigr-Fu70",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C15-2024-1",
+      "title": "シチズンマシナリー株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=Yym6acTNJ3w",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C16-2026-1",
+      "title": "スター精密株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=uGFHKigy2ag",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C16-2024-1",
+      "title": "スター精密株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=Lko701EYhhQ",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C17-2026-1",
+      "title": "株式会社ツガミ 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=fKOIqkxqaBI",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C17-2024-1",
+      "title": "株式会社ツガミ 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=5KpFSEqJrhg",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C18-2026-1",
+      "title": "オーエスジー株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=AooPnMJlHW4",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C18-2024-1",
+      "title": "オーエスジー株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=soucpoaRRyI",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C19-2026-1",
+      "title": "三菱マテリアル株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=8cRbffPwDP4",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C19-2024-1",
+      "title": "三菱マテリアル株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=hpqsb6ow7y8",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C20-2026-1",
+      "title": "京セラ株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=E4SA18YM2G4",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C20-2024-1",
+      "title": "京セラ株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=0vdiPA6Ji_M",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C21-2026-1",
+      "title": "株式会社タンガロイ 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=VUyVyFPIn2Q",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C21-2024-1",
+      "title": "株式会社タンガロイ 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=vm3yerTfsk0",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C22-2026-1",
+      "title": "株式会社ミツトヨ 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=a7y3JtW8DXM",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C22-2024-1",
+      "title": "株式会社ミツトヨ 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=1CDoltPa9rk",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C23-2024-1",
+      "title": "株式会社東京精密 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=Rtj9rox8Zj4",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C24-2026-1",
+      "title": "レニショー株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=pYGmVz5GC1c",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C24-2024-1",
+      "title": "レニショー株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=ekM3exgIAtc",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C25-2026-1",
+      "title": "ハイデンハイン株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C25-2024-1",
+      "title": "ハイデンハイン株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=GFSwCXSxe9o",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C26-2026-1",
+      "title": "ベッコフオートメーション株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C27-2026-1",
+      "title": "Hexagon Manufacturing Intelligence株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=oUyVPjxvy-U",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C27-2026-2",
+      "title": "Hexagon Manufacturing Intelligence株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C28-2026-1",
+      "title": "住友電気工業株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=fUD_CMl54Kw",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C28-2024-1",
+      "title": "住友電気工業株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=qIDqZhLSNgg",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C29-2026-1",
+      "title": "中村留精密工業株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=C7A_2ZTDXNw",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C29-2024-1",
+      "title": "中村留精密工業株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=RYK326OoMn4",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C30-2026-1",
+      "title": "株式会社FUJI 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=xJlXi-VNzio",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C30-2024-1",
+      "title": "株式会社FUJI 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=UZiobfgROkY",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C31-2026-1",
+      "title": "株式会社TAKISAWA 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C31-2024-1",
+      "title": "株式会社TAKISAWA 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=K00DRD-BngA",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C32-2026-1",
+      "title": "オートデスク株式会社 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=Y_kC6hMTghk",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C32-2024-1",
+      "title": "オートデスク株式会社 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=5CWUqNS_dBw",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "C33-2026-1",
+      "title": "株式会社ニコン 2026公式出展説明",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=lmqsWTyiVAY",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2026開催分"
+    },
+    {
+      "id": "C33-2024-1",
+      "title": "株式会社ニコン 2024公式出展説明",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=anszOsTbjDI",
+      "locator": "出展説明・主な出展物",
+      "checked": "2026-10-16",
+      "published": "2024開催分"
+    },
+    {
+      "id": "EOV-V007-2026-2",
+      "title": "JIMTOF2026公式カタログ：Hexagon Manufacturing Intelligence株式会社 (E2013)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-W02",
+      "title": "ESPRIT EDGE Release Highlights",
+      "url": "https://hexagon.com/products/esprit-edge/release-highlights",
+      "locator": "2025.2 PROPLANAI、2026.1 ProPlanAI for Turning, Mill-Turn & Swiss",
+      "checked": "2026-10-16",
+      "published": "0年資料"
+    },
+    {
+      "id": "EOV-V008-2024-1",
+      "title": "JIMTOF2024公式カタログ：ジェービーエムエンジニアリング株式会社 (E5028)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=G-8gydwhMvE",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V008-2024-2",
+      "title": "JIMTOF2024公式カタログ：ジェービーエムエンジニアリング株式会社 (AM111)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=ZBxZW2vyjUw",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V008-2026-1",
+      "title": "JIMTOF2026公式カタログ：ジェービーエムエンジニアリング株式会社 (E2002)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=VrAjMTKmxdw",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-09",
+      "title": "Mastercam向けCAM Assist",
+      "url": "https://www.cloudnc.com/ja/mastercam",
+      "locator": "仕組みステップ1〜4／FAQの対象加工・顧客データ学習の否定",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-10",
+      "title": "Mastercam向けCAM Assist提供開始",
+      "url": "https://www.cloudnc.com/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+      "locator": "July 25, 2024／3軸・3+2軸向け。北米販売開始の説明",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "ERF-03",
+      "title": "Mastercam CAM Assist：確認・調整と学習方針",
+      "url": "https://www.cloudnc.com/ja/mastercam",
+      "locator": "仕組みStep 2–4／FAQ：顧客データで学習しない、加工性評価、編集可能CAM",
+      "checked": "2026-10-18",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V005-2026-1",
+      "title": "JIMTOF2026公式カタログ：ベッコフオートメーション株式会社 (E2028)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EAT-N03",
+      "title": "CoAgent for Engineering TE1700",
+      "url": "https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+      "locator": "Features／Product status",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EAT-N05",
+      "title": "TwinCAT projects with AI-assisted engineering",
+      "url": "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+      "locator": "CoAgents for development and machine operation",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-03",
+      "title": "TwinCAT Chat発表",
+      "url": "https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html",
+      "locator": "TwinCAT XAE／コード作成・追加・最適化・文書化",
+      "checked": "2026-10-16",
+      "published": "2023年資料"
+    },
+    {
+      "id": "ERF-01",
+      "title": "From chatbot to intelligent agent",
+      "url": "https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html",
+      "locator": "2025/6/13／Placing people at the heart of automation；PLC・I/O・HMI、専門家がreview・confirm・approve",
+      "checked": "2026-10-18",
+      "published": "2025年資料"
+    },
+    {
+      "id": "EOV-V041-2026-1",
+      "title": "JIMTOF2026公式カタログ：匠技研工業株式会社 (S3011)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-05",
+      "title": "匠フォースAIエージェント発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000057137.html",
+      "locator": "見積金額算出／人の修正による再学習／引合受領から見積書作成",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V002-2024-1",
+      "title": "JIMTOF2024公式カタログ：ファナック株式会社 (S2001)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=N0RgOmmcwZw",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V002-2026-1",
+      "title": "JIMTOF2026公式カタログ：ファナック株式会社 (S2001)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V030-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社TAKISAWA (E3013)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=K00DRD-BngA",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V030-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社TAKISAWA (E3013)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EAT-N01",
+      "title": "JIMTOF2026 TR-20W",
+      "url": "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+      "locator": "TR-20W：フィジカルAI搭載のロボットシステム（参考出品）",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EAT-N02",
+      "title": "MGC300開発発表",
+      "url": "https://www.nidec.com/jp/product/news/2024/news1101-03/",
+      "locator": "2024年11月1日／MGC300の出展説明",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "ERF-13",
+      "title": "JIMTOF2026：TR-20W参考出品",
+      "url": "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+      "locator": "TAKISAWA／TR-20W、主軸の切粉認識・判断・除去、参考出品",
+      "checked": "2026-10-18",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V031-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社シマダマシンツール (E6026)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=WZjeoEoTWXw",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V031-2024-2",
+      "title": "JIMTOF2024公式カタログ：株式会社シマダマシンツール (AM103)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=bLvQhW7XtZw",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V031-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社シマダマシンツール (E2018)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EAT-V045-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社ケーメックス・オートメーション",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=tvCG3p0xThA",
+      "locator": "出展紹介・主な出展物（カードの製品名・機能語で検索）",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EAT-V045-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社ケーメックス・オートメーション",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=bz4bGc4T6ag",
+      "locator": "出展紹介・主な出展物（カードの製品名・機能語で検索）",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EAT-V046-2024-1",
+      "title": "JIMTOF2024公式カタログ：テクノダイナミックス株式会社",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=7pg5I7Dvfkc",
+      "locator": "出展紹介・主な出展物（カードの製品名・機能語で検索）",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EAT-V046-2026-1",
+      "title": "JIMTOF2026公式カタログ：テクノダイナミックス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=2X8A1y5c4A8",
+      "locator": "出展紹介・主な出展物（カードの製品名・機能語で検索）",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V001-2024-1",
+      "title": "JIMTOF2024公式カタログ：DMG森精機株式会社 (E8001)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=lOXEEpvlXpM",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V001-2026-1",
+      "title": "JIMTOF2026公式カタログ：DMG森精機株式会社 (E8005)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V003-2024-1",
+      "title": "JIMTOF2024公式カタログ：オークマ株式会社 (E6048)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=iFfGVH0vPS8",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V003-2026-1",
+      "title": "JIMTOF2026公式カタログ：オークマ株式会社 (E3028)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V025-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社イマオコーポレーション (W2002)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=MTYTZ2Km3zM",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V025-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社イマオコーポレーション (W2001)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=shuDpJLDn-A",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-30",
+      "title": "ナットランナー治具",
+      "url": "https://www.imao.co.jp/products/nutrunnerclamp.html",
+      "locator": "ロボットのナットランナーでクランプ／配管配線不要／手動も可能",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-32",
+      "title": "JIMTOF2024出展パンフレット",
+      "url": "https://www.imao.co.jp/event-20241105-1110-jimtof/jimtof.pdf",
+      "locator": "ナットランナー治具各型式／人でもロボットでも操作可能",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V026-2024-1",
+      "title": "JIMTOF2024公式カタログ：エヌティーツール株式会社 (W2050)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=pYGmVz5GC1c",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V026-2026-1",
+      "title": "JIMTOF2026公式カタログ：エヌティーツール株式会社 (W2019)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=iW3vesxy4DU",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V027-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社牧野フライス製作所 (E3034)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=95Yl5dQv2vI",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V027-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社牧野フライス製作所 (E1024)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=M5OL10ECBTE",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V028-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社松浦機械製作所 (E3019)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=_4GLIXLZuKE",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V028-2024-2",
+      "title": "JIMTOF2024公式カタログ：株式会社松浦機械製作所 (AM115)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=coHqGCjVn0c",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V028-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社松浦機械製作所 (E3030)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K_X61J2xV_w",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V029-2024-1",
+      "title": "JIMTOF2024公式カタログ：中村留精密工業株式会社 (E5033)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=RYK326OoMn4",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V029-2026-1",
+      "title": "JIMTOF2026公式カタログ：中村留精密工業株式会社 (E2027)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=C7A_2ZTDXNw",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-W04",
+      "title": "RoboSync",
+      "url": "https://www.nakamura-tome.co.jp/products/automation/robosync/",
+      "locator": "製品の特長 > 簡単復旧、簡単操作",
+      "checked": "2026-10-16",
+      "published": "0年資料"
+    },
+    {
+      "id": "EOV-V017-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社ミツトヨ (E7131)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=1CDoltPa9rk",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V017-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社ミツトヨ (E7085)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=a7y3JtW8DXM",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V018-2024-1",
+      "title": "JIMTOF2024公式カタログ：レニショー株式会社 (E7026)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=ekM3exgIAtc",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V018-2026-1",
+      "title": "JIMTOF2026公式カタログ：レニショー株式会社 (E7089)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=pYGmVz5GC1c",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-W03",
+      "title": "Renishaw Central データプラットフォーム",
+      "url": "https://www.renishaw.com/jp/smart-manufacturing-data-platform-for-industrial-process-control--47853",
+      "locator": "メカニズム、現場でのクローズドループ、導入効果",
+      "checked": "2026-10-16",
+      "published": "0年資料"
+    },
+    {
+      "id": "EOV-V021-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社ＨＡＣＡＲＵＳ (S1031)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-W06",
+      "title": "AI外観検査ソリューション HACARUS Check",
+      "url": "https://hacarus.com/ja/technology/hacarus-check-series/",
+      "locator": "2026.04.06本文",
+      "checked": "2026-10-16",
+      "published": "0年資料"
+    },
+    {
+      "id": "EDP-14",
+      "title": "Check ZERO正式販売開始",
+      "url": "https://hacarus.com/ja/press-release/20250707-news/",
+      "locator": "2025/7/9販売／良品学習とアノテーション追加学習／判定UI",
+      "checked": "2026-10-16",
+      "published": "2025年資料"
+    },
+    {
+      "id": "EDP-15",
+      "title": "Checkシリーズ公式製品説明",
+      "url": "https://check.hacarus.com/ja/",
+      "locator": "Check ZERO／デュアルチューニング／機器構成",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "ERF-05",
+      "title": "Check ZERO公式ソフトウェア説明",
+      "url": "https://check.hacarus.com/ja/aisoftware/",
+      "locator": "特徴／異常箇所表示・良否アノテーション追加学習",
+      "checked": "2026-10-18",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V023-2024-1",
+      "title": "JIMTOF2024公式カタログ：ハイデンハイン株式会社 (E7123)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=GFSwCXSxe9o",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V023-2026-1",
+      "title": "JIMTOF2026公式カタログ：ハイデンハイン株式会社 (E7043)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V024-2024-1",
+      "title": "JIMTOF2024公式カタログ：モリマシナリー株式会社 (S3017)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=yEoPl5sH6Sg",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V024-2026-1",
+      "title": "JIMTOF2026公式カタログ：モリマシナリー株式会社 (S3048)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-12",
+      "title": "TOOL SOMMELIER／TOOL COLLAGE",
+      "url": "https://mori-machinery.com/en/product/tool-sommelier?post_id=1066",
+      "locator": "刃先撮像・欠け摩耗自動検出／FAQの工具・径制約",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-W08",
+      "title": "工具の欠け・摩耗・寿命を推定するAI研究発表",
+      "url": "https://mori-machinery.com/wp-content/uploads/2023/06/%E7%86%9F%E7%B7%B4%E8%80%85%E3%81%AE%E7%B5%8C%E9%A8%93%E7%9F%A5%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E5%88%87%E5%89%8A%E5%B7%A5%E5%85%B7%E3%81%AE%E6%AC%A0%E3%81%91%E3%83%BB%E6%91%A9%E8%80%97%E3%83%BB%E5%AF%BF%E5%91%BD%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8BAI%E3%82%92%E9%96%8B%E7%99%BA.pdf",
+      "locator": "2023年6月2日、成果と今後の展望",
+      "checked": "2026-10-16",
+      "published": "0年資料"
+    },
+    {
+      "id": "EOV-V042-2026-1",
+      "title": "JIMTOF2026公式カタログ：興和オプトロニクス株式会社 (S3104)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-33",
+      "title": "RW回転機構付きビジョンユニット",
+      "url": "https://optical.kowa-opt.co.jp/camera-rw/",
+      "locator": "ビジョンプロセッサ併用の不良ヒートマップ・切粉巻付きアラート・工具欠損検出",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EAT-N07",
+      "title": "Condition Agent 提供開始",
+      "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_conditionagent.html",
+      "locator": "2026/07/06本文・主な特長",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V012-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社シーイーシー (E5022)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=WS9ql5D41fQ",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V012-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社シーイーシー (E2006)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=tW-C9oF94EQ",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V013-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社Smart Craft (S3002)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=WqjRB6DEqN0",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V015-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社ソフィックス (E4046)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=WNiUW-E-atY",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V015-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社ソフィックス (E1067)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-21",
+      "title": "SOFIXCAN AI Forecast",
+      "url": "https://www.sofix.co.jp/products/sofixcan_ai_forecast/",
+      "locator": "時系列データ予測／形状領域予測／顧客別予測システム開発",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-22",
+      "title": "SOFIXCAN Fleeter",
+      "url": "https://www.sofix.co.jp/products/sofixcan_fleeter/",
+      "locator": "上位システム命令をトリガーに各機器を制御／通信モジュール追加",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-23",
+      "title": "JIMTOF2026告知とミニ工場の過去告知",
+      "url": "https://www.sofix.co.jp/",
+      "locator": "2026/9/29告知／2025/11/4国際ロボット展でもミニ工場を予告",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V016-2026-1",
+      "title": "JIMTOF2026公式カタログ：パナソニックプロダクションエンジニアリング株式会社 (W3086)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=5mrMofo3nN8",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-W05",
+      "title": "X-Area",
+      "url": "https://www.panasonic.com/jp/company/ppe/products/x-area.html",
+      "locator": "サービス概要、システム構成",
+      "checked": "2026-10-16",
+      "published": "0年資料"
+    },
+    {
+      "id": "EOV-W09",
+      "title": "工場敷地内でのX-Area Remote実証",
+      "url": "https://tech.panasonic.com/jp/td/news/20221124.html",
+      "locator": "2022/11/24 NEWS & TOPICS",
+      "checked": "2026-10-16",
+      "published": "0年資料"
+    },
+    {
+      "id": "EDP-24",
+      "title": "屋外自動搬送とX-Area Remoteの実証",
+      "url": "https://news.panasonic.com/jp/press/jn260713-1",
+      "locator": "障害物停止時に自動運転から人の遠隔操作へ切替／担当者とセーフティドライバー",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V038-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社ミロクリエ (E2016)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=IQhLnLagU5I",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EAT-V043-2024-1",
+      "title": "JIMTOF2024公式カタログ：三菱電機株式会社",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=30li0vWcseI",
+      "locator": "出展紹介・主な出展物（カードの製品名・機能語で検索）",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EAT-V043-2026-1",
+      "title": "JIMTOF2026公式カタログ：三菱電機株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU",
+      "locator": "出展紹介・主な出展物（カードの製品名・機能語で検索）",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-W01",
+      "title": "TwinCAT 3 Machine Learning Creator",
+      "url": "https://www.beckhoff.com/en-za/products/automation/twincat/texxxx-twincat-3-engineering/te3850.html",
+      "locator": "製品説明冒頭、Product status",
+      "checked": "2026-10-16",
+      "published": "0年資料"
+    },
+    {
+      "id": "EDP-04",
+      "title": "PC Control 02/2024：Machine Learning Creator",
+      "url": "https://www.beckhoff.com/media/downloads/information-media/pc-control/pcc_0224_e.pdf",
+      "locator": "TE3850／訓練・テストデータ分割、モデル解析、ONNX出力",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V009-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社CGTech (E5042)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=AxDUk3YbQDI",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V009-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社CGTech (S3014)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=41U8xW4UkcM",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-20",
+      "title": "CNC Machine Simulation",
+      "url": "https://vericut.com/ja-jp/products/cnc-machine-simulation",
+      "locator": "Gコード・機械制御ロジックの検証／モジュールの役割",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EOV-V011-2024-1",
+      "title": "JIMTOF2024公式カタログ：株式会社たけびし (E7053)",
+      "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=SiZMI-OH8_k",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2024年資料"
+    },
+    {
+      "id": "EOV-V011-2026-1",
+      "title": "JIMTOF2026公式カタログ：株式会社たけびし (S3015)",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw",
+      "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    },
+    {
+      "id": "EDP-06",
+      "title": "OPC UA情報モデルとAIエージェント",
+      "url": "https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/",
+      "locator": "A New Approach to Connecting AI Agents／MCP Adapterはplanning to provide",
+      "checked": "2026-10-16",
+      "published": "2026年資料"
+    }
+  ],
+  "trends": [
+    {
+      "id": "T1",
+      "title": "生産準備と制御開発を支援するAI",
+      "short": "生産準備AI",
+      "finding": "AIの対象は検査だけでなく、工程案、CAM、見積、PLCやHMIの作成支援へ広がっている。",
+      "need": "熟練者に集中する見積、工程設計、NC作成、制御プログラミングの負担を減らし、多品種への対応を速める。",
+      "past": "2024年以前にもCAM自動化やAI支援は存在する。CloudNCは2024年7月にMastercam向けCAM Assistを発表し、Beckhoffも2023年にTwinCAT Chatを紹介している。",
+      "now": "2026年の出展では、HexagonのProPlanAI、JBMのCAMAssist、BeckhoffのCoAgent、匠フォースなど、既存の業務環境に組み込む提案が並ぶ。ProPlanAIは2025.2で導入を説明し、2026.1で旋削・複合・スイス型へ商用範囲を拡張した。",
+      "mechanism": "履歴学習による工程予測、加工戦略生成、自然言語からのコード案、図面認識と原価計算は異なる方式である。学習源、対象加工、必要な事前設定を分けて比較する。",
+      "implication": "生成時間だけでなく、修正と検証を含む総準備時間、初回加工の合格率、履歴が少ない部品での対応力を見る。",
+      "limit": "生成した案を採用して実機を動かすまでの自動化は製品ごとに異なる。海外版の機能と会場で利用できる国内版も照合が必要。",
+      "question": "図面や3Dモデルから何が出力され、誰がどこで修正・承認するか。非対応部品では何が起きるか。",
+      "refs": [
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S26"
+      ],
+      "cards": [
+        "FC018",
+        "FC020",
+        "FC011",
+        "FC012",
+        "FC062"
+      ]
+    },
+    {
+      "id": "T2",
+      "title": "CNCとロボットに接続するフィジカルAI",
+      "short": "フィジカルAI",
+      "finding": "自然言語や状況認識をCNC・ロボットの作業へ接続する展示が具体化している。",
+      "need": "教示・設定の負担や、切粉絡まりのように長時間運転を止める付帯作業を減らす。",
+      "past": "2024年にもAIバラ積みピッキング、ロボット搬入出、デジタルツインは存在する。ロボットそのものが2026年に新登場したわけではない。",
+      "now": "ファナックはフィジカルAI CNCと生成AIによるロボット駆動を掲げる。TAKISAWAはTR-20Wが切粉の絡まりを判断して除去する参考出品を予告。シマダマシンツールもAI段取り替えを記載するが、自動化する具体範囲の確認が必要。",
+      "mechanism": "AIが認識・提案した結果を、仮想検証、機械指令、インターロックに接続する。ファナックの別の2026年展示報告では、デジタルで確認してから適用する構成を説明している。",
+      "implication": "完成したデモの動きより、対象状態のばらつき、失敗検出、再試行、停止後の復帰、人の介入頻度が無人運転への寄与を左右する。",
+      "limit": "参考出品・開発構想・商用製品を分ける。AI用途向け減速機やIPCは基盤・部品であり、自律作業を実現した機械とは数えない。",
+      "question": "状況を変えた場合にも動作するか。判断できない時に何を停止し、誰がどの手順で復帰するか。",
+      "refs": [
+        "S09",
+        "S11",
+        "S02"
+      ],
+      "cards": [
+        "FC005",
+        "FC006",
+        "FC049",
+        "FC051",
+        "FC068",
+        "FC069"
+      ]
+    },
+    {
+      "id": "T3",
+      "title": "段取りと付帯作業を含めた自動化",
+      "short": "段取りと付帯作業",
+      "finding": "加工機への搬入出に加え、爪・工具交換、切粉回収、異形ワーク把持など、人手が残る仕事を扱う提案に注目する。",
+      "need": "多品種少量生産では、機械が自動運転していても、段取り替え、工具補給、切粉処理で人が呼ばれる。",
+      "past": "DMG森精機のAMR、オークマのARMROID・OMR20、松浦の多パレットとMiOS、牧野の自動化パッケージはいずれも2024年から存在する。",
+      "now": "DMG森精機はGX Flexによるワーク・爪・工具交換、AMR 1000によるチップバケット搬送を紹介。中村留は既存台車を使うRoboSync、FUJIは異形・重量ワークの把持、ツガミはコレット交換と機外測定を含む自動化を展示予定。",
+      "mechanism": "ロボット、パレット、交換機構、治具、工具管理、工程設計を組み合わせる。固定手順やメカ機構でも省人効果を生み、AI利用は必須条件ではない。",
+      "implication": "切削時間やロボットの速度だけでなく、品種切替時間、必要な事前段取り、補充間隔、連続運転中の呼出し回数で比較する。",
+      "limit": "搬送可能なことと、品種切替・復旧まで無人であることは別。半自動の重量物着脱も、完全自動と表示しない。",
+      "question": "8時間の連続運転で、人が準備・補充・回収・復帰に使う時間はどれだけ残るか。",
+      "refs": [
+        "S05",
+        "S08",
+        "S24",
+        "S28"
+      ],
+      "cards": [
+        "FC001",
+        "FC002",
+        "FC008",
+        "FC042",
+        "FC045",
+        "FC046",
+        "FC047",
+        "FC048"
+      ]
+    },
+    {
+      "id": "T4",
+      "title": "計測と診断を加工判断へつなぐ品質管理",
+      "short": "品質と状態診断",
+      "finding": "計測の自動化に加え、加工へのフィードバック、工具の継続使用・交換判断、追加学習を含む運用が重要になっている。",
+      "need": "検査待ち、工具摩耗の見逃し、過剰な工具交換、品質のばらつきを抑えたい。",
+      "past": "Renishaw Central、ミツトヨの自動計測、工具摩耗判定や設備AI診断は2024年にも掲載されている。計測フィードバックそのものを2026年初の技術とは扱わない。",
+      "now": "ミツトヨはMiSTARと加工機を接続する工程を提案。HexagonはMAESTROとPRESTO、ハイデンハインはVT 122のAI摩耗診断、モリマシナリーは寿命・交換時期提案を具体化。HACARUS Check ZEROは良品学習と追加学習を紹介する。",
+      "mechanism": "寸法・画像・摩耗・稼働信号を取得し、判定、補正、交換提案へ返す。ルールによる補正、統計処理、学習AIの役割を分ける。",
+      "implication": "検査精度と処理時間に加え、切粉・ミスト下の撮像、誤判定、補正上限、異常値の扱いを確認する。加工・測定双方を含む工程能力で評価する。",
+      "limit": "Check ZEROは2025年発売。寿命予測も以前から研究されている。新しい展示名や国内初展示を、技術の初発明や全面的な自律品質保証とは解釈しない。",
+      "question": "測定結果から何を自動変更するか。誤判定や測定不確かさで、過補正・過剰交換をどう防ぐか。",
+      "refs": [
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S22"
+      ],
+      "cards": [
+        "FC032",
+        "FC033",
+        "FC036",
+        "FC038",
+        "FC039",
+        "FC040",
+        "FC063"
+      ]
+    },
+    {
+      "id": "T5",
+      "title": "保全と工場運用を支援するDXとAI",
+      "short": "工場運用DX",
+      "finding": "可視化・記録の基盤に、保全支援、業務分析、遠隔介入を重ねる提案が見られる。",
+      "need": "設備停止、記録の散在、旧設備からのデータ収集、現場ごとの管理方法の違いを減らしたい。",
+      "past": "2024年にもFIELD system、OPC UA接続、設備AI診断、稼働可視化、生産管理が存在する。データを収集するだけで自律工場になるわけではない。",
+      "now": "DMG森精機はCondition Agent、三菱電機は遠隔保守・スマート保全、ミロクリエは保全記録を使うAI支援を紹介。パナソニックはX-Area Remoteで複数設備の監視・操作を提案。SOFIXはミニ工場で連携構成を示す。",
+      "mechanism": "既設設備のデータ取得、意味の統一、履歴管理を土台に、診断、計画、対処案、遠隔操作を接続する。情報の取得と設備への指令は別の権限として扱う。",
+      "implication": "入力負担、異なるメーカーとの接続、現場で使う対処手順、呼出し削減、復旧時間で評価する。",
+      "limit": "Condition Agentの名称だけで設備操作を行うエージェントとは判断しない。X-Area Remoteの別実証では、人が遠隔から障害物を回避しており、自動復帰の証拠にはしない。",
+      "question": "アラーム後に、誰が判断し、誰が操作するか。既存MESや設備データをどこまで再利用できるか。",
+      "refs": [
+        "S05",
+        "S06",
+        "S10",
+        "S12",
+        "S25"
+      ],
+      "cards": [
+        "FC004",
+        "FC025",
+        "FC026",
+        "FC030",
+        "FC031",
+        "FC058",
+        "FC059",
+        "FC065",
+        "FC066"
+      ]
+    },
+    {
+      "id": "T6",
+      "title": "AIと実機を結ぶデータと仮想検証の基盤",
+      "short": "データと仮想検証",
+      "finding": "競争の比較軸として、AIモデル単体に加え、データの接続、検証、制御への組込みが重要になる。",
+      "need": "生成結果が機械・工具・治具と整合しない問題や、シミュレーションと現物の差を減らす。",
+      "past": "2024年にもSiemens Xcelerator・SINUMERIK ONE、Vericut、OPC UA情報モデルが存在し、仮想検証や接続基盤は継続したテーマである。",
+      "now": "シーメンスは設計から品質保証までのDigital Thread、ニデックはNidec NC Twin、BeckhoffはMLモデルのPLC実装を提案。たけびしはAIエージェントとの連携シナリオを記載する。",
+      "mechanism": "機械モデルと実機の設定、工具・材料・品種のデータをそろえ、シミュレーションで検証した結果を設備の許可された処理へ接続する。",
+      "implication": "データをつなぐ費用、モデル更新工数、変更後の再検証、他社機との連携、操作ログを含めて比較する。",
+      "limit": "接続規格やMCP対応は、任意の機械操作を安全に自動実行できる保証ではない。たけびしのMCP Adapterは、確認した記事では提供計画。国外のヒューマノイド実証とJIMTOFの展示機を同一視しない。",
+      "question": "データの意味と版を誰が管理するか。生成案の仮想検証と、実機適用の承認をどこで行うか。",
+      "refs": [
+        "S03",
+        "S09",
+        "S17",
+        "S21",
+        "S23"
+      ],
+      "cards": [
+        "FC007",
+        "FC014",
+        "FC015",
+        "FC021",
+        "FC022",
+        "FC024"
+      ]
+    }
+  ],
+  "majors": [
+    {
+      "id": "M01",
+      "company": "DMG森精機株式会社",
+      "name": "DMG森精機",
+      "group": "工作機械の大手",
+      "booths": [
+        "E8005"
+      ],
+      "exhibits": "GX Flex、AMR、MATRIS WPH、DX Office",
+      "delta": "2024の工程集約・AMR・DXを継続し、搬送対象と爪・工具交換、保全までの構成を具体化。",
+      "question": "工具交換と切粉回収を含む全体の無人時間。AIエージェントとCondition Agentの担当の違い。",
+      "priority": "A",
+      "refs": [
+        "S05",
+        "S06",
+        "C01-2026-1",
+        "C01-2024-1",
+        "C01-2024-2"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M02",
+      "company": "ヤマザキマザック株式会社",
+      "name": "ヤマザキマザック",
+      "group": "工作機械の大手",
+      "booths": [
+        "E1001"
+      ],
+      "exhibits": "INTEGREX、自動化、デジタル・AI連携",
+      "delta": "2024から工程集約と自動化を提案。2026はINTEGREXを軸に加工領域を拡張。AIの新機能差は要確認。",
+      "question": "工程集約後の段取りと、AIが実際に変更する設定・加工条件。",
+      "priority": "A",
+      "refs": [
+        "S07",
+        "C02-2026-1",
+        "C02-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M03",
+      "company": "オークマ株式会社",
+      "name": "オークマ",
+      "group": "工作機械の大手",
+      "booths": [
+        "E3028"
+      ],
+      "exhibits": "ARMROID、OMR20、タワーAPC、OSP・AI知能化",
+      "delta": "ARMROID・OMR20は2024から継続。2026は新機種とAI・熱変位制御を訴求。",
+      "question": "手動と自動の切替工数、品種切替、熱変位制御とAIの役割分担。",
+      "priority": "A",
+      "refs": [
+        "S08",
+        "C03-2026-1",
+        "C03-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M04",
+      "company": "株式会社牧野フライス製作所",
+      "name": "牧野フライス製作所",
+      "group": "工作機械の大手",
+      "booths": [
+        "E1024"
+      ],
+      "exhibits": "MAS、生産ラインエンジニアリング、5軸・パレット",
+      "delta": "2024に自動化パッケージ。2026はライン全体とソフト・保守を含む提案を記載。",
+      "question": "機械以外の段取り、再計画と停止復帰で人が担う仕事。",
+      "priority": "B",
+      "refs": [
+        "C04-2026-1",
+        "C04-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M05",
+      "company": "ファナック株式会社",
+      "name": "ファナック",
+      "group": "制御とソフトウェア",
+      "booths": [
+        "S2001"
+      ],
+      "exhibits": "フィジカルAI CNC、生成AIロボット、Smart Digital Twin",
+      "delta": "2024のAIバラ積み・CNC・ツインに対し、2026は生成AIとフィジカルAIを明示。",
+      "question": "提案から仮想検証、実機適用までの画面と承認点。",
+      "priority": "A",
+      "refs": [
+        "S09",
+        "C05-2026-1",
+        "C05-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M06",
+      "company": "三菱電機株式会社",
+      "name": "三菱電機",
+      "group": "制御とソフトウェア",
+      "booths": [
+        "S2003"
+      ],
+      "exhibits": "CNC省人化、放電加工スケジューラ、遠隔保守",
+      "delta": "2024にもAI診断あり。2026は設計・加工・保守をつなぐ省人化を訴求。",
+      "question": "CNCは最新案内で実機展示なし。資料と相談でAI機能・適用機・権限を確認。",
+      "priority": "A",
+      "refs": [
+        "S10",
+        "C06-2026-1",
+        "C06-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M07",
+      "company": "シーメンス株式会社",
+      "name": "シーメンス",
+      "group": "制御とソフトウェア",
+      "booths": [
+        "E3006"
+      ],
+      "exhibits": "Digital Thread、SINUMERIK ONE、Heller Tokn、Equator",
+      "delta": "2024のXcelerator・NX・CNCから、2026は設計と品質保証をつなぐ構成を訴求。",
+      "question": "CAD／CAM／測定データを接続する実際の手順と版管理。",
+      "priority": "A",
+      "refs": [
+        "C07-2026-1",
+        "C07-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M08",
+      "company": "株式会社ジェイテクト",
+      "name": "ジェイテクト",
+      "group": "工作機械の大手",
+      "booths": [
+        "E8003"
+      ],
+      "exhibits": "Mill-Plan、ファインティーチレス、工場マネジメント",
+      "delta": "2024の研削・操作支援に対し、2026は設備・人作業・情報・エネルギーを横断。",
+      "question": "オフライン教示の現合修正をどれだけ減らせるか。",
+      "priority": "B",
+      "refs": [
+        "S12",
+        "C08-2026-1",
+        "C08-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M09",
+      "company": "ニデックマシンツール株式会社",
+      "name": "ニデックマシンツール",
+      "group": "工作機械の大手",
+      "booths": [
+        "E3011"
+      ],
+      "exhibits": "Nidec NC Twin、門形・歯車加工",
+      "delta": "2024の機械・歯車ソリューションを継続。2026は大型機の仮想検証を具体化。",
+      "question": "NC Twinの実機差と更新工数。TAKISAWAのAI展示と分けて見る。",
+      "priority": "B",
+      "refs": [
+        "S11",
+        "C09-2026-1",
+        "C09-2024-1",
+        "C09-2024-2"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M10",
+      "company": "ニデックオーケーケー株式会社",
+      "name": "ニデックオーケーケー",
+      "group": "工作機械の大手",
+      "booths": [
+        "E3012"
+      ],
+      "exhibits": "VB-X650、パレット・拡張マガジン、GC53RⅡ",
+      "delta": "2024から5軸・自動化。2026は省人化オプションと研削自動化を具体記載。",
+      "question": "工具・パレット容量と、有人段取りが残る範囲。",
+      "priority": "B",
+      "refs": [
+        "S11",
+        "C10-2026-1",
+        "C10-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M11",
+      "company": "株式会社ソディック",
+      "name": "ソディック",
+      "group": "工作機械の大手",
+      "booths": [
+        "E2017"
+      ],
+      "exhibits": "ワイヤ放電＋搬送、精密切削自動化、IoT",
+      "delta": "2024にもAMR・ワークチェンジャ。2026は機械と搬送・IoTの組合せを訴求。",
+      "question": "放電と後工程をつなぐ段取り・電極やワイヤ関連の停止要因。",
+      "priority": "B",
+      "refs": [
+        "C11-2026-1",
+        "C11-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M12",
+      "company": "株式会社アマダ",
+      "name": "アマダ",
+      "group": "工作機械の大手",
+      "booths": [
+        "E2012"
+      ],
+      "exhibits": "新型レーザ・バンドソー、DPG150、プレス自動化",
+      "delta": "2024にはAI-TASと自動計測補正を掲載。2026は5機種と省スペース化を訴求。",
+      "question": "AI表記が減っても機能後退とは判断しない。計測・補正と段取り自動化を確認。",
+      "priority": "B",
+      "refs": [
+        "C12-2026-1",
+        "C12-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M13",
+      "company": "ブラザー工業株式会社",
+      "name": "ブラザー工業",
+      "group": "精密加工と自動化",
+      "booths": [
+        "E1055"
+      ],
+      "exhibits": "SPEEDIOの大容量工具搭載、5軸、PC-1",
+      "delta": "2024のNC機能・暖機レス支援から、2026は工具容量と多品種段取りを強調。",
+      "question": "工具本数増加が補充・段取り時間をどれだけ変えるか。",
+      "priority": "B",
+      "refs": [
+        "C13-2026-1",
+        "C13-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M14",
+      "company": "株式会社松浦機械製作所",
+      "name": "松浦機械製作所",
+      "group": "精密加工と自動化",
+      "booths": [
+        "E3030"
+      ],
+      "exhibits": "MX-520T PC7、MX-850T PC4、MiOS、GibbsCAM",
+      "delta": "2024から多パレット・MiOS4。2026は旋削と5軸の集約で加工対象を拡張。",
+      "question": "MiOSで未完段取りをどう検知し、長時間運転の準備を完了するか。",
+      "priority": "B",
+      "refs": [
+        "S28",
+        "C14-2026-1",
+        "C14-2024-1",
+        "C14-2024-2"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M15",
+      "company": "シチズンマシナリー株式会社",
+      "name": "シチズンマシナリー",
+      "group": "精密加工と自動化",
+      "booths": [
+        "S2002"
+      ],
+      "exhibits": "FA-Friendly、ATC、自動計測、複合加工",
+      "delta": "2024からデジタルとFA支援。2026はATC・自動計測等の融合を訴求。",
+      "question": "棒材交換以外の検査、刃具管理、切粉処理の有人作業。",
+      "priority": "B",
+      "refs": [
+        "C15-2026-1",
+        "C15-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M16",
+      "company": "スター精密株式会社",
+      "name": "スター精密",
+      "group": "精密加工と自動化",
+      "booths": [
+        "S1003"
+      ],
+      "exhibits": "加工支援、ソフトウェア、ロボット部品加工",
+      "delta": "2024の医療向け実演から、2026はロボット・医療・ドローン・自動車の4分野。",
+      "question": "ヒューマノイド部品の加工需要と、自社機でAIを使う機能を区別。",
+      "priority": "B",
+      "refs": [
+        "C16-2026-1",
+        "C16-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M17",
+      "company": "株式会社ツガミ",
+      "name": "ツガミ",
+      "group": "精密加工と自動化",
+      "booths": [
+        "S1004"
+      ],
+      "exhibits": "TMA8Fのコレット交換・機外測定、VA3Sの搬送",
+      "delta": "2024にも自動運転システム。2026は交換・計測・外段取りの実演を具体記載。",
+      "question": "多品種の切替時、コレット・工具・測定プログラムを誰が設定するか。",
+      "priority": "B",
+      "refs": [
+        "C17-2026-1",
+        "C17-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M18",
+      "company": "オーエスジー株式会社",
+      "name": "オーエスジー",
+      "group": "工具と加工支援",
+      "booths": [
+        "W1070"
+      ],
+      "exhibits": "MONOlithbox、Aブランド工具",
+      "delta": "2024にも工具自販機と省人化提案。2026は工具管理DXとして継続訴求。",
+      "question": "工具在庫と加工計画・補充をどうつなぐか。",
+      "priority": "B",
+      "refs": [
+        "C18-2026-1",
+        "C18-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M19",
+      "company": "三菱マテリアル株式会社",
+      "name": "三菱マテリアル",
+      "group": "工具と加工支援",
+      "booths": [
+        "W1065"
+      ],
+      "exhibits": "ヘッド交換式工具、加工ソリューション、再資源化",
+      "delta": "2024の工具・DX提案から、2026はリサイクル・ソリューション・新製品を重点化。",
+      "question": "交換作業と工具寿命の安定化が無人運転に与える効果。AI機能は未確認。",
+      "priority": "B",
+      "refs": [
+        "C19-2026-1",
+        "C19-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M20",
+      "company": "京セラ株式会社",
+      "name": "京セラ",
+      "group": "工具と加工支援",
+      "booths": [
+        "W1046"
+      ],
+      "exhibits": "VIMOA、EASY TOOL GUIDE、切削工具",
+      "delta": "2024からセンシングと工具選定。2026はVIMOAとCAM連携事例を具体記載。",
+      "question": "検出後の停止・条件変更・工具交換までの接続範囲。",
+      "priority": "B",
+      "refs": [
+        "C20-2026-1",
+        "C20-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M21",
+      "company": "株式会社タンガロイ",
+      "name": "タンガロイ",
+      "group": "工具と加工支援",
+      "booths": [
+        "W1090"
+      ],
+      "exhibits": "MATRIX 360、工具・自動化対応システム",
+      "delta": "2024の工具・コスト改善から、2026は工具管理と省人化も訴求。",
+      "question": "使用実績と在庫・補充のつながり。AIとの関係は確認できない。",
+      "priority": "B",
+      "refs": [
+        "C21-2026-1",
+        "C21-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M22",
+      "company": "株式会社ミツトヨ",
+      "name": "ミツトヨ",
+      "group": "計測と品質保証",
+      "booths": [
+        "E3008",
+        "E7085"
+      ],
+      "exhibits": "MiSTARと加工機、RA-Robot、計測プラットフォーム",
+      "delta": "2024の自動測定・MiCATから、2026は加工から測定までの連携を具体化。",
+      "question": "ワーク投入後に測定・判定・加工補正のどこまで自動で進むか。",
+      "priority": "A",
+      "refs": [
+        "S13",
+        "C22-2026-1",
+        "C22-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M23",
+      "company": "株式会社東京精密",
+      "name": "東京精密",
+      "group": "計測と品質保証",
+      "booths": [
+        "E7044"
+      ],
+      "exhibits": "精密測定機器の出展。具体的な2026展示は確認課題",
+      "delta": "一覧でE7044を確認。保存CSVの2026説明は空欄。2024の自動測定を今回予定に転用しない。",
+      "question": "測定自動化、加工機接続、データ活用の出展機と実演時間を現地確認。",
+      "priority": "B",
+      "refs": [
+        "S27",
+        "C23-2024-1"
+      ],
+      "has_text_2026": false
+    },
+    {
+      "id": "M24",
+      "company": "レニショー株式会社",
+      "name": "レニショー",
+      "group": "計測と品質保証",
+      "booths": [
+        "E7089"
+      ],
+      "exhibits": "Renishaw Central、Equator、新プローブ",
+      "delta": "Centralは2024にも展示。2026は計測で自動化を支える提案を継続。",
+      "question": "IPCの補正先・上限・不確かさ、他社機の接続を比較。",
+      "priority": "A",
+      "refs": [
+        "S14",
+        "S15",
+        "C24-2026-1",
+        "C24-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M25",
+      "company": "ハイデンハイン株式会社",
+      "name": "ハイデンハイン",
+      "group": "計測と品質保証",
+      "booths": [
+        "E7043"
+      ],
+      "exhibits": "VT 122、VTC 6.0のAI摩耗診断",
+      "delta": "2024にVT 122。2026は工具長とAI摩耗診断を具体記載。",
+      "question": "摩耗診断が交換指示や自動交換までつながるか。",
+      "priority": "B",
+      "refs": [
+        "C25-2026-1",
+        "C25-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M26",
+      "company": "ベッコフオートメーション株式会社",
+      "name": "ベッコフオートメーション",
+      "group": "制御とソフトウェア",
+      "booths": [
+        "E2028"
+      ],
+      "exhibits": "TwinCAT CoAgent、ML Creator、オープンCNC",
+      "delta": "2023からコード支援。2026はPLC・I/O・HMIと運用支援を訴求。2024展示詳細は不足。",
+      "question": "国内提供版、EngineeringとOperationsの提供段階、実機変更の承認。",
+      "priority": "A",
+      "refs": [
+        "S20",
+        "S21",
+        "C26-2026-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M27",
+      "company": "Hexagon Manufacturing Intelligence株式会社",
+      "name": "Hexagon Manufacturing Intelligence",
+      "group": "制御とソフトウェア",
+      "booths": [
+        "E7035",
+        "E2013"
+      ],
+      "exhibits": "E2013のProPlanAIとE7035のMAESTRO・PRESTO",
+      "delta": "2025.2でAI工程予測導入、2026.1で加工対象拡張。2026は国内初展示。2024同名照合は不足。",
+      "question": "履歴の準備量、未経験部品の工程案、CAMと検査をつなぐデータ。",
+      "priority": "A",
+      "refs": [
+        "S16",
+        "S17",
+        "C27-2026-1",
+        "C27-2026-2"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M28",
+      "company": "住友電気工業株式会社",
+      "name": "住友電気工業",
+      "group": "工具と加工支援",
+      "booths": [
+        "W1027"
+      ],
+      "exhibits": "SumiSmall、交換式ドリル、安定切粉処理",
+      "delta": "2024からセンシング・GX・DX。2026は安定加工、長寿命、資源制約への提案が中心。",
+      "question": "切粉・欠損・交換負担を減らす条件。2026個別AI機能は未確認。",
+      "priority": "B",
+      "refs": [
+        "C28-2026-1",
+        "C28-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M29",
+      "company": "中村留精密工業株式会社",
+      "name": "中村留精密工業",
+      "group": "精密加工と自動化",
+      "booths": [
+        "E2027"
+      ],
+      "exhibits": "RoboSync、Protona、複合旋盤",
+      "delta": "2024にもロボットシステム。2026は既存台車利用と省スペースを具体化。",
+      "question": "移設・品種切替の復旧工数、ストッカー不要の適用条件。",
+      "priority": "A",
+      "refs": [
+        "S24",
+        "C29-2026-1",
+        "C29-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M30",
+      "company": "株式会社FUJI",
+      "name": "FUJI",
+      "group": "精密加工と自動化",
+      "booths": [
+        "E3021"
+      ],
+      "exhibits": "異形ワーク把持、重量物の半自動着脱、Quist",
+      "delta": "2024からターンキーと工具管理。2026はつかみ方と難しいワークの扱いに焦点。",
+      "question": "全自動と半自動を分け、重量・形状の適用範囲と残る人手を確認。",
+      "priority": "B",
+      "refs": [
+        "C30-2026-1",
+        "C30-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M31",
+      "company": "株式会社TAKISAWA",
+      "name": "TAKISAWA",
+      "group": "精密加工と自動化",
+      "booths": [
+        "E3013"
+      ],
+      "exhibits": "TR-20Wの切粉除去、工程集約、減速機部品加工",
+      "delta": "2024の搬入出用TR-20Wに対し、2026は状況判断を伴う切粉除去を参考出品。",
+      "question": "除去失敗時の停止・再試行と、学習していない切粉への適応。",
+      "priority": "A",
+      "refs": [
+        "S11",
+        "C31-2026-1",
+        "C31-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M32",
+      "company": "オートデスク株式会社",
+      "name": "オートデスク",
+      "group": "制御とソフトウェア",
+      "booths": [
+        "S3019"
+      ],
+      "exhibits": "Fusion、Fusion Manage、クラウド・PLM",
+      "delta": "2024からFusionとCAM自動化。2026はAIと製品データ・PLMの統合を強調。",
+      "question": "個別AIタスク、必要ライセンス、データの持出しと検証工程。",
+      "priority": "B",
+      "refs": [
+        "C32-2026-1",
+        "C32-2024-1"
+      ],
+      "has_text_2026": true
+    },
+    {
+      "id": "M33",
+      "company": "株式会社ニコン",
+      "name": "ニコン",
+      "group": "計測と品質保証",
+      "booths": [
+        "E7001"
+      ],
+      "exhibits": "NEXIV、CT、ロボットビジョン",
+      "delta": "2024からロボット測定・自動搬送・インライン検査。2026は計測と内部解析を横断。",
+      "question": "検査工程とロボット動作の接続。2026の個別AI機能差は未確認。",
+      "priority": "B",
+      "refs": [
+        "C33-2026-1",
+        "C33-2024-1"
+      ],
+      "has_text_2026": true
+    }
+  ],
+  "visits": [
+    {
+      "id": "V01",
+      "company": "ファナック株式会社",
+      "name": "ファナック",
+      "booths": [
+        "S2001"
+      ],
+      "why": "CNCとロボットの両方で生成AIの判断と実行の境界を比較できる。",
+      "ask": "プロンプトから仮想検証、実機指令までを見せてもらい、承認・停止点を確認。",
+      "minutes": 45,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S09",
+        "C05-2026-1",
+        "C05-2024-1"
+      ]
+    },
+    {
+      "id": "V02",
+      "company": "DMG森精機株式会社",
+      "name": "DMG森精機",
+      "booths": [
+        "E8005"
+      ],
+      "why": "工程集約、工具・爪交換、AMR、保全を含む連携の広さを確認できる。",
+      "ask": "ワーク以外の工具・切粉・保全に残る有人作業を一つの運転シナリオで確認。",
+      "minutes": 45,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S05",
+        "S06",
+        "C01-2026-1",
+        "C01-2024-1",
+        "C01-2024-2"
+      ]
+    },
+    {
+      "id": "V03",
+      "company": "オークマ株式会社",
+      "name": "オークマ",
+      "booths": [
+        "E3028"
+      ],
+      "why": "機内ロボット・移動式協働ロボット・APCを比較できる。",
+      "ask": "品種切替の準備時間、手動への切替、AI知能化の実際の担当を確認。",
+      "minutes": 35,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S08",
+        "C03-2026-1",
+        "C03-2024-1"
+      ]
+    },
+    {
+      "id": "V04",
+      "company": "ヤマザキマザック株式会社",
+      "name": "ヤマザキマザック",
+      "booths": [
+        "E1001"
+      ],
+      "why": "工程集約と自動化・デジタル・AIを組み合わせる大手の基準点。",
+      "ask": "機械ごとのAI機能と、段取り・プログラム作成をどこまで省けるか確認。",
+      "minutes": 35,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S07",
+        "C02-2026-1",
+        "C02-2024-1"
+      ]
+    },
+    {
+      "id": "V05",
+      "company": "Hexagon Manufacturing Intelligence株式会社",
+      "name": "Hexagon Manufacturing Intelligence",
+      "booths": [
+        "E7035",
+        "E2013"
+      ],
+      "why": "CAMの履歴学習と品質自動化を別ブースで比較できる。",
+      "ask": "E2013では履歴不足時の工程案、E7035では測定から工程改善へのデータ経路。",
+      "minutes": 60,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S16",
+        "S17",
+        "C27-2026-1",
+        "C27-2026-2"
+      ]
+    },
+    {
+      "id": "V06",
+      "company": "ベッコフオートメーション株式会社",
+      "name": "ベッコフオートメーション",
+      "booths": [
+        "E2028"
+      ],
+      "why": "生成AI支援とリアルタイム制御へのAI実装を同時に比較できる。",
+      "ask": "CoAgentの国内提供段階、I/OやHMIの反映、変更承認と復帰を確認。",
+      "minutes": 30,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S20",
+        "S21",
+        "C26-2026-1"
+      ]
+    },
+    {
+      "id": "V07",
+      "company": "株式会社TAKISAWA",
+      "name": "TAKISAWA",
+      "booths": [
+        "E3013"
+      ],
+      "why": "長時間無人運転を止める切粉絡まりを扱う具体的なAI参考出品。",
+      "ask": "想定と違う切粉を提示した時の検出・除去・失敗復帰。参考出品から製品化への条件。",
+      "minutes": 30,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S11",
+        "C31-2026-1",
+        "C31-2024-1"
+      ]
+    },
+    {
+      "id": "V08",
+      "company": "株式会社ミツトヨ",
+      "name": "ミツトヨ",
+      "booths": [
+        "E3008",
+        "E7085"
+      ],
+      "why": "加工と測定をつなぐ自動化を確認し、AI以外の有効な方式と比較できる。",
+      "ask": "MiSTAR連携の対象工程、合否後の自動補正と人の判断範囲。",
+      "minutes": 30,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S13",
+        "C22-2026-1",
+        "C22-2024-1"
+      ]
+    },
+    {
+      "id": "V09",
+      "company": "レニショー株式会社",
+      "name": "レニショー",
+      "booths": [
+        "E7089"
+      ],
+      "why": "2024から継続する計測フィードバックの成熟した比較対象。",
+      "ask": "CentralとIPCの接続条件、補正上限、測定異常の扱い。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S14",
+        "S15",
+        "C24-2026-1",
+        "C24-2024-1"
+      ]
+    },
+    {
+      "id": "V10",
+      "company": "シーメンス株式会社",
+      "name": "シーメンス",
+      "booths": [
+        "E3006"
+      ],
+      "why": "設計・加工・品質保証をつなぐデータの経路を確認できる。",
+      "ask": "実機とモデルの変更同期、部品・工具・測定データの版管理。",
+      "minutes": 30,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "C07-2026-1",
+        "C07-2024-1"
+      ]
+    },
+    {
+      "id": "V11",
+      "company": "三菱電機株式会社",
+      "name": "三菱電機",
+      "booths": [
+        "S2003"
+      ],
+      "why": "加工から保守までの省人化と、AI診断・運用ソリューションを比較できる。",
+      "ask": "CNCは実機展示なし。資料と相談で具体機能・対象機・自動変更範囲を確認。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S10",
+        "C06-2026-1",
+        "C06-2024-1"
+      ]
+    },
+    {
+      "id": "V12",
+      "company": "中村留精密工業株式会社",
+      "name": "中村留精密工業",
+      "booths": [
+        "E2027"
+      ],
+      "why": "既存設備へ導入する際のレイアウトと段取り負担を比較できる。",
+      "ask": "台車・パレットの適用条件と、移設・品種変更後の復旧操作。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認",
+      "refs": [
+        "S24",
+        "C29-2026-1",
+        "C29-2024-1"
+      ]
+    },
+    {
+      "id": "V13",
+      "company": "ジェービーエムエンジニアリング",
+      "name": "ジェービーエムエンジニアリング",
+      "booths": [
+        "E2002"
+      ],
+      "why": "CAMの自動生成を履歴学習型ProPlanAIと比較する。",
+      "ask": "生成前の工具・材種・保持条件設定と、出力後の修正・NC検証に要する時間。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認。",
+      "refs": [
+        "EOV-V008-2024-1",
+        "EOV-V008-2024-2",
+        "EOV-V008-2026-1",
+        "EDP-09",
+        "EDP-10",
+        "ERF-03"
+      ],
+      "card_id": "FC020"
+    },
+    {
+      "id": "V14",
+      "company": "HACARUS",
+      "name": "HACARUS",
+      "booths": [
+        "S1031"
+      ],
+      "why": "少量良品学習と追加学習の運用を見る。",
+      "ask": "油汚れや撮像変動を含む見逃し・過検出、更新後の独立評価。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認。",
+      "refs": [
+        "EOV-V021-2026-1",
+        "EOV-W06",
+        "EDP-14",
+        "EDP-15",
+        "ERF-05"
+      ],
+      "card_id": "FC036"
+    },
+    {
+      "id": "V15",
+      "company": "モリマシナリー",
+      "name": "モリマシナリー",
+      "booths": [
+        "S3048"
+      ],
+      "why": "工具摩耗の検出から交換時期提案までの広がりを見る。",
+      "ask": "材種・加工条件が変わる時の寿命予測と、実機展示範囲。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認。ツールソムリエは実機出展なし。対象はアナライザー。",
+      "refs": [
+        "EOV-V024-2024-1",
+        "EOV-V024-2026-1",
+        "EOV-W08"
+      ],
+      "card_id": "FC040"
+    },
+    {
+      "id": "V16",
+      "company": "たけびし",
+      "name": "たけびし",
+      "booths": [
+        "S3015"
+      ],
+      "why": "設備データをAIエージェントに渡す接続基盤を確認する。",
+      "ask": "MCP Adapterの提供状況、情報モデル、読出しと書込みの権限。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認。",
+      "refs": [
+        "EOV-V011-2024-1",
+        "EOV-V011-2026-1",
+        "EDP-06"
+      ],
+      "card_id": "FC024"
+    },
+    {
+      "id": "V17",
+      "company": "パナソニックプロダクションエンジニアリング",
+      "name": "パナソニックプロダクションエンジニアリング",
+      "booths": [
+        "W3086"
+      ],
+      "why": "複数設備の監視と遠隔介入の運用を確認する。",
+      "ask": "停止時の人の介入回数と、通信遅延・切断時の安全停止。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認。",
+      "refs": [
+        "EOV-V016-2026-1",
+        "EOV-W05",
+        "EOV-W09",
+        "EDP-24"
+      ],
+      "card_id": "FC031"
+    },
+    {
+      "id": "V18",
+      "company": "匠技研工業",
+      "name": "匠技研工業",
+      "booths": [
+        "S3011"
+      ],
+      "why": "機械外の業務AIが、現場知識をどう再利用するか確認する。",
+      "ask": "見積の根拠、担当者の修正・承認、再学習に必要な案件数。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認。",
+      "refs": [
+        "EOV-V041-2026-1",
+        "EDP-05"
+      ],
+      "card_id": "FC062"
+    },
+    {
+      "id": "V19",
+      "company": "興和オプトロニクス",
+      "name": "興和オプトロニクス",
+      "booths": [
+        "S3104"
+      ],
+      "why": "AIの前提となる機内撮像の安定性を見る。",
+      "ask": "ミスト・油・切粉条件、視界不良時の誤判定と清掃・保守。",
+      "minutes": 25,
+      "status": "展示予定・現地未確認。",
+      "refs": [
+        "EOV-V042-2026-1",
+        "EDP-33"
+      ],
+      "card_id": "FC063"
+    }
+  ],
+  "ai_review": [
+    {
+      "year": 2024,
+      "company": "株式会社アマダ",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=Jc5GYaUqS1I"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "共立精機株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=xT1gIvXxCpQ"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社ケーエムケーワールド",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=-rwblKpSVo0"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "コグネックス株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=ap1BCPbxb5k"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社小森安全機研究所",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=QaMQqCgkpPI"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社C&Gシステムズ",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=RVv4M6_8NyQ"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社シーイーシー",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=WS9ql5D41fQ"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社松楽産業",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=wuxmmCYbJCQ"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "西部商工株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=YRTw8XJWi9g"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社ソフィックス",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=WNiUW-E-atY"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社たけびし",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=SiZMI-OH8_k"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社テクノア",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=lmqsWTyiVAY"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "日本精工株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=5maDHvHPff8"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "ファナック株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=N0RgOmmcwZw"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社富士エーアイプレシジョン",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=1gMJ22MesEE"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "フルサト・マルカホールディングス株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=_09E-XidjeY"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社ブロードリーフ",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=R_rANt3zYio"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社マザーツール",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=kBYy2TOLHlc"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "株式会社豆蔵",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=T2Qwr0hvyyA"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "ミクロン精密株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=ZJSo43WHLMY"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "三鷹光器株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=eBI5ClKa4-g"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "三菱電機株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=30li0vWcseI"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "ムラテックCCS株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=2N7pXq5Aehs"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "モリマシナリー株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=yEoPl5sH6Sg"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "山口産業株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=4DzCn6Z5EGw"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "ヤマザキマザック株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=q0OrZBKM3uQ"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "米沢工機株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=Dt_yEexTCZo"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "Da Shiang Automation Industrial Co., Ltd",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=xEXdOEK7Vpc"
+      ]
+    },
+    {
+      "year": 2024,
+      "company": "YEU LIAN ELECTRONICS CO., LTD.",
+      "decision": "技術件数から除外",
+      "reason": "AI/AOはアナログ入出力の文脈。人工知能の証拠としない。",
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=CAWVhuOrGes"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "アナログ・デバイセズ株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=KmFutdwRdo0"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "EPLAN株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=FHsQAvmFusY"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "伊藤忠マシンテクノス株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=7ypX6WR51KU"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "オークマ株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "オートデスク株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=Y_kC6hMTghk"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "カネテック株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=ekM3exgIAtc"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社ケーメックス・オートメーション",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=bz4bGc4T6ag"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "興和オプトロニクス株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社小森安全機研究所",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=utVc5A88Bgw"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社サイバーRC",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "三旺株式会社",
+      "decision": "技術件数から除外",
+      "reason": "供給対象の産業・用途としてのAI。自社のAI機能は特定できない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=i91hxA4q8KY"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社C＆Gシステムズ",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=U_kHbhLD6rU"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社シーイーシー",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=tW-C9oF94EQ"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社CGTech",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=41U8xW4UkcM"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "ジェービーエムエンジニアリング株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=VrAjMTKmxdw"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社シマダマシンツール",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社松楽産業",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=L-V39ptNjvw"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社Smart Craft",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=WqjRB6DEqN0"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "西部電機株式会社",
+      "decision": "技術件数から除外",
+      "reason": "AI関連分野は加工対象の需要。AI実装機能の証拠ではない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=LqNWsydMu7s"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社ソフィックス",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社TAKISAWA",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "タクテックス株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=2TVzwvOqLxI"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "匠技研工業株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社たけびし",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "有限会社ツールディスカバリー",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=2N7pXq5Aehs"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "DMG森精機株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社テクノア",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=sSRmH-KuV8U"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "テクノダイナミックス株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=2X8A1y5c4A8"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社トミタ",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=C6Hx1wzP4fA"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社ナベル",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=6wciaKIuYB8"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "日東商事株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=GozGZRxlviw"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "日本クリンゲルンベルグ株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=K8FKaawJkn0"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "日本3Dプリンター株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=ohBDcqo2rI8"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "ハイデンハイン株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社ＨＡＣＡＲＵＳ",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "パナソニックプロダクションエンジニアリング株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=5mrMofo3nN8"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社フアクト",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=taaGM0brdn8"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社Fact Base",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=hZaNogHdQM4"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "ファナック株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社ブロードリーフ",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=Dt_yEexTCZo"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "Hexagon Manufacturing Intelligence株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=oUyVPjxvy-U",
+        "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "ベッコフオートメーション株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社マザーツール",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=BoITLU2Wxfk"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "三菱商事テクノス株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "三菱電機株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "株式会社ミロクリエ",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=IQhLnLagU5I"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "ムラテックＣＣＳ株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=Z_SbvK_hxBY"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "ものレボ株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=sccKfxE4bYo"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "モリマシナリー株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "山口産業株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=swNETGQjKXM"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "ヤマザキマザック株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "UEL株式会社",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=dBv-8tktfaE"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "BUFFOLI TRANSFER S.p.A.",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=XR5ASqmy4zw"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "Formnext",
+      "decision": "技術件数から除外",
+      "reason": "セミナーのAI翻訳。加工・製造AIの展示件数に含めない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=HAA3cTt92lk"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "NdotLight Co., Ltd.",
+      "decision": "関連提案候補として保持",
+      "reason": "AIを含む製品・サービス・研究開発・基盤の提案。実装確定／性能確認の件数とはしない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=6Ds1v9hxvrY"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "Theta Precision Co., Ltd.",
+      "decision": "技術件数から除外",
+      "reason": "AI産業向けスピンドルの需要。自社のAI機能の証拠ではない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=-qpqVRprqhs"
+      ]
+    },
+    {
+      "year": 2026,
+      "company": "WALSIN LIHWA CORPORATION",
+      "decision": "技術件数から除外",
+      "reason": "AIサーバー向け材料。製造工程でAIを使うという説明ではない。",
+      "source_urls": [
+        "https://www.jimtof.org/search/jp/ESdetails?e=s1BC0qoE2S4"
+      ]
+    }
+  ],
+  "findings": [
+    "AIの訴求は全体集計と同名企業の比較の両方で増えている。生産準備、制御開発、運用支援が具体的な比較対象になっている。",
+    "自動化は2024からの継続が大きい。2026では爪・工具交換、切粉処理、計測連携など、人手が残る対象作業と構成の広がりを比較する。",
+    "フィジカルAIとエージェントは注目テーマだが、参考出品、提供予定、基盤・部品を含む。商用の自律工場が一般化したとは判断できない。",
+    "視察では生成・判定のデモに加え、実機適用の検証、承認、例外復帰までを確認すると、導入判断に必要な差が見える。"
+  ],
+  "route": [
+    {
+      "day": "1日目 東展示棟",
+      "blocks": [
+        [
+          "10:00〜11:15",
+          "東1",
+          "マザック E1001、牧野 E1024を比較。工程集約とライン自動化の違いを確認。"
+        ],
+        [
+          "11:15〜12:30",
+          "東2",
+          "Hexagon CAM E2013、JBM E2002、Beckhoff E2028。生成案と検証を比較。"
+        ],
+        [
+          "13:15〜14:30",
+          "東3",
+          "オークマ E3028、TAKISAWA E3013、シーメンス E3006。"
+        ],
+        [
+          "14:30〜15:30",
+          "東7",
+          "ミツトヨ E7085、レニショー E7089。必要に応じHexagon品質 E7035。"
+        ],
+        [
+          "15:45〜16:45",
+          "東8",
+          "DMG森精機 E8005。関心に応じジェイテクト E8003、ニデックの詳細は東3で確認。"
+        ]
+      ]
+    },
+    {
+      "day": "2日目 南と西展示棟",
+      "blocks": [
+        [
+          "10:00〜11:30",
+          "南2",
+          "ファナック S2001、三菱電機 S2003。必要に応じシチズン S2002。"
+        ],
+        [
+          "11:30〜12:30",
+          "南1",
+          "HACARUS／日東商事 S1031。検査と追加学習の運用を確認。"
+        ],
+        [
+          "13:15〜14:30",
+          "南3",
+          "匠技研 S3011、たけびし S3015、モリ S3048、興和 S3104から関心の高い2件を選択。"
+        ],
+        [
+          "14:45〜15:45",
+          "西",
+          "OSG W1070、京セラ W1046等で工具管理と監視。遠隔管制はパナソニック W3086。"
+        ],
+        [
+          "16:00〜16:45",
+          "再訪または南4",
+          "重要な未回答を再確認。きさげロボット企画は南4。移動時間を優先して調整。"
+        ]
+      ]
+    }
+  ],
+  "one_day": "1日しかない場合は東と南に絞り、マザック、Hexagon CAM、Beckhoff、オークマ、TAKISAWA、DMG森精機、ファナックを中心に、計測はミツトヨかレニショーのどちらかを選ぶ。西の工具・周辺は別担当または事前資料で補完する。",
+  "questions": [
+    [
+      "生産準備AI",
+      "生成時間、修正時間、検証時間、初回加工合格率",
+      "図面不足、未知形状、工具欠品で何が起きるか。"
+    ],
+    [
+      "ロボットと付帯作業",
+      "品種切替時間、連続運転時間、介入回数",
+      "切粉形状やワーク位置が変わると、再試行と停止はどう変わるか。"
+    ],
+    [
+      "計測と補正",
+      "見逃し率、過検出率、測定時間、工程能力",
+      "補正上限、測定異常、油汚れをどう扱うか。"
+    ],
+    [
+      "保全と工場DX",
+      "入力時間、接続工数、停止時間、復旧時間",
+      "診断後の操作・修理を誰が担うか。"
+    ],
+    [
+      "データと制御基盤",
+      "モデル更新工数、実機差、ログ、再検証時間",
+      "生成案と実機の設定の版を、どう一致させるか。"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "slide": 1,
+    "claim_id": "C001",
+    "evidence_ids": [
+      "E002"
+    ]
+  },
+  {
+    "slide": 1,
+    "claim_id": "C002",
+    "evidence_ids": [
+      "E001",
+      "E003",
+      "E007"
+    ]
+  },
+  {
+    "slide": 1,
+    "claim_id": "C003",
+    "evidence_ids": [
+      "E009",
+      "E012",
+      "E006"
+    ]
+  },
+  {
+    "slide": 1,
+    "claim_id": "C004",
+    "evidence_ids": [
+      "E002",
+      "E006",
+      "E007",
+      "E012"
+    ]
+  },
+  {
+    "slide": 1,
+    "claim_id": "C005",
+    "evidence_ids": [
+      "E002",
+      "E007"
+    ]
+  },
+  {
+    "slide": 1,
+    "claim_id": "C006",
+    "evidence_ids": [
+      "E001",
+      "E003",
+      "E006"
+    ]
+  }
+]

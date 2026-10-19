@@ -1,0 +1,248 @@
+[
+  {
+    "change_id": "Y01",
+    "pattern": "開発支援の対象を具体化",
+    "baseline": "2023のTwinCAT ChatはPLCコード作成等。ML Creatorは2024資料で学習・評価・ONNX。",
+    "current": "CoAgentのI/O・HMI支援と専門家の確認・承認は2025/6に説明済み。2026はOperationsの診断・命令実行を説明。",
+    "interpretation": "I/O・HMIを2026の初搭載としない。Operationsは製品発表・投入時期要問合せ。個別の操作権限・復帰は未確認。",
+    "statement_type": "複数事例の変化パターン〈分析〉。一様な進化や初発明年は示さない。",
+    "card_ids": [
+      "FC011",
+      "FC012",
+      "FC013",
+      "FC014"
+    ],
+    "evidence_ids": [
+      "EDP-03",
+      "EDP-04",
+      "EAT-N03",
+      "EAT-N04",
+      "EAT-N05",
+      "ERF-01",
+      "ERF-02"
+    ],
+    "source_urls": [
+      "https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html",
+      "https://www.beckhoff.com/media/downloads/information-media/pc-control/pcc_0224_e.pdf",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+      "https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html",
+      "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html"
+    ],
+    "source_locators": [
+      "EDP-03: TwinCAT XAE／コード作成・追加・最適化・文書化",
+      "EDP-04: TE3850／訓練・テストデータ分割、モデル解析、ONNX出力",
+      "EAT-N03: Features／Product status",
+      "EAT-N04: Properties／Product status",
+      "EAT-N05: CoAgents for development and machine operation",
+      "ERF-01: 2025/6/13／Placing people at the heart of automation；PLC・I/O・HMI、専門家がreview・confirm・approve",
+      "ERF-02: Properties／direct system access；Product status／market release on request"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "change_id": "Y02",
+    "pattern": "CAMは学習源と加工範囲で分岐",
+    "baseline": "CAM Assist／Mastercamは2024/7/25に提供発表。SolidCAMの2024展示はiMachining等。",
+    "current": "SolidCAM 2025 SP4対応。ProPlanAIは2025.2導入説明→2026.1で旋削・複合・スイス型を商用拡張。",
+    "interpretation": "ProPlanAIの2024同名資料なし。国内供給・会場版は要確認。履歴予測と物理・加工ルール型を分ける。",
+    "statement_type": "複数事例の変化パターン〈分析〉。一様な進化や初発明年は示さない。",
+    "card_ids": [
+      "FC018",
+      "FC020",
+      "AC131"
+    ],
+    "evidence_ids": [
+      "EDP-10",
+      "EDP-09",
+      "EDP-07",
+      "EDP-08",
+      "EOV-W02"
+    ],
+    "source_urls": [
+      "https://www.cloudnc.com/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+      "https://www.cloudnc.com/ja/mastercam",
+      "https://www.cloudnc.com/ja/solidcam",
+      "https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm",
+      "https://hexagon.com/products/esprit-edge/release-highlights"
+    ],
+    "source_locators": [
+      "EDP-10: July 25, 2024／3軸・3+2軸向け。北米販売開始の説明",
+      "EDP-09: 仕組みステップ1〜4／FAQの対象加工・顧客データ学習の否定",
+      "EDP-07: 仕組みステップ1〜4／FAQの対象加工・通信・戦略生成",
+      "EDP-08: 形状・工具・材種・段取りの入力／プログラマーの修正・検証・NC出力",
+      "EOV-W02: 2025.2 PROPLANAI、2026.1 ProPlanAI for Turning, Mill-Turn & Swiss"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "change_id": "Y03",
+    "pattern": "既存の判定に人の調整・予測を追加",
+    "baseline": "Moriの摩耗判定・Muratecの診断は2024に存在。寿命推定研究は2023発表。",
+    "current": "ZEROは2025/7/9販売開始、良否ラベルの追加学習。2026はMoriアナライザーの寿命・交換提案を具体掲載。",
+    "interpretation": "診断→自動修理／交換とは確認できない。追加学習の更新採否・実運用性能は別途確認。",
+    "statement_type": "複数事例の変化パターン〈分析〉。一様な進化や初発明年は示さない。",
+    "card_ids": [
+      "FC036",
+      "FC039",
+      "FC040",
+      "AC225"
+    ],
+    "evidence_ids": [
+      "EDP-14",
+      "EDP-15",
+      "EDP-12",
+      "EOV-W08",
+      "EDP-13"
+    ],
+    "source_urls": [
+      "https://hacarus.com/ja/press-release/20250707-news/",
+      "https://check.hacarus.com/ja/",
+      "https://mori-machinery.com/en/product/tool-sommelier?post_id=1066",
+      "https://mori-machinery.com/wp-content/uploads/2023/06/%E7%86%9F%E7%B7%B4%E8%80%85%E3%81%AE%E7%B5%8C%E9%A8%93%E7%9F%A5%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E5%88%87%E5%89%8A%E5%B7%A5%E5%85%B7%E3%81%AE%E6%AC%A0%E3%81%91%E3%83%BB%E6%91%A9%E8%80%97%E3%83%BB%E5%AF%BF%E5%91%BD%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8BAI%E3%82%92%E9%96%8B%E7%99%BA.pdf",
+      "https://www.muratec.jp/company/ti/rd/detail.php?id=7540"
+    ],
+    "source_locators": [
+      "EDP-14: 2025/7/9販売／良品学習とアノテーション追加学習／判定UI",
+      "EDP-15: Check ZERO／デュアルチューニング／機器構成",
+      "EDP-12: 刃先撮像・欠け摩耗自動検出／FAQの工具・径制約",
+      "EOV-W08: 2023年6月2日、成果と今後の展望",
+      "EDP-13: 電流・振動を新品データと比較／補正入力回数・軸負荷による劣化判定"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "change_id": "Y04",
+    "pattern": "物理作業と導入構成を拡張",
+    "baseline": "TR-20Wは搬入出。磁気＋2Dピック、MMKのCAPTO交換、イマオ同系列治具は2024に存在。",
+    "current": "TR-20Wは切粉除去を参考出品。MMKはAdv後付け・単体販売、FNSは工程間統合、白山はAMR回収を説明。",
+    "interpretation": "既存機構をAI新技術としない。カネテックのAI担当、再計画・失敗復帰、実演範囲は未確認。",
+    "statement_type": "複数事例の変化パターン〈分析〉。一様な進化や初発明年は示さない。",
+    "card_ids": [
+      "FC049",
+      "AC051",
+      "AC214",
+      "FC042",
+      "AC039",
+      "AC186"
+    ],
+    "evidence_ids": [
+      "EAT-N01",
+      "EAT-N02",
+      "EDP-01",
+      "EDP-27",
+      "EDP-28",
+      "EDP-32",
+      "EDP-25",
+      "EDP-29"
+    ],
+    "source_urls": [
+      "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+      "https://www.nidec.com/jp/product/news/2024/news1101-03/",
+      "https://kanetec.co.jp/lp/MagnetPinset%40LP.html",
+      "https://mmkchuck.com/news/2024/5903/",
+      "https://mmkchuck.com/news/2026/7380/",
+      "https://www.imao.co.jp/event-20241105-1110-jimtof/jimtof.pdf",
+      "https://www.fns-inc.jp/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+      "https://www.hakusankiko.co.jp/news/event/8837/"
+    ],
+    "source_locators": [
+      "EAT-N01: TR-20W：フィジカルAI搭載のロボットシステム（参考出品）",
+      "EAT-N02: 2024年11月1日／MGC300の出展説明",
+      "EDP-01: 小径ネジの課題／JIMTOF2024出展／ネジ整列器",
+      "EDP-27: 爪・ケレ・計測／展示会初披露のCAPTO・MAC",
+      "EDP-28: Advハード単体・ストッカー単体販売への対応",
+      "EDP-32: ナットランナー治具各型式／人でもロボットでも操作可能",
+      "EDP-25: RK510：FANUC CRX-10iA・2段ストッカー・CNCマクロ変数・カメラオプション",
+      "EDP-29: AMR切り屑回収システムを実演・模型で紹介"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "change_id": "Y05",
+    "pattern": "接続・監視基盤の具体化",
+    "baseline": "たけびしは2024にOPC UA接続。ユシロは旧社名で遠隔監視・濃度補給を掲載。",
+    "current": "2026はMCP Adapter提供計画、TRINIXのSimReady生成、ALFREDのコントローラー・監視画面を説明。",
+    "interpretation": "ユシロを社名変更で照合。監視方式そのものは既存。ALFRED固有差・AI・自動補給は未確認。MCP計画と実装も分ける。",
+    "statement_type": "複数事例の変化パターン〈分析〉。一様な進化や初発明年は示さない。",
+    "card_ids": [
+      "FC024",
+      "AC273",
+      "AC234"
+    ],
+    "evidence_ids": [
+      "EDP-06",
+      "EEX-WNDOT",
+      "ERF-10",
+      "ERF-11"
+    ],
+    "source_urls": [
+      "https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/",
+      "https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix",
+      "https://www.yushiro.co.jp/news/社名変更のお知らせ",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=He5z-J4NQm8"
+    ],
+    "source_locators": [
+      "EDP-06: A New Approach to Connecting AI Agents／MCP Adapterはplanning to provide",
+      "EEX-WNDOT: 展示会概要・出展製品／2026年5月13日の製品説明",
+      "ERF-10: 旧：ユシロ化学工業株式会社→新：株式会社ユシロ；2025/4/1変更",
+      "ERF-11: 出展説明・主な出展物／クーラントのリモート監視とフレキシブル濃度補給装置"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "change_id": "Y06",
+    "pattern": "別の実証と比較不能を残す",
+    "baseline": "Toknの仮想CNC訓練はCompletion 2024。Panasonic等は2024同名資料不足。",
+    "current": "SiemensのHMND物流試験は2026/4ドイツの別実証。Panasonicは2026/7に人の遠隔回避を具体確認。",
+    "interpretation": "ToknからHMNDへの進化・接続は未確認。海外事例とJIMTOF展示機を同一視しない。人の介入を自律復帰としない。",
+    "statement_type": "複数事例の変化パターン〈分析〉。一様な進化や初発明年は示さない。",
+    "card_ids": [
+      "AC098",
+      "FC031",
+      "FC063",
+      "AC136",
+      "AC195",
+      "AC146",
+      "FC062"
+    ],
+    "evidence_ids": [
+      "EDP-16",
+      "EDP-17",
+      "EDP-24",
+      "EDP-33",
+      "EDP-05",
+      "EEX-WTED"
+    ],
+    "source_urls": [
+      "https://references.siemens.com/en/reference/heller-tokn-digital-twin?id=41137",
+      "https://press.siemens.com/jp/ja/pressrelease/pr-20260416",
+      "https://news.panasonic.com/jp/press/jn260713-1",
+      "https://optical.kowa-opt.co.jp/camera-rw/",
+      "https://prtimes.jp/main/html/rd/p/000000031.000057137.html",
+      "https://www.inrevium.com/news-event/event/p7331/"
+    ],
+    "source_locators": [
+      "EDP-16: Completion: 2024／仮想SINUMERIK ONEと3D機械モデルによる訓練",
+      "EDP-17: HMND 01 Alphaのトート把持・搬送・配置／Jetson Thor・Isaac Sim/Lab",
+      "EDP-24: 障害物停止時に自動運転から人の遠隔操作へ切替／担当者とセーフティドライバー",
+      "EDP-33: ビジョンプロセッサ併用の不良ヒートマップ・切粉巻付きアラート・工具欠損検出",
+      "EDP-05: 見積金額算出／人の修正による再学習／引合受領から見積書作成",
+      "EEX-WTED: 展示会概要・出展製品／2026年5月13日の製品説明"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  }
+]

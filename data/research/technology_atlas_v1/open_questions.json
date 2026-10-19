@@ -1,0 +1,360 @@
+[
+  {
+    "question_id": "Q01",
+    "title": "ToolDiscoveryのAI条件目安",
+    "companies": [
+      "有限会社ツールディスカバリー"
+    ],
+    "booths_2026": [
+      "W1069"
+    ],
+    "known_facts": "工具・被削材・加工方法から条件を表示・共有。",
+    "question": "AIは何を最適化し、機械剛性・突出し・保持を考慮するか。成立しない条件を警告するか。",
+    "requested_evidence": "同一工具・材種で保持や機械条件だけを変えた算定例。",
+    "experiment_gate": "考慮制約と適用外条件が示せれば条件助言の比較へ進む。",
+    "unresolved": "追加技術資料未確認。計算・学習方式と実加工の承認は保留。",
+    "card_ids": [
+      "AC136"
+    ],
+    "evidence_ids": [
+      "ERF-12"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ExhibitorDetails?b=W1069"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q02",
+    "title": "ALFREDと2024監視・補給の差",
+    "companies": [
+      "株式会社ユシロ"
+    ],
+    "booths_2026": [
+      "S3093"
+    ],
+    "known_facts": "旧社名を照合し、2024の遠隔監視・濃度補給を確認。",
+    "question": "ALFREDは2024装置のどこを変更したか。自動補給は接続できるか。AI判断は存在するか。",
+    "requested_evidence": "両年の構成図・型式、pH／濃度センサと補給系統、校正・汚れ時の画面。",
+    "experiment_gate": "固有差と実行範囲が分かれば監視／制御を区別して更新。",
+    "unresolved": "2024の補給機能をALFRED仕様として流用しない。",
+    "card_ids": [
+      "AC234"
+    ],
+    "evidence_ids": [
+      "ERF-10",
+      "ERF-11"
+    ],
+    "source_urls": [
+      "https://www.yushiro.co.jp/news/社名変更のお知らせ",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=He5z-J4NQm8"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q03",
+    "title": "CoAgent Engineeringの実行承認",
+    "companies": [
+      "ベッコフオートメーション"
+    ],
+    "booths_2026": [
+      "E2028"
+    ],
+    "known_facts": "2025資料で専門家による確認・確定・承認方針。",
+    "question": "生成案の採用と、コンパイル・PLC書込・運転開始は別の承認か。誰が変更履歴を戻せるか。",
+    "requested_evidence": "生成案→差分→承認→適用の画面と、権限別の操作ログ。",
+    "experiment_gate": "設計成果物と実機操作の境界が分かればT02の範囲を決める。",
+    "unresolved": "一般方針から毎回承認・安全機能の搭載を推測しない。",
+    "card_ids": [
+      "FC011",
+      "FC012"
+    ],
+    "evidence_ids": [
+      "ERF-01"
+    ],
+    "source_urls": [
+      "https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q04",
+    "title": "Operationsの命令・権限・復帰",
+    "companies": [
+      "ベッコフオートメーション",
+      "たけびし"
+    ],
+    "booths_2026": [
+      "E2028",
+      "S3015"
+    ],
+    "known_facts": "命令実行を説明。提供時期要問合せ。MCP Adapterは提供計画。",
+    "question": "読取と書込の許可、毎回承認、古い状態・通信断・二重実行、失敗後の再開はどう扱うか。",
+    "requested_evidence": "許可命令一覧、状態前提、失敗ログ、権限設定と実行ID。",
+    "experiment_gate": "APIとログを使えるなら模擬PLCで整合性評価。",
+    "unresolved": "公開ページで未確認。Engineeringの方針をOperationsの実装証拠にしない。",
+    "card_ids": [
+      "FC013",
+      "FC024"
+    ],
+    "evidence_ids": [
+      "ERF-02",
+      "EDP-06"
+    ],
+    "source_urls": [
+      "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+      "https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q05",
+    "title": "生成CAM→ポスト後NCの検証",
+    "companies": [
+      "ジェービーエムエンジニアリング",
+      "タクテックス株式会社",
+      "CGTech"
+    ],
+    "booths_2026": [
+      "E2002",
+      "S1016",
+      "S3014"
+    ],
+    "known_facts": "人が案を調整し、既存の検証・NC生成へ進む。",
+    "question": "工具・保持・機械・ポストの版変更が生成案とNCにどう反映され、未検出制約を誰が直すか。",
+    "requested_evidence": "同一部品の条件変更例、編集前後CAM、NC検証結果、修正理由。",
+    "experiment_gate": "既存フローとの差分・総工数が測れるならT01を検証。",
+    "unresolved": "ベンダー間の実装済み自動連携は未確認。",
+    "card_ids": [
+      "FC020",
+      "AC131",
+      "FC021"
+    ],
+    "evidence_ids": [
+      "ERF-03",
+      "ERF-04",
+      "EDP-20"
+    ],
+    "source_urls": [
+      "https://www.cloudnc.com/ja/mastercam",
+      "https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm",
+      "https://vericut.com/ja-jp/products/cnc-machine-simulation"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q06",
+    "title": "TR-20Wの切粉除去と失敗復帰",
+    "companies": [
+      "TAKISAWA"
+    ],
+    "booths_2026": [
+      "E3013"
+    ],
+    "known_facts": "主軸切粉を認識・判断・除去する参考出品。",
+    "question": "完了は何で検知し、除去できない切粉・接触・工具異常でいつ止め、何回再試行するか。",
+    "requested_evidence": "正常／未完了の動画と判定信号、力・接触条件、人への通知と再開手順。",
+    "experiment_gate": "取得可能信号と限定タスクを確認後にT03の実験を定義。",
+    "unresolved": "現地未検証。センサ種・力制限・成功率は未公開。",
+    "card_ids": [
+      "FC049"
+    ],
+    "evidence_ids": [
+      "ERF-13"
+    ],
+    "source_urls": [
+      "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q07",
+    "title": "磁気ピックのAI担当と二個取り",
+    "companies": [
+      "カネテック株式会社"
+    ],
+    "booths_2026": [
+      "W2013"
+    ],
+    "known_facts": "2Dカメラ・協働ロボット・磁気把持。AIの担当未特定。",
+    "question": "AIは検出・把持点・複数個吸着・再試行のどこを判断するか。誤把持をどう検知するか。",
+    "requested_evidence": "AI入出力、空振り／二個取りの失敗判定と人への引継ぎ。",
+    "experiment_gate": "AI担当と成否判定が分かればT03の比較例へ。",
+    "unresolved": "LP本文取得はCache miss。既存方式とAI追加時期は区別。",
+    "card_ids": [
+      "AC051"
+    ],
+    "evidence_ids": [
+      "EDP-01"
+    ],
+    "source_urls": [
+      "https://kanetec.co.jp/lp/MagnetPinset%40LP.html"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q08",
+    "title": "TEDの形状認識→加工許可",
+    "companies": [
+      "東京エレクトロンデバイス株式会社"
+    ],
+    "booths_2026": [
+      "E7073"
+    ],
+    "known_facts": "レーザ3D形状から軌道生成し面取り等を説明。",
+    "question": "学習AIを使うか。干渉・取り残しをどう確認し、反り・二枚取りで止めて誰が再開するか。",
+    "requested_evidence": "入力スキャン、生成軌道、干渉確認、許可画面、失敗時ログ。",
+    "experiment_gate": "方式と許可・停止条件が分かればAI方式と幾何方式を比較。",
+    "unresolved": "教示不要を無制限の未知形状対応としない。",
+    "card_ids": [
+      "AC146"
+    ],
+    "evidence_ids": [
+      "EEX-WTED"
+    ],
+    "source_urls": [
+      "https://www.inrevium.com/news-event/event/p7331/"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q09",
+    "title": "GH5の補正上限と測定異常",
+    "companies": [
+      "株式会社サイバーRC"
+    ],
+    "booths_2026": [
+      "E7074"
+    ],
+    "known_facts": "人の目標幅・角度に対して画像測定と自動調整。",
+    "question": "補正上限、測定不能・過研磨の停止判定、目標変更の権限、完了確認は何か。",
+    "requested_evidence": "設定値と測定値・補正量の履歴、限界例と停止復帰の説明。",
+    "experiment_gate": "補正の範囲・成否指標が開示されればT03の閉ループ比較。",
+    "unresolved": "PDF本体は容量上限で未取得。索引確認の範囲を越えない。",
+    "card_ids": [
+      "AC085"
+    ],
+    "evidence_ids": [
+      "EDP-02"
+    ],
+    "source_urls": [
+      "https://cyber-rc.com/wp-content/uploads/2025/10/%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0420-x-297-mm%E6%A8%AA%E4%B8%A6%E3%81%B3-.pdf"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q10",
+    "title": "検査・診断モデルの更新採否",
+    "companies": [
+      "HACARUS",
+      "モリマシナリー",
+      "ムラテックＣＣＳ株式会社"
+    ],
+    "booths_2026": [
+      "S1031",
+      "S3048",
+      "E3031"
+    ],
+    "known_facts": "ZEROは人の追加ラベルを利用。画像・時系列診断は用途で基準が違う。",
+    "question": "更新前後を別データで比較できるか。誰が採用し、条件別悪化で旧版に戻せるか。",
+    "requested_evidence": "更新履歴、独立評価群、条件別の見逃し・過検出、採否・差戻し画面。",
+    "experiment_gate": "既存機能で不足する要求が確認された場合のみT04を研究化。",
+    "unresolved": "追加学習があるだけで独立評価・自動差戻しがあるとはしない。",
+    "card_ids": [
+      "FC036",
+      "FC039",
+      "AC225"
+    ],
+    "evidence_ids": [
+      "ERF-05",
+      "EDP-12",
+      "EDP-13"
+    ],
+    "source_urls": [
+      "https://check.hacarus.com/ja/aisoftware/",
+      "https://mori-machinery.com/en/product/tool-sommelier?post_id=1066",
+      "https://www.muratec.jp/company/ti/rd/detail.php?id=7540"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q11",
+    "title": "SimReadyの自己修正と実物の差",
+    "companies": [
+      "NdotLight Co., Ltd."
+    ],
+    "booths_2026": [
+      "S4004"
+    ],
+    "known_facts": "TRINIXは属性推論・自己修正、周辺基盤はアセット検証。",
+    "question": "誤差の正解・収束条件は何か。推定値と実測値を分けられるか。DexBenchは何が利用可能か。",
+    "requested_evidence": "属性の由来、修正履歴、検証ルール、実機との比較、公開成果物の範囲。",
+    "experiment_gate": "モデル・実測対象が使えるならT05の限定比較。",
+    "unresolved": "公式共同開発告知は完成標準や性能保証とは別。",
+    "card_ids": [
+      "AC273"
+    ],
+    "evidence_ids": [
+      "ERF-06",
+      "ERF-07",
+      "ERF-08",
+      "ERF-09"
+    ],
+    "source_urls": [
+      "https://ndotlight.com/",
+      "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+      "https://docs.omniverse.nvidia.com/simready/latest/simready-asset-creation/physics-best-practices.html",
+      "https://ndotlight.com/newsroom/ndotlight-to-co-develop-dexbench-a-global-standard-for-humanoid-evaluation-with-nvidia-and-rlwrld"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  },
+  {
+    "question_id": "Q12",
+    "title": "予測→搬送指示→停止復帰",
+    "companies": [
+      "ソフィックス",
+      "FNS株式会社",
+      "株式会社白山機工"
+    ],
+    "booths_2026": [
+      "E1067",
+      "E2034",
+      "E2007"
+    ],
+    "known_facts": "Fleeterは上位命令、FNSは統合指示、白山はAMR回収を説明。",
+    "question": "予測が実際に配車・計画を変えるか。遅延・機械停止・回収失敗で誰が再計画し承認するか。",
+    "requested_evidence": "上位命令と装置状態の時系列、遅延時の画面、再計画と人の引継ぎ。",
+    "experiment_gate": "判断と指令の接続・権限が確認できればT02／T03の拡張例。",
+    "unresolved": "AIによる再計画や予測からの自動指令は未確認。",
+    "card_ids": [
+      "FC030",
+      "AC039",
+      "AC186"
+    ],
+    "evidence_ids": [
+      "EDP-21",
+      "EDP-22",
+      "EDP-25",
+      "EDP-29"
+    ],
+    "source_urls": [
+      "https://www.sofix.co.jp/products/sofixcan_ai_forecast/",
+      "https://www.sofix.co.jp/products/sofixcan_fleeter/",
+      "https://www.fns-inc.jp/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+      "https://www.hakusankiko.co.jp/news/event/8837/"
+    ],
+    "status": "公開情報で未解決・現地／技術担当への確認待ち",
+    "checked_date": "2026-10-18"
+  }
+]

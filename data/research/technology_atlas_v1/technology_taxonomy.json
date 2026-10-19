@@ -1,0 +1,696 @@
+[
+  {
+    "task_id": "TASK01",
+    "phase": "受注・加工準備",
+    "phase_index": 0,
+    "task": "図面検索・見積・調達",
+    "purpose": "図面・原価・調達情報から業務を進める",
+    "card_ids": [
+      "FC028",
+      "FC062"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK02",
+    "phase": "受注・加工準備",
+    "phase_index": 0,
+    "task": "工程設計",
+    "purpose": "形状と加工履歴から加工工程を組む",
+    "card_ids": [
+      "FC018"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK03",
+    "phase": "受注・加工準備",
+    "phase_index": 0,
+    "task": "治具設計",
+    "purpose": "固定方法・クランプ構成を決める",
+    "card_ids": [
+      "FC060"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK04",
+    "phase": "受注・加工準備",
+    "phase_index": 0,
+    "task": "CAM・NC作成",
+    "purpose": "工具経路・加工プログラムを準備する",
+    "card_ids": [
+      "FC020"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK05",
+    "phase": "受注・加工準備",
+    "phase_index": 0,
+    "task": "NC・干渉検証",
+    "purpose": "実行前に衝突や削り過ぎを確認する",
+    "card_ids": [
+      "FC007",
+      "FC021"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK06",
+    "phase": "制御開発・立上げ",
+    "phase_index": 1,
+    "task": "PLCコード作成",
+    "purpose": "制御要求をプログラムへ変換する",
+    "card_ids": [
+      "FC011"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK07",
+    "phase": "制御開発・立上げ",
+    "phase_index": 1,
+    "task": "I/O・HMI設計",
+    "purpose": "機器構成と操作画面を設計する",
+    "card_ids": [
+      "FC012",
+      "FC017"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK08",
+    "phase": "制御開発・立上げ",
+    "phase_index": 1,
+    "task": "学習モデル実装",
+    "purpose": "学習モデルを機械制御へ組み込む",
+    "card_ids": [
+      "FC014"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK09",
+    "phase": "制御開発・立上げ",
+    "phase_index": 1,
+    "task": "教示・位置合わせ",
+    "purpose": "移設・再設置後の位置関係を合わせる",
+    "card_ids": [
+      "FC048",
+      "FC051"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK10",
+    "phase": "段取り・搬送",
+    "phase_index": 2,
+    "task": "ワーク固定",
+    "purpose": "治具をクランプ・アンクランプする",
+    "card_ids": [
+      "FC042"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK11",
+    "phase": "段取り・搬送",
+    "phase_index": 2,
+    "task": "指・ハンド交換",
+    "purpose": "品種に合わせて把持部を交換する",
+    "card_ids": [
+      "FC043"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK12",
+    "phase": "段取り・搬送",
+    "phase_index": 2,
+    "task": "ワーク搬入出",
+    "purpose": "素材・加工品を機械へ受け渡す",
+    "card_ids": [
+      "FC008",
+      "FC010",
+      "FC044",
+      "FC050"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK13",
+    "phase": "段取り・搬送",
+    "phase_index": 2,
+    "task": "パレット供給",
+    "purpose": "パレットを交換・保管・供給する",
+    "card_ids": [
+      "FC002",
+      "FC046",
+      "FC047"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK14",
+    "phase": "段取り・搬送",
+    "phase_index": 2,
+    "task": "工場内搬送",
+    "purpose": "部品・切粉容器などを移動する",
+    "card_ids": [
+      "FC001",
+      "FC030",
+      "FC055",
+      "FC067"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK15",
+    "phase": "加工・状態監視",
+    "phase_index": 3,
+    "task": "加工信号解析",
+    "purpose": "加工中のセンサ・制御信号を評価する",
+    "card_ids": [
+      "FC015",
+      "FC035",
+      "FC064"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK16",
+    "phase": "加工・状態監視",
+    "phase_index": 3,
+    "task": "加工条件・NC最適化",
+    "purpose": "加工負荷や条件を調整する",
+    "card_ids": [
+      "FC022"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK17",
+    "phase": "加工・状態監視",
+    "phase_index": 3,
+    "task": "切粉処理",
+    "purpose": "切粉を洗浄・認識・除去する",
+    "card_ids": [
+      "FC045",
+      "FC049"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK18",
+    "phase": "加工・状態監視",
+    "phase_index": 3,
+    "task": "熱変位補正",
+    "purpose": "温度等に伴う加工誤差を補正する",
+    "card_ids": [
+      "FC009"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK19",
+    "phase": "検査・工具運用",
+    "phase_index": 4,
+    "task": "外観検査",
+    "purpose": "表面のキズ・欠け等を検出する",
+    "card_ids": [
+      "FC036",
+      "FC037"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK20",
+    "phase": "検査・工具運用",
+    "phase_index": 4,
+    "task": "寸法・形状計測",
+    "purpose": "ワークの寸法や形状を測定する",
+    "card_ids": [
+      "FC019",
+      "FC032",
+      "FC034",
+      "FC056",
+      "FC057"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK21",
+    "phase": "検査・工具運用",
+    "phase_index": 4,
+    "task": "測定から加工へ補正",
+    "purpose": "測定結果を工具オフセットや加工へ戻す",
+    "card_ids": [
+      "FC033",
+      "FC054"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK22",
+    "phase": "検査・工具運用",
+    "phase_index": 4,
+    "task": "刃先・摩耗判定",
+    "purpose": "工具の欠け・摩耗状態を判断する",
+    "card_ids": [
+      "FC038",
+      "FC039"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK23",
+    "phase": "検査・工具運用",
+    "phase_index": 4,
+    "task": "工具寿命・交換提案",
+    "purpose": "摩耗履歴から交換時期を決める",
+    "card_ids": [
+      "FC040"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK24",
+    "phase": "検査・工具運用",
+    "phase_index": 4,
+    "task": "工具在庫・供給",
+    "purpose": "所在・入出庫・工具供給を管理する",
+    "card_ids": [
+      "FC041"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK25",
+    "phase": "工場運用・保全",
+    "phase_index": 5,
+    "task": "生産・品質・在庫管理",
+    "purpose": "工程情報と実績を結びつける",
+    "card_ids": [
+      "FC026",
+      "FC061"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK26",
+    "phase": "工場運用・保全",
+    "phase_index": 5,
+    "task": "計画変更・負荷調整",
+    "purpose": "進捗と制約を基に予定を変更する",
+    "card_ids": [
+      "FC027",
+      "FC065"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK27",
+    "phase": "工場運用・保全",
+    "phase_index": 5,
+    "task": "異機種・旧設備の接続",
+    "purpose": "設備データを取得し意味をそろえる",
+    "card_ids": [
+      "FC024",
+      "FC025",
+      "FC029",
+      "FC059"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK28",
+    "phase": "工場運用・保全",
+    "phase_index": 5,
+    "task": "遠隔操作・例外対応",
+    "purpose": "停止・エラーを遠隔から人が解消する",
+    "card_ids": [
+      "FC031",
+      "FC066"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK29",
+    "phase": "工場運用・保全",
+    "phase_index": 5,
+    "task": "保全診断・知識支援",
+    "purpose": "異常の原因と対処を調べる",
+    "card_ids": [
+      "FC004",
+      "FC013",
+      "FC052",
+      "FC058"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK30",
+    "phase": "工場運用・保全",
+    "phase_index": 5,
+    "task": "潤滑・主軸状態管理",
+    "purpose": "主軸を監視し潤滑等を調整する",
+    "card_ids": [
+      "FC053"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK31",
+    "phase": "加工・状態監視",
+    "phase_index": 3,
+    "task": "過酷環境の撮像",
+    "purpose": "油・切粉・ミスト下で画像を取得する",
+    "card_ids": [
+      "FC063"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK32",
+    "phase": "受注・加工準備",
+    "phase_index": 0,
+    "task": "設計製造データ連携",
+    "purpose": "CAD・CAM・PLM等の情報をつなぐ",
+    "card_ids": [
+      "FC016",
+      "FC023"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK33",
+    "phase": "共通の実装基盤・要素",
+    "phase_index": 6,
+    "task": "駆動・動力伝達要素",
+    "purpose": "AIが判断するための機能と機構部品の役割を区別する",
+    "card_ids": [
+      "FC069"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK34",
+    "phase": "共通の実装基盤・要素",
+    "phase_index": 6,
+    "task": "IPC・分散I/O基盤",
+    "purpose": "データ取得・処理と配線の実装を支える",
+    "card_ids": [
+      "FC068"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK00",
+    "phase": "共通の実装基盤・要素",
+    "phase_index": 6,
+    "task": "担当タスク未特定",
+    "purpose": "具体的に何の仕事を担うかを原典で補う",
+    "card_ids": [
+      "FC003",
+      "FC005",
+      "FC006"
+    ],
+    "coverage": "具体カードあり"
+  },
+  {
+    "task_id": "TASK99",
+    "phase": "追加候補（出展説明単位）",
+    "phase_index": 7,
+    "task": "追加候補・タスク分解待ち",
+    "purpose": "出展説明単位で分類。個別製品・実装方式の精査は未完了",
+    "card_ids": [
+      "AC001",
+      "AC002",
+      "AC003",
+      "AC005",
+      "AC006",
+      "AC007",
+      "AC008",
+      "AC009",
+      "AC010",
+      "AC011",
+      "AC012",
+      "AC013",
+      "AC014",
+      "AC015",
+      "AC016",
+      "AC017",
+      "AC018",
+      "AC019",
+      "AC021",
+      "AC022",
+      "AC023",
+      "AC024",
+      "AC025",
+      "AC026",
+      "AC027",
+      "AC028",
+      "AC029",
+      "AC030",
+      "AC031",
+      "AC032",
+      "AC033",
+      "AC034",
+      "AC036",
+      "AC037",
+      "AC038",
+      "AC039",
+      "AC040",
+      "AC041",
+      "AC042",
+      "AC043",
+      "AC045",
+      "AC046",
+      "AC047",
+      "AC048",
+      "AC049",
+      "AC050",
+      "AC051",
+      "AC052",
+      "AC053",
+      "AC054",
+      "AC055",
+      "AC056",
+      "AC057",
+      "AC058",
+      "AC059",
+      "AC060",
+      "AC061",
+      "AC062",
+      "AC063",
+      "AC064",
+      "AC065",
+      "AC066",
+      "AC067",
+      "AC068",
+      "AC069",
+      "AC070",
+      "AC071",
+      "AC072",
+      "AC073",
+      "AC074",
+      "AC075",
+      "AC076",
+      "AC077",
+      "AC078",
+      "AC079",
+      "AC081",
+      "AC082",
+      "AC083",
+      "AC085",
+      "AC086",
+      "AC088",
+      "AC089",
+      "AC090",
+      "AC091",
+      "AC093",
+      "AC094",
+      "AC095",
+      "AC096",
+      "AC097",
+      "AC098",
+      "AC099",
+      "AC100",
+      "AC101",
+      "AC102",
+      "AC103",
+      "AC104",
+      "AC105",
+      "AC106",
+      "AC107",
+      "AC108",
+      "AC109",
+      "AC110",
+      "AC111",
+      "AC112",
+      "AC113",
+      "AC114",
+      "AC115",
+      "AC116",
+      "AC117",
+      "AC118",
+      "AC119",
+      "AC120",
+      "AC121",
+      "AC122",
+      "AC123",
+      "AC124",
+      "AC125",
+      "AC126",
+      "AC127",
+      "AC129",
+      "AC130",
+      "AC131",
+      "AC132",
+      "AC133",
+      "AC134",
+      "AC136",
+      "AC137",
+      "AC138",
+      "AC139",
+      "AC140",
+      "AC141",
+      "AC142",
+      "AC143",
+      "AC145",
+      "AC146",
+      "AC148",
+      "AC149",
+      "AC150",
+      "AC151",
+      "AC152",
+      "AC153",
+      "AC154",
+      "AC155",
+      "AC156",
+      "AC157",
+      "AC158",
+      "AC159",
+      "AC160",
+      "AC162",
+      "AC163",
+      "AC164",
+      "AC165",
+      "AC166",
+      "AC167",
+      "AC168",
+      "AC169",
+      "AC170",
+      "AC171",
+      "AC172",
+      "AC173",
+      "AC174",
+      "AC175",
+      "AC176",
+      "AC177",
+      "AC178",
+      "AC179",
+      "AC180",
+      "AC181",
+      "AC182",
+      "AC183",
+      "AC184",
+      "AC185",
+      "AC186",
+      "AC187",
+      "AC188",
+      "AC189",
+      "AC190",
+      "AC191",
+      "AC192",
+      "AC193",
+      "AC194",
+      "AC195",
+      "AC197",
+      "AC198",
+      "AC199",
+      "AC201",
+      "AC203",
+      "AC204",
+      "AC205",
+      "AC206",
+      "AC207",
+      "AC208",
+      "AC209",
+      "AC210",
+      "AC211",
+      "AC212",
+      "AC213",
+      "AC214",
+      "AC215",
+      "AC216",
+      "AC217",
+      "AC218",
+      "AC219",
+      "AC220",
+      "AC221",
+      "AC222",
+      "AC223",
+      "AC224",
+      "AC225",
+      "AC226",
+      "AC227",
+      "AC228",
+      "AC229",
+      "AC230",
+      "AC231",
+      "AC232",
+      "AC233",
+      "AC234",
+      "AC235",
+      "AC236",
+      "AC238",
+      "AC240",
+      "AC241",
+      "AC242",
+      "AC243",
+      "AC244",
+      "AC245",
+      "AC246",
+      "AC247",
+      "AC248",
+      "AC249",
+      "AC250",
+      "AC251",
+      "AC252",
+      "AC254",
+      "AC256",
+      "AC257",
+      "AC258",
+      "AC260",
+      "AC262",
+      "AC264",
+      "AC265",
+      "AC268",
+      "AC269",
+      "AC271",
+      "AC272",
+      "AC273",
+      "AC275",
+      "AC276",
+      "AC277",
+      "AC278",
+      "AC279",
+      "AC280",
+      "AC282",
+      "AC284",
+      "AC286",
+      "AC287",
+      "AC288",
+      "AC289",
+      "AC291",
+      "AC292",
+      "AC293",
+      "AC295",
+      "AC297",
+      "AC298"
+    ],
+    "coverage": "具体カードあり"
+  }
+]

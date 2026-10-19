@@ -1,0 +1,278 @@
+﻿case_id,card_id,company,item,booth,official_mechanism,human_boundary,year_change,ai_status,evidence_ids,statement_type,target,need,source_urls,source_locators
+B01-1,AC195,株式会社Fact Base,ズメーン：図面・関連文書管理とAI,S3017,図面のOCR登録と関連文書管理。顧客事例では読取り結果を人が修正。,登録・読取り確認は人。図面の誤関連や改訂の検出は未確認。,2024の同名詳細なし。2026初登場とは断定しない。,AI/OCRを明記,"[""EEX-EXH-2026-3b6a1de81c17dfee"", ""EDP-11""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,図面を登録・検索し関連文書と結ぶ,過去図面と原価を探し、案件ごとに見積を組み立てる負担。,"https://www.jimtof.org/search/jp/ESdetails?e=hZaNogHdQM4
+https://lp.zume-n.com/case-1/sagadainichi","EEX-EXH-2026-3b6a1de81c17dfee: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-11: AI・OCR文字読取／人の目で確認・補正／関連資料・改訂履歴"
+B01-2,FC062,匠技研工業,匠フォース：業務AIエージェント,S3011,図面認識・類似案件参照・原価計算から見積書案を作る。,担当者が根拠を確認・修正・承認。社外自動送信は未確認。,2024比較不能。2026/7の企業発表で一連の処理を具体化。,AIエージェントを明記,"[""EOV-V041-2026-1"", ""EDP-05""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,図面と原価情報から見積書案を作る,過去図面と原価を探し、案件ごとに見積を組み立てる負担。,"https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258
+https://prtimes.jp/main/html/rd/p/000000031.000057137.html","EOV-V041-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EDP-05: 見積金額算出／人の修正による再学習／引合受領から見積書作成"
+B01-3,FC028,ものレボ,MonoRevo：類似図面検索・自動見積,W3042,類似図面検索と自動見積を説明。,見積前提の設定・確定者、計算ロジックは未確認。,2024個別比較不能。,AIを明記,"[""EOV-V014-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,過去図面を探し見積を作る,過去図面と原価を探し、案件ごとに見積を組み立てる負担。,https://www.jimtof.org/search/jp/ESdetails?e=sccKfxE4bYo,EOV-V014-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+B02-1,FC018,Hexagon Manufacturing Intelligence,ESPRIT EDGE ProPlanAI,E2013,過去ジョブと形状特徴から工程を予測するProPlanAI。,過去データを準備。確認画面はあるが最終NC採用権限は未公表。,2024比較不能。2025の旋削betaから2026の商用範囲拡張を確認。,AI予測を明記,"[""EOV-V007-2026-2"", ""EOV-W02""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,新しい部品の加工工程を考える,工具・機械・段取り制約を織り込む工程作成の技能依存。,"https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4
+https://hexagon.com/products/esprit-edge/release-highlights","EOV-V007-2026-2: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-W02: 2025.2 PROPLANAI、2026.1 ProPlanAI for Turning, Mill-Turn & Swiss"
+B02-2,FC020,ジェービーエムエンジニアリング,Mastercam＋CAMAssist,E2002,工具・材料・機械等の条件から加工戦略・経路・条件案を生成。,人が前提を設定し、戦略案を確認・調整してCAMへ送る。,Mastercam対応は2024/7に発表済み。2026の出展記述が具体化。,AI CAMを明記,"[""EOV-V008-2024-1"", ""EOV-V008-2024-2"", ""EOV-V008-2026-1"", ""EDP-09"", ""EDP-10"", ""ERF-03""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,部品形状から加工方法・工具経路を作る,工具・機械・段取り制約を織り込む工程作成の技能依存。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=G-8gydwhMvE
+https://www.jimtof.org/2024/search/jp/ESdetails?e=ZBxZW2vyjUw
+https://www.jimtof.org/search/jp/ESdetails?e=VrAjMTKmxdw
+https://www.cloudnc.com/ja/mastercam
+https://www.cloudnc.com/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam
+https://www.cloudnc.com/ja/mastercam","EOV-V008-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V008-2024-2: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V008-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EDP-09: 仕組みステップ1〜4／FAQの対象加工・顧客データ学習の否定
+EDP-10: July 25, 2024／3軸・3+2軸向け。北米販売開始の説明
+ERF-03: 仕組みStep 2–4／FAQ：顧客データで学習しない、加工性評価、編集可能CAM"
+B02-3,AC131,タクテックス株式会社,CAM Assist for SolidCAM／SolidShop,S1016,SolidCAM向けに3軸・3+2軸の戦略と経路案を生成。,工具・保持等を設定し、生成案を編集・採用。最終制御権は人。,2024はSolidCAM等。2026はAI支援を追加記載。,AI CAMを明記,"[""EEX-EXH-2026-0436fc7b61f51a8e"", ""EEX-EXH-2024-eb84f3b7fa9cf6db"", ""EDP-07"", ""EDP-08"", ""ERF-04""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,3軸・3+2軸の加工経路を作る,工具・機械・段取り制約を織り込む工程作成の技能依存。,"https://www.jimtof.org/search/jp/ESdetails?e=2TVzwvOqLxI
+https://www.jimtof.org/2024/search/jp/ESdetails?e=p_i9WuUhNRg
+https://www.cloudnc.com/ja/solidcam
+https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm
+https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm","EEX-EXH-2026-0436fc7b61f51a8e: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-eb84f3b7fa9cf6db: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-07: 仕組みステップ1〜4／FAQの対象加工・通信・戦略生成
+EDP-08: 形状・工具・材種・段取りの入力／プログラマーの修正・検証・NC出力
+ERF-04: L11–19／プログラマーがreview・refine、既存のsimulation・verification・NC生成"
+B03-1,FC022,CGTech,Vericut Force／Optimizer,S3014,Forceは切削物理と力・動力制約を使い加工前に送りを最適化。,材料・工具・限界条件とNC採用が必要〈分析〉。運用詳細は未確認。,Forceは2024掲載済み。2026のAI訴求とOptimizerの方式差は未確認。,Forceの物理モデルとAI訴求を分離,"[""EOV-V009-2024-1"", ""EOV-V009-2026-1"", ""RPT-S04""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工前にNCの送り速度を調整する,負荷変動による過負荷と、余裕のある区間の加工時間。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=AxDUk3YbQDI
+https://www.jimtof.org/search/jp/ESdetails?e=41U8xW4UkcM
+https://archive.vericut.com/force-faq/","EOV-V009-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V009-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+RPT-S04: Force physics-based optimization"
+B03-2,RPT001,Third Wave Systems Japan,Production Module／AdvantEdge,E1064,Production ModuleはNCレベルの負荷解析。刃先FEMのAdvantEdgeとは別。,モデル・材料・工具の設定と採用判断が必要〈分析〉。,2024展示比較不能。工具たわみ等は2019年にも公式説明。,学習AIの使用は未確認,"[""RPT-EXH-2026-3f24aaee60d77db1"", ""RPT-S05""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工負荷を予測しNC送りを最適化する,負荷変動による過負荷と、余裕のある区間の加工時間。,"https://www.jimtof.org/search/jp/ESdetails?e=L43LSAjxuyc
+https://thirdwavesys.com/latest-news/production-module-v8-2-release/","RPT-EXH-2026-3f24aaee60d77db1: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp
+RPT-S05: 工具たわみ・entry/exit feedrate constraints"
+B03-3,RPT002,西部商工,ACM,S3020,ACMは実測主軸負荷を使い加工中の送りを自動調整。,負荷限界の設定者・停止復帰の手順は未確認。,2024も負荷監視と送り制御を記載。基本方式は継続。,AI/機械学習は未確認,"[""RPT-EXH-2026-107042c6cf64ba96"", ""RPT-EXH-2024-151b23d9e05ccb13""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工中の負荷に応じ送りを自動調整する,負荷変動による過負荷と、余裕のある区間の加工時間。,"https://www.jimtof.org/search/jp/ESdetails?e=OC6R-wdDduM
+https://www.jimtof.org/2024/search/jp/ESdetails?e=YRTw8XJWi9g","RPT-EXH-2026-107042c6cf64ba96: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp
+RPT-EXH-2024-151b23d9e05ccb13: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp"
+B04-1,FC011,ベッコフオートメーション,TwinCAT CoAgent for Engineering：PLC,E2028,要求とプロジェクト文脈からPLCコード案を提案。,専門家が確認・確定・実行承認。書込みや起動の個別権限は未確認。,PLCコード支援は2023発表済み。2026初の方式ではない。,生成AI支援を明記,"[""EOV-V005-2026-1"", ""EAT-N03"", ""EAT-N05"", ""EDP-03"", ""ERF-01""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,設備のPLC制御プログラムを作る,要求から制御コード・画面・設計情報へ落とす手間。,"https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08
+https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html
+https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/
+https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html
+https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html","EOV-V005-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EAT-N03: Features／Product status
+EAT-N05: CoAgents for development and machine operation
+EDP-03: TwinCAT XAE／コード作成・追加・最適化・文書化
+ERF-01: 2025/6/13／Placing people at the heart of automation；PLC・I/O・HMI、専門家がreview・confirm・approve"
+B04-2,FC012,ベッコフオートメーション,TwinCAT CoAgent for Engineering：I/O・HMI,E2028,I/O構成とHMI生成・操作を支援するEngineering機能。,専門家のレビュー方針。構成誤りの検証・差戻しは未確認。,I/O・HMI支援は2025/6にも公式説明。,生成AI支援を明記,"[""EOV-V005-2026-1"", ""EAT-N03"", ""EAT-N05"", ""EDP-03"", ""ERF-01""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,設備の入出力設定と操作画面を作る,要求から制御コード・画面・設計情報へ落とす手間。,"https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08
+https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html
+https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/
+https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html
+https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html","EOV-V005-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EAT-N03: Features／Product status
+EAT-N05: CoAgents for development and machine operation
+EDP-03: TwinCAT XAE／コード作成・追加・最適化・文書化
+ERF-01: 2025/6/13／Placing people at the heart of automation；PLC・I/O・HMI、専門家がreview・confirm・approve"
+B04-3,FC017,EPLAN,Eplan Copilot,S1067,Eplan Copilotが文脈に応じた回答・推奨・手順を生成。,意思決定は人。設計変更の自動採用は現機能と確認できない。,2024の盤設計・データ連携に対し、2026はCopilotを記載。,AI Copilotを明記,"[""EOV-V006-2024-1"", ""EOV-V006-2026-1"", ""EAT-N06""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,電気設計の情報・操作手順を調べる,要求から制御コード・画面・設計情報へ落とす手間。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=50efK4rQsHs
+https://www.jimtof.org/search/jp/ESdetails?e=FHsQAvmFusY
+https://www.eplan.com/us-en/about-us/innovations/eplan-copilot/","EOV-V006-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V006-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EAT-N06: Based on a described task／Looking ahead／conceptual phase"
+B05-1,FC009,オークマ,熱変位制御・AI知能化,E3028,熱を単純化する構造と熱変位制御を組み合わせる。,校正・補正限界・条件変化時の人の関与は未確認。,熱安定化は既存技術。2026のAI訴求だけで補正全体をAIとしない。,熱補正へのAI適用は未確認,"[""EOV-V003-2024-1"", ""EOV-V003-2026-1"", ""RPT-S02""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,温度変化による加工位置のずれを抑える,温度変化や振動に伴う精度・面品位のばらつき。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=iFfGVH0vPS8
+https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI
+https://www.okuma.co.jp/thermo-aniv/","EOV-V003-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V003-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+RPT-S02: サーモフレンドリーコンセプトの説明・沿革"
+B05-2,RPT006,ヤマザキマザック,Ai Thermal Shield（製品資料による比較）,E1001,温度・回転等を考慮。加工後測定の学習で熱変位補正を最適化。,測定準備・更新採否・補正限界の設定者は未確認。,製品資料の比較例。同機能の2026展示搭載・年度差は未確認。,学習を明記／展示搭載未確認,"[""RPT-S03"", ""EOV-V004-2024-1"", ""EOV-V004-2026-1"", ""EAT-N08""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工後測定も使い熱変位補正を調整する,温度変化や振動に伴う精度・面品位のばらつき。,"https://www.mazak.com/uk-en/technology/accuracy/
+https://www.jimtof.org/2024/search/jp/ESdetails?e=q0OrZBKM3uQ
+https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes
+https://www.mazak.com/jp-en/news-media/upcoming-events/jimtof2026/","RPT-S03: Ai Thermal Shield／Smooth Thermal Shield
+EOV-V004-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V004-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EAT-N08: Machines & Automation Systems／Automation Systems"
+B05-3,RPT007,オークマ,加工ナビM-i／M-gⅡ（製品資料による比較）,E3028,M-iは振動計測から主軸速度を自動変更。M-gⅡは速度候補を提示。,M-iは設定後に自動制御。M-gⅡは人が候補を選ぶ。,既存製品技術の比較例。2024/2026の機能増分は未確認。,自動制御／学習AIは未確認,"[""RPT-S01"", ""EOV-V003-2024-1"", ""EOV-V003-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,びびり振動に応じ主軸回転数を調整する,温度変化や振動に伴う精度・面品位のばらつき。,"https://www.okuma.co.jp/solution_technology/process/
+https://www.jimtof.org/2024/search/jp/ESdetails?e=iFfGVH0vPS8
+https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI","RPT-S01: 加工ナビ M-i／M-gⅡ
+EOV-V003-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V003-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B06-1,FC033,レニショー,Renishaw Central＋IPC,E7089,Renishaw Central＋IPCで工具オフセットや機械変数を更新。,計測不確かさ、補正上限、異常値の抑止条件は未確認。,Centralは2024掲載済み。2026も継続。,自動補正／AI使用は未確認,"[""EOV-V018-2024-1"", ""EOV-V018-2026-1"", ""EOV-W03""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,測定した寸法を加工補正へ戻す,検査結果を次の加工に戻す待ち時間と補正のばらつき。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=ekM3exgIAtc
+https://www.jimtof.org/search/jp/ESdetails?e=pYGmVz5GC1c
+https://www.renishaw.com/jp/smart-manufacturing-data-platform-for-industrial-process-control--47853","EOV-V018-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V018-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-W03: メカニズム、現場でのクローズドループ、導入効果"
+B06-2,FC054,Wintech Automation,HGM-DX：測定フィードバック研削,W3051,HGM-DXは測定値を研削機へ返し加工公差を自動補正。,補正上限と誤計測時の対応は未確認。,2024は製造・検査自動化。2026は測定→研削を具体記載。,自動補正／AI使用は未確認,"[""EOV-V034-2024-1"", ""EOV-V034-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,測定値を研削加工の補正へ戻す,検査結果を次の加工に戻す待ち時間と補正のばらつき。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=-09Q4AWJx1E
+https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg","EOV-V034-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V034-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B06-3,AC085,株式会社サイバーRC,GH5：工具の3D画像認識・AI補正ホーニング,E7074,GH5は機内3D画像で刃先を測り、幅・角度の目標へAI補正。,目標値は人が設定。過研磨・測定不能時の停止復帰は未確認。,2024のGM5等から、2026はGH5の測定・加工一体化を記載。,AI制御を明記／方式非開示,"[""EEX-EXH-2026-a0cbad27ea34d7c4"", ""EEX-EXH-2024-76ac534a229f7c29"", ""EDP-02""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,工具刃先の幅・角度を狙い値へ加工する,検査結果を次の加工に戻す待ち時間と補正のばらつき。,"https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o
+https://www.jimtof.org/2024/search/jp/ESdetails?e=wk2AEX5rHpw
+https://cyber-rc.com/wp-content/uploads/2025/10/%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0420-x-297-mm%E6%A8%AA%E4%B8%A6%E3%81%B3-.pdf","EEX-EXH-2026-a0cbad27ea34d7c4: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-76ac534a229f7c29: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-02: GRISTAR HONING 5 AXIS／幅・角度設定、Robot Eye、自動調整"
+B07-1,FC036,HACARUS,HACARUS Check ZERO,S1031,ZEROは良品との差で異常を検出し、人の良否注釈で追加調整。,人が画像・注釈を準備。更新モデル採用と出荷判定の権限は未確認。,追加学習は2025/7発表済み。2026だけの新機能としない。,AI異常検知を明記,"[""EOV-V021-2026-1"", ""EOV-W06"", ""EDP-14"", ""EDP-15"", ""ERF-05""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,製品表面の傷・欠け等を判定する,少量不良データ、撮像ばらつき、見逃しと過検出。,"https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc
+https://hacarus.com/ja/technology/hacarus-check-series/
+https://hacarus.com/ja/press-release/20250707-news/
+https://check.hacarus.com/ja/
+https://check.hacarus.com/ja/aisoftware/","EOV-V021-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-W06: 2026.04.06本文
+EDP-14: 2025/7/9販売／良品学習とアノテーション追加学習／判定UI
+EDP-15: Check ZERO／デュアルチューニング／機器構成
+ERF-05: 特徴／異常箇所表示・良否アノテーション追加学習"
+B07-2,FC037,日東商事,HACARUS Check：協働ロボット多面検査,S1031,協働ロボットで多角度撮像し、AIで傷・欠けを判定。,姿勢教示・再撮像・不良排出の権限は未確認。,日東商事2024の放電加工機展示から、AI検査を追加記載。,AI検査＋ロボット撮像,"[""EOV-V022-2024-1"", ""EOV-V022-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,ワークを多方向から撮り外観を検査する,少量不良データ、撮像ばらつき、見逃しと過検出。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=S23RMUbJOQs
+https://www.jimtof.org/search/jp/ESdetails?e=GozGZRxlviw","EOV-V022-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V022-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B07-3,FC034,ブルーム-ノボテスト,FormControl X／DIGILOG,E7084,機上3D測定と工具計測・欠け検知・補正を組み合わせる。,校正・熱状態・機種適合の条件は未確認。,2024のFormControl X等を継続し、2026はLC54等を追加。,計測／AI使用は未確認,"[""EOV-V019-2024-1"", ""EOV-V019-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,機上のワーク形状と工具を測る,少量不良データ、撮像ばらつき、見逃しと過検出。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=Zz8BlB0Ylio
+https://www.jimtof.org/search/jp/ESdetails?e=_njqMb9vBpc","EOV-V019-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V019-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B08-1,FC039,モリマシナリー,ツールコラージュ,S3048,刃先の診断箇所を認知し、欠け・摩耗をAI判定・記録。,対象工具と撮像条件を準備。継続使用の最終決定者は未確認。,AI摩耗判定は2024にも説明済み。2026は継続。,AI画像判定を明記,"[""EOV-V024-2024-1"", ""EOV-V024-2026-1"", ""EDP-12""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,刃先の欠け・摩耗を判定し記録する,工具を早く捨てすぎず、欠損や品質悪化を避ける判断。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=yEoPl5sH6Sg
+https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM
+https://mori-machinery.com/en/product/tool-sommelier?post_id=1066","EOV-V024-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V024-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EDP-12: 刃先撮像・欠け摩耗自動検出／FAQの工具・径制約"
+B08-2,FC038,ハイデンハイン,VT122＋VTC 6.0,E7043,VT122にVTC 6.0のAI摩耗診断・工具長機能を記載。,判定閾値と自動交換への接続は未確認。,2024はVT122検査。2026はAI摩耗診断を追加記載。,AI摩耗診断を明記,"[""EOV-V023-2024-1"", ""EOV-V023-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,工具画像から摩耗状態を診断する,工具を早く捨てすぎず、欠損や品質悪化を避ける判断。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=GFSwCXSxe9o
+https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA","EOV-V023-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V023-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B08-3,FC064,三菱電機,NC MachiningAID（2024）／2026 CNC省人化,S2003,2024のMachiningAIDは加工異常・工具摩耗・作業ミスをAI検知。,2026の継承機能と自動停止・交換権限は未確認。,2026はAI省人化の総論。個別機能の進化は比較不能。,2024はAI明記／2026個別不明,"[""EAT-V043-2024-1"", ""EAT-V043-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工異常・工具摩耗・作業ミスを検知する,工具を早く捨てすぎず、欠損や品質悪化を避ける判断。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=30li0vWcseI
+https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU","EAT-V043-2024-1: 出展紹介・主な出展物（カードの製品名・機能語で検索）
+EAT-V043-2026-1: 出展紹介・主な出展物（カードの製品名・機能語で検索）"
+B08-4,FC040,モリマシナリー,ツールコラージュアナライザー,S3048,摩耗幅のデータを蓄積・学習し、工具寿命と交換時期を提案する。,人が工具・加工条件と提案の適用を確認する運用は要確認。,2026は寿命予測と交換提案を具体掲載。ただし研究発表は2023にもあり、新方式の誕生とは扱わない。,寿命予測を説明／実機性能は未確認,"[""EOV-V024-2024-1"", ""EOV-V024-2026-1"", ""EOV-W08""]",公式説明の要約。公開されていない役割は未確認。,切削工具をいつ交換するか,工具を早く捨てすぎず、欠損や品質悪化を避ける判断。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=yEoPl5sH6Sg
+https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM
+https://mori-machinery.com/wp-content/uploads/2023/06/%E7%86%9F%E7%B7%B4%E8%80%85%E3%81%AE%E7%B5%8C%E9%A8%93%E7%9F%A5%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E5%88%87%E5%89%8A%E5%B7%A5%E5%85%B7%E3%81%AE%E6%AC%A0%E3%81%91%E3%83%BB%E6%91%A9%E8%80%97%E3%83%BB%E5%AF%BF%E5%91%BD%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8BAI%E3%82%92%E9%96%8B%E7%99%BA.pdf","EOV-V024-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V024-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-W08: 2023年6月2日、成果と今後の展望"
+B08-5,FC063,興和オプトロニクス,RW耐環境ビジョンユニット,S3104,水・油・ミスト環境で撮像し、AIで工具折損・摩耗や切粉の異常蓄積を検知するとの説明。,対象工具、判定の閾値、検知後の停止・交換の分担は未確認。,2024同名原典なし。2026の耐環境撮像とAI検知は確認、登場時期は比較不能。,AI画像解析を明記,"[""EOV-V042-2026-1"", ""EDP-33""]",公式説明の要約。公開されていない役割は未確認。,加工機内の工具折損・摩耗を見つける,工具を早く捨てすぎず、欠損や品質悪化を避ける判断。,"https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ
+https://optical.kowa-opt.co.jp/camera-rw/","EOV-V042-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EDP-33: ビジョンプロセッサ併用の不良ヒートマップ・切粉巻付きアラート・工具欠損検出"
+B08-6,FC035,マーポス,ARTIS／BLU／VTS,E7087,カメラ・レーザーの工具測定と、工具・機械・加工プロセスの監視を展示。,交換・停止を決める基準と、各機能のAI使用は未確認。,ARTIS・VTS等は2024にも掲載。2026の展示名だけでは機能の増分を断定できない。,計測・工程監視／AI摩耗判定は未確認,"[""EOV-V020-2024-1"", ""EOV-V020-2026-1""]",公式説明の要約。公開されていない役割は未確認。,工具寸法と加工状態を測り・監視する,工具を早く捨てすぎず、欠損や品質悪化を避ける判断。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=K8FKaawJkn0
+https://www.jimtof.org/search/jp/ESdetails?e=tThKOA-gm8s","EOV-V020-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V020-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B08-7,AC271,Masterlink,工作機械センシングの知能化による生産性向上：,E1050,工具監視、適応加工、予知保全を出展項目として掲載。入力信号と判定方式は未記載。,監視結果から停止・交換へ移す手順、担当者は未確認。,2024はセンシング・現場管理の総論。2026は工具監視等を列挙。性能差は不明。,工具監視を掲載／AI摩耗診断は未確認,"[""EEX-EXH-2026-19ce238d137fe275"", ""EEX-EXH-2024-a2fae1d1864676d1""]",公式説明の要約。公開されていない役割は未確認。,工具の異常を監視する（方式要確認）,工具を早く捨てすぎず、欠損や品質悪化を避ける判断。,"https://www.jimtof.org/search/jp/ESdetails?e=kygm0UxJL-M
+https://www.jimtof.org/2024/search/jp/ESdetails?e=58-lhh4o9Oo","EEX-EXH-2026-19ce238d137fe275: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-a2fae1d1864676d1: 出展紹介・主な出展物。追加カードの原典抜粋で検索"
+B09-1,AC225,ムラテックＣＣＳ株式会社,プライマリドクタサービス：稼働中データのAI診断,E3031,稼働中の電流・振動等を新品状態と比較し劣化・異常を診断。,計測後の点検・交換の最終決定者、誤警報時の扱いは未確認。,プライマリドクタのAI診断は2024から継続。,AI診断を明記,"[""EEX-EXH-2026-308c5194f12fe009"", ""EEX-EXH-2024-b0a94c1cd407ea8a"", ""EDP-13""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,設備の電流・振動から劣化を診断する,故障や工具破損の兆候を捉え、点検・交換につなぐ負担。,"https://www.jimtof.org/search/jp/ESdetails?e=Z_SbvK_hxBY
+https://www.jimtof.org/2024/search/jp/ESdetails?e=2N7pXq5Aehs
+https://www.muratec.jp/company/ti/rd/detail.php?id=7540","EEX-EXH-2026-308c5194f12fe009: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-b0a94c1cd407ea8a: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-13: 電流・振動を新品データと比較／補正入力回数・軸負荷による劣化判定"
+B09-2,RPT003,アズビル（TACO共同出展）,U4DM01 NC旋盤予兆検知,W4070,U4DM01はNC旋盤の刃具破損検知と後付け適用を説明。,2024は設定・学習開始操作あり。停止や交換権限は未確認。,2024参考U4Dから2026 Coming soon表記。性能差は不明。,独自アルゴリズム／AI方式未確認,"[""RPT-EXH-2026-2c48cf1373cedc75"", ""RPT-EXH-2024-2caebd449015630d""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,NC旋盤の刃具破損を検知する,故障や工具破損の兆候を捉え、点検・交換につなぐ負担。,"https://www.jimtof.org/search/jp/ESdetails?e=x6DdroBnfSA
+https://www.jimtof.org/2024/search/jp/ESdetails?e=7JiCTnsEx48","RPT-EXH-2026-2c48cf1373cedc75: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp
+RPT-EXH-2024-2caebd449015630d: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp"
+B09-3,FC052,日本精工,振動診断AI・遠隔監視,W2048,2024はAI振動診断と遠隔監視を紹介。,2026の個別機能、保全判断への接続は資料不足。,2026の総論だけでは2024比の増分を判定できない。,2024はAI明記／2026個別不明,"[""EOV-V032-2024-1"", ""EOV-V032-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,振動から設備状態を診断する,故障や工具破損の兆候を捉え、点検・交換につなぐ負担。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=5maDHvHPff8
+https://www.jimtof.org/search/jp/ESdetails?e=hzAGGAi5wL4","EOV-V032-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V032-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B10-1,AC214,松本機械工業株式会社,Smart Terrace Adv／爪・CAPTO工具の交換,W2070,Smart Terrace Advは爪等の交換。寸法入力から動作を設定。,人が寸法入力。初期プログラムはメーカーが組込み。,CAPTO等の交換は2024初披露済み。2026はAdv構成等に注目。,自動化／学習AIは未確認,"[""EEX-EXH-2026-0daa587f8abf6076"", ""EEX-EXH-2024-1dc10e3b594ed9d8"", ""EDP-26"", ""EDP-27"", ""EDP-28""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,爪・工具等を交換して段取りを変える,多品種で繰り返す機械的交換と再教示の負担。,"https://www.jimtof.org/search/jp/ESdetails?e=bhpEIIjKNb4
+https://www.jimtof.org/2024/search/jp/ESdetails?e=1cGhqW04Qes
+https://mmkchuck.com/product/7218/
+https://mmkchuck.com/news/2024/5903/
+https://mmkchuck.com/news/2026/7380/","EEX-EXH-2026-0daa587f8abf6076: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-1dc10e3b594ed9d8: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-26: 7つの革新／寸法パラメータ入力・出荷時組込プログラム／レトロフィット
+EDP-27: 爪・ケレ・計測／展示会初披露のCAPTO・MAC
+EDP-28: Advハード単体・ストッカー単体販売への対応"
+B10-2,FC042,イマオコーポレーション,ナットランナー治具,W2001,ナットランナーとメカ機構でワークを締結する治具。,人が治具・フック等を設計選定。着座・締結異常の扱いは未確認。,2024も具体治具あり。2026は種類追加を記載。,機械的自動化,"[""EOV-V025-2024-1"", ""EOV-V025-2026-1"", ""EDP-30"", ""EDP-32""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工前にワークを治具へ固定する,多品種で繰り返す機械的交換と再教示の負担。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=MTYTZ2Km3zM
+https://www.jimtof.org/search/jp/ESdetails?e=shuDpJLDn-A
+https://www.imao.co.jp/products/nutrunnerclamp.html
+https://www.imao.co.jp/event-20241105-1110-jimtof/jimtof.pdf","EOV-V025-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V025-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EDP-30: ロボットのナットランナーでクランプ／配管配線不要／手動も可能
+EDP-32: ナットランナー治具各型式／人でもロボットでも操作可能"
+B10-3,FC048,中村留精密工業,RoboSync：移設後の位置復旧,E2027,RoboSyncは移設後にマーカーを読み相対位置を補正。,人の移設・復旧操作を含む。未知トラブルの自律復帰とは別。,2026は位置復旧を具体説明。同一機能の2024版は未確認。,位置補正／AI使用は未確認,"[""EOV-V029-2024-1"", ""EOV-V029-2026-1"", ""EOV-W04""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,移設したロボットの位置を復旧する,多品種で繰り返す機械的交換と再教示の負担。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=RYK326OoMn4
+https://www.jimtof.org/search/jp/ESdetails?e=C7A_2ZTDXNw
+https://www.nakamura-tome.co.jp/products/automation/robosync/","EOV-V029-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V029-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-W04: 製品の特長 > 簡単復旧、簡単操作"
+B10-4,AC063,共立精機株式会社,全自動計測システム　HP-6040V-FA,W2025,工具の交換、突き出し量調整、刃先測定を連続自動化し、インサート交換装置も展示。,工具・チップの補給や品種設定、不良時の復旧は要確認。,HP-6040V-FAによる工具段取り自動化は2024にも記載。2026は交換工程等を具体説明。,工具段取りの自動化／学習AIは未確認,"[""EEX-EXH-2026-1c8938d47b63e4bb"", ""EEX-EXH-2024-3a9bfb48fcb6542c""]",公式説明の要約。公開されていない役割は未確認。,工具を測定・調整し、交換する段取り,多品種で繰り返す機械的交換と再教示の負担。,"https://www.jimtof.org/search/jp/ESdetails?e=9k7ro8sL0VA
+https://www.jimtof.org/2024/search/jp/ESdetails?e=xT1gIvXxCpQ","EEX-EXH-2026-1c8938d47b63e4bb: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-3a9bfb48fcb6542c: 出展紹介・主な出展物。追加カードの原典抜粋で検索"
+B11-1,FC002,DMG森精機,MATRIS WPH 210,E8005,MATRIS WPH 210がワークとパレット両方を供給。,把持・治具・品種切替の事前準備と異常対応は未確認。,2024のPH Cell等に対しWPH 210を日本初公開と記載。,自動化／AI判断は未確認,"[""EOV-V001-2024-1"", ""EOV-V001-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,ワークとパレットを加工機へ供給する,品種・量の変化に合わせて人の供給往復を減らす。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=lOXEEpvlXpM
+https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs","EOV-V001-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V001-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B11-2,FC008,オークマ,ARMROID／OMR20,E3028,ARMROID機内ロボット、OMR20等で工作機械の自動化を構成。,手動との切替と品種変更の介入範囲は未確認。,ARMROID・OMR20は2024にも掲載。2026も継続。,ロボット自動化,"[""EOV-V003-2024-1"", ""EOV-V003-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工機へのワーク搬入出を自動化する,品種・量の変化に合わせて人の供給往復を減らす。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=iFfGVH0vPS8
+https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI","EOV-V003-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V003-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B11-3,AC186,株式会社白山機工,AMRによる切り屑自動回収,E2007,AMRで切粉容器を回収。実演と模型を併記。,満杯・こぼれ・ドッキング失敗・容器交換の対応は未確認。,2024のろ過・集中処理から、2026はAMR回収を追加記載。,搬送自動化／AI配車は未確認,"[""EEX-EXH-2026-d8a50e23a9101b11"", ""EEX-EXH-2024-89cb7807f64be75b"", ""EDP-29""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工機から出る切粉容器を回収する,品種・量の変化に合わせて人の供給往復を減らす。,"https://www.jimtof.org/search/jp/ESdetails?e=FNFR7REQOl4
+https://www.jimtof.org/2024/search/jp/ESdetails?e=krDglZoYKFc
+https://www.hakusankiko.co.jp/news/event/8837/","EEX-EXH-2026-d8a50e23a9101b11: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-89cb7807f64be75b: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-29: AMR切り屑回収システムを実演・模型で紹介"
+B12-1,FC049,TAKISAWA,TR-20W：主軸の切粉除去,E3013,TAKISAWAは切粉の絡まりを判断し主軸の切粉を除去する参考出品。,許可動作、除去失敗の検出・再試行・人への引継ぎは未確認。,2024 TR-20Wは搬入出。2026は切粉除去を追加記載。,フィジカルAI訴求／参考出品,"[""EOV-V030-2024-1"", ""EOV-V030-2026-1"", ""EAT-N01"", ""EAT-N02"", ""ERF-13""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,主軸に絡まった切粉を取り除く,形状や絡まりが変わる物理作業に固定手順で対応しにくい。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=K00DRD-BngA
+https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM
+https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/
+https://www.nidec.com/jp/product/news/2024/news1101-03/
+https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/","EOV-V030-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V030-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EAT-N01: TR-20W：フィジカルAI搭載のロボットシステム（参考出品）
+EAT-N02: 2024年11月1日／MGC300の出展説明
+ERF-13: TAKISAWA／TR-20W、主軸の切粉認識・判断・除去、参考出品"
+B12-2,AC051,カネテック株式会社,マグネットピンセット：AI・2Dカメラ・協働ロボット,W2013,カメラ・協働ロボット・磁気ピンセットで小径ねじ等をピック。,複数個吸着・空振り等の処理、AI担当の詳細は未公開。,同種構成は2024あり。2026はAIを明記、性能増分は不明。,AIを明記／担当詳細不明,"[""EEX-EXH-2026-30b70a74241de123"", ""EEX-EXH-2024-45415d070f47dc6e"", ""EDP-01""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,ばら積みの小径ねじ・小部品を拾う,形状や絡まりが変わる物理作業に固定手順で対応しにくい。,"https://www.jimtof.org/search/jp/ESdetails?e=ekM3exgIAtc
+https://www.jimtof.org/2024/search/jp/ESdetails?e=ot0Fx36wI0g
+https://kanetec.co.jp/lp/MagnetPinset%40LP.html","EEX-EXH-2026-30b70a74241de123: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-45415d070f47dc6e: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-01: 小径ネジの課題／JIMTOF2024出展／ネジ整列器"
+B12-3,AC146,東京エレクトロンデバイス株式会社,3D形状認識・教示不要の面取り／皿もみ,E7073,3Dスキャンから不定形ワークを認識し面取り等の軌道を生成。,加工条件設定、干渉確認、誤認識時の停止・品質承認は未公開。,2024同名比較不能。2026の具体タスクは確認。,3D認識・軌道生成／方式詳細不明,"[""EEX-EXH-2026-8c08de1ffed47316"", ""EEX-WTED""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,不定形ワークの面取り・皿もみを行う,形状や絡まりが変わる物理作業に固定手順で対応しにくい。,"https://www.jimtof.org/search/jp/ESdetails?e=c4cChQniAm8
+https://www.inrevium.com/news-event/event/p7331/","EEX-EXH-2026-8c08de1ffed47316: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-WTED: 展示会概要・出展製品／2026年5月13日の製品説明"
+B12-4,AC097,株式会社ジーベックテクノロジー,XEBEC CPS オートホルダー,WA006,ブラシ摩耗に応じて突出し量を自動調整するホルダーを、ロボットのギヤバリ取りに組み合わせる。,加工条件・ブラシ選定と、不良時の調整は要確認。,2024はバリ取り自動化工具を紹介。2026は摩耗に伴う人の調整を減らす構成を具体記載。,機構による自動調整／AI使用は未確認,"[""EEX-EXH-2026-ba283a239e52d644"", ""EEX-EXH-2024-1632c66ef4d28e78""]",公式説明の要約。公開されていない役割は未確認。,バリ取り中のブラシ摩耗を補う,形状や絡まりが変わる物理作業に固定手順で対応しにくい。,"https://www.jimtof.org/search/jp/ESdetails?e=jbu03Ik4s00
+https://www.jimtof.org/2024/search/jp/ESdetails?e=mnvwVRInyM8","EEX-EXH-2026-ba283a239e52d644: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-1632c66ef4d28e78: 出展紹介・主な出展物。追加カードの原典抜粋で検索"
+B13-1,FC013,ベッコフオートメーション,TwinCAT CoAgent for Operations,E2028,Operationsは機械データと文書から原因仮説・対処案を作る。,専門家が制御権保持。毎回承認・書込権限・失敗復帰は未公開。,2024比較不能。製品発表・投入時期要問合せ。,AIエージェント／提供段階に留意,"[""EOV-V005-2026-1"", ""EAT-N04"", ""EAT-N05"", ""EDP-03"", ""ERF-02""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,機械のアラーム原因と対処方法を調べる,停止や例外発生時、情報を集めて対処を判断する負担。,"https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08
+https://www.beckhoff.com/ko-kr/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html
+https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/
+https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html
+https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html","EOV-V005-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EAT-N04: Properties／Product status
+EAT-N05: CoAgents for development and machine operation
+EDP-03: TwinCAT XAE／コード作成・追加・最適化・文書化
+ERF-02: Properties／direct system access；Product status／market release on request"
+B13-2,FC030,ソフィックス,SOFIXCAN Fleeter＋AI Forecast：ミニ工場,E1067,AI Forecastの予測とFleeterの機器連携をミニ工場で紹介。,予測から指令への権限、通信・搬送失敗時の復帰は未公開。,Fleeterミニ工場は2025にも予告済み。2026初とはしない。,予測と連携を分離／一体自律は未確認,"[""EOV-V015-2024-1"", ""EOV-V015-2026-1"", ""EDP-21"", ""EDP-22"", ""EDP-23""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,設備・搬送を連携し予測を活用する,停止や例外発生時、情報を集めて対処を判断する負担。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=WNiUW-E-atY
+https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ
+https://www.sofix.co.jp/products/sofixcan_ai_forecast/
+https://www.sofix.co.jp/products/sofixcan_fleeter/
+https://www.sofix.co.jp/","EOV-V015-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V015-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EDP-21: 時系列データ予測／形状領域予測／顧客別予測システム開発
+EDP-22: 上位システム命令をトリガーに各機器を制御／通信モジュール追加
+EDP-23: 2026/9/29告知／2025/11/4国際ロボット展でもミニ工場を予告"
+B13-3,FC031,パナソニックプロダクションエンジニアリング,X-Area Remote,W3086,X-Area Remote実証では停止車両を人が遠隔操作して回避。,運行担当者が介入。実証はセーフティドライバー搭乗。,2026/7実証で人の担当を具体確認。2024個別比較不能。,AI支援型との説明／回避操作は人,"[""EOV-V016-2026-1"", ""EOV-W05"", ""EOV-W09"", ""EDP-24""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,停止した搬送車を人が遠隔で復帰させる,停止や例外発生時、情報を集めて対処を判断する負担。,"https://www.jimtof.org/search/jp/ESdetails?e=5mrMofo3nN8
+https://www.panasonic.com/jp/company/ppe/products/x-area.html
+https://tech.panasonic.com/jp/td/news/20221124.html
+https://news.panasonic.com/jp/press/jn260713-1","EOV-V016-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-W05: サービス概要、システム構成
+EOV-W09: 2022/11/24 NEWS & TOPICS
+EDP-24: 障害物停止時に自動運転から人の遠隔操作へ切替／担当者とセーフティドライバー"
+B14-1,AC295,WinTool AG,WinTool：工具情報と現物・工程資源の連携,E1049,WinToolは工具情報と工程資源を連携。在庫ルールで購買要求。,管理者承認後ERPへ送信。AIによる自律発注とは記載なし。,工具・CAM・在庫連携は2024から継続。2026は資源の一貫性を強調。,DX＋ルール自動化,"[""EEX-EXH-2026-4fb92ba6b82546d7"", ""EEX-EXH-2024-3f1fa1966a57e011"", ""EDP-18"", ""EDP-19""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,工具情報・所在・在庫を工程と結ぶ,現物・工具マスター・進捗が分断し変更に追従しにくい。,"https://www.jimtof.org/search/jp/ESdetails?e=sSFZV23clJo
+https://www.jimtof.org/2024/search/jp/ESdetails?e=-n22F1d_CDc
+https://www.wintool.com/en/tool-management-software/cnc-inventory-manager/erp-integration
+https://www.wintool.com/software/cnc-prozessverwaltung","EEX-EXH-2026-4fb92ba6b82546d7: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-3f1fa1966a57e011: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-18: 最低在庫で購買要求を生成し、管理者承認後にERPへ自動送信
+EDP-19: 工具積卸リスト・在庫確認・プリセッター指示・NCと測定値の転送"
+B14-2,FC026,Smart Craft,Smart Craft MES,S3002,Smart Craft MESは記録・指示・履歴を一元管理しAPI連携。,AI分析の内容や判断権限、入力作業の残りは未確認。,2024個別比較不能。,DX／AI判断は未確認,"[""EOV-V013-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,作業記録・指示・製造履歴を管理する,現物・工具マスター・進捗が分断し変更に追従しにくい。,https://www.jimtof.org/search/jp/ESdetails?e=WqjRB6DEqN0,EOV-V013-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+B14-3,FC027,ものレボ,MonoRevo：工程計画・スケジューリング,W3042,MonoRevoは工程設計・計画・進捗をまとめ自動計画を支援。,計画制約・再計画確定者・例外対応は未確認。,2024個別比較不能。2026は自動スケジューリングを記載。,自動計画／AI方式は未確認,"[""EOV-V014-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,工程の順番と生産予定を組む,現物・工具マスター・進捗が分断し変更に追従しにくい。,https://www.jimtof.org/search/jp/ESdetails?e=sccKfxE4bYo,EOV-V014-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+B15-1,FC014,ベッコフオートメーション,TwinCAT Machine Learning Creator,E2028,ML Creatorは学習・モデル選択を自動化し、解析とONNX出力を支援。,人がデータ・注釈・目的を準備。実機採用基準は要確認。,データ分割・ONNX統合は2024公式資料にも記載。,AutoMLを明記,"[""EOV-V005-2026-1"", ""EOV-W01"", ""EDP-04""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,現場データから判定モデルを作る,データの意味づけと、作ったAIを現場へつなぐ負担。,"https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08
+https://www.beckhoff.com/en-za/products/automation/twincat/texxxx-twincat-3-engineering/te3850.html
+https://www.beckhoff.com/media/downloads/information-media/pc-control/pcc_0224_e.pdf","EOV-V005-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-W01: 製品説明冒頭、Product status
+EDP-04: TE3850／訓練・テストデータ分割、モデル解析、ONNX出力"
+B15-2,FC024,たけびし,OPC UA情報モデルとエージェント連携,S3015,OPC UA情報モデルで機器情報をエージェントへ連携する構想。,公開するデータ・メソッド、書込権限、承認と復帰は未確認。,2024は多ベンダー接続。2026はAI連携シナリオを追加。,DX接続基盤／自身のAI判断なし,"[""EOV-V011-2024-1"", ""EOV-V011-2026-1"", ""EDP-06""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,設備データをAIが扱える形で渡す,データの意味づけと、作ったAIを現場へつなぐ負担。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=SiZMI-OH8_k
+https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw
+https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/","EOV-V011-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V011-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EDP-06: A New Approach to Connecting AI Agents／MCP Adapterはplanning to provide"
+B15-3,FC025,シーイーシー,Facteye／Resolana,E2006,既設設備のデータ収集・可視化を品質やAI利用へ接続。,自動制御や工場全体最適化の実装は未確認。,収集・対話AIは2024にも説明。2026は連携課題を具体化。,DX基盤＋AI利用,"[""EOV-V012-2024-1"", ""EOV-V012-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,既設設備の情報を集め品質と結ぶ,データの意味づけと、作ったAIを現場へつなぐ負担。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=WS9ql5D41fQ
+https://www.jimtof.org/search/jp/ESdetails?e=tW-C9oF94EQ","EOV-V012-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V012-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B16-1,FC007,ファナック,FANUC Smart Digital Twin,S2001,Smart Digital Twinで加工前の挙動確認を支援。,モデルと実機の一致や、検証対象外事象の扱いは未確認。,同名ツインは2024から継続。,仮想検証／AIの使用は未確認,"[""EOV-V002-2024-1"", ""EOV-V002-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工前に機械の動きを確かめる,仮想上での確認・学習と実機の結果をつなぐための準備。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=N0RgOmmcwZw
+https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ","EOV-V002-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V002-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B16-2,AC098,シーメンス株式会社,Digital Thread：工作機械ツイン・工程内品質保証,E3006,Tokn工作機械ツイン、Equator品質保証、ヒューマノイドを別展示。,海外HMND実証とJIMTOFの機体・タスクの同一性は未確認。,Toknの仮想訓練は2024完了の公式事例あり。,加工検証と物理AI実証を分離,"[""EEX-EXH-2026-9b991dd8132f51dc"", ""EEX-EXH-2024-558faea07a73f5d8"", ""EDP-16"", ""EDP-17""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,加工の仮想検証・計測連携を確認する,仮想上での確認・学習と実機の結果をつなぐための準備。,"https://www.jimtof.org/search/jp/ESdetails?e=EBIotJu7lrg
+https://www.jimtof.org/2024/search/jp/ESdetails?e=nYvFR1vpbuE
+https://references.siemens.com/en/reference/heller-tokn-digital-twin?id=41137
+https://press.siemens.com/jp/ja/pressrelease/pr-20260416","EEX-EXH-2026-9b991dd8132f51dc: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-EXH-2024-558faea07a73f5d8: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EDP-16: Completion: 2024／仮想SINUMERIK ONEと3D機械モデルによる訓練
+EDP-17: HMND 01 Alphaのトート把持・搬送・配置／Jetson Thor・Isaac Sim/Lab"
+B16-3,AC273,"NdotLight Co., Ltd.",TRINIX：CADから物理シミュレーション用データ生成,S4004,TRINIXはCADから形状・物理属性等を生成し検証・自己修正を説明。,実測値と推定値の区別、人の承認、収束しない時の対応は未公開。,2024同名比較不能。DexBenchは共同開発告知で完成済み標準とはしない。,AI生成／実機誤差は未確認,"[""EEX-EXH-2026-016097f87d1914b2"", ""EEX-WNDOT"", ""ERF-06"", ""ERF-07"", ""ERF-08"", ""ERF-09""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,物理シミュレーション用の3Dデータを作る,仮想上での確認・学習と実機の結果をつなぐための準備。,"https://www.jimtof.org/search/jp/ESdetails?e=6Ds1v9hxvrY
+https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix
+https://ndotlight.com/
+https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html
+https://docs.omniverse.nvidia.com/simready/latest/simready-asset-creation/physics-best-practices.html
+https://ndotlight.com/newsroom/ndotlight-to-co-develop-dexbench-a-global-standard-for-humanoid-evaluation-with-nvidia-and-rlwrld","EEX-EXH-2026-016097f87d1914b2: 出展紹介・主な出展物。追加カードの原典抜粋で検索
+EEX-WNDOT: 展示会概要・出展製品／2026年5月13日の製品説明
+ERF-06: Physics Injection／Self-corrective Closed Loop／FAQ
+ERF-07: What Is the Difference…Foundation；How Do I Validate My Composed Scene…（L526–538）
+ERF-08: Typical USDPhysics Components／Collider、Mass、materialの摩擦・密度・反発
+ERF-09: 2026/8/7／SimReady環境・操作評価・sim-to-real gap低減の共同開発"
+B17-1,FC005,ファナック,生成AIによるロボット駆動,S2001,ファナックは生成AIによるロボット駆動事例を展示予定。,機体・対象タスク・教示・停止・承認の具体範囲は未確認。,2024はAIバラ積み等。2026は生成AI駆動を追加記載。,生成AIを明記／担当範囲未確認,"[""EOV-V002-2024-1"", ""EOV-V002-2026-1""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,指示からロボットを動かす（具体作業未公表）,人型やAIという名称だけでは任せられる仕事を判断できない。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=N0RgOmmcwZw
+https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ","EOV-V002-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後
+EOV-V002-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後"
+B17-2,RPT005,東京貿易テクノシステム,RBY Series 双腕移動ヒューマノイド,E7038,RBY双腕移動ヒューマノイドはテレオペと作業教示の参考出展。,人が遠隔操作・教示。自律作業の範囲は未確認。,2024の個別差は未照合。,人型機体／自律AIは未確認,"[""RPT-EXH-2026-d7b599b5d3045611"", ""RPT-EXH-2024-5cbad6b0326d2bee""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,双腕人型ロボットを遠隔操作・教示する,人型やAIという名称だけでは任せられる仕事を判断できない。,"https://www.jimtof.org/search/jp/ESdetails?e=q65eJorv2LU
+https://www.jimtof.org/2024/search/jp/ESdetails?e=RD73EqDannI","RPT-EXH-2026-d7b599b5d3045611: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp
+RPT-EXH-2024-5cbad6b0326d2bee: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp"
+B17-3,RPT004,神崎高級工機,FD100 ギヤチェッカー,E1071,FD100に歯合わせ・前加工計測。計測による条件最適化は開発中。,最適化方式と人の承認、自動反映範囲は未公表。,2024の構造改善等に対し段取りを具体化。開発中を実用済みとしない。,自動化／条件最適化は開発中,"[""RPT-EXH-2026-91aa8dd094a4a7b2"", ""RPT-EXH-2024-50a402f6bcce2ab8""]",公式記載の要約。AI区分は明示／未確認を表示。人の役割の推定は分析と明記。,歯車の加工前状態を測り段取りを助ける,人型やAIという名称だけでは任せられる仕事を判断できない。,"https://www.jimtof.org/search/jp/ESdetails?e=bpuT_4Xpv_c
+https://www.jimtof.org/2024/search/jp/ESdetails?e=C7Uh8Jc1Y2s","RPT-EXH-2026-91aa8dd094a4a7b2: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp
+RPT-EXH-2024-50a402f6bcce2ab8: main > div.container > div.row > div.col-md-8.mb-5; 見出し「主な出展物」と直後のp"

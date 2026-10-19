@@ -1,0 +1,38 @@
+{
+  "2024": {
+    "listing_rows": 1281,
+    "details_retrieved": 988,
+    "candidate_rows": 369,
+    "candidate_name_keys": 360,
+    "dimensions": {
+      "AI・自律": 37,
+      "加工準備・ツイン": 61,
+      "自動化・省人": 245,
+      "計測・状態適応": 46,
+      "工場データ・運用": 118
+    }
+  },
+  "2026": {
+    "listing_rows": 1146,
+    "details_retrieved": 820,
+    "candidate_rows": 345,
+    "candidate_name_keys": 342,
+    "dimensions": {
+      "AI・自律": 62,
+      "加工準備・ツイン": 54,
+      "自動化・省人": 249,
+      "計測・状態適応": 35,
+      "工場データ・運用": 105
+    }
+  },
+  "caveat": "名称キーの重複除去。法人同一性未確認。各区分は重複し、掲載文の語による候補抽出であり採用率・市場比率・技術成熟度を表さない。詳細URLなし619行と原典説明なし行には未捕捉の可能性。",
+  "semantic_review": {
+    "selected_company_keys": 42,
+    "with_both_year_descriptions": 33,
+    "technology_items": 33,
+    "evidence_records": 89,
+    "claim_count": 11,
+    "research_themes": 3,
+    "limits": "重点42社の意味内容比較。全候補の方式を同じ深さで分析したものではない。社名部分一致による別会社UELは除外済み。法人沿革が必要な名称変更候補は自動で同一視していない。"
+  }
+}

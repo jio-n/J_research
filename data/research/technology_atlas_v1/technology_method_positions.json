@@ -1,0 +1,1296 @@
+[
+  {
+    "position_id": "P01",
+    "card_id": "FC011",
+    "method_id": "M01",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "Beckhoff",
+    "official_company": "ベッコフオートメーション",
+    "task": "要求→PLCコード案",
+    "status": "製品発表",
+    "booths_2026": [
+      "E2028"
+    ],
+    "card_ids": [
+      "FC011"
+    ],
+    "evidence_ids": [
+      "EOV-V005-2026-1",
+      "EAT-N03",
+      "EAT-N05",
+      "EDP-03",
+      "ERF-01"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+      "https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html",
+      "https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html"
+    ],
+    "source_locators": [
+      "EOV-V005-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EAT-N03: Features／Product status",
+      "EAT-N05: CoAgents for development and machine operation",
+      "EDP-03: TwinCAT XAE／コード作成・追加・最適化・文書化",
+      "ERF-01: 2025/6/13／Placing people at the heart of automation；PLC・I/O・HMI、専門家がreview・confirm・approve"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P02",
+    "card_id": "FC012",
+    "method_id": "M01",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "Beckhoff",
+    "official_company": "ベッコフオートメーション",
+    "task": "要求・スケッチ→I/O・HMI案",
+    "status": "製品発表",
+    "booths_2026": [
+      "E2028"
+    ],
+    "card_ids": [
+      "FC012"
+    ],
+    "evidence_ids": [
+      "EOV-V005-2026-1",
+      "EAT-N03",
+      "EAT-N05",
+      "EDP-03",
+      "ERF-01"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+      "https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html",
+      "https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html"
+    ],
+    "source_locators": [
+      "EOV-V005-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EAT-N03: Features／Product status",
+      "EAT-N05: CoAgents for development and machine operation",
+      "EDP-03: TwinCAT XAE／コード作成・追加・最適化・文書化",
+      "ERF-01: 2025/6/13／Placing people at the heart of automation；PLC・I/O・HMI、専門家がreview・confirm・approve"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P03",
+    "card_id": "FC013",
+    "method_id": "M01",
+    "function": "ソフト実行",
+    "function_index": 3,
+    "company": "Beckhoff",
+    "official_company": "ベッコフオートメーション",
+    "task": "データ診断・TwinCATコマンド",
+    "status": "製品発表・権限未公開",
+    "booths_2026": [
+      "E2028"
+    ],
+    "card_ids": [
+      "FC013"
+    ],
+    "evidence_ids": [
+      "EOV-V005-2026-1",
+      "EAT-N04",
+      "EAT-N05",
+      "EDP-03",
+      "ERF-02"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+      "https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html",
+      "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html"
+    ],
+    "source_locators": [
+      "EOV-V005-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EAT-N04: Properties／Product status",
+      "EAT-N05: CoAgents for development and machine operation",
+      "EDP-03: TwinCAT XAE／コード作成・追加・最適化・文書化",
+      "ERF-02: Properties／direct system access；Product status／market release on request"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P04",
+    "card_id": "FC017",
+    "method_id": "M01",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "EPLAN",
+    "official_company": "EPLAN",
+    "task": "回答・手順支援",
+    "status": "自動操作は将来",
+    "booths_2026": [
+      "S1067"
+    ],
+    "card_ids": [
+      "FC017"
+    ],
+    "evidence_ids": [
+      "EOV-V006-2024-1",
+      "EOV-V006-2026-1",
+      "EAT-N06"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=50efK4rQsHs",
+      "https://www.jimtof.org/search/jp/ESdetails?e=FHsQAvmFusY",
+      "https://www.eplan.com/us-en/about-us/innovations/eplan-copilot/"
+    ],
+    "source_locators": [
+      "EOV-V006-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V006-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EAT-N06: Based on a described task／Looking ahead／conceptual phase"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P05",
+    "card_id": "FC062",
+    "method_id": "M01",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "匠技研工業",
+    "official_company": "匠技研工業",
+    "task": "原価算定・見積書案",
+    "status": "人が確認・修正・承認",
+    "booths_2026": [
+      "S3011"
+    ],
+    "card_ids": [
+      "FC062"
+    ],
+    "evidence_ids": [
+      "EOV-V041-2026-1",
+      "EDP-05"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258",
+      "https://prtimes.jp/main/html/rd/p/000000031.000057137.html"
+    ],
+    "source_locators": [
+      "EOV-V041-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-05: 見積金額算出／人の修正による再学習／引合受領から見積書作成"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P06",
+    "card_id": "FC018",
+    "method_id": "M02",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "Hexagon",
+    "official_company": "Hexagon Manufacturing Intelligence",
+    "task": "過去ジョブ→工程予測",
+    "status": "旋削等へ商用範囲拡張",
+    "booths_2026": [
+      "E2013"
+    ],
+    "card_ids": [
+      "FC018"
+    ],
+    "evidence_ids": [
+      "EOV-V007-2026-2",
+      "EOV-W02"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4",
+      "https://hexagon.com/products/esprit-edge/release-highlights"
+    ],
+    "source_locators": [
+      "EOV-V007-2026-2: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-W02: 2025.2 PROPLANAI、2026.1 ProPlanAI for Turning, Mill-Turn & Swiss"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P07",
+    "card_id": "FC040",
+    "method_id": "M02",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "モリマシナリー",
+    "official_company": "モリマシナリー",
+    "task": "摩耗履歴→寿命・交換提案",
+    "status": "自動交換は未確認",
+    "booths_2026": [
+      "S3048"
+    ],
+    "card_ids": [
+      "FC040"
+    ],
+    "evidence_ids": [
+      "EOV-V024-2024-1",
+      "EOV-V024-2026-1",
+      "EOV-W08"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=yEoPl5sH6Sg",
+      "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM",
+      "https://mori-machinery.com/wp-content/uploads/2023/06/%E7%86%9F%E7%B7%B4%E8%80%85%E3%81%AE%E7%B5%8C%E9%A8%93%E7%9F%A5%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E5%88%87%E5%89%8A%E5%B7%A5%E5%85%B7%E3%81%AE%E6%AC%A0%E3%81%91%E3%83%BB%E6%91%A9%E8%80%97%E3%83%BB%E5%AF%BF%E5%91%BD%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8BAI%E3%82%92%E9%96%8B%E7%99%BA.pdf"
+    ],
+    "source_locators": [
+      "EOV-V024-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V024-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-W08: 2023年6月2日、成果と今後の展望"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P08",
+    "card_id": "AC131",
+    "method_id": "M03",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "タクテックス",
+    "official_company": "タクテックス株式会社",
+    "task": "CAM Assist／SolidCAM",
+    "status": "人が編集・検証",
+    "booths_2026": [
+      "S1016"
+    ],
+    "card_ids": [
+      "AC131"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-0436fc7b61f51a8e",
+      "EEX-EXH-2024-eb84f3b7fa9cf6db",
+      "EDP-07",
+      "EDP-08",
+      "ERF-04"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=2TVzwvOqLxI",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=p_i9WuUhNRg",
+      "https://www.cloudnc.com/ja/solidcam",
+      "https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm",
+      "https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-0436fc7b61f51a8e: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-eb84f3b7fa9cf6db: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-07: 仕組みステップ1〜4／FAQの対象加工・通信・戦略生成",
+      "EDP-08: 形状・工具・材種・段取りの入力／プログラマーの修正・検証・NC出力",
+      "ERF-04: L11–19／プログラマーがreview・refine、既存のsimulation・verification・NC生成"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P09",
+    "card_id": "FC020",
+    "method_id": "M03",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "JBM",
+    "official_company": "ジェービーエムエンジニアリング",
+    "task": "CAM Assist／Mastercam",
+    "status": "人が編集・検証",
+    "booths_2026": [
+      "E2002"
+    ],
+    "card_ids": [
+      "FC020"
+    ],
+    "evidence_ids": [
+      "EOV-V008-2024-1",
+      "EOV-V008-2024-2",
+      "EOV-V008-2026-1",
+      "EDP-09",
+      "EDP-10",
+      "ERF-03"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=G-8gydwhMvE",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=ZBxZW2vyjUw",
+      "https://www.jimtof.org/search/jp/ESdetails?e=VrAjMTKmxdw",
+      "https://www.cloudnc.com/ja/mastercam",
+      "https://www.cloudnc.com/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+      "https://www.cloudnc.com/ja/mastercam"
+    ],
+    "source_locators": [
+      "EOV-V008-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V008-2024-2: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V008-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-09: 仕組みステップ1〜4／FAQの対象加工・顧客データ学習の否定",
+      "EDP-10: July 25, 2024／3軸・3+2軸向け。北米販売開始の説明",
+      "ERF-03: 仕組みStep 2–4／FAQ：顧客データで学習しない、加工性評価、編集可能CAM"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P10",
+    "card_id": "FC036",
+    "method_id": "M04",
+    "function": "判定・表示",
+    "function_index": 1,
+    "company": "HACARUS",
+    "official_company": "HACARUS",
+    "task": "良品学習＋追加ラベル→判定",
+    "status": "人が追加学習",
+    "booths_2026": [
+      "S1031"
+    ],
+    "card_ids": [
+      "FC036"
+    ],
+    "evidence_ids": [
+      "EOV-V021-2026-1",
+      "EOV-W06",
+      "EDP-14",
+      "EDP-15",
+      "ERF-05"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc",
+      "https://hacarus.com/ja/technology/hacarus-check-series/",
+      "https://hacarus.com/ja/press-release/20250707-news/",
+      "https://check.hacarus.com/ja/",
+      "https://check.hacarus.com/ja/aisoftware/"
+    ],
+    "source_locators": [
+      "EOV-V021-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-W06: 2026.04.06本文",
+      "EDP-14: 2025/7/9販売／良品学習とアノテーション追加学習／判定UI",
+      "EDP-15: Check ZERO／デュアルチューニング／機器構成",
+      "ERF-05: 特徴／異常箇所表示・良否アノテーション追加学習"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P11",
+    "card_id": "FC039",
+    "method_id": "M04",
+    "function": "判定・表示",
+    "function_index": 1,
+    "company": "モリマシナリー",
+    "official_company": "モリマシナリー",
+    "task": "工具画像→欠け・摩耗判定",
+    "status": "交換指令は未確認",
+    "booths_2026": [
+      "S3048"
+    ],
+    "card_ids": [
+      "FC039"
+    ],
+    "evidence_ids": [
+      "EOV-V024-2024-1",
+      "EOV-V024-2026-1",
+      "EDP-12"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=yEoPl5sH6Sg",
+      "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM",
+      "https://mori-machinery.com/en/product/tool-sommelier?post_id=1066"
+    ],
+    "source_locators": [
+      "EOV-V024-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V024-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-12: 刃先撮像・欠け摩耗自動検出／FAQの工具・径制約"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P12",
+    "card_id": "AC225",
+    "method_id": "M04",
+    "function": "判定・表示",
+    "function_index": 1,
+    "company": "ムラテックCCS",
+    "official_company": "ムラテックＣＣＳ株式会社",
+    "task": "電流・振動→設備診断",
+    "status": "レポート・点検提案",
+    "booths_2026": [
+      "E3031"
+    ],
+    "card_ids": [
+      "AC225"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-308c5194f12fe009",
+      "EEX-EXH-2024-b0a94c1cd407ea8a",
+      "EDP-13"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=Z_SbvK_hxBY",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=2N7pXq5Aehs",
+      "https://www.muratec.jp/company/ti/rd/detail.php?id=7540"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-308c5194f12fe009: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-b0a94c1cd407ea8a: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-13: 電流・振動を新品データと比較／補正入力回数・軸負荷による劣化判定"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P13",
+    "card_id": "FC063",
+    "method_id": "M04",
+    "function": "判定・表示",
+    "function_index": 1,
+    "company": "興和",
+    "official_company": "興和オプトロニクス",
+    "task": "RW＋別体解析→異常通知",
+    "status": "自動停止は未確認",
+    "booths_2026": [
+      "S3104"
+    ],
+    "card_ids": [
+      "FC063"
+    ],
+    "evidence_ids": [
+      "EOV-V042-2026-1",
+      "EDP-33"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ",
+      "https://optical.kowa-opt.co.jp/camera-rw/"
+    ],
+    "source_locators": [
+      "EOV-V042-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-33: ビジョンプロセッサ併用の不良ヒートマップ・切粉巻付きアラート・工具欠損検出"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P14",
+    "card_id": "AC195",
+    "method_id": "M04",
+    "function": "判定・表示",
+    "function_index": 1,
+    "company": "Fact Base",
+    "official_company": "株式会社Fact Base",
+    "task": "図面OCR→登録・検索",
+    "status": "人が読取確認・補正",
+    "booths_2026": [
+      "S3017"
+    ],
+    "card_ids": [
+      "AC195"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-3b6a1de81c17dfee",
+      "EDP-11"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=hZaNogHdQM4",
+      "https://lp.zume-n.com/case-1/sagadainichi"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-3b6a1de81c17dfee: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-11: AI・OCR文字読取／人の目で確認・補正／関連資料・改訂履歴"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P15",
+    "card_id": "FC030",
+    "method_id": "M04",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "SOFIX／AI Forecast",
+    "official_company": "ソフィックス",
+    "task": "時系列・画像の予測",
+    "status": "Fleeterへの直結未確認",
+    "booths_2026": [
+      "E1067"
+    ],
+    "card_ids": [
+      "FC030"
+    ],
+    "evidence_ids": [
+      "EOV-V015-2024-1",
+      "EOV-V015-2026-1",
+      "EDP-21",
+      "EDP-22",
+      "EDP-23"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=WNiUW-E-atY",
+      "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ",
+      "https://www.sofix.co.jp/products/sofixcan_ai_forecast/",
+      "https://www.sofix.co.jp/products/sofixcan_fleeter/",
+      "https://www.sofix.co.jp/"
+    ],
+    "source_locators": [
+      "EOV-V015-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V015-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-21: 時系列データ予測／形状領域予測／顧客別予測システム開発",
+      "EDP-22: 上位システム命令をトリガーに各機器を制御／通信モジュール追加",
+      "EDP-23: 2026/9/29告知／2025/11/4国際ロボット展でもミニ工場を予告"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P16",
+    "card_id": "FC049",
+    "method_id": "M05",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "TAKISAWA",
+    "official_company": "TAKISAWA",
+    "task": "TR-20W：主軸の切粉除去",
+    "status": "参考出品",
+    "booths_2026": [
+      "E3013"
+    ],
+    "card_ids": [
+      "FC049"
+    ],
+    "evidence_ids": [
+      "EOV-V030-2024-1",
+      "EOV-V030-2026-1",
+      "EAT-N01",
+      "EAT-N02",
+      "ERF-13"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=K00DRD-BngA",
+      "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM",
+      "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+      "https://www.nidec.com/jp/product/news/2024/news1101-03/",
+      "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/"
+    ],
+    "source_locators": [
+      "EOV-V030-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V030-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EAT-N01: TR-20W：フィジカルAI搭載のロボットシステム（参考出品）",
+      "EAT-N02: 2024年11月1日／MGC300の出展説明",
+      "ERF-13: TAKISAWA／TR-20W、主軸の切粉認識・判断・除去、参考出品"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P17",
+    "card_id": "AC051",
+    "method_id": "M05",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "カネテック",
+    "official_company": "カネテック株式会社",
+    "task": "磁気＋2D：小径ネジピック",
+    "status": "AIの担当未公開",
+    "booths_2026": [
+      "W2013"
+    ],
+    "card_ids": [
+      "AC051"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-30b70a74241de123",
+      "EEX-EXH-2024-45415d070f47dc6e",
+      "EDP-01"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=ekM3exgIAtc",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=ot0Fx36wI0g",
+      "https://kanetec.co.jp/lp/MagnetPinset%40LP.html"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-30b70a74241de123: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-45415d070f47dc6e: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-01: 小径ネジの課題／JIMTOF2024出展／ネジ整列器"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P18",
+    "card_id": "AC085",
+    "method_id": "M05",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "サイバーRC",
+    "official_company": "株式会社サイバーRC",
+    "task": "GH5：測定→ホーニング補正",
+    "status": "人が目標幅・角度設定",
+    "booths_2026": [
+      "E7074"
+    ],
+    "card_ids": [
+      "AC085"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-a0cbad27ea34d7c4",
+      "EEX-EXH-2024-76ac534a229f7c29",
+      "EDP-02"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=wk2AEX5rHpw",
+      "https://cyber-rc.com/wp-content/uploads/2025/10/%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0420-x-297-mm%E6%A8%AA%E4%B8%A6%E3%81%B3-.pdf"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-a0cbad27ea34d7c4: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-76ac534a229f7c29: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-02: GRISTAR HONING 5 AXIS／幅・角度設定、Robot Eye、自動調整"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P19",
+    "card_id": "AC146",
+    "method_id": "M05",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "TED／E7073内",
+    "official_company": "東京エレクトロンデバイス株式会社",
+    "task": "3D認識→面取り・皿もみ",
+    "status": "学習AIの使用未確認",
+    "booths_2026": [
+      "E7073"
+    ],
+    "card_ids": [
+      "AC146"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-8c08de1ffed47316",
+      "EEX-WTED"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=c4cChQniAm8",
+      "https://www.inrevium.com/news-event/event/p7331/"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-8c08de1ffed47316: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-WTED: 展示会概要・出展製品／2026年5月13日の製品説明"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P20",
+    "card_id": "AC098",
+    "method_id": "M05",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "Siemens／HMND",
+    "official_company": "シーメンス株式会社",
+    "task": "車輪型：トートの取出・搬送",
+    "status": "ドイツ別実証・展示機未同定",
+    "booths_2026": [
+      "E3006"
+    ],
+    "card_ids": [
+      "AC098"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-9b991dd8132f51dc",
+      "EEX-EXH-2024-558faea07a73f5d8",
+      "EDP-16",
+      "EDP-17"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=EBIotJu7lrg",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=nYvFR1vpbuE",
+      "https://references.siemens.com/en/reference/heller-tokn-digital-twin?id=41137",
+      "https://press.siemens.com/jp/ja/pressrelease/pr-20260416"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-9b991dd8132f51dc: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-558faea07a73f5d8: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-16: Completion: 2024／仮想SINUMERIK ONEと3D機械モデルによる訓練",
+      "EDP-17: HMND 01 Alphaのトート把持・搬送・配置／Jetson Thor・Isaac Sim/Lab"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P21",
+    "card_id": "FC021",
+    "method_id": "M06",
+    "function": "判定・表示",
+    "function_index": 1,
+    "company": "CGTech",
+    "official_company": "CGTech",
+    "task": "実行NC→干渉・残削り検証",
+    "status": "AI搭載は未確認",
+    "booths_2026": [
+      "S3014"
+    ],
+    "card_ids": [
+      "FC021"
+    ],
+    "evidence_ids": [
+      "EOV-V009-2024-1",
+      "EOV-V009-2026-1",
+      "EDP-20"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=AxDUk3YbQDI",
+      "https://www.jimtof.org/search/jp/ESdetails?e=41U8xW4UkcM",
+      "https://vericut.com/ja-jp/products/cnc-machine-simulation"
+    ],
+    "source_locators": [
+      "EOV-V009-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V009-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-20: Gコード・機械制御ロジックの検証／モジュールの役割"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P22",
+    "card_id": "AC098",
+    "method_id": "M06",
+    "function": "判定・表示",
+    "function_index": 1,
+    "company": "Siemens／Tokn",
+    "official_company": "シーメンス株式会社",
+    "task": "仮想CNC加工・訓練",
+    "status": "2024事例・HMNDと別",
+    "booths_2026": [
+      "E3006"
+    ],
+    "card_ids": [
+      "AC098"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-9b991dd8132f51dc",
+      "EEX-EXH-2024-558faea07a73f5d8",
+      "EDP-16",
+      "EDP-17"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=EBIotJu7lrg",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=nYvFR1vpbuE",
+      "https://references.siemens.com/en/reference/heller-tokn-digital-twin?id=41137",
+      "https://press.siemens.com/jp/ja/pressrelease/pr-20260416"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-9b991dd8132f51dc: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-558faea07a73f5d8: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-16: Completion: 2024／仮想SINUMERIK ONEと3D機械モデルによる訓練",
+      "EDP-17: HMND 01 Alphaのトート把持・搬送・配置／Jetson Thor・Isaac Sim/Lab"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P23",
+    "card_id": "FC014",
+    "method_id": "M07",
+    "function": "基盤・入力整備",
+    "function_index": 0,
+    "company": "Beckhoff",
+    "official_company": "ベッコフオートメーション",
+    "task": "データ→学習・評価／ONNX",
+    "status": "作業用途は別設定",
+    "booths_2026": [
+      "E2028"
+    ],
+    "card_ids": [
+      "FC014"
+    ],
+    "evidence_ids": [
+      "EOV-V005-2026-1",
+      "EOV-W01",
+      "EDP-04"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+      "https://www.beckhoff.com/en-za/products/automation/twincat/texxxx-twincat-3-engineering/te3850.html",
+      "https://www.beckhoff.com/media/downloads/information-media/pc-control/pcc_0224_e.pdf"
+    ],
+    "source_locators": [
+      "EOV-V005-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-W01: 製品説明冒頭、Product status",
+      "EDP-04: TE3850／訓練・テストデータ分割、モデル解析、ONNX出力"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P24",
+    "card_id": "FC024",
+    "method_id": "M07",
+    "function": "基盤・入力整備",
+    "function_index": 0,
+    "company": "たけびし",
+    "official_company": "たけびし",
+    "task": "OPC UA情報モデル×MCP",
+    "status": "Adapterは提供計画",
+    "booths_2026": [
+      "S3015"
+    ],
+    "card_ids": [
+      "FC024"
+    ],
+    "evidence_ids": [
+      "EOV-V011-2024-1",
+      "EOV-V011-2026-1",
+      "EDP-06"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=SiZMI-OH8_k",
+      "https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw",
+      "https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/"
+    ],
+    "source_locators": [
+      "EOV-V011-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V011-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-06: A New Approach to Connecting AI Agents／MCP Adapterはplanning to provide"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P25",
+    "card_id": "AC273",
+    "method_id": "M07",
+    "function": "基盤・入力整備",
+    "function_index": 0,
+    "company": "NdotLight",
+    "official_company": "NdotLight Co., Ltd.",
+    "task": "CAD・物理属性→SimReady",
+    "status": "実機の作業実行と別層",
+    "booths_2026": [
+      "S4004"
+    ],
+    "card_ids": [
+      "AC273"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-016097f87d1914b2",
+      "EEX-WNDOT",
+      "ERF-06",
+      "ERF-07",
+      "ERF-08",
+      "ERF-09"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=6Ds1v9hxvrY",
+      "https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix",
+      "https://ndotlight.com/",
+      "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+      "https://docs.omniverse.nvidia.com/simready/latest/simready-asset-creation/physics-best-practices.html",
+      "https://ndotlight.com/newsroom/ndotlight-to-co-develop-dexbench-a-global-standard-for-humanoid-evaluation-with-nvidia-and-rlwrld"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-016097f87d1914b2: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-WNDOT: 展示会概要・出展製品／2026年5月13日の製品説明",
+      "ERF-06: Physics Injection／Self-corrective Closed Loop／FAQ",
+      "ERF-07: What Is the Difference…Foundation；How Do I Validate My Composed Scene…（L526–538）",
+      "ERF-08: Typical USDPhysics Components／Collider、Mass、materialの摩擦・密度・反発",
+      "ERF-09: 2026/8/7／SimReady環境・操作評価・sim-to-real gap低減の共同開発"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P26",
+    "card_id": "AC295",
+    "method_id": "M08",
+    "function": "ソフト実行",
+    "function_index": 3,
+    "company": "WinTool",
+    "official_company": "WinTool AG",
+    "task": "在庫ルール→購買要求／ERP",
+    "status": "管理者承認後に転送",
+    "booths_2026": [
+      "E1049"
+    ],
+    "card_ids": [
+      "AC295"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-4fb92ba6b82546d7",
+      "EEX-EXH-2024-3f1fa1966a57e011",
+      "EDP-18",
+      "EDP-19"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=sSFZV23clJo",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=-n22F1d_CDc",
+      "https://www.wintool.com/en/tool-management-software/cnc-inventory-manager/erp-integration",
+      "https://www.wintool.com/software/cnc-prozessverwaltung"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-4fb92ba6b82546d7: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-3f1fa1966a57e011: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-18: 最低在庫で購買要求を生成し、管理者承認後にERPへ自動送信",
+      "EDP-19: 工具積卸リスト・在庫確認・プリセッター指示・NCと測定値の転送"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P27",
+    "card_id": "AC039",
+    "method_id": "M08",
+    "function": "ソフト実行",
+    "function_index": 3,
+    "company": "FNS",
+    "official_company": "FNS株式会社",
+    "task": "TM-2800：機器の統合指示",
+    "status": "AI再計画は未確認",
+    "booths_2026": [
+      "E2034"
+    ],
+    "card_ids": [
+      "AC039"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-9022dcaec2b02dde",
+      "EEX-EXH-2024-caa95a5ce916176b",
+      "EDP-25"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=_q_YetP8_og",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=LRKay8iRNz4",
+      "https://www.fns-inc.jp/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-9022dcaec2b02dde: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-caa95a5ce916176b: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-25: RK510：FANUC CRX-10iA・2段ストッカー・CNCマクロ変数・カメラオプション"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P28",
+    "card_id": "FC030",
+    "method_id": "M08",
+    "function": "ソフト実行",
+    "function_index": 3,
+    "company": "SOFIX／Fleeter",
+    "official_company": "ソフィックス",
+    "task": "上位命令→AMR・アーム・PLC",
+    "status": "予測AIの直結未確認",
+    "booths_2026": [
+      "E1067"
+    ],
+    "card_ids": [
+      "FC030"
+    ],
+    "evidence_ids": [
+      "EOV-V015-2024-1",
+      "EOV-V015-2026-1",
+      "EDP-21",
+      "EDP-22",
+      "EDP-23"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=WNiUW-E-atY",
+      "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ",
+      "https://www.sofix.co.jp/products/sofixcan_ai_forecast/",
+      "https://www.sofix.co.jp/products/sofixcan_fleeter/",
+      "https://www.sofix.co.jp/"
+    ],
+    "source_locators": [
+      "EOV-V015-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V015-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-21: 時系列データ予測／形状領域予測／顧客別予測システム開発",
+      "EDP-22: 上位システム命令をトリガーに各機器を制御／通信モジュール追加",
+      "EDP-23: 2026/9/29告知／2025/11/4国際ロボット展でもミニ工場を予告"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P29",
+    "card_id": "AC214",
+    "method_id": "M08",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "松本機械工業",
+    "official_company": "松本機械工業株式会社",
+    "task": "寸法入力→段取り交換",
+    "status": "学習AIは未確認",
+    "booths_2026": [
+      "W2070"
+    ],
+    "card_ids": [
+      "AC214"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-0daa587f8abf6076",
+      "EEX-EXH-2024-1dc10e3b594ed9d8",
+      "EDP-26",
+      "EDP-27",
+      "EDP-28"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=bhpEIIjKNb4",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=1cGhqW04Qes",
+      "https://mmkchuck.com/product/7218/",
+      "https://mmkchuck.com/news/2024/5903/",
+      "https://mmkchuck.com/news/2026/7380/"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-0daa587f8abf6076: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-1dc10e3b594ed9d8: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-26: 7つの革新／寸法パラメータ入力・出荷時組込プログラム／レトロフィット",
+      "EDP-27: 爪・ケレ・計測／展示会初披露のCAPTO・MAC",
+      "EDP-28: Advハード単体・ストッカー単体販売への対応"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P30",
+    "card_id": "AC186",
+    "method_id": "M08",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "白山機工",
+    "official_company": "株式会社白山機工",
+    "task": "AMRで切り屑回収",
+    "status": "実演・模型／配車AI不明",
+    "booths_2026": [
+      "E2007"
+    ],
+    "card_ids": [
+      "AC186"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-d8a50e23a9101b11",
+      "EEX-EXH-2024-89cb7807f64be75b",
+      "EDP-29"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=FNFR7REQOl4",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=krDglZoYKFc",
+      "https://www.hakusankiko.co.jp/news/event/8837/"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-d8a50e23a9101b11: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EEX-EXH-2024-89cb7807f64be75b: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "EDP-29: AMR切り屑回収システムを実演・模型で紹介"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P31",
+    "card_id": "FC042",
+    "method_id": "M08",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "イマオ",
+    "official_company": "イマオコーポレーション",
+    "task": "ナットランナーでクランプ",
+    "status": "機構・AIは未確認",
+    "booths_2026": [
+      "W2001"
+    ],
+    "card_ids": [
+      "FC042"
+    ],
+    "evidence_ids": [
+      "EOV-V025-2024-1",
+      "EOV-V025-2026-1",
+      "EDP-30",
+      "EDP-32"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=MTYTZ2Km3zM",
+      "https://www.jimtof.org/search/jp/ESdetails?e=shuDpJLDn-A",
+      "https://www.imao.co.jp/products/nutrunnerclamp.html",
+      "https://www.imao.co.jp/event-20241105-1110-jimtof/jimtof.pdf"
+    ],
+    "source_locators": [
+      "EOV-V025-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V025-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-30: ロボットのナットランナーでクランプ／配管配線不要／手動も可能",
+      "EDP-32: ナットランナー治具各型式／人でもロボットでも操作可能"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P32",
+    "card_id": "FC043",
+    "method_id": "M08",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "イマオ",
+    "official_company": "イマオコーポレーション",
+    "task": "ばね・ピンで指交換",
+    "status": "機構・AIは未確認",
+    "booths_2026": [
+      "W2001"
+    ],
+    "card_ids": [
+      "FC043"
+    ],
+    "evidence_ids": [
+      "EOV-V025-2024-1",
+      "EOV-V025-2026-1",
+      "EDP-31"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=MTYTZ2Km3zM",
+      "https://www.jimtof.org/search/jp/ESdetails?e=shuDpJLDn-A",
+      "https://www.imao.co.jp/products/tsume-changer.html"
+    ],
+    "source_locators": [
+      "EOV-V025-2024-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-V025-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EDP-31: ボール・クサビ・ばね／イジェクトピンでロック解除／取付板設計"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P33",
+    "card_id": "FC031",
+    "method_id": "M09",
+    "function": "実機動作",
+    "function_index": 4,
+    "company": "パナソニック",
+    "official_company": "パナソニックプロダクションエンジニアリング",
+    "task": "障害物停止→人が遠隔回避",
+    "status": "動作主体は人",
+    "booths_2026": [
+      "W3086"
+    ],
+    "card_ids": [
+      "FC031"
+    ],
+    "evidence_ids": [
+      "EOV-V016-2026-1",
+      "EOV-W05",
+      "EOV-W09",
+      "EDP-24"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=5mrMofo3nN8",
+      "https://www.panasonic.com/jp/company/ppe/products/x-area.html",
+      "https://tech.panasonic.com/jp/td/news/20221124.html",
+      "https://news.panasonic.com/jp/press/jn260713-1"
+    ],
+    "source_locators": [
+      "EOV-V016-2026-1: main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+      "EOV-W05: サービス概要、システム構成",
+      "EOV-W09: 2022/11/24 NEWS & TOPICS",
+      "EDP-24: 障害物停止時に自動運転から人の遠隔操作へ切替／担当者とセーフティドライバー"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P34",
+    "card_id": "AC136",
+    "method_id": "M10",
+    "function": "提案・生成",
+    "function_index": 2,
+    "company": "ToolDiscovery",
+    "official_company": "有限会社ツールディスカバリー",
+    "task": "工具・材種・方法→条件目安",
+    "status": "AI算定内訳未公開",
+    "booths_2026": [
+      "W1069"
+    ],
+    "card_ids": [
+      "AC136"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-d383a51fea03ae6e",
+      "ERF-12"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=2N7pXq5Aehs",
+      "https://www.jimtof.org/search/jp/ExhibitorDetails?b=W1069"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-d383a51fea03ae6e: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "ERF-12: 有限会社ツールディスカバリー見出し／工具・被削材・加工方法、AI条件目安、登録不要"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "position_id": "P35",
+    "card_id": "AC234",
+    "method_id": "M10",
+    "function": "判定・表示",
+    "function_index": 1,
+    "company": "ユシロ",
+    "official_company": "株式会社ユシロ",
+    "task": "ALFRED：濃度・pH監視",
+    "status": "AI・自動補給は未確認",
+    "booths_2026": [
+      "S3093"
+    ],
+    "card_ids": [
+      "AC234"
+    ],
+    "evidence_ids": [
+      "EEX-EXH-2026-1fb607fd5307c2fa",
+      "ERF-10",
+      "ERF-11"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=-U1GqEJcgSM",
+      "https://www.yushiro.co.jp/news/社名変更のお知らせ",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=He5z-J4NQm8"
+    ],
+    "source_locators": [
+      "EEX-EXH-2026-1fb607fd5307c2fa: 出展紹介・主な出展物。追加カードの原典抜粋で検索",
+      "ERF-10: 旧：ユシロ化学工業株式会社→新：株式会社ユシロ；2025/4/1変更",
+      "ERF-11: 出展説明・主な出展物／クーラントのリモート監視とフレキシブル濃度補給装置"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  }
+]

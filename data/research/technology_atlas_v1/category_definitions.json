@@ -1,0 +1,74 @@
+[
+  {
+    "category_id": "C01",
+    "category": "フィジカルAI",
+    "definition": "認識・判断と物理動作の結合。メーカーが同語で示す基盤・部品も、応用本体と分けて掲載。",
+    "boundary": "呼称だけでは動作生成・汎化・自律性を認定しない。",
+    "item_count": 12,
+    "company_count": 11
+  },
+  {
+    "category_id": "C02",
+    "category": "AIエージェント・対話支援",
+    "definition": "開発・運用・業務を助けるエージェント、対話型AI、連携基盤。",
+    "boundary": "回答・提案・操作・人の承認を分ける。対話支援を自律実行と扱わない。",
+    "item_count": 8,
+    "company_count": 6
+  },
+  {
+    "category_id": "C03",
+    "category": "加工準備・業務AI",
+    "definition": "工程・CAM・図面検索・見積などの準備／業務にAIを利用。",
+    "boundary": "自動生成した提案の正しさ、NCの実機適用までを保証しない。",
+    "item_count": 12,
+    "company_count": 12
+  },
+  {
+    "category_id": "C04",
+    "category": "検査・診断・予測AI",
+    "definition": "画像・振動・時系列・記録等のAI判定、診断、寿命・異常予測。",
+    "boundary": "AIの対象が原典で具体的なものを掲載。一般の計測器を一律にAI扱いしない。",
+    "item_count": 23,
+    "company_count": 21
+  },
+  {
+    "category_id": "C05",
+    "category": "設計・製造DX",
+    "definition": "設計・CAM・NC検証・測定計画・設計製造データをデジタルで結ぶ。",
+    "boundary": "デジタル化・シミュレーションとAIを区別する。",
+    "item_count": 57,
+    "company_count": 53
+  },
+  {
+    "category_id": "C06",
+    "category": "工場運用DX",
+    "definition": "設備・生産・品質・工具・保全データの活用、計画、遠隔運用。",
+    "boundary": "データがつながることと、判断・操作を委任できることを区別する。",
+    "item_count": 112,
+    "company_count": 103
+  },
+  {
+    "category_id": "C07",
+    "category": "自動化",
+    "definition": "搬送・段取り・加工付帯・検査・補正・ソフト処理等の作業を機械やソフトで行う。",
+    "boundary": "固定手順・ルール・人の事前設定も含む。AI利用・自律判断は必須ではない。",
+    "item_count": 279,
+    "company_count": 264
+  },
+  {
+    "category_id": "C08",
+    "category": "自律化",
+    "definition": "状況に応じた判断と実行を担う限定タスク、及びメーカーが自律化を掲げる提案。",
+    "boundary": "限定タスクと構想・範囲未確認を区別。固定手順や自動補正だけでは付けない。",
+    "item_count": 13,
+    "company_count": 13
+  },
+  {
+    "category_id": "C09",
+    "category": "AI実装・連携基盤",
+    "definition": "学習モデルの制御実装、データの意味・接続、撮像、IPC等を支える。",
+    "boundary": "基盤を備えることと、特定AIタスクが実装済みであることを区別する。",
+    "item_count": 32,
+    "company_count": 30
+  }
+]

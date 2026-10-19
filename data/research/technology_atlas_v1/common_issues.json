@@ -1,0 +1,235 @@
+[
+  {
+    "issue_id": "I01",
+    "issue": "提案を採用可能な結果へ変える検証",
+    "observed_facts": "CAMは生成後に人が編集・検証。PLCは専門家が制御権を保持。匠フォースは人が確認・修正・承認。",
+    "shared_issue": "工具・保持・機械・版・業務前提が変わる時の整合確認が共通する作業〈分析〉。自動承認が必要と決めつけない。",
+    "limits": "CAMの既存加工性評価やNCシミュレーションはすでに存在。各社の未検出制約と修正負担は未測定。",
+    "statement_type": "事実に基づく共通論点〈調査者分析〉。業界全体の未解決を証明しない。",
+    "card_ids": [
+      "FC018",
+      "FC020",
+      "AC131",
+      "FC021",
+      "FC011",
+      "FC062"
+    ],
+    "evidence_ids": [
+      "EOV-W02",
+      "EDP-09",
+      "EDP-08",
+      "EDP-20",
+      "EAT-N05",
+      "EDP-05",
+      "ERF-03",
+      "ERF-04"
+    ],
+    "source_urls": [
+      "https://hexagon.com/products/esprit-edge/release-highlights",
+      "https://www.cloudnc.com/ja/mastercam",
+      "https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm",
+      "https://vericut.com/ja-jp/products/cnc-machine-simulation",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+      "https://prtimes.jp/main/html/rd/p/000000031.000057137.html",
+      "https://www.cloudnc.com/ja/mastercam",
+      "https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm"
+    ],
+    "source_locators": [
+      "EOV-W02: 2025.2 PROPLANAI、2026.1 ProPlanAI for Turning, Mill-Turn & Swiss",
+      "EDP-09: 仕組みステップ1〜4／FAQの対象加工・顧客データ学習の否定",
+      "EDP-08: 形状・工具・材種・段取りの入力／プログラマーの修正・検証・NC出力",
+      "EDP-20: Gコード・機械制御ロジックの検証／モジュールの役割",
+      "EAT-N05: CoAgents for development and machine operation",
+      "EDP-05: 見積金額算出／人の修正による再学習／引合受領から見積書作成",
+      "ERF-03: 仕組みStep 2–4／FAQ：顧客データで学習しない、加工性評価、編集可能CAM",
+      "ERF-04: L11–19／プログラマーがreview・refine、既存のsimulation・verification・NC生成"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "issue_id": "I02",
+    "issue": "データの意味と操作権限をつなぐ",
+    "observed_facts": "OPC UAは値・状態・属性・関係を構造化。CoAgentはコマンド実行を説明。WinToolは管理者承認後にERP送信。Panasonicは停止後に人が遠隔回避。",
+    "shared_issue": "読取り・提案・書込み・実機動作を分ける権限と、状態／版の整合が連携時の論点〈分析〉。",
+    "limits": "人の承認を備える製品はある。許可コマンド・二重実行・停止復帰の公開情報不足は、製品に機能がない証拠ではない。",
+    "statement_type": "事実に基づく共通論点〈調査者分析〉。業界全体の未解決を証明しない。",
+    "card_ids": [
+      "FC024",
+      "FC013",
+      "AC295",
+      "FC062",
+      "FC031",
+      "FC011",
+      "FC012"
+    ],
+    "evidence_ids": [
+      "EDP-06",
+      "EAT-N04",
+      "EAT-N05",
+      "EDP-18",
+      "EDP-05",
+      "EDP-24",
+      "ERF-02",
+      "ERF-01"
+    ],
+    "source_urls": [
+      "https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+      "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+      "https://www.wintool.com/en/tool-management-software/cnc-inventory-manager/erp-integration",
+      "https://prtimes.jp/main/html/rd/p/000000031.000057137.html",
+      "https://news.panasonic.com/jp/press/jn260713-1",
+      "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+      "https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html"
+    ],
+    "source_locators": [
+      "EDP-06: A New Approach to Connecting AI Agents／MCP Adapterはplanning to provide",
+      "EAT-N04: Properties／Product status",
+      "EAT-N05: CoAgents for development and machine operation",
+      "EDP-18: 最低在庫で購買要求を生成し、管理者承認後にERPへ自動送信",
+      "EDP-05: 見積金額算出／人の修正による再学習／引合受領から見積書作成",
+      "EDP-24: 障害物停止時に自動運転から人の遠隔操作へ切替／担当者とセーフティドライバー",
+      "ERF-02: Properties／direct system access；Product status／market release on request",
+      "ERF-01: 2025/6/13／Placing people at the heart of automation；PLC・I/O・HMI、専門家がreview・confirm・approve"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "issue_id": "I03",
+    "issue": "動作の成否と例外時の引継ぎ",
+    "observed_facts": "切粉除去・ピック・面取り・ホーニングで認識から動作へ進む。Panasonicは障害物停止後に人が遠隔回避。",
+    "shared_issue": "認識の不確かさ、作業完了、再試行限界、人への引継ぎ、再開条件をタスクごとに定める必要性〈研究仮説〉。",
+    "limits": "GH5の目標設定、Panasonicの人の介入は確認済み。その他の失敗処理は公開資料不足で、現場不具合を確認したわけではない。",
+    "statement_type": "事実に基づく共通論点〈調査者分析〉。業界全体の未解決を証明しない。",
+    "card_ids": [
+      "FC049",
+      "AC051",
+      "AC085",
+      "AC146",
+      "FC031",
+      "AC098"
+    ],
+    "evidence_ids": [
+      "EAT-N01",
+      "EDP-01",
+      "EDP-02",
+      "EEX-WTED",
+      "EDP-24",
+      "EDP-17",
+      "ERF-13"
+    ],
+    "source_urls": [
+      "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+      "https://kanetec.co.jp/lp/MagnetPinset%40LP.html",
+      "https://cyber-rc.com/wp-content/uploads/2025/10/%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0420-x-297-mm%E6%A8%AA%E4%B8%A6%E3%81%B3-.pdf",
+      "https://www.inrevium.com/news-event/event/p7331/",
+      "https://news.panasonic.com/jp/press/jn260713-1",
+      "https://press.siemens.com/jp/ja/pressrelease/pr-20260416",
+      "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/"
+    ],
+    "source_locators": [
+      "EAT-N01: TR-20W：フィジカルAI搭載のロボットシステム（参考出品）",
+      "EDP-01: 小径ネジの課題／JIMTOF2024出展／ネジ整列器",
+      "EDP-02: GRISTAR HONING 5 AXIS／幅・角度設定、Robot Eye、自動調整",
+      "EEX-WTED: 展示会概要・出展製品／2026年5月13日の製品説明",
+      "EDP-24: 障害物停止時に自動運転から人の遠隔操作へ切替／担当者とセーフティドライバー",
+      "EDP-17: HMND 01 Alphaのトート把持・搬送・配置／Jetson Thor・Isaac Sim/Lab",
+      "ERF-13: TAKISAWA／TR-20W、主軸の切粉認識・判断・除去、参考出品"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "issue_id": "I04",
+    "issue": "条件変化に応じた判定の更新と採否",
+    "observed_facts": "HACARUSは見逃し／過検出に人が追加ラベル。Moriは工具画像、Muratecは新品基準と信号、Kowaは耐環境撮像と別体AI。",
+    "shared_issue": "対象・照明・工具・材種・機械状態の変化ごとに、誤判定と人の修正工数を分けて評価する論点〈分析〉。",
+    "limits": "ZEROの追加学習は既存機能。自動更新・版の差戻し・条件別の性能保証は今回の公開資料では未確認。",
+    "statement_type": "事実に基づく共通論点〈調査者分析〉。業界全体の未解決を証明しない。",
+    "card_ids": [
+      "FC036",
+      "FC039",
+      "FC040",
+      "AC225",
+      "FC063"
+    ],
+    "evidence_ids": [
+      "EDP-14",
+      "EDP-15",
+      "EDP-12",
+      "EOV-W08",
+      "EDP-13",
+      "EDP-33",
+      "ERF-05"
+    ],
+    "source_urls": [
+      "https://hacarus.com/ja/press-release/20250707-news/",
+      "https://check.hacarus.com/ja/",
+      "https://mori-machinery.com/en/product/tool-sommelier?post_id=1066",
+      "https://mori-machinery.com/wp-content/uploads/2023/06/%E7%86%9F%E7%B7%B4%E8%80%85%E3%81%AE%E7%B5%8C%E9%A8%93%E7%9F%A5%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E5%88%87%E5%89%8A%E5%B7%A5%E5%85%B7%E3%81%AE%E6%AC%A0%E3%81%91%E3%83%BB%E6%91%A9%E8%80%97%E3%83%BB%E5%AF%BF%E5%91%BD%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8BAI%E3%82%92%E9%96%8B%E7%99%BA.pdf",
+      "https://www.muratec.jp/company/ti/rd/detail.php?id=7540",
+      "https://optical.kowa-opt.co.jp/camera-rw/",
+      "https://check.hacarus.com/ja/aisoftware/"
+    ],
+    "source_locators": [
+      "EDP-14: 2025/7/9販売／良品学習とアノテーション追加学習／判定UI",
+      "EDP-15: Check ZERO／デュアルチューニング／機器構成",
+      "EDP-12: 刃先撮像・欠け摩耗自動検出／FAQの工具・径制約",
+      "EOV-W08: 2023年6月2日、成果と今後の展望",
+      "EDP-13: 電流・振動を新品データと比較／補正入力回数・軸負荷による劣化判定",
+      "EDP-33: ビジョンプロセッサ併用の不良ヒートマップ・切粉巻付きアラート・工具欠損検出",
+      "ERF-05: 特徴／異常箇所表示・良否アノテーション追加学習"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  },
+  {
+    "issue_id": "I05",
+    "issue": "生成・仮想モデルと実機条件を照合",
+    "observed_facts": "TRINIXは物理属性・関節等を生成。HMND事例はIsaac Sim/Labで学習。Vericutは実行NCと機械モデルで検証。",
+    "shared_issue": "見た目の形状だけでなく質量・摩擦・関節・制御設定等の由来と誤差を管理する論点〈分析〉。",
+    "limits": "静的なアセット検証は既存。NdotLightはDexBench共同開発も告知。独自研究は既存機能との重複を避け、実物との差・適用条件の未確認部分へ絞る。",
+    "statement_type": "事実に基づく共通論点〈調査者分析〉。業界全体の未解決を証明しない。",
+    "card_ids": [
+      "AC273",
+      "AC098",
+      "FC021"
+    ],
+    "evidence_ids": [
+      "EEX-WNDOT",
+      "EDP-17",
+      "EDP-20",
+      "ERF-06",
+      "ERF-07",
+      "ERF-08",
+      "ERF-09"
+    ],
+    "source_urls": [
+      "https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix",
+      "https://press.siemens.com/jp/ja/pressrelease/pr-20260416",
+      "https://vericut.com/ja-jp/products/cnc-machine-simulation",
+      "https://ndotlight.com/",
+      "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+      "https://docs.omniverse.nvidia.com/simready/latest/simready-asset-creation/physics-best-practices.html",
+      "https://ndotlight.com/newsroom/ndotlight-to-co-develop-dexbench-a-global-standard-for-humanoid-evaluation-with-nvidia-and-rlwrld"
+    ],
+    "source_locators": [
+      "EEX-WNDOT: 展示会概要・出展製品／2026年5月13日の製品説明",
+      "EDP-17: HMND 01 Alphaのトート把持・搬送・配置／Jetson Thor・Isaac Sim/Lab",
+      "EDP-20: Gコード・機械制御ロジックの検証／モジュールの役割",
+      "ERF-06: Physics Injection／Self-corrective Closed Loop／FAQ",
+      "ERF-07: What Is the Difference…Foundation；How Do I Validate My Composed Scene…（L526–538）",
+      "ERF-08: Typical USDPhysics Components／Collider、Mass、materialの摩擦・密度・反発",
+      "ERF-09: 2026/8/7／SimReady環境・操作評価・sim-to-real gap低減の共同開発"
+    ],
+    "analysis_date": "2026-10-18",
+    "source_checked_date": "2026-10-16",
+    "supplement_checked_date": "2026-10-18"
+  }
+]

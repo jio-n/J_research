@@ -1,0 +1,458 @@
+[
+  {
+    "item_id": "TOV001",
+    "company": "DMG森精機",
+    "item": "AIエージェントの工作機械実装",
+    "customer_need": "工程間の搬送・段取り・保全負荷",
+    "mechanism": "準備・運用支援",
+    "certainty": "2026展示予定。具体権限・方式は未確認",
+    "difference_2024": "2024もMX・AMR・工程集約。2026はAIエージェント実装と搬送対象・構成の追加を明記",
+    "limitations": "AIの権限、介入条件、機種互換性と効果は未確認",
+    "evidence_ids": [
+      "EOV-V001-2026-1",
+      "EOV-V001-2024-1",
+      "EOV-V001-2024-2"
+    ]
+  },
+  {
+    "item_id": "TOV002",
+    "company": "DMG森精機",
+    "item": "AMR 1000／MATRIS WPH 210",
+    "customer_need": "工程間の搬送・段取り・保全負荷",
+    "mechanism": "搬送対象と多品種ハンドリング",
+    "certainty": "2026展示予定。AMR方式自体は2024にも存在",
+    "difference_2024": "2024もMX・AMR・工程集約。2026はAIエージェント実装と搬送対象・構成の追加を明記",
+    "limitations": "AIの権限、介入条件、機種互換性と効果は未確認",
+    "evidence_ids": [
+      "EOV-V001-2026-1",
+      "EOV-V001-2024-1",
+      "EOV-V001-2024-2"
+    ]
+  },
+  {
+    "item_id": "TOV003",
+    "company": "ファナック",
+    "item": "フィジカルAI CNC",
+    "customer_need": "知的作業とロボット教示の負担",
+    "mechanism": "知的作業の自動化",
+    "certainty": "2026展示予定。モデル・許可動作は未確認",
+    "difference_2024": "2024のAIバラ積み・監視に、2026はフィジカルAI CNCと生成AI駆動を明記",
+    "limitations": "モデル構成・安全制約・性能差は未確認",
+    "evidence_ids": [
+      "EOV-V002-2026-1",
+      "EOV-V002-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV004",
+    "company": "ファナック",
+    "item": "生成AIロボット駆動・オープンプラットフォーム",
+    "customer_need": "知的作業とロボット教示の負担",
+    "mechanism": "教示負荷と柔軟な開発",
+    "certainty": "2026展示予定。商用範囲と実績未確認",
+    "difference_2024": "2024のAIバラ積み・監視に、2026はフィジカルAI CNCと生成AI駆動を明記",
+    "limitations": "モデル構成・安全制約・性能差は未確認",
+    "evidence_ids": [
+      "EOV-V002-2026-1",
+      "EOV-V002-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV005",
+    "company": "ベッコフオートメーション",
+    "item": "TwinCAT MLC",
+    "customer_need": "CNC内部の観測・独自制御追加の難しさ",
+    "mechanism": "データからモデル構築、ONNX／PLCパイプライン",
+    "certainty": "既存製品方式はW01。2026カタログにも掲載",
+    "difference_2024": "2026は開発基盤と工程内解析を明記。2024詳細不足で年度差分は比較不能",
+    "limitations": "開放性は機種依存。AIモデル作成と生成AI支援を区別",
+    "evidence_ids": [
+      "EOV-V005-2026-1"
+    ]
+  },
+  {
+    "item_id": "TOV006",
+    "company": "ベッコフオートメーション",
+    "item": "TwinCAT CoAgent",
+    "customer_need": "CNC内部の観測・独自制御追加の難しさ",
+    "mechanism": "PLC・HMI開発、アラーム対応の対話支援",
+    "certainty": "2026展示予定。自動実行権限は未確認",
+    "difference_2024": "2026は開発基盤と工程内解析を明記。2024詳細不足で年度差分は比較不能",
+    "limitations": "開放性は機種依存。AIモデル作成と生成AI支援を区別",
+    "evidence_ids": [
+      "EOV-V005-2026-1"
+    ]
+  },
+  {
+    "item_id": "TOV007",
+    "company": "Hexagon Manufacturing Intelligence",
+    "item": "ProPlanAI／Esprit Edge",
+    "customer_need": "加工ノウハウ継承と品質データ分断",
+    "mechanism": "過去ジョブから工程提案とツイン検証",
+    "certainty": "2026展示予定、W02は製品提供範囲を補足",
+    "difference_2024": "2026はCAMと品質の2ブース。2024は同名詳細不足で直接比較不能",
+    "limitations": "過去ジョブに基づく予測であり無条件に正しいNCを生成する保証ではない",
+    "evidence_ids": [
+      "EOV-V007-2026-1",
+      "EOV-V007-2026-2"
+    ]
+  },
+  {
+    "item_id": "TOV008",
+    "company": "Hexagon Manufacturing Intelligence",
+    "item": "MAESTRO／PRESTO／品質プラットフォーム",
+    "customer_need": "加工ノウハウ継承と品質データ分断",
+    "mechanism": "測定・検査・解析・品質データ連携",
+    "certainty": "2026展示予定。閉ループ適用範囲は未確認",
+    "difference_2024": "2026はCAMと品質の2ブース。2024は同名詳細不足で直接比較不能",
+    "limitations": "過去ジョブに基づく予測であり無条件に正しいNCを生成する保証ではない",
+    "evidence_ids": [
+      "EOV-V007-2026-1",
+      "EOV-V007-2026-2"
+    ]
+  },
+  {
+    "item_id": "TOV009",
+    "company": "ジェービーエムエンジニアリング",
+    "item": "CAMAssist",
+    "customer_need": "CAMプログラミング工数と加工条件の属人化",
+    "mechanism": "CAMプログラミング支援",
+    "certainty": "2026本文に追加記載。2024の不在証明ではない",
+    "difference_2024": "2024のCAM・工具連携に対し、2026本文はCAMAssistによる手作業自動化を追加記載",
+    "limitations": "2024に製品が存在しなかった証明ではない",
+    "evidence_ids": [
+      "EOV-V008-2026-1",
+      "EOV-V008-2024-1",
+      "EOV-V008-2024-2"
+    ]
+  },
+  {
+    "item_id": "TOV010",
+    "company": "EPLAN",
+    "item": "Eplan Copilot",
+    "customer_need": "電気設計・制御盤設計の手作業",
+    "mechanism": "設計知識・操作支援",
+    "certainty": "2026展示予定。自律回路確定とは記載されていない",
+    "difference_2024": "2024のデータ一貫設計に、2026はCopilotを明示",
+    "limitations": "Copilotが自律的に回路を確定するとは記載されていない",
+    "evidence_ids": [
+      "EOV-V006-2026-1",
+      "EOV-V006-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV011",
+    "company": "レニショー",
+    "item": "Renishaw Central＋IPC",
+    "customer_need": "寸法ばらつきとオフセット更新の手作業",
+    "mechanism": "計測結果から変数・工具オフセット更新",
+    "certainty": "既存製品方式をW03で確認。Centralは両年掲載",
+    "difference_2024": "Centralは2024にも掲載。2026は超音波厚さ計測等の新プローブを明示",
+    "limitations": "閉ループ方式自体を2026新規としない。計測誤差と補正上限が重要",
+    "evidence_ids": [
+      "EOV-V018-2026-1",
+      "EOV-V018-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV012",
+    "company": "ブルーム-ノボテスト",
+    "item": "FormControl X／DIGILOG",
+    "customer_need": "機外計測への運搬・再芯出しと工具損傷",
+    "mechanism": "機上形状・工具計測と補正",
+    "certainty": "既存方式継続。LC54・GrindingControlは2026追加記載",
+    "difference_2024": "FormControl Xと工具補正は2024にも存在。2026はLC54とGrindingControlを追加記載",
+    "limitations": "同名ソフトの継続掲載を大幅進化と解釈しない",
+    "evidence_ids": [
+      "EOV-V019-2026-1",
+      "EOV-V019-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV013",
+    "company": "HACARUS",
+    "item": "HACARUS Check ZERO",
+    "customer_need": "不良画像不足と検査立上げ負担",
+    "mechanism": "良品学習と運用中の追加調整",
+    "certainty": "2026展示予定。照明・品種変化への頑健性は未確認",
+    "difference_2024": "2026のCheck ZERO展示確認。2024詳細不足で比較不能",
+    "limitations": "品種・照明変化、見逃しと過検出の両立は要検証",
+    "evidence_ids": [
+      "EOV-V021-2026-1"
+    ]
+  },
+  {
+    "item_id": "TOV014",
+    "company": "ハイデンハイン",
+    "item": "VT122＋VTC6.0",
+    "customer_need": "工具摩耗判断と過酷環境下の信頼性",
+    "mechanism": "画像によるAI摩耗診断",
+    "certainty": "2026本文でAI機能明記。VT122本体は2024にも掲載",
+    "difference_2024": "2024のVT122工具検査に対し2026はAI摩耗診断と工具長機能を明記",
+    "limitations": "判定精度・対応工具・交換判断への接続は未確認",
+    "evidence_ids": [
+      "EOV-V023-2026-1",
+      "EOV-V023-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV015",
+    "company": "モリマシナリー",
+    "item": "ツールコラージュ／アナライザー",
+    "customer_need": "摩耗判定の属人化、過早交換、所在不明",
+    "mechanism": "撮像・摩耗量学習・寿命と交換提案",
+    "certainty": "2026展示予定。AI判定は2024にも存在",
+    "difference_2024": "AI摩耗判定は2024にも存在。2026はアナライザーによる寿命・交換時期の提案を明記",
+    "limitations": "寿命予測は2023研究発表にもあり、2026の世界初方式とはしない。ソムリエは資料・動画展示",
+    "evidence_ids": [
+      "EOV-V024-2026-1",
+      "EOV-V024-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV016",
+    "company": "モリマシナリー",
+    "item": "ツールソムリエ",
+    "customer_need": "摩耗判定の属人化、過早交換、所在不明",
+    "mechanism": "工具情報・収納・入出庫連携",
+    "certainty": "2026は説明動画・資料。実機を展示すると書かない",
+    "difference_2024": "AI摩耗判定は2024にも存在。2026はアナライザーによる寿命・交換時期の提案を明記",
+    "limitations": "寿命予測は2023研究発表にもあり、2026の世界初方式とはしない。ソムリエは資料・動画展示",
+    "evidence_ids": [
+      "EOV-V024-2026-1",
+      "EOV-V024-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV017",
+    "company": "Wintech Automation",
+    "item": "HGM-DX",
+    "customer_need": "厚み公差の手調整と無人研削の品質",
+    "mechanism": "自動測定値を研削へフィードバック",
+    "certainty": "2026展示予定。数値改善の独立検証なし",
+    "difference_2024": "2024は製造・検査自動化、2026はHGM-DXの測定フィードバックを明記",
+    "limitations": "方式説明は確認。既存版との制御差、安定性・測定不確かさは未確認",
+    "evidence_ids": [
+      "EOV-V034-2026-1",
+      "EOV-V034-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV018",
+    "company": "中村留精密工業",
+    "item": "RoboSync",
+    "customer_need": "狭い工場と既設台車の活用、再設置工数",
+    "mechanism": "ビジョン・マーカによる移動後位置復旧",
+    "certainty": "2026展示予定。W04で方式確認",
+    "difference_2024": "2024の自動化システムから2026はRoboSyncを具体紹介",
+    "limitations": "マーカ式位置復旧は未知例外からの自律復帰とは異なる",
+    "evidence_ids": [
+      "EOV-V029-2026-1",
+      "EOV-V029-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV019",
+    "company": "TAKISAWA",
+    "item": "TR-20W切粉除去",
+    "customer_need": "切粉絡まりで自動化が止まる",
+    "mechanism": "フィジカルAIによる切粉の判断・除去",
+    "certainty": "参考出品。量産標準機能とはしない",
+    "difference_2024": "2024の同名ロボットシステムに対し2026は切粉除去タスクを明記",
+    "limitations": "参考出品。市販機能・成功率・停止条件は未確認",
+    "evidence_ids": [
+      "EOV-V030-2026-1",
+      "EOV-V030-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV020",
+    "company": "パナソニックプロダクションエンジニアリング",
+    "item": "X-Area Remote",
+    "customer_need": "搬送ロボットのエラーと現場駆け付け負担",
+    "mechanism": "複数設備の遠隔監視・例外操作",
+    "certainty": "2026展示予定。W05で人の介入を含む構成確認",
+    "difference_2024": "2026展示確認。2024詳細不足で比較不能。別の公式資料では以前の実証あり",
+    "limitations": "人の介入を含む方式。完全自律や同時監視台数を断定しない",
+    "evidence_ids": [
+      "EOV-V016-2026-1"
+    ]
+  },
+  {
+    "item_id": "TOV021",
+    "company": "たけびし",
+    "item": "OPC UA情報モデル＋エージェント連携",
+    "customer_need": "異機種の通信仕様・データ構造の不一致",
+    "mechanism": "機器データの意味統一と上位連携",
+    "certainty": "情報モデルは2024既存。2026は連携シナリオ追加",
+    "difference_2024": "2024の情報モデル連携に、2026はAIエージェント連携シナリオを明記",
+    "limitations": "接続できることと判断・制御を委任できることは別途検証",
+    "evidence_ids": [
+      "EOV-V011-2026-1",
+      "EOV-V011-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV022",
+    "company": "シーイーシー",
+    "item": "Facteye／Resolana",
+    "customer_need": "旧設備、設備品質データの分断、改善の属人化",
+    "mechanism": "旧機・設備・品質データの収集集約",
+    "certainty": "2026展示予定。2024にも収集・AI活用基盤",
+    "difference_2024": "2024も対話型AIとデータ基盤を記載。2026は課題・品質連携を具体化",
+    "limitations": "AI初搭載や全工場最適化の達成とは断定しない",
+    "evidence_ids": [
+      "EOV-V012-2026-1",
+      "EOV-V012-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV023",
+    "company": "Smart Craft",
+    "item": "Smart Craft MES",
+    "customer_need": "工程・品質・在庫情報を人に聞く負担",
+    "mechanism": "生産・品質・在庫・ERP連携",
+    "certainty": "2026展示予定。2024詳細不足",
+    "difference_2024": "2026の具体機能確認。2024詳細不足で比較不能",
+    "limitations": "入力定着・既存基幹連携・AI分析内容は要確認",
+    "evidence_ids": [
+      "EOV-V013-2026-1"
+    ]
+  },
+  {
+    "item_id": "TOV024",
+    "company": "ものレボ",
+    "item": "MonoRevo",
+    "customer_need": "多品種短納期の計画変更と分散管理",
+    "mechanism": "工程設計・計画変更・進捗とAI補助",
+    "certainty": "2026展示予定。2024詳細不足",
+    "difference_2024": "2026機能確認。2024詳細不足で比較不能",
+    "limitations": "スケジュールの制約・再計画時間・AIの担当範囲は要確認",
+    "evidence_ids": [
+      "EOV-V014-2026-1"
+    ]
+  },
+  {
+    "item_id": "TOV025",
+    "company": "ソフィックス",
+    "item": "Fleeter／AI Forecast／ΩEye",
+    "customer_need": "旧機の観測と機器ごとの個別開発",
+    "mechanism": "搬送・予兆と旧機観測の組合せ",
+    "certainty": "2026ミニ工場デモ。商用自律工場の証明ではない",
+    "difference_2024": "2024のメータ読取・切粉除去・熱補正から、2026はミニ工場連携展示へ対象拡張",
+    "limitations": "ミニ工場デモを商用の無人自律工場実績と同一視しない",
+    "evidence_ids": [
+      "EOV-V015-2026-1",
+      "EOV-V015-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV026",
+    "company": "イマオコーポレーション",
+    "item": "ナットランナー治具／メカ式指交換",
+    "customer_need": "ワーク固定と指交換の手作業",
+    "mechanism": "追加配管配線を減らす段取り自動化",
+    "certainty": "2026展示予定。類似のロボット治具は2024にも掲載",
+    "difference_2024": "2024もロボット治具・メカ交換を掲載。2026は品種・構成の追加を記載",
+    "limitations": "両年の初出品表現は対象が不明。新規性・機能差は現地確認",
+    "evidence_ids": [
+      "EOV-V025-2026-1",
+      "EOV-V025-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV027",
+    "company": "エヌティーツール",
+    "item": "マテハンホルダ／BoostMaster",
+    "customer_need": "既設機での搬送・切粉処理・工具準備",
+    "mechanism": "主軸の既存動力・圧力を使う搬送・切粉処理",
+    "certainty": "2026展示予定。AI以外の低負荷方式として比較",
+    "difference_2024": "2024も高圧洗浄・自動プリセット。2026はマテハンホルダ等を具体化",
+    "limitations": "AI不要な機械的対策を比較基準に含める。機種・ワーク適合性が制約",
+    "evidence_ids": [
+      "EOV-V026-2026-1",
+      "EOV-V026-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV028",
+    "company": "Innovalia Metrology",
+    "item": "M3MH",
+    "customer_need": "機外測定待ちと載せ替え・再芯出し",
+    "mechanism": "既設機の機上計測と測定計画",
+    "certainty": "両年掲載。2026新規方式とはしない",
+    "difference_2024": "機上評価とリアルタイム工程制御は2024にも説明。2026は後付け・工数削減を再訴求",
+    "limitations": "既存方式の継続。精度検証・校正・機種適合性が制約",
+    "evidence_ids": [
+      "EOV-V036-2026-1",
+      "EOV-V036-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV029",
+    "company": "ミロクリエ",
+    "item": "ミロクルカルテAIオプション",
+    "customer_need": "保全記録の分散、転記、技能継承",
+    "mechanism": "保全記録・点検入力・分析支援",
+    "certainty": "2026展示予定。メータ読取はα版",
+    "difference_2024": "2026機能確認。2024詳細不足で比較不能",
+    "limitations": "α版と本体機能・選択オプションを区別。自律保全とはしない",
+    "evidence_ids": [
+      "EOV-V038-2026-1"
+    ]
+  },
+  {
+    "item_id": "TOV030",
+    "company": "UEL",
+    "item": "BreylSimulator／InforLoom",
+    "customer_need": "治具段取りの属人化と設計製造分断",
+    "mechanism": "ルールDBによる治具計画・データ連携",
+    "certainty": "2024にも掲載。AI・XRは2026追加紹介",
+    "difference_2024": "BreylSimulatorと連携基盤は2024にも存在。2026はAI・XRを追加紹介",
+    "limitations": "ルールDB方式の実績を生成AIの成果と解釈しない",
+    "evidence_ids": [
+      "EOV-V039-2026-1",
+      "EOV-V039-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV031",
+    "company": "テクノア",
+    "item": "TECHSと購買API・スマホ実績",
+    "customer_need": "購買・実績入力と中小製造業の業務負荷",
+    "mechanism": "調達と現場入力の業務連携",
+    "certainty": "2026本文に提供日・追加機能を記載。AI採用件数とは別",
+    "difference_2024": "2024もAI・IoTと4500社超を掲載。2026は購買API・スマホ機能を具体化",
+    "limitations": "4500社超は同年の増加実績でもAI機能の採用数でもない",
+    "evidence_ids": [
+      "EOV-V040-2026-1",
+      "EOV-V040-2024-1"
+    ]
+  },
+  {
+    "item_id": "TOV032",
+    "company": "匠技研工業",
+    "item": "匠フォース",
+    "customer_need": "見積・設計・調達の反復作業と知識分散",
+    "mechanism": "見積・設計・調達を人の承認付きで支援",
+    "certainty": "2026出展者説明。方式・実績は未確認",
+    "difference_2024": "2026の展示説明確認。2024詳細不足で比較不能",
+    "limitations": "使用データ・承認範囲・成功率・市場規模は未確認",
+    "evidence_ids": [
+      "EOV-V041-2026-1"
+    ]
+  },
+  {
+    "item_id": "TOV033",
+    "company": "興和オプトロニクス",
+    "item": "RW耐環境ビジョン＋AI解析",
+    "customer_need": "切粉・油・ミストで撮像できない",
+    "mechanism": "撮像の安定化を前提とする異常監視",
+    "certainty": "2026展示予定。定量検出性能は未確認",
+    "difference_2024": "2026の具体構成確認。2024詳細不足で比較不能",
+    "limitations": "AI以前に撮像安定性が成立条件。検出遅延・見逃しを現地確認",
+    "evidence_ids": [
+      "EOV-V042-2026-1"
+    ]
+  }
+]

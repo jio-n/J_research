@@ -1,0 +1,19 @@
+[
+  {
+    "alias_id": "ALIAS01",
+    "company_2024": "ユシロ化学工業株式会社",
+    "company_2026": "株式会社ユシロ",
+    "effective_date": "2025-04-01",
+    "basis": "公式社名変更告知の旧・新社名と変更日で確認",
+    "evidence_ids": [
+      "ERF-10",
+      "ERF-11"
+    ],
+    "source_urls": [
+      "https://www.yushiro.co.jp/news/社名変更のお知らせ",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=He5z-J4NQm8"
+    ],
+    "scope": "この1社の分析上の照合。年度別原マスターを改変しない。",
+    "checked_date": "2026-10-18"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "company": "DMG森精機",
+    "booths": [
+      "E8005"
+    ],
+    "research_themes": "R1/R3",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "工程間の搬送・段取り・保全負荷",
+    "technical_questions": "AIエージェントが読める情報・実行できる操作と承認境界は何か。AMR運用の介入率はどれだけか",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V001-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "ファナック",
+    "booths": [
+      "S2001"
+    ],
+    "research_themes": "R1/R3",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "知的作業とロボット教示の負担",
+    "technical_questions": "フィジカルAI CNCと生成AIロボットの具体タスク、停止条件、2024比の手作業削減を実演で確認したい",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V002-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "ベッコフオートメーション",
+    "booths": [
+      "E2028"
+    ],
+    "research_themes": "R1/R2/R3",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "CNC内部の観測・独自制御追加の難しさ",
+    "technical_questions": "モデルの精度・最大遅延・異常時の扱い、CNCへの書込権限、CoAgent出力の検証方法は何か",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V005-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "Hexagon Manufacturing Intelligence",
+    "booths": [
+      "E7035",
+      "E2013"
+    ],
+    "research_themes": "R1/R2",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "加工ノウハウ継承と品質データ分断",
+    "technical_questions": "ProPlanAIの履歴必要量・対象加工・未知形状での失敗とNC検証範囲は何か。品質データはどこへ返るか",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V007-2026-1",
+      "EOV-V007-2026-2"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=oUyVPjxvy-U",
+      "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "たけびし",
+    "booths": [
+      "S3015"
+    ],
+    "research_themes": "R3",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "異機種の通信仕様・データ構造の不一致",
+    "technical_questions": "OPC UA情報モデルで機種差を吸収できる範囲と、エージェントの読取・書込・認可をどう区別するか",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V011-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "ソフィックス",
+    "booths": [
+      "E1067"
+    ],
+    "research_themes": "R3",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "旧機の観測と機器ごとの個別開発",
+    "technical_questions": "ミニ工場で扱える例外は何か。旧機観測から搬送・再計画へ接続する開発工数と実顧客実績はあるか",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V015-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "パナソニックプロダクションエンジニアリング",
+    "booths": [
+      "W3086"
+    ],
+    "research_themes": "R3",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "搬送ロボットのエラーと現場駆け付け負担",
+    "technical_questions": "一人当たり監視台数と介入頻度、通信断時の停止、現場復旧が必要になる例外は何か",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V016-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=5mrMofo3nN8"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "レニショー",
+    "booths": [
+      "E7089"
+    ],
+    "research_themes": "R2",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "寸法ばらつきとオフセット更新の手作業",
+    "technical_questions": "IPC補正の対象機と補正上限、計測不確かさ、誤補正防止、他社機接続工数を教えてほしい",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V018-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=pYGmVz5GC1c"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "HACARUS",
+    "booths": [
+      "S1031"
+    ],
+    "research_themes": "R2",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "不良画像不足と検査立上げ負担",
+    "technical_questions": "良品必要数、照明・材質・品種変更時の再学習、見逃し／過検出の評価母集団とチューニング方法は何か",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V021-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "モリマシナリー",
+    "booths": [
+      "S3048"
+    ],
+    "research_themes": "R2",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "摩耗判定の属人化、過早交換、所在不明",
+    "technical_questions": "摩耗量から寿命への対応と予測区間、工具・材質差への適応、2024比の増分は何か。実機／動画の範囲も確認したい",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V024-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "中村留精密工業",
+    "booths": [
+      "E2027"
+    ],
+    "research_themes": "R3",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "狭い工場と既設台車の活用、再設置工数",
+    "technical_questions": "マーカ位置復旧の必要精度・再教示時間、機種差・把持失敗への対応、未知状態では誰が再開許可するか",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V029-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=C7A_2ZTDXNw"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "TAKISAWA",
+    "booths": [
+      "E3013"
+    ],
+    "research_themes": "R3",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "切粉絡まりで自動化が止まる",
+    "technical_questions": "参考出品の切粉除去で扱える材質・絡み方、成功率、失敗時停止、商品化と受注の状況は何か",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V030-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM"
+    ],
+    "status": "未訪問・未聴取"
+  },
+  {
+    "company": "Wintech Automation",
+    "booths": [
+      "W3051"
+    ],
+    "research_themes": "R2",
+    "priority": "暫定重点・事前レビューで訪問確定",
+    "why": "厚み公差の手調整と無人研削の品質",
+    "technical_questions": "測定誤差・温度変化・遅延をどう補正量へ反映するか。誤補正と無人運転時間の実測はあるか",
+    "common_questions": "顧客の困りごとと開発理由、方式選択理由、適用範囲・制約、2024との差、今後の方向性。市場規模は対象工程数・顧客数・算定根拠を確認。受注・採用・PoC・引き合いは実績と見通しを分ける",
+    "evidence_ids": [
+      "EOV-V034-2026-1"
+    ],
+    "source_urls": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg"
+    ],
+    "status": "未訪問・未聴取"
+  }
+]

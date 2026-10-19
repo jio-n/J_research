@@ -1,0 +1,1069 @@
+[
+  {
+    "review_id": "V001",
+    "company": "DMG森精機",
+    "domain": "セル・運用",
+    "customer_need": "工程間の搬送・段取り・保全負荷",
+    "technical_mechanism": "工程集約、AMR、パレット連携、工作機械へのAIエージェント",
+    "observed_2024_2026_difference": "2024もMX・AMR・工程集約。2026はAIエージェント実装と搬送対象・構成の追加を明記",
+    "limitations": "AIの権限、介入条件、機種互換性と効果は未確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V001-2024-1",
+      "EOV-V001-2024-2"
+    ],
+    "evidence_2026": [
+      "EOV-V001-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=lOXEEpvlXpM",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=ym-EER7BJeY"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs"
+    ],
+    "booths_2026": [
+      "E8005"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V002",
+    "company": "ファナック",
+    "domain": "準備・制御",
+    "customer_need": "知的作業とロボット教示の負担",
+    "technical_mechanism": "サーボモデルのツイン、生成AIロボット駆動、オープンプラットフォーム",
+    "observed_2024_2026_difference": "2024のAIバラ積み・監視に、2026はフィジカルAI CNCと生成AI駆動を明記",
+    "limitations": "モデル構成・安全制約・性能差は未確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V002-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V002-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=N0RgOmmcwZw"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ"
+    ],
+    "booths_2026": [
+      "S2001"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V003",
+    "company": "オークマ",
+    "domain": "セル・品質",
+    "customer_need": "人手不足、多品種少量、品質安定",
+    "technical_mechanism": "工程集約、機内／協働ロボット、熱変位制御、AI",
+    "observed_2024_2026_difference": "2024も知能化と柔軟な自動化を提案。2026は融合を再訴求。AI個別方式の差は比較不能",
+    "limitations": "展示テーマだけで自律化性能の向上を断定しない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V003-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V003-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=iFfGVH0vPS8"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI"
+    ],
+    "booths_2026": [
+      "E3028"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V004",
+    "company": "ヤマザキマザック",
+    "domain": "セル・準備",
+    "customer_need": "工程間ロスと技能依存",
+    "technical_mechanism": "複合加工、CNC、AI・デジタル・自動化の組合せ",
+    "observed_2024_2026_difference": "2024も工程集約・AI課題を記載。2026のAI具体機能はカタログだけでは比較不能",
+    "limitations": "個別AI機能の役割と既存機能との差を現地確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V004-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V004-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=q0OrZBKM3uQ"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes"
+    ],
+    "booths_2026": [
+      "E1001"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V005",
+    "company": "ベッコフオートメーション",
+    "domain": "制御・品質",
+    "customer_need": "CNC内部の観測・独自制御追加の難しさ",
+    "technical_mechanism": "PCベースCNC、高速収集・解析、AIモデルとPLC統合、対話支援",
+    "observed_2024_2026_difference": "2026は開発基盤と工程内解析を明記。2024詳細不足で年度差分は比較不能",
+    "limitations": "開放性は機種依存。AIモデル作成と生成AI支援を区別",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V005-2026-1"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08"
+    ],
+    "booths_2026": [
+      "E2028"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V006",
+    "company": "EPLAN",
+    "domain": "準備・設計",
+    "customer_need": "電気設計・制御盤設計の手作業",
+    "technical_mechanism": "設計データ再利用、3D盤設計、Copilotの知識・操作支援",
+    "observed_2024_2026_difference": "2024のデータ一貫設計に、2026はCopilotを明示",
+    "limitations": "Copilotが自律的に回路を確定するとは記載されていない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V006-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V006-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=50efK4rQsHs"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=FHsQAvmFusY"
+    ],
+    "booths_2026": [
+      "S1067"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V007",
+    "company": "Hexagon Manufacturing Intelligence",
+    "domain": "準備・品質",
+    "customer_need": "加工ノウハウ継承と品質データ分断",
+    "technical_mechanism": "ProPlanAIの工程提案、ツイン検証、測定・品質プラットフォーム",
+    "observed_2024_2026_difference": "2026はCAMと品質の2ブース。2024は同名詳細不足で直接比較不能",
+    "limitations": "過去ジョブに基づく予測であり無条件に正しいNCを生成する保証ではない",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V007-2026-1",
+      "EOV-V007-2026-2"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=oUyVPjxvy-U",
+      "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4"
+    ],
+    "booths_2026": [
+      "E7035",
+      "E2013"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V008",
+    "company": "ジェービーエムエンジニアリング",
+    "domain": "準備",
+    "customer_need": "CAMプログラミング工数と加工条件の属人化",
+    "technical_mechanism": "Mastercamと工具・ホルダ情報、CAMAssistによる支援",
+    "observed_2024_2026_difference": "2024のCAM・工具連携に対し、2026本文はCAMAssistによる手作業自動化を追加記載",
+    "limitations": "2024に製品が存在しなかった証明ではない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V008-2024-1",
+      "EOV-V008-2024-2"
+    ],
+    "evidence_2026": [
+      "EOV-V008-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=G-8gydwhMvE",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=ZBxZW2vyjUw"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=VrAjMTKmxdw"
+    ],
+    "booths_2026": [
+      "E2002"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V009",
+    "company": "CGTech",
+    "domain": "準備・検証",
+    "customer_need": "干渉・削り過ぎ・負荷と現場試行",
+    "technical_mechanism": "実行Gコードを機械・工具・治具モデルで検証、NC最適化",
+    "observed_2024_2026_difference": "Gコード検証・Force・機械接続は2024にも存在。2026はAIと連携を訴求",
+    "limitations": "性能・対応範囲の増分は定量比較不能",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V009-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V009-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=AxDUk3YbQDI"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=41U8xW4UkcM"
+    ],
+    "booths_2026": [
+      "S3014"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V010",
+    "company": "オートデスク",
+    "domain": "準備・データ",
+    "customer_need": "設計製造間のデータ分断",
+    "technical_mechanism": "CAD/CAMクラウド、AI支援、PLM連携",
+    "observed_2024_2026_difference": "2024もクラウド・自動プログラミング。2026はAI・PLMを前面化",
+    "limitations": "AI個別方式と効果は展示説明から未確定",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V010-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V010-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=5CWUqNS_dBw"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=Y_kC6hMTghk"
+    ],
+    "booths_2026": [
+      "S3019"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V011",
+    "company": "たけびし",
+    "domain": "工場データ",
+    "customer_need": "異機種の通信仕様・データ構造の不一致",
+    "technical_mechanism": "OPC UA情報モデルで意味を揃え、上位活用・エージェントへ接続",
+    "observed_2024_2026_difference": "2024の情報モデル連携に、2026はAIエージェント連携シナリオを明記",
+    "limitations": "接続できることと判断・制御を委任できることは別途検証",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V011-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V011-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=SiZMI-OH8_k"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw"
+    ],
+    "booths_2026": [
+      "S3015"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V012",
+    "company": "シーイーシー",
+    "domain": "工場運用",
+    "customer_need": "旧設備、設備品質データの分断、改善の属人化",
+    "technical_mechanism": "Facteye収集、Resolana集約と分析・AI活用",
+    "observed_2024_2026_difference": "2024も対話型AIとデータ基盤を記載。2026は課題・品質連携を具体化",
+    "limitations": "AI初搭載や全工場最適化の達成とは断定しない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V012-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V012-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=WS9ql5D41fQ"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=tW-C9oF94EQ"
+    ],
+    "booths_2026": [
+      "E2006"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V013",
+    "company": "Smart Craft",
+    "domain": "工場運用",
+    "customer_need": "工程・品質・在庫情報を人に聞く負担",
+    "technical_mechanism": "MESで記録・指示・トレースを結合、API・ノーコード・AI分析",
+    "observed_2024_2026_difference": "2026の具体機能確認。2024詳細不足で比較不能",
+    "limitations": "入力定着・既存基幹連携・AI分析内容は要確認",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V013-2026-1"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=WqjRB6DEqN0"
+    ],
+    "booths_2026": [
+      "S3002"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V014",
+    "company": "ものレボ",
+    "domain": "工場運用",
+    "customer_need": "多品種短納期の計画変更と分散管理",
+    "technical_mechanism": "工程設計・計画・進捗・負荷管理、図面検索・見積支援",
+    "observed_2024_2026_difference": "2026機能確認。2024詳細不足で比較不能",
+    "limitations": "スケジュールの制約・再計画時間・AIの担当範囲は要確認",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V014-2026-1"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=sccKfxE4bYo"
+    ],
+    "booths_2026": [
+      "W3042"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V015",
+    "company": "ソフィックス",
+    "domain": "工場運用",
+    "customer_need": "旧機の観測と機器ごとの個別開発",
+    "technical_mechanism": "画像読取、時系列予兆、3D、搬送フレームワークの接続",
+    "observed_2024_2026_difference": "2024のメータ読取・切粉除去・熱補正から、2026はミニ工場連携展示へ対象拡張",
+    "limitations": "ミニ工場デモを商用の無人自律工場実績と同一視しない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V015-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V015-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=WNiUW-E-atY"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ"
+    ],
+    "booths_2026": [
+      "E1067"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V016",
+    "company": "パナソニックプロダクションエンジニアリング",
+    "domain": "運用・復帰",
+    "customer_need": "搬送ロボットのエラーと現場駆け付け負担",
+    "technical_mechanism": "複数台の遠隔監視・操作とAI支援、人による例外対応",
+    "observed_2024_2026_difference": "2026展示確認。2024詳細不足で比較不能。別の公式資料では以前の実証あり",
+    "limitations": "人の介入を含む方式。完全自律や同時監視台数を断定しない",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V016-2026-1"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=5mrMofo3nN8"
+    ],
+    "booths_2026": [
+      "W3086"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V017",
+    "company": "ミツトヨ",
+    "domain": "品質",
+    "customer_need": "測定待ち・工程と品質の分断",
+    "technical_mechanism": "自動測定、3Dデータ加工支援、計測プラットフォーム",
+    "observed_2024_2026_difference": "2024もロボット測定と自動プログラム生成。2026は計測データ活用を強調",
+    "limitations": "計測から機械への自動補正の全機種対応は未確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V017-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V017-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=1CDoltPa9rk"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=a7y3JtW8DXM"
+    ],
+    "booths_2026": [
+      "E7085"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V018",
+    "company": "レニショー",
+    "domain": "品質・制御",
+    "customer_need": "寸法ばらつきとオフセット更新の手作業",
+    "technical_mechanism": "プローブ・ゲージ計測とCentral／IPCによる変数更新",
+    "observed_2024_2026_difference": "Centralは2024にも掲載。2026は超音波厚さ計測等の新プローブを明示",
+    "limitations": "閉ループ方式自体を2026新規としない。計測誤差と補正上限が重要",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V018-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V018-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=ekM3exgIAtc"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=pYGmVz5GC1c"
+    ],
+    "booths_2026": [
+      "E7089"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V019",
+    "company": "ブルーム-ノボテスト",
+    "domain": "品質",
+    "customer_need": "機外計測への運搬・再芯出しと工具損傷",
+    "technical_mechanism": "機上形状計測、レーザ工具計測、摩耗・欠け検知",
+    "observed_2024_2026_difference": "FormControl Xと工具補正は2024にも存在。2026はLC54とGrindingControlを追加記載",
+    "limitations": "同名ソフトの継続掲載を大幅進化と解釈しない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V019-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V019-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=Zz8BlB0Ylio"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=_njqMb9vBpc"
+    ],
+    "booths_2026": [
+      "E7084"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V020",
+    "company": "マーポス",
+    "domain": "品質・監視",
+    "customer_need": "技能依存と無人加工の異常",
+    "technical_mechanism": "工具・工程監視と機上計測、研削品質制御",
+    "observed_2024_2026_difference": "ARTIS・BLU等は両年継続。2026はスキルレス化を強調",
+    "limitations": "全体の新規方式・性能差は比較不能",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V020-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V020-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=K8FKaawJkn0"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=tThKOA-gm8s"
+    ],
+    "booths_2026": [
+      "E7087"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V021",
+    "company": "HACARUS",
+    "domain": "品質AI",
+    "customer_need": "不良画像不足と検査立上げ負担",
+    "technical_mechanism": "良品学習で開始し、運用中に良否画像で調整",
+    "observed_2024_2026_difference": "2026のCheck ZERO展示確認。2024詳細不足で比較不能",
+    "limitations": "品種・照明変化、見逃しと過検出の両立は要検証",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V021-2026-1"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc"
+    ],
+    "booths_2026": [
+      "S1031"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V022",
+    "company": "日東商事",
+    "domain": "品質AI",
+    "customer_need": "目視検査の工数と判定ばらつき",
+    "technical_mechanism": "少量良品学習、ロボットとカメラ・照明の多面撮像",
+    "observed_2024_2026_difference": "2024は放電機2機種、2026はHACARUS Checkを追加紹介",
+    "limitations": "商社の取扱展示追加でありAI方式の誕生年とは異なる",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V022-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V022-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=S23RMUbJOQs"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=GozGZRxlviw"
+    ],
+    "booths_2026": [
+      "S1031"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V023",
+    "company": "ハイデンハイン",
+    "domain": "品質・工具",
+    "customer_need": "工具摩耗判断と過酷環境下の信頼性",
+    "technical_mechanism": "工具ビジョン検査、VTC 6.0によるAI摩耗診断",
+    "observed_2024_2026_difference": "2024のVT122工具検査に対し2026はAI摩耗診断と工具長機能を明記",
+    "limitations": "判定精度・対応工具・交換判断への接続は未確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V023-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V023-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=GFSwCXSxe9o"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA"
+    ],
+    "booths_2026": [
+      "E7043"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V024",
+    "company": "モリマシナリー",
+    "domain": "品質・工具運用",
+    "customer_need": "摩耗判定の属人化、過早交換、所在不明",
+    "technical_mechanism": "刃先撮像・AI判定、摩耗幅学習と寿命予測、工具情報連携",
+    "observed_2024_2026_difference": "AI摩耗判定は2024にも存在。2026はアナライザーによる寿命・交換時期の提案を明記",
+    "limitations": "寿命予測は2023研究発表にもあり、2026の世界初方式とはしない。ソムリエは資料・動画展示",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V024-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V024-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=yEoPl5sH6Sg"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM"
+    ],
+    "booths_2026": [
+      "S3048"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V025",
+    "company": "イマオコーポレーション",
+    "domain": "セル・段取り",
+    "customer_need": "ワーク固定と指交換の手作業",
+    "technical_mechanism": "ナットランナー治具、ばね式指交換、追加配管配線の削減",
+    "observed_2024_2026_difference": "2024もロボット治具・メカ交換を掲載。2026は品種・構成の追加を記載",
+    "limitations": "両年の初出品表現は対象が不明。新規性・機能差は現地確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V025-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V025-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=MTYTZ2Km3zM"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=shuDpJLDn-A"
+    ],
+    "booths_2026": [
+      "W2001"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V026",
+    "company": "エヌティーツール",
+    "domain": "セル・付帯作業",
+    "customer_need": "既設機での搬送・切粉処理・工具準備",
+    "technical_mechanism": "主軸クーラント圧・回転の活用、工具プリセットのモジュール化",
+    "observed_2024_2026_difference": "2024も高圧洗浄・自動プリセット。2026はマテハンホルダ等を具体化",
+    "limitations": "AI不要な機械的対策を比較基準に含める。機種・ワーク適合性が制約",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V026-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V026-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=pYGmVz5GC1c"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=iW3vesxy4DU"
+    ],
+    "booths_2026": [
+      "W2019"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V027",
+    "company": "牧野フライス製作所",
+    "domain": "セル・運用",
+    "customer_need": "高精度加工とライン全体の安定稼働",
+    "technical_mechanism": "5軸加工・パレット自動化、MAS、生産ライン工学と保守",
+    "observed_2024_2026_difference": "2024の一体自動化パッケージに対し2026はソフト・ライン・保守を訴求",
+    "limitations": "定量的な自律化性能・新規機能の差は比較不能",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V027-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V027-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=95Yl5dQv2vI"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=M5OL10ECBTE"
+    ],
+    "booths_2026": [
+      "E1024"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V028",
+    "company": "松浦機械製作所",
+    "domain": "セル・工程集約",
+    "customer_need": "少人数長時間運転と導入不安",
+    "technical_mechanism": "5軸・旋削集約、パレット、OSとCAMの一貫支援",
+    "observed_2024_2026_difference": "2024も変種変量・長時間無人化。2026は旋削機能と対応ワーク範囲を拡張",
+    "limitations": "工程集約の仕様差とAI／自律性の進化を混同しない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V028-2024-1",
+      "EOV-V028-2024-2"
+    ],
+    "evidence_2026": [
+      "EOV-V028-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=_4GLIXLZuKE",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=coHqGCjVn0c"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=K_X61J2xV_w"
+    ],
+    "booths_2026": [
+      "E3030"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V029",
+    "company": "中村留精密工業",
+    "domain": "セル・段取り",
+    "customer_need": "狭い工場と既設台車の活用、再設置工数",
+    "technical_mechanism": "ビジョン・マーカによる位置復旧、既設パレット台車を利用",
+    "observed_2024_2026_difference": "2024の自動化システムから2026はRoboSyncを具体紹介",
+    "limitations": "マーカ式位置復旧は未知例外からの自律復帰とは異なる",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V029-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V029-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=RYK326OoMn4"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=C7A_2ZTDXNw"
+    ],
+    "booths_2026": [
+      "E2027"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V030",
+    "company": "TAKISAWA",
+    "domain": "セル・例外対応",
+    "customer_need": "切粉絡まりで自動化が止まる",
+    "technical_mechanism": "TR-20WにフィジカルAIを搭載し切粉を判断・除去する参考展示",
+    "observed_2024_2026_difference": "2024の同名ロボットシステムに対し2026は切粉除去タスクを明記",
+    "limitations": "参考出品。市販機能・成功率・停止条件は未確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V030-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V030-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=K00DRD-BngA"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM"
+    ],
+    "booths_2026": [
+      "E3013"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V031",
+    "company": "シマダマシンツール",
+    "domain": "セル・段取り",
+    "customer_need": "ローディング待ちと品種切替え負荷",
+    "technical_mechanism": "多主軸とレールロボット、AI段取り支援",
+    "observed_2024_2026_difference": "多主軸・レール搬送は2024にも存在。2026はフィジカルAI段取りを明記",
+    "limitations": "AIの判断対象と段取り時間の実測差は要確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V031-2024-1",
+      "EOV-V031-2024-2"
+    ],
+    "evidence_2026": [
+      "EOV-V031-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=WZjeoEoTWXw",
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=bLvQhW7XtZw"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4"
+    ],
+    "booths_2026": [
+      "E2018"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V032",
+    "company": "日本精工",
+    "domain": "設備保全",
+    "customer_need": "予期せぬ設備停止と診断技能不足",
+    "technical_mechanism": "振動診断AIと遠隔監視、主軸周辺ソリューション",
+    "observed_2024_2026_difference": "2024にも高度診断AI。2026説明は総論でAI機能差を比較不能",
+    "limitations": "記載減少を進化なし・撤退と判断しない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V032-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V032-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=5maDHvHPff8"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=hzAGGAi5wL4"
+    ],
+    "booths_2026": [
+      "W2048"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V033",
+    "company": "日本エスケイエフ",
+    "domain": "設備保全・省エネ",
+    "customer_need": "主軸信頼性と圧縮空気・潤滑負荷",
+    "technical_mechanism": "常時監視、適応潤滑、シール・主軸構成の統合",
+    "observed_2024_2026_difference": "2024も監視・潤滑あり。2026はAdaptive Lubrication等を具体掲載",
+    "limitations": "状態基準保全・省エネ効果の適用条件と実績は未確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V033-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V033-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=_wNjhm1EAFE"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=h22pEjdpmdU"
+    ],
+    "booths_2026": [
+      "S3031"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V034",
+    "company": "Wintech Automation",
+    "domain": "品質・制御",
+    "customer_need": "厚み公差の手調整と無人研削の品質",
+    "technical_mechanism": "製品自動測定を研削機へ返し公差を補正",
+    "observed_2024_2026_difference": "2024は製造・検査自動化、2026はHGM-DXの測定フィードバックを明記",
+    "limitations": "方式説明は確認。既存版との制御差、安定性・測定不確かさは未確認",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V034-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V034-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=-09Q4AWJx1E"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg"
+    ],
+    "booths_2026": [
+      "W3051"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V035",
+    "company": "Walter Maschinenbau",
+    "domain": "セル・工具製造",
+    "customer_need": "研削・放電・計測間の搬送と生産連携",
+    "technical_mechanism": "ATPで複数工程・他社設備を統合",
+    "observed_2024_2026_difference": "ATPは2024にも掲載。2026日本初公開の対象・版の差は不明",
+    "limitations": "同名システムの初公開表現だけで新規性を認定しない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V035-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V035-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=lCRhaAH1JOM"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=roSu2EMRXwk"
+    ],
+    "booths_2026": [
+      "E8001"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V036",
+    "company": "Innovalia Metrology",
+    "domain": "品質・準備",
+    "customer_need": "機外測定待ちと載せ替え・再芯出し",
+    "technical_mechanism": "M3MHの機上計測、CAD・オフライン測定計画、既設機接続",
+    "observed_2024_2026_difference": "機上評価とリアルタイム工程制御は2024にも説明。2026は後付け・工数削減を再訴求",
+    "limitations": "既存方式の継続。精度検証・校正・機種適合性が制約",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V036-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V036-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=WPabQbHCkho"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=gvfw4D5z-qc"
+    ],
+    "booths_2026": [
+      "S4001"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V037",
+    "company": "ニコン",
+    "domain": "品質・検査",
+    "customer_need": "工程ごとに分断した外観・内部品質評価",
+    "technical_mechanism": "画像、CT、ロボットビジョン、計測の組合せ",
+    "observed_2024_2026_difference": "2024も自動搬送・インライン検査。2026は見る・測る・解るを統合訴求",
+    "limitations": "品質制御の閉ループやAI精度向上はカタログから断定不可",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V037-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V037-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=anszOsTbjDI"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=lmqsWTyiVAY"
+    ],
+    "booths_2026": [
+      "E7001"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V038",
+    "company": "ミロクリエ",
+    "domain": "運用・保全知識",
+    "customer_need": "保全記録の分散、転記、技能継承",
+    "technical_mechanism": "保全クラウド、画像読取、AI分析、ヘルプ・点検支援",
+    "observed_2024_2026_difference": "2026機能確認。2024詳細不足で比較不能",
+    "limitations": "α版と本体機能・選択オプションを区別。自律保全とはしない",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V038-2026-1"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=IQhLnLagU5I"
+    ],
+    "booths_2026": [
+      "E2016"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V039",
+    "company": "UEL",
+    "domain": "準備・データ",
+    "customer_need": "治具段取りの属人化と設計製造分断",
+    "technical_mechanism": "クランプ構成ルールDBによる設計提案、CAD/CAM・データ基盤",
+    "observed_2024_2026_difference": "BreylSimulatorと連携基盤は2024にも存在。2026はAI・XRを追加紹介",
+    "limitations": "ルールDB方式の実績を生成AIの成果と解釈しない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V039-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V039-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=uIeoIsq5v7g"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=dBv-8tktfaE"
+    ],
+    "booths_2026": [
+      "S1024"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V040",
+    "company": "テクノア",
+    "domain": "工場運用",
+    "customer_need": "購買・実績入力と中小製造業の業務負荷",
+    "technical_mechanism": "生産管理クラウド、スマホ実績、商品DBとのAPI連携",
+    "observed_2024_2026_difference": "2024もAI・IoTと4500社超を掲載。2026は購買API・スマホ機能を具体化",
+    "limitations": "4500社超は同年の増加実績でもAI機能の採用数でもない",
+    "comparison_status": "両年の出展説明を比較（性能・実装実績は未比較）",
+    "evidence_2024": [
+      "EOV-V040-2024-1"
+    ],
+    "evidence_2026": [
+      "EOV-V040-2026-1"
+    ],
+    "urls_2024": [
+      "https://www.jimtof.org/2024/search/jp/ESdetails?e=lmqsWTyiVAY"
+    ],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=sSRmH-KuV8U"
+    ],
+    "booths_2026": [
+      "S3009"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V041",
+    "company": "匠技研工業",
+    "domain": "準備・事務",
+    "customer_need": "見積・設計・調達の反復作業と知識分散",
+    "technical_mechanism": "AIエージェントが業務を進め人が承認・判断",
+    "observed_2024_2026_difference": "2026の展示説明確認。2024詳細不足で比較不能",
+    "limitations": "使用データ・承認範囲・成功率・市場規模は未確認",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V041-2026-1"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258"
+    ],
+    "booths_2026": [
+      "S3011"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  },
+  {
+    "review_id": "V042",
+    "company": "興和オプトロニクス",
+    "domain": "品質・監視基盤",
+    "customer_need": "切粉・油・ミストで撮像できない",
+    "technical_mechanism": "回転・エア制御と耐油レンズで画像を確保しAI異常解析へ接続",
+    "observed_2024_2026_difference": "2026の具体構成確認。2024詳細不足で比較不能",
+    "limitations": "AI以前に撮像安定性が成立条件。検出遅延・見逃しを現地確認",
+    "comparison_status": "2024詳細不足のため年度差分は比較不能。新規出展・進化なしとは判定しない",
+    "evidence_2024": [],
+    "evidence_2026": [
+      "EOV-V042-2026-1"
+    ],
+    "urls_2024": [],
+    "urls_2026": [
+      "https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ"
+    ],
+    "booths_2026": [
+      "S3104"
+    ],
+    "review_basis": "Codexが両年の説明文を読み、顧客課題・方式・差分を意味内容で比較。候補抽出の語数を結論に使っていない"
+  }
+]
