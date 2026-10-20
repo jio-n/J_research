@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-21",
+  "main_slides": 3,
+  "appendix_slides": 17,
+  "inputs": [
+    {
+      "path": "data/research/strategy_review_20261021/strategy_review.json",
+      "sha256": "4b2051d00c8f51dd24d8171b333510a5eb17a1a077d1f27eb38268bf8b6331f8"
+    },
+    {
+      "path": "data/research/report_v0/technology_directory.json",
+      "sha256": "e2f5219cdf19ce3088f187969aa174e626b8c55aa7bc7054a239d8889a48c0e6"
+    }
+  ],
+  "output": {
+    "path": "outputs/strategy_briefing_20261021/JIMTOF2026_事前調査報告_主張3枚と補足17枚_r2.pptx",
+    "bytes": 163335,
+    "sha256": "019ce08588e635fb0d6fc264035ecec42558f277b04b87f0ea1edf1c839aaad5"
+  },
+  "scope": "公開情報と分析仮説による視察前資料。現地観察や顧客導入の実証報告ではない。"
+}
