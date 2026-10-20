@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-21",
+  "input_files": [
+    {
+      "path": "data/exhibitors_2024_with_details.csv",
+      "bytes": 1757913,
+      "sha256": "b3ba608c7c7213b55776a9a72253e4df053c73e92c459a7e7a089287b884d9f1"
+    },
+    {
+      "path": "data/exhibitors_2026_with_details.csv",
+      "bytes": 1565181,
+      "sha256": "b617d3d1ea26c3f0252687650e88c7f91f1d91a47f11865368551f6e9f005387"
+    },
+    {
+      "path": "data/research/report_v0/matrix_classification.json",
+      "bytes": 699794,
+      "sha256": "92f0df667de3633d72db3942b9a1be9ca7aa40c6ae7eb0b26eee3221f50c740b"
+    },
+    {
+      "path": "data/research/report_v0/technology_directory.json",
+      "bytes": 1656147,
+      "sha256": "e2f5219cdf19ce3088f187969aa174e626b8c55aa7bc7054a239d8889a48c0e6"
+    },
+    {
+      "path": "data/research/macro_20261019/major_dossiers.json",
+      "bytes": 106765,
+      "sha256": "b0228e5a57046e755a90b6b22e2df947d17398667a8ddc1b0538e8dccc507005"
+    },
+    {
+      "path": "data/research/macro_20261019/census.json",
+      "bytes": 5650,
+      "sha256": "690c141190b2ef169163a3e0c9e208bb22997e030428330883b02492a27f9aa3"
+    },
+    {
+      "path": "data/research/strategy_keywords_20261021/strategy_keywords.json",
+      "bytes": 50219,
+      "sha256": "c88c803f2454ddc4e4e33e3cc5c1cb24d8cc7a76ac35cb9efc6ce7a60a019c41"
+    },
+    {
+      "path": "data/research/strategy_review_20261021/review_content.json",
+      "bytes": 45146,
+      "sha256": "184012402041ab628aabc41131f423b6aed714f42c9741467882931972bb526e"
+    }
+  ],
+  "methodology": [
+    "既存の意味分類344件をそのまま再利用。キーワード一致による新規機能判定は行わない。",
+    "全出展者CSVを年度別に一行も除外せず保持。年度別URL完全一致と企業名の関連を別項目にする。",
+    "企業名キーはNFKC・空白除去・casefoldのみ。法人格除去・曖昧照合・推測による統合はしない。",
+    "記事40資料（既存34＋追加6）。複数ページの同じ記事は一資料。独立した40実証ではない。",
+    "戦略の因果、技術の配置、候補の差別化は調査者の分析。各リンクで根拠と未検証部分を明示。"
+  ],
+  "counts": {
+    "coverage": [
+      {
+        "year": 2024,
+        "listing_rows": 1281,
+        "normalized_names": 1242,
+        "rows_with_description": 959,
+        "rows_url_matched": 252,
+        "description_but_unmapped": 710,
+        "no_description_unmapped": 319
+      },
+      {
+        "year": 2026,
+        "listing_rows": 1146,
+        "normalized_names": 1131,
+        "rows_with_description": 806,
+        "rows_url_matched": 312,
+        "description_but_unmapped": 494,
+        "no_description_unmapped": 340
+      }
+    ],
+    "cards": 344,
+    "depth": {
+      "個別タスク整理": 33,
+      "詳細比較済み": 57,
+      "出展説明の一次分類": 254
+    },
+    "major_companies": 33,
+    "sources": 40,
+    "hypotheses": 5,
+    "candidates": 6,
+    "roles_unconfirmed": 92,
+    "jobs_unconfirmed": 39
+  }
+}

@@ -4,6 +4,22 @@ AI・自動化・AX／DXを中心に、公式出展者情報、企業公式発�
 
 公開スナップショット：2026年10月19日。出展者CSVの収集基準日は2026年10月16日。レポートの追加Web確認は2026年10月19日です。
 
+## 潮流・技術の役割・開発候補のレビュー（2026年10月21日）
+
+[レビューHTML](outputs/JIMTOF2026_潮流と開発候補レビュー_20261021.html) に、5つの潮流仮説、既存344技術の工程×役割マップ、6つの顧客向け開発候補、判断につながる現地質問をまとめました。既存34資料へ6資料を加え、因果の根拠・反例・成立条件を区別しています。全出展者2,427行を照合範囲に残し、技術台帳への配置状況と情報不足を分けました。主要33社の確認表も含みます。
+
+- [潮流の因果と根拠CSV](data/research/strategy_review_20261021/hypothesis_evidence_links.csv)
+- [技術の役割CSV](data/research/strategy_review_20261021/technology_role_map.csv) / [工程間の接点CSV](data/research/strategy_review_20261021/process_interfaces.csv)
+- [開発候補CSV](data/research/strategy_review_20261021/development_candidates.csv) / [現地質問CSV](data/research/strategy_review_20261021/fieldwork_questions.csv)
+- [全出展者の照合CSV](data/research/strategy_review_20261021/exhibitor_coverage_all_2024_2026.csv) / [同名538件の文言比較](data/research/strategy_review_20261021/macro_wording_signals.csv)
+- [レビュー全体JSON](data/research/strategy_review_20261021/strategy_review.json) / [出典索引](data/research/strategy_review_20261021/evidence_index.csv) / [入力ハッシュ・方法](data/research/strategy_review_20261021/provenance.json) / [検証記録](data/research/strategy_review_20261021/validation.json)
+
+技術分類は確認深度が異なり、詳細比較57件・個別タスク整理33件・出展説明の一次分類254件です。分類の空欄は技術や企業の不在を意味しません。自社能力・顧客の支払意思は未確認のため、開発候補は条件付きの分析仮説です。これは最終レポートの再編集前に議論するレビュー版で、既存Word・PowerPointの内容を今回の仮説で上書きしていません。
+
+HTMLはダウンロードして開いてください。単一HTMLで検索・絞り込みを使えます。CSVへの相対リンクも使う場合はリポジトリのフォルダ構成を保持してください。構造・参照関係・検索と28マスの絞り込みを検証済み。ブラウザ描画による外観確認は未実施です。
+
+再生成：`python scripts/compile_strategy_review_20261021.py`（標準ライブラリ）。内容は `review_content.json`、既存の技術分類、キーワード台帳、両年度の出展者CSVを入力にします。検証記録は再生成時に自動更新されません。
+
 ## 戦略・潮流のキーワード追加調査（2026年10月21日）
 
 [キーワード探索HTML](outputs/JIMTOF2026_戦略キーワード探索_20261021.html) に、顧客ニーズ、現象に基づくデータ取得、顧客固有モデル、工程間連携、継続サービス等の28語群と出典を整理しました。[機械可読データ](data/research/strategy_keywords_20261021/strategy_keywords.json) と [出典台帳](data/research/strategy_keywords_20261021/sources.json) も保存しています。34資料のうち29資料は本文の該当節または公表要旨、5資料は検索結果の本文抽出のみの確認です。複数ページの同一インタビューは1資料として数えています。開発提言を確定する前の探索資料であり、全出展者集計に代わる母集団調査ではありません。
