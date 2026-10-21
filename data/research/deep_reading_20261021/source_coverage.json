@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-21",
+  "status": "精読・追加調査の研究ノート。レポート・スライドの改訂版ではない。",
+  "original_sources": [
+    {
+      "id": "S01",
+      "title": "製造AX拠点を始動",
+      "url": "https://www.aist.go.jp/aist_j/news/pr20260702.html",
+      "reading_scope": "[原文](https://www.aist.go.jp/aist_j/news/pr20260702.html)／「産総研を核とした製造AX拠点」「GENIAC事業の活用」を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S02",
+      "title": "GENIAC事業に採択：生産設備データエコシステムと製造フィジカルAI基盤",
+      "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_geniac.html",
+      "reading_scope": "[原文](https://www.dmgmori.co.jp/corporate/news/2026/20260706_geniac.html)／公開本文を取得して再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S03",
+      "title": "DMG森精機が挑む工作機械のフィジカルAI",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/08/news026.html",
+      "reading_scope": "[原文](https://monoist.itmedia.co.jp/mn/articles/2607/08/news026.html)／データ項目、収集周期、開発段階を含む本文を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S04",
+      "title": "マザックと製造現場のフィジカルAI実装に向けた業務連携",
+      "url": "https://www.abejainc.com/news/20261016/2",
+      "reading_scope": "[原文](https://www.abejainc.com/news/20261016/2)／共同開発の対象とAI基盤の説明を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S05",
+      "title": "加工の工程設計をAIエージェントで自動化",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/19/news039_2.html",
+      "reading_scope": "[前編](https://monoist.itmedia.co.jp/mn/articles/2610/19/news039.html)・[後編](https://monoist.itmedia.co.jp/mn/articles/2610/19/news039_2.html)／両ページの本文を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S06",
+      "title": "フィジカルAI実装の共同事業化に向けた戦略的パートナーシップ",
+      "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260930.html",
+      "reading_scope": "[原文](https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260930.html)／提携の本文と開発目標を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S07",
+      "title": "ファナックとフィジカルAI、現場主義の開発思想",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/02/news043.html",
+      "reading_scope": "[1ページ](https://monoist.itmedia.co.jp/mn/articles/2607/02/news043.html)・[2ページ](https://monoist.itmedia.co.jp/mn/articles/2607/02/news043_2.html)・[3ページ](https://monoist.itmedia.co.jp/mn/articles/2607/02/news043_3.html)／3ページの本文を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S08",
+      "title": "Googleの技術を活用したAIエージェントがロボットを操る",
+      "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260513.html",
+      "reading_scope": "[原文](https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260513.html)／オープンインターフェースと協業内容を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S09",
+      "title": "フィジカルAIの社会実装に向けた事業検討",
+      "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260716.html",
+      "reading_scope": "[原文](https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260716.html)／本文を再読。関連する富士通側の発表は追加資料A08を参照。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S10",
+      "title": "AIネイティブに向けて進化する製造業変革コンセプトMX",
+      "url": "https://jpn.nec.com/manufacture/monozukuri/iot_mono/2026-08/02.html",
+      "reading_scope": "[原文](https://jpn.nec.com/manufacture/monozukuri/iot_mono/2026-08/02.html)／MX、エンジニアリング・サプライ・プロダクションチェーンの本文を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S11",
+      "title": "From agile to autonomous: adaptive production",
+      "url": "https://blogs.sw.siemens.com/nx-manufacturing/from-agile-to-autonomous-building-adaptive-production-with-digital-twins-and-industrial-ai/",
+      "reading_scope": "[原文](https://blogs.sw.siemens.com/nx-manufacturing/from-agile-to-autonomous-building-adaptive-production-with-digital-twins-and-industrial-ai/)／適応生産、ライブ状態、EBOM・MBOM・BOPの接続を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S12",
+      "title": "CES 2026：産業用AI革命を加速するテクノロジー",
+      "url": "https://press.siemens.com/jp/ja/pressrelease/pr-20260106-1",
+      "reading_scope": "[原文](https://press.siemens.com/jp/ja/pressrelease/pr-20260106-1)／Digital Twin ComposerとPepsiCoの事例を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S13",
+      "title": "製造現場の知見を生かしてAIエージェントを活用するには（2/2）",
+      "url": "https://www.global.toshiba/jp/company/digitalsolution/articles/digicon/2026/82-2.html",
+      "reading_scope": "[原文](https://www.global.toshiba/jp/company/digitalsolution/articles/digicon/2026/82-2.html)／本文を再読。前編の実装説明は追加資料A09。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S14",
+      "title": "The next step in CAM isn’t new. It’s already here.",
+      "url": "https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/the-next-step-in-cam-isnt-new-its-already-here/",
+      "reading_scope": "[原文](https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/the-next-step-in-cam-isnt-new-its-already-here/)／CAM担当者の課題とProPlanAIの説明を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S15",
+      "title": "Tailored vs Cloud AI: CAM automation path",
+      "url": "https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/tailored-vs-cloud-ai-choosing-the-right-cam-automation-path/",
+      "reading_scope": "[原文](https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/tailored-vs-cloud-ai-choosing-the-right-cam-automation-path/)／カスタム自動化とクラウドAIの比較を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S16",
+      "title": "About: vision, promise, mission",
+      "url": "https://umati.org/about/",
+      "reading_scope": "[原文](https://umati.org/about/)／vision・promiseを再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S17",
+      "title": "EMO2025から考える技術トレンドとJIMTOF2026の注目点",
+      "url": "https://monoken.yamazen.co.jp/blog/articles/jimtof/emo-hannover2025-report",
+      "reading_scope": "[原文](https://monoken.yamazen.co.jp/blog/articles/jimtof/emo-hannover2025-report)／EMOの観察とJIMTOFへの着眼点を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S18",
+      "title": "JIMTOF2026：注目の出展内容を速報＆フカボリ",
+      "url": "https://monoque.jp/feature/contents/f9797930f725f7ac84f44b2030940395c12f5a47/",
+      "reading_scope": "[原文](https://monoque.jp/feature/contents/f9797930f725f7ac84f44b2030940395c12f5a47/)／2026年10月20日更新の総論を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S19",
+      "title": "JMTIA NEWS 223号：2026年年頭所感",
+      "url": "https://www.jmtia.gr.jp/uploads/photos1/286.pdf",
+      "reading_scope": "[原文PDF](https://www.jmtia.gr.jp/uploads/photos1/286.pdf)／会報223号の年頭所感、印刷頁3の日本語本文を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S20",
+      "title": "フィジカルAIを日本の勝ち筋にするために",
+      "url": "https://www.jri.co.jp/page.jsp?id=114749",
+      "reading_scope": "[掲載ページ](https://www.jri.co.jp/page.jsp?id=114749)・[本文PDF](https://www.jri.co.jp/file/report/researchfocus/pdf/16904.pdf)／本文の問題構造と企業対応、印刷頁17～28を中心に再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S21",
+      "title": "フィジカルAIで変わるロボティクスの競争条件",
+      "url": "https://kpmg.com/jp/ja/insights/2026/08/ai-emergingtech-10.html",
+      "reading_scope": "[原文](https://kpmg.com/jp/ja/insights/2026/08/ai-emergingtech-10.html)／実行・学習更新の二つのループと導入後の改善を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S22",
+      "title": "JIMTOF2026特設サイト",
+      "url": "https://www.okuma.co.jp/english/show/jimtof/2026/",
+      "reading_scope": "[原文](https://www.okuma.co.jp/english/show/jimtof/2026/)／三つのソリューション、新機種、AI・サービスの展示区分を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S23",
+      "title": "決算補足説明資料：AIロボティクス領域拡大",
+      "url": "https://www.yaskawa.co.jp/wp-content/uploads/2026/01/20260109_haihu.pdf",
+      "reading_scope": "[原文PDF](https://www.yaskawa.co.jp/wp-content/uploads/2026/01/20260109_haihu.pdf)／印刷頁14～15の開発力・AIロボティクスを再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S24",
+      "title": "工作機械のソフトウェアデファインド化とMX",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2509/27/news004.html",
+      "reading_scope": "[前編](https://monoist.itmedia.co.jp/mn/articles/2509/27/news004.html)・[後編](https://monoist.itmedia.co.jp/mn/articles/2509/27/news004_2.html)／両ページの本文を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S25",
+      "title": "工作機械の各ユーザーにAIエージェントを",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+      "reading_scope": "[前編](https://monoist.itmedia.co.jp/mn/articles/2606/15/news047.html)・[後編](https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html)／両ページの本文を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S26",
+      "title": "CELOS ClubにCondition Agentを搭載",
+      "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_conditionagent.html",
+      "reading_scope": "[原文](https://www.dmgmori.co.jp/corporate/news/2026/20260706_conditionagent.html)／診断方法、対象、標準搭載・後付けを含む本文を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S27",
+      "title": "2026年度上半期決算リリース",
+      "url": "https://www.dmgmori.co.jp/corporate/ir/ir_news/2026/20260804_release.html",
+      "reading_scope": "[原文](https://www.dmgmori.co.jp/corporate/ir/ir_news/2026/20260804_release.html)／決算本文と中期事業計画を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S28",
+      "title": "統合報告書2022：サービス・デジタル垂直統合",
+      "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2022_ar_j.pdf",
+      "reading_scope": "[原文PDF](https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2022_ar_j.pdf)／印刷頁65～66を画像で確認。全編精読ではない。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S29",
+      "title": "統合報告書2025ダイジェスト：MROと開発の連環",
+      "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2025_ir_digest_j.pdf",
+      "reading_scope": "[原文PDF](https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2025_ir_digest_j.pdf)／印刷頁22～26の開発・MROの連環を画像でも重点確認。全編精読ではない。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S30",
+      "title": "データエコシステム採択事業者（第4期）",
+      "url": "https://geniac.meti.go.jp/selection_4/data/index.html",
+      "reading_scope": "[原文](https://geniac.meti.go.jp/selection_4/data/index.html)／製造関連の採択者説明を再読。開発概要PDFは追加資料A10。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S31",
+      "title": "CNC上で加工誤差を補正するエッジデジタルツイン",
+      "url": "https://www.mitsubishielectric.co.jp/ja/pr/2026/0325/",
+      "reading_scope": "[原文](https://www.mitsubishielectric.co.jp/ja/pr/2026/0325/)・[詳細PDF](https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0325.pdf)／構築方法、評価条件、役割分担まで再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S32",
+      "title": "イワタツール：JIMTOFで多企業による多様な提案",
+      "url": "https://monoque.jp/news/7299bcaab1e600d161b3837c77fb9d51cb916563/",
+      "reading_scope": "[原文](https://monoque.jp/news/7299bcaab1e600d161b3837c77fb9d51cb916563/)／共同実演と各加工方法の説明を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S33",
+      "title": "IT-OT融合が切り拓く製造業のDX",
+      "url": "https://www.omron.com/jp/ja/edge-link/news/769.html",
+      "reading_scope": "[原文](https://www.omron.com/jp/ja/edge-link/news/769.html)／MES・PLC・ERP、作業分析、i-BELT Hubの説明を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S34",
+      "title": "フィジカルAIの社会実装に向けた課題",
+      "url": "https://www.dir.co.jp/report/research/economics/japan/20260424_025726.html",
+      "reading_scope": "[掲載ページ](https://www.dir.co.jp/report/research/economics/japan/20260424_025726.html)・[本文PDF](https://www.dir.co.jp/report/research/economics/japan/20260424_025726.pdf)／開発・検証、導入・横展開の制約を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S35",
+      "title": "TwinCAT Machine Learning Creator: Workflows for users",
+      "url": "https://infosys.beckhoff.com/content/1033/te3850_tc3_machine_learning_creator/21561799691.html",
+      "reading_scope": "[原文](https://infosys.beckhoff.com/content/1033/te3850_tc3_machine_learning_creator/21561799691.html)／公開技術文書の本文を取得して再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S36",
+      "title": "TwinCAT Machine Learning Creator: Licensing",
+      "url": "https://infosys.beckhoff.com/content/1033/te3850_tc3_machine_learning_creator/21561794187.html",
+      "reading_scope": "[原文](https://infosys.beckhoff.com/content/1033/te3850_tc3_machine_learning_creator/21561794187.html)／公開ライセンス説明を取得して再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S37",
+      "title": "ものづくり創造コンソーシアム 入会案内",
+      "url": "https://unit.aist.go.jp/cmt-ri/moco/ja/join/index.html",
+      "reading_scope": "[原文](https://unit.aist.go.jp/cmt-ri/moco/ja/join/index.html)／会員区分と申込方法を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S38",
+      "title": "少数データから短時間で現場環境に応じた最適加工条件を決定",
+      "url": "https://www.aist.go.jp/aist_j/press_release/pr2022/pr20220117/pr20220117.html",
+      "reading_scope": "[原文](https://www.aist.go.jp/aist_j/press_release/pr2022/pr20220117/pr20220117.html)／研究目標、実験条件、反復解法、実加工での確認を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S39",
+      "title": "Digital Manufacturing デジタルものづくり",
+      "url": "https://unit.aist.go.jp/cmt-ri/research-topics/digital-manufacturing.htm",
+      "reading_scope": "[原文](https://unit.aist.go.jp/cmt-ri/research-topics/digital-manufacturing.htm)／研究の特色と具体的な研究成果を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    },
+    {
+      "id": "S40",
+      "title": "少量の学習データで機器の劣化を高精度に推定する物理モデル組み込みAIを開発",
+      "url": "https://www.mitsubishielectric.co.jp/ja/pr/2025/pdf/1210.pdf",
+      "reading_scope": "[原文PDF](https://www.mitsubishielectric.co.jp/ja/pr/2025/pdf/1210.pdf)／物理モデル、補正、ロボットでの評価条件を再読。",
+      "note_file": "01_source_readings.md",
+      "analysis_status": "原文の記述と派生する分析・追加の問いを記録。製品化や自社適合性の判断は未確定。"
+    }
+  ],
+  "additional_sources": [
+    {
+      "id": "A01",
+      "title": "A01 Third Wave Systems 材料モデルそのものの開発サービス",
+      "url": "https://thirdwavesys.com/engineering/engineering-services/",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A02",
+      "title": "A02 Third Wave Systems 見えない量をモデルから推定する",
+      "url": "https://thirdwavesys.com/machining-modeling/advantedge/",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A03",
+      "title": "A03 Fraunhofer IPT FEMmeetsDR 詳細解析を工程設計で使える形にする",
+      "url": "https://www.ipt.fraunhofer.de/en/projects/femmeetsdr.html",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A04",
+      "title": "A04 Fraunhofer IPTとRWTH dPart 工程間で同じ部品の履歴をつなぐ",
+      "url": "https://www.ipt.fraunhofer.de/en/projects/dpart.html",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A05",
+      "title": "A05 DMG森精機とテクニウム NC検証と現象モデルを区別する",
+      "url": "https://www.technium.net/cam/ncsimulation/",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A06",
+      "title": "A06 Fraunhofer IPT FL.IN.NRW 生データを集約しない連携もある",
+      "url": "https://www.ipt.fraunhofer.de/en/projects/fl-in-nrw.html",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A07",
+      "title": "A07 日立 現場で動きを改善する技術の中身",
+      "url": "https://www.hitachi.com/en/press/articles/2026/03/0323b/",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A08",
+      "title": "A08 富士通 業務の計画と機械の実行を結ぶ",
+      "url": "https://global.fujitsu/ja-jp/pr/news/2026/07/16-01",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A09",
+      "title": "A09 東芝前編 分析の手順をエージェントへ渡す",
+      "url": "https://www.global.toshiba/jp/company/digitalsolution/articles/digicon/2026/82-1.html",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A10",
+      "title": "A10 GENIAC採択事業の開発概要 工場の判断をデータにする",
+      "url": "https://geniac.meti.go.jp/selection_4/asset/pdf/800057700.pdf",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    },
+    {
+      "id": "A11",
+      "title": "A11 CELOS Club 更新されるサービスに支払う接点",
+      "url": "https://www.technium.net/celosclub/feature/",
+      "reading_scope": "リンク先の公開本文を確認。A10は製造関連の該当頁。",
+      "note_file": "02_followup_investigations.md"
+    }
+  ],
+  "corrections": [
+    {
+      "source": "S06",
+      "point": "共同提携のCustomer Zeroは日立の製造現場。"
+    },
+    {
+      "source": "S09",
+      "point": "工場全体の計画最適化の記述は富士通側の発表A08に帰属させる。ファナック側の単独発表だけに全範囲を帰属させない。"
+    },
+    {
+      "source": "S27",
+      "point": "MRO等の事業成長と、AI機能単独・サブスクリプション単独の収益を区別する。"
+    },
+    {
+      "source": "S28,S29",
+      "point": "大型PDFは該当章・頁の確認範囲を明記。全編精読とは主張しない。"
+    },
+    {
+      "source": "S31",
+      "point": "最大50%の低減は検証機の加振機試験の結果であり、全切削条件の実績へ拡張しない。"
+    }
+  ],
+  "private_cache": ".build/deep_reading_20261021。原文キャッシュとPDF画像は調査用であり公開成果物には含めない。"
+}
