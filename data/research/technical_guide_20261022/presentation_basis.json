@@ -1,0 +1,328 @@
+{
+  "date": "2026-10-22",
+  "main_slides": 3,
+  "appendix_slides": 19,
+  "technical_categories": 11,
+  "comparison_rows": 33,
+  "major_companies": 33,
+  "atlas_entries": 344,
+  "native_table_slides": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "output": {
+    "path": "outputs/technical_guide_20261022/JIMTOF2026_技術動向と視察ガイド_主篇3枚_補足19枚_20261022_r5.pptx",
+    "sha256": "d8e18983a1f02cc912a56f7912faf0789a2c707e426904afa9819efefe3f731c"
+  },
+  "slides": [
+    {
+      "number": 1,
+      "section": "メイン",
+      "title": "JIMTOF2026 技術動向の要点",
+      "card_ids": [
+        "FC018",
+        "FC020",
+        "AC131",
+        "FC022",
+        "RPT001",
+        "RPT002",
+        "RPT006",
+        "FC009",
+        "RPT007",
+        "FC039",
+        "FC038",
+        "FC035",
+        "FC033",
+        "FC036",
+        "AC085",
+        "FC049",
+        "AC146",
+        "FC005",
+        "FC002",
+        "FC048",
+        "FC008",
+        "FC004",
+        "AC225",
+        "FC013",
+        "FC027",
+        "FC026",
+        "AC295",
+        "FC011",
+        "FC012",
+        "FC017",
+        "FC014",
+        "AC098",
+        "AC273"
+      ],
+      "quote_ids": [
+        "Q02",
+        "Q05",
+        "Q06",
+        "Q11",
+        "Q14"
+      ]
+    },
+    {
+      "number": 2,
+      "section": "メイン",
+      "title": "主要メーカーの開発対象と実現技術",
+      "card_ids": [],
+      "quote_ids": [
+        "Q02",
+        "Q05",
+        "Q06",
+        "Q26",
+        "Q11"
+      ]
+    },
+    {
+      "number": 3,
+      "section": "メイン",
+      "title": "視察優先ブースと確認内容",
+      "card_ids": [
+        "FC018",
+        "FC020",
+        "AC131",
+        "FC022",
+        "RPT001",
+        "RPT002",
+        "RPT006",
+        "FC009",
+        "RPT007",
+        "FC039",
+        "FC038",
+        "FC035",
+        "FC033",
+        "FC036",
+        "AC085",
+        "FC049",
+        "AC146",
+        "FC005",
+        "FC002",
+        "FC048",
+        "FC008",
+        "FC004",
+        "AC225",
+        "FC013",
+        "FC027",
+        "FC026",
+        "AC295",
+        "FC011",
+        "FC012",
+        "FC017",
+        "FC014",
+        "AC098",
+        "AC273"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 4,
+      "section": "補足",
+      "title": "T01 工程設計・NCプログラム生成",
+      "card_ids": [
+        "FC018",
+        "FC020",
+        "AC131"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 5,
+      "section": "補足",
+      "title": "T02 NC加工条件最適化・適応制御",
+      "card_ids": [
+        "FC022",
+        "RPT001",
+        "RPT002"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 6,
+      "section": "補足",
+      "title": "T03 熱変位補正・びびり抑制",
+      "card_ids": [
+        "RPT006",
+        "FC009",
+        "RPT007"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 7,
+      "section": "補足",
+      "title": "T04 工具状態監視・寿命予測",
+      "card_ids": [
+        "FC039",
+        "FC038",
+        "FC035"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 8,
+      "section": "補足",
+      "title": "T05 計測・外観検査・加工補正",
+      "card_ids": [
+        "FC033",
+        "FC036",
+        "AC085"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 9,
+      "section": "補足",
+      "title": "T06 ロボット認識・動作生成",
+      "card_ids": [
+        "FC049",
+        "AC146",
+        "FC005"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 10,
+      "section": "補足",
+      "title": "T07 段取り・搬送・加工セル自動化",
+      "card_ids": [
+        "FC002",
+        "FC048",
+        "FC008"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 11,
+      "section": "補足",
+      "title": "T08 設備診断・予知保全",
+      "card_ids": [
+        "FC004",
+        "AC225",
+        "FC013"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 12,
+      "section": "補足",
+      "title": "T09 生産スケジューリング・MES",
+      "card_ids": [
+        "FC027",
+        "FC026",
+        "AC295"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 13,
+      "section": "補足",
+      "title": "T10 制御ソフトウェア開発支援",
+      "card_ids": [
+        "FC011",
+        "FC012",
+        "FC017"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 14,
+      "section": "補足",
+      "title": "T11 製造データ基盤・デジタルツイン",
+      "card_ids": [
+        "FC014",
+        "AC098",
+        "AC273"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 15,
+      "section": "補足",
+      "title": "フィジカルAIの調査・報告基準",
+      "card_ids": [],
+      "quote_ids": [
+        "Q07",
+        "Q41"
+      ]
+    },
+    {
+      "number": 16,
+      "section": "補足",
+      "title": "原文根拠：工程設計・現場適応の開発方向",
+      "card_ids": [],
+      "quote_ids": [
+        "Q05",
+        "Q07",
+        "Q06",
+        "Q14"
+      ]
+    },
+    {
+      "number": 17,
+      "section": "補足",
+      "title": "原文根拠：製造データ・物理モデル・工程統合",
+      "card_ids": [],
+      "quote_ids": [
+        "Q02",
+        "Q01",
+        "Q24",
+        "Q11"
+      ]
+    },
+    {
+      "number": 18,
+      "section": "補足",
+      "title": "主要33社の展示索引 1 / 4",
+      "card_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 19,
+      "section": "補足",
+      "title": "主要33社の展示索引 2 / 4",
+      "card_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 20,
+      "section": "補足",
+      "title": "主要33社の展示索引 3 / 4",
+      "card_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 21,
+      "section": "補足",
+      "title": "主要33社の展示索引 4 / 4",
+      "card_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 22,
+      "section": "補足",
+      "title": "調査範囲と2024年比較",
+      "card_ids": [],
+      "quote_ids": []
+    }
+  ]
+}
