@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-22",
+  "method": "Playwright / headless Microsoft Edge / 一時プロファイル",
+  "desktop": "1440x1050",
+  "mobile": "390x844",
+  "initial_evidence_count": 46,
+  "company_search_fanuc": 4,
+  "task_filter": "T07 -> 1",
+  "empty_search": "passed",
+  "reset": "passed",
+  "hidden_quote_navigation": "Q37を付録から開いて移動",
+  "print_expansion_and_restore": "passed",
+  "horizontal_document_overflow": false,
+  "page_errors": [],
+  "visual_inspection": "デスクトップの冒頭・物理モデルの原文配置と、スマートフォンの原文表示を画像で確認。",
+  "html_sha256": "1377d92519ec48a4533a590172b6c7cc1ae4a421476748d3d1fa5ff82ba6054e"
+}

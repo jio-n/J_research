@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-22",
+  "html": "outputs/JIMTOF2026_原文から読む技術潮流_事前調査レポート_20261022.html",
+  "sha256": "1377d92519ec48a4533a590172b6c7cc1ae4a421476748d3d1fa5ff82ba6054e",
+  "quote_count": 46,
+  "quote_integrity": "全46抜粋をJSON正本と比較し一致。各1回掲載。話者・出典URL・掲載位置・注意を保持。",
+  "internal_anchor_count": 255,
+  "internal_navigation": "リンク先IDの存在とID重複なしを確認。",
+  "themes": 6,
+  "task_categories": 14,
+  "followups": 11,
+  "major_company_rows": 33,
+  "offline_reading": "外部スクリプト・スタイル依存なし。原典リンクの閲覧は通信が必要。",
+  "scope": "構造・原文・参照関係の検証。ブラウザ確認はbrowser_validation.jsonに別記。"
+}
