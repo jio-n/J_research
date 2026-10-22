@@ -8,15 +8,15 @@
   "tasks": 14,
   "inputs": {
     "data/research/evidence_report_20261022/report_content.json": "836edb2f394293b12b4b680e5de2ca5c4e561e4e03b882afc4fab6adf7d54dae",
-    "data/research/quotation_evidence_20261022/quotes.json": "94f090327a80ed3833be012fe7cda619c186b89335255a8aa7ae363caa4d0d7d",
+    "data/research/quotation_evidence_20261022/quotes.json": "3afb98f953c1dd843d5a39a00c4fa09ed66856d63b9424e1a3e40e98076ca947",
     "data/research/quotation_evidence_20261022/task_taxonomy.json": "c7ce599dc7a9230c6215a1902192fa8427bc887cc3f1009aa7f25cc6663e3773",
     "data/research/deep_reading_20261021/source_coverage.json": "663ed02112f1f6b169cbc31f3b5eb14a4b31d0dedbb8672ea9fa36f242465e8f",
     "data/research/macro_20261019/major_dossiers.json": "b0228e5a57046e755a90b6b22e2df947d17398667a8ddc1b0538e8dccc507005"
   },
   "output": {
     "path": "outputs/JIMTOF2026_原文から読む技術潮流_事前調査レポート_20261022.html",
-    "bytes": 139675,
-    "sha256": "1377d92519ec48a4533a590172b6c7cc1ae4a421476748d3d1fa5ff82ba6054e"
+    "bytes": 139679,
+    "sha256": "b2d1c52df4d46b961e6cd4dfb39dfef808f4abf9fdd9e60f07abf1e796fd0b1f"
   },
   "scope": "原文は各1回。引用・文脈要約・分析・開発仮説を区別。現地確認前。"
 }

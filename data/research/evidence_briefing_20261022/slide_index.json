@@ -1,0 +1,594 @@
+{
+  "date": "2026-10-22",
+  "main_slides": 3,
+  "appendix_slides": 37,
+  "slides": [
+    {
+      "number": 1,
+      "section": "メイン",
+      "title": "AI・自動化の対象は、工程をまたぐ判断へ広がる",
+      "kind": "table",
+      "source_ids": [
+        "Q05",
+        "Q06",
+        "Q11",
+        "Q31",
+        "Q42"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 2,
+      "section": "メイン",
+      "title": "各社はデータ・技能・実証現場から判断と実行を育てる",
+      "kind": "table",
+      "source_ids": [
+        "Q02",
+        "Q04",
+        "Q05",
+        "Q06",
+        "Q07"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 3,
+      "section": "メイン",
+      "title": "開発の焦点は、顧客条件への適応と効果の検証",
+      "kind": "table",
+      "source_ids": [
+        "Q01",
+        "Q05",
+        "Q21",
+        "Q24",
+        "Q26",
+        "Q44",
+        "Q46"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 4,
+      "section": "補足",
+      "title": "調査の範囲と、根拠の読み方",
+      "kind": "table",
+      "source_ids": [
+        "Q01",
+        "Q41"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 5,
+      "section": "補足",
+      "title": "公開説明でのAIの明示と、従来から続く自動化",
+      "kind": "chart",
+      "source_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 6,
+      "section": "補足",
+      "title": "主要3社の開発戦略と実用化の段階",
+      "kind": "table",
+      "source_ids": [
+        "Q02",
+        "Q04",
+        "Q05",
+        "Q06"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 7,
+      "section": "補足",
+      "title": "DMG森精機のデータと、納入後の顧客接点",
+      "kind": "table",
+      "source_ids": [
+        "Q02",
+        "Q25",
+        "Q26",
+        "Q28",
+        "Q29",
+        "Q43"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 8,
+      "section": "補足",
+      "title": "マザックの加工意図と、生産計画の学習",
+      "kind": "table",
+      "source_ids": [
+        "Q04",
+        "Q05"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 9,
+      "section": "補足",
+      "title": "ファナックの協業と、実機へ適応する役割",
+      "kind": "table",
+      "source_ids": [
+        "Q06",
+        "Q07",
+        "Q08",
+        "Q09",
+        "Q42"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 10,
+      "section": "補足",
+      "title": "フィジカルAIの作業定義と、報告の確認項目",
+      "kind": "definition",
+      "source_ids": [
+        "Q07",
+        "Q09",
+        "Q21",
+        "Q41"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 11,
+      "section": "補足",
+      "title": "固定設置のピッキングと、変化への対応",
+      "kind": "table",
+      "source_ids": [
+        "Q07",
+        "Q09",
+        "Q21",
+        "Q31",
+        "Q41"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 12,
+      "section": "補足",
+      "title": "熟練知として残す、判断の前提と手順",
+      "kind": "table",
+      "source_ids": [
+        "Q05",
+        "Q13",
+        "Q14",
+        "Q23",
+        "Q29",
+        "Q30",
+        "Q46"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 13,
+      "section": "補足",
+      "title": "加工現象に合うデータ取得の設計",
+      "kind": "table",
+      "source_ids": [
+        "Q01",
+        "Q03",
+        "Q16",
+        "Q39",
+        "Q45",
+        "A04",
+        "A06"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 14,
+      "section": "補足",
+      "title": "シミュレーションと物理モデルの用途",
+      "kind": "table",
+      "source_ids": [
+        "Q12",
+        "Q24",
+        "Q31",
+        "Q40",
+        "Q44",
+        "A02",
+        "A03",
+        "A05"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 15,
+      "section": "補足",
+      "title": "局所の予測を、工程全体の判断へ渡す接点",
+      "kind": "table",
+      "source_ids": [
+        "Q10",
+        "Q11",
+        "Q16",
+        "Q17",
+        "Q33",
+        "Q42",
+        "Q45"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 16,
+      "section": "補足",
+      "title": "継続サービスの顧客価値と収益を検証する",
+      "kind": "table",
+      "source_ids": [
+        "Q02",
+        "Q25",
+        "Q26",
+        "Q27",
+        "Q29",
+        "Q36",
+        "Q43"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 17,
+      "section": "補足",
+      "title": "技術の位置付け：計画・準備",
+      "kind": "table",
+      "source_ids": [
+        "Q05",
+        "Q10",
+        "Q14",
+        "Q25",
+        "Q38",
+        "Q42",
+        "Q45"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 18,
+      "section": "補足",
+      "title": "技術の位置付け：段取り・実行",
+      "kind": "table",
+      "source_ids": [
+        "Q06",
+        "Q07",
+        "Q22",
+        "Q23",
+        "Q30",
+        "Q31",
+        "Q32",
+        "A07"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 19,
+      "section": "補足",
+      "title": "技術の位置付け：計測・改善",
+      "kind": "table",
+      "source_ids": [
+        "Q13",
+        "Q26",
+        "Q29",
+        "Q33",
+        "Q35",
+        "Q46"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 20,
+      "section": "補足",
+      "title": "横断基盤と、工程間の連携",
+      "kind": "table",
+      "source_ids": [
+        "Q01",
+        "Q05",
+        "Q11",
+        "Q14",
+        "Q16",
+        "Q35",
+        "Q39",
+        "Q42",
+        "Q45"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 21,
+      "section": "補足",
+      "title": "追加調査の成果：加工モデルとデータの接続",
+      "kind": "table",
+      "source_ids": [
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A05",
+        "A06"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 22,
+      "section": "補足",
+      "title": "追加調査の成果：現場適応・計画・継続利用",
+      "kind": "table",
+      "source_ids": [
+        "A07",
+        "A08",
+        "A09",
+        "A10",
+        "A11"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 23,
+      "section": "補足",
+      "title": "開発候補と、既存企業が提供する範囲",
+      "kind": "table",
+      "source_ids": [
+        "Q01",
+        "Q05",
+        "Q21",
+        "Q24",
+        "Q34",
+        "Q44",
+        "Q46"
+      ],
+      "quote_ids": []
+    },
+    {
+      "number": 24,
+      "section": "補足",
+      "title": "訪問先と確認する問い 1/2",
+      "kind": "table",
+      "source_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 25,
+      "section": "補足",
+      "title": "訪問先と確認する問い 2/2",
+      "kind": "table",
+      "source_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 26,
+      "section": "補足",
+      "title": "主要33社の確認表 1/3",
+      "kind": "table",
+      "source_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 27,
+      "section": "補足",
+      "title": "主要33社の確認表 2/3",
+      "kind": "table",
+      "source_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 28,
+      "section": "補足",
+      "title": "主要33社の確認表 3/3",
+      "kind": "table",
+      "source_ids": [],
+      "quote_ids": []
+    },
+    {
+      "number": 29,
+      "section": "補足",
+      "title": "原文エビデンス 1/12　Q01～Q04",
+      "kind": "quotes",
+      "source_ids": [
+        "Q01",
+        "Q02",
+        "Q03",
+        "Q04"
+      ],
+      "quote_ids": [
+        "Q01",
+        "Q02",
+        "Q03",
+        "Q04"
+      ]
+    },
+    {
+      "number": 30,
+      "section": "補足",
+      "title": "原文エビデンス 2/12　Q05～Q08",
+      "kind": "quotes",
+      "source_ids": [
+        "Q05",
+        "Q06",
+        "Q07",
+        "Q08"
+      ],
+      "quote_ids": [
+        "Q05",
+        "Q06",
+        "Q07",
+        "Q08"
+      ]
+    },
+    {
+      "number": 31,
+      "section": "補足",
+      "title": "原文エビデンス 3/12　Q09～Q12",
+      "kind": "quotes",
+      "source_ids": [
+        "Q09",
+        "Q10",
+        "Q11",
+        "Q12"
+      ],
+      "quote_ids": [
+        "Q09",
+        "Q10",
+        "Q11",
+        "Q12"
+      ]
+    },
+    {
+      "number": 32,
+      "section": "補足",
+      "title": "原文エビデンス 4/12　Q13～Q16",
+      "kind": "quotes",
+      "source_ids": [
+        "Q13",
+        "Q14",
+        "Q15",
+        "Q16"
+      ],
+      "quote_ids": [
+        "Q13",
+        "Q14",
+        "Q15",
+        "Q16"
+      ]
+    },
+    {
+      "number": 33,
+      "section": "補足",
+      "title": "原文エビデンス 5/12　Q17～Q20",
+      "kind": "quotes",
+      "source_ids": [
+        "Q17",
+        "Q18",
+        "Q19",
+        "Q20"
+      ],
+      "quote_ids": [
+        "Q17",
+        "Q18",
+        "Q19",
+        "Q20"
+      ]
+    },
+    {
+      "number": 34,
+      "section": "補足",
+      "title": "原文エビデンス 6/12　Q21～Q24",
+      "kind": "quotes",
+      "source_ids": [
+        "Q21",
+        "Q22",
+        "Q23",
+        "Q24"
+      ],
+      "quote_ids": [
+        "Q21",
+        "Q22",
+        "Q23",
+        "Q24"
+      ]
+    },
+    {
+      "number": 35,
+      "section": "補足",
+      "title": "原文エビデンス 7/12　Q25～Q28",
+      "kind": "quotes",
+      "source_ids": [
+        "Q25",
+        "Q26",
+        "Q27",
+        "Q28"
+      ],
+      "quote_ids": [
+        "Q25",
+        "Q26",
+        "Q27",
+        "Q28"
+      ]
+    },
+    {
+      "number": 36,
+      "section": "補足",
+      "title": "原文エビデンス 8/12　Q29～Q32",
+      "kind": "quotes",
+      "source_ids": [
+        "Q29",
+        "Q30",
+        "Q31",
+        "Q32"
+      ],
+      "quote_ids": [
+        "Q29",
+        "Q30",
+        "Q31",
+        "Q32"
+      ]
+    },
+    {
+      "number": 37,
+      "section": "補足",
+      "title": "原文エビデンス 9/12　Q33～Q36",
+      "kind": "quotes",
+      "source_ids": [
+        "Q33",
+        "Q34",
+        "Q35",
+        "Q36"
+      ],
+      "quote_ids": [
+        "Q33",
+        "Q34",
+        "Q35",
+        "Q36"
+      ]
+    },
+    {
+      "number": 38,
+      "section": "補足",
+      "title": "原文エビデンス 10/12　Q37～Q40",
+      "kind": "quotes",
+      "source_ids": [
+        "Q37",
+        "Q38",
+        "Q39",
+        "Q40"
+      ],
+      "quote_ids": [
+        "Q37",
+        "Q38",
+        "Q39",
+        "Q40"
+      ]
+    },
+    {
+      "number": 39,
+      "section": "補足",
+      "title": "原文エビデンス 11/12　Q41～Q44",
+      "kind": "quotes",
+      "source_ids": [
+        "Q41",
+        "Q42",
+        "Q43",
+        "Q44"
+      ],
+      "quote_ids": [
+        "Q41",
+        "Q42",
+        "Q43",
+        "Q44"
+      ]
+    },
+    {
+      "number": 40,
+      "section": "補足",
+      "title": "原文エビデンス 12/12　Q45～Q46",
+      "kind": "quotes",
+      "source_ids": [
+        "Q45",
+        "Q46"
+      ],
+      "quote_ids": [
+        "Q45",
+        "Q46"
+      ]
+    }
+  ]
+}
