@@ -1,0 +1,37 @@
+{
+  "research_as_of": "2026-10-22",
+  "artifact_verified_date": "2026-10-23",
+  "candidate_items": 387,
+  "candidate_companies": 344,
+  "master_rows": 1146,
+  "major_companies": 33,
+  "tag_reasons": 1548,
+  "recommended_items": 34,
+  "depth_counts": {
+    "企業・開発元の技術資料まで照合": 60,
+    "個別タスク・入出力整理": 44,
+    "公式出展説明の機能整理": 281,
+    "企業公式製品資料まで照合": 2
+  },
+  "reference_integrity": "all candidate listing IDs, source URLs and four tag reasons present",
+  "html_filter_checks": [
+    "all candidates",
+    "AND and OR",
+    "functional AI + Physical AI",
+    "welding-agent exhibit unknown",
+    "tag totals"
+  ],
+  "html_visual_browser_review": false,
+  "workbook_visual_review": "all 7 sheets rendered and inspected",
+  "native_excel": {
+    "native_excel_version": "16.0",
+    "worksheets": 7,
+    "candidate_rows": 387,
+    "master_rows": 1146,
+    "visit_count_restored": 0.0,
+    "internal_links": 387,
+    "source_links": 669,
+    "verified_at": "2026-10-23T00:19:32"
+  },
+  "saved_xlsx": "ZIP integrity and no cached formula errors; native links, input validation and frozen panes present"
+}

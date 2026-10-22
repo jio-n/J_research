@@ -1,0 +1,92 @@
+﻿item_id,company,booths,item,visit_group,recommendation,recommend_reason,exhibition_certainty,check_at_booth,source_urls
+FC004,DMG森精機,E8005,Condition Agent,大手メーカーのAI実装,優先訪問,診断専用NC動作・設計製造情報・クラウドAIの組合せを確認する。,展示予定を明記,Condition Agentの対象品種・変更条件は何か。保全診断・知識支援で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=lOXEEpvlXpM
+https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs
+https://www.dmgmori.co.jp/corporate/news/2026/20260706_conditionagent.html
+https://www.dmgmori.co.jp/corporate/news/2026/20261016_jimtof2026.html"
+FT-D01,ＤＭＧ森精機株式会社,E8005,my DMG MORI サービスエージェント,大手メーカーのAI実装,優先訪問,提供開始済み・デモ予定の保全AI。データ基盤の将来構想と現在機能を比較できる。,展示予定を明記,機番別の回答根拠、曖昧な故障症状の問診、誤提案の検出、診断データとの今後の接続を確認。,"https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html
+https://www.dmgmori.co.jp/corporate/news/2026/20261016_jimtof2026.html"
+FT-G01,株式会社GAZIRU,E3008,GAZIRU.eye 良品学習AI検査,検査AI・品質データ,優先訪問,良品学習とAPI連携を、Phoxter・HACARUSと比較する。,展示予定を明記,新品種での立上げ、NGの定義・閾値、API後の排出制御、加工条件との対応付けを確認。,"https://gaziru.co.jp/blogs/19gxg1fly3zd
+https://gaziru.co.jp/eye
+https://gaziru.co.jp/blogs/4j7fi3f3fiyg"
+FC018,Hexagon Manufacturing Intelligence,E2013,ESPRIT EDGE ProPlanAI,工程設計・プログラム生成,優先訪問,部品特徴・PMI・過去ジョブを使うAI工程設計。CAMAssistと比較する。,出展説明に掲載,ESPRIT EDGE ProPlanAIの対象品種・変更条件は何か。工程設計で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4
+https://hexagon.com/products/esprit-edge/release-highlights"
+FT-M01,ModuleWorks GmbH,S4005,SmartRoughing／FeedControl,加工モデル・データ基盤,優先訪問,加工物理モデルとAIの役割分担を考える比較先。モデル校正用データも確認する。,展示予定を明記,モデル同定に必要な実測、材料・工具の適用範囲、予測誤差、最適化後の検証を確認。,https://www.moduleworks.com/see-you-at-jimtof-2026/
+FT-P01,株式会社Phoxter,S4028,StellaDeepVision Studio／StellaController2.0,検査AI・品質データ,優先訪問,良品学習と6軸多面検査を具体的に比較。固定撮像と動作適応の境界を確認する。,展示予定を明記,必要画像のばらつき、不良流出・過検出、既存方式との差、検査NG時の再撮像・搬送変更を確認。,https://www.phoxter.co.jp/news/jimtof2026
+FC049,TAKISAWA,E3013,TR-20W：主軸の切粉除去,生成AI・フィジカルAI,優先訪問,無人加工の阻害要因である切粉処理を、認識・判断・除去まで扱う参考展示。,参考出展予定,未知の絡まり・絡まり方の変化への対応、認識センサ・学習法、接触力・除去完了判定、失敗後の再試行を確認。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=K00DRD-BngA
+https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM
+https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/
+https://www.nidec.com/jp/product/news/2024/news1101-03/"
+FT-J01,株式会社ジェイテクト,E8003,Mill-Plan,工程設計・プログラム生成,優先訪問,工具・姿勢・条件を含む工程自動設計。AI方式か従来最適化かを確認する。,展示予定を明記,CAD入力からの自動範囲、ルール／AIの別、工具DBと条件の同定、修正・検証工数を確認。,https://toyoda.jtekt.co.jp/jimtof2026/
+FC020,ジェービーエムエンジニアリング,E2002,Mastercam＋CAMAssist,工程設計・プログラム生成,優先訪問,形状・工具・材種から工程案を生成し、人が検証する実務範囲を比較する。,出展説明に掲載,Mastercam＋CAMAssistの対象品種・変更条件は何か。CAM・NC作成で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=G-8gydwhMvE
+https://www.jimtof.org/2024/search/jp/ESdetails?e=ZBxZW2vyjUw
+https://www.jimtof.org/search/jp/ESdetails?e=VrAjMTKmxdw
+https://www.cloudnc.com/ja/mastercam
+https://www.cloudnc.com/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam"
+FC006,ファナック,S2001,フィジカルAI CNC,生成AI・フィジカルAI,優先訪問,生成AI・MCP・ツイン検証・人承認を具体的に比較できる。,展示予定を明記,MCPで許可する読取り・書込み操作、仮想モデルの精度、検証不能時の停止、人承認の単位を確認。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=N0RgOmmcwZw
+https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ
+https://www.fanuc.co.jp/ja/JIMTOF2026/
+https://www.fanuc.co.jp/ja/product/cnc/physical-ai-cnc/index.html"
+FC011,ベッコフオートメーション,E2028,TwinCAT CoAgent for Engineering：PLC,制御開発・エージェント接続,優先訪問,生成した制御コード案を人がどう検証・適用するかを確認する。,出展説明に掲載,TwinCAT CoAgent for Engineering：PLCの対象品種・変更条件は何か。PLCコード作成で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08
+https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html
+https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/
+https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html
+https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html"
+FC033,レニショー,E7089,Renishaw Central＋IPC,加工・計測の閉ループ,優先訪問,計測結果が工具オフセット・機械変数へ返る範囲と補正限界を確認する。,出展説明に掲載,Renishaw Central＋IPCの対象品種・変更条件は何か。測定から加工へ補正で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=ekM3exgIAtc
+https://www.jimtof.org/search/jp/ESdetails?e=pYGmVz5GC1c
+https://www.renishaw.com/jp/smart-manufacturing-data-platform-for-industrial-process-control--47853"
+FT-D02,ＤＭＧ森精機株式会社,E8005,GX Flex 工具・チャック爪・ワーク交換,段取り・工程接続,比較訪問,搬送に加え、工具・爪交換を含む段取り自動化を確認する。,展示予定を明記,爪・工具交換の対象、段取り情報の生成方法、交換ミス検知と復帰を確認。,https://www.dmgmori.co.jp/corporate/news/2026/20261016_jimtof2026.html
+FT-G02,株式会社GAZIRU,E3008,GAZIRU.z V5 タグレス個体識別,検査AI・品質データ,比較訪問,加工条件・検査データを現物個体へ結び付ける基盤を確認する。,展示予定を明記,加工で表面が変わる際の追跡、工程間の照明差、誤一致率とID再発行の条件を確認。,"https://gaziru.co.jp/blogs/19gxg1fly3zd
+https://gaziru.co.jp/blogs/4j7fi3f3fiyg"
+FC036,HACARUS,S1031,HACARUS Check ZERO,検査AI・品質データ,比較訪問,少量良品学習と運用中の再学習・誤判定修正を比較する。,出展説明に掲載,HACARUS Check ZEROの対象品種・変更条件は何か。外観検査で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc
+https://hacarus.com/ja/technology/hacarus-check-series/
+https://hacarus.com/ja/press-release/20250707-news/
+https://check.hacarus.com/ja/
+https://check.hacarus.com/ja/aisoftware/"
+FT-M02,ModuleWorks GmbH,S4005,NGSP＋CAS＋MDES,加工モデル・データ基盤,比較訪問,工程間データの連続性と実機段取り照合・干渉回避の接続を確認する。,展示予定を明記,カメラ照合の対象、実機モデルとのズレ、CASが止める・変更する制御、MDES接続先を確認。,https://www.moduleworks.com/see-you-at-jimtof-2026/
+AC273,"NdotLight Co., Ltd.",S4004,TRINIX CAD／SimReady生成,加工モデル・データ基盤,比較訪問,形状に加えて関節・物理属性を学習用データへ変換する範囲を確認する。,出展説明に掲載,TRINIX CAD／SimReady生成の対象品種・変更条件は何か。搬送・供給・工程接続で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/search/jp/ESdetails?e=6Ds1v9hxvrY
+https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix
+https://ndotlight.com/
+https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html
+https://docs.omniverse.nvidia.com/simready/latest/simready-asset-creation/physics-best-practices.html
+https://ndotlight.com/newsroom/ndotlight-to-co-develop-dexbench-a-global-standard-for-humanoid-evaluation-with-nvidia-and-rlwrld"
+FC024,たけびし,S3015,OPC UA情報モデルとエージェント連携,制御開発・エージェント接続,比較訪問,OPC UA情報モデルとMCP接続。AI本体と接続基盤の役割を確認する。,出展説明に掲載,OPC UA情報モデルとエージェント連携の対象品種・変更条件は何か。異機種・旧設備の接続で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=SiZMI-OH8_k
+https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw
+https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/"
+FT-O01,オークマ株式会社,E3028,OSP-AI 機械診断／加工診断,大手メーカーのAI実装,比較訪問,AI診断が通知で終わる機能と工具退避へつながる機能を比較する。,展示未確認,診断用運転と加工中監視の違い、ドリル以外の適用、退避指令・復帰条件、新版の追加能力を確認。,"https://www.okuma.co.jp/smart-factory/osp-suite/osp-ai.php
+https://www.okuma.co.jp/event/jimtof/2026/"
+AC085,株式会社サイバーRC,E7074,GH5 AI補正ホーニング,加工・計測の閉ループ,比較訪問,工具形状の認識・AI補正を物理加工へ返す範囲を比較する。,出展説明に掲載,GH5 AI補正ホーニングの対象品種・変更条件は何か。検査・計測・補正で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o
+https://www.jimtof.org/2024/search/jp/ESdetails?e=wk2AEX5rHpw
+https://cyber-rc.com/wp-content/uploads/2025/10/%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0420-x-297-mm%E6%A8%AA%E4%B8%A6%E3%81%B3-.pdf"
+FC051,シマダマシンツール,E2018,HS4200：フィジカルAI自動段取り替え,生成AI・フィジカルAI,比較訪問,自動段取り替えのフィジカルAI呼称について、交換対象・認識・動作変更を確かめる。,出展説明に掲載,HS4200：フィジカルAI自動段取り替えの対象品種・変更条件は何か。教示・位置合わせで人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=WZjeoEoTWXw
+https://www.jimtof.org/2024/search/jp/ESdetails?e=bLvQhW7XtZw
+https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4"
+AC131,タクテックス株式会社,S1016,CAM Assist for SolidCAM,工程設計・プログラム生成,比較訪問,SolidCAM運用に組み込むAI生成。Mastercam側との差を確認する。,出展説明に掲載,CAM Assist for SolidCAMの対象品種・変更条件は何か。工程設計・プログラム生成で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/search/jp/ESdetails?e=2TVzwvOqLxI
+https://www.jimtof.org/2024/search/jp/ESdetails?e=p_i9WuUhNRg
+https://www.cloudnc.com/ja/solidcam
+https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm"
+FC010,ヤマザキマザック,E1001,INTEGREX＋Ez LOADER 30,段取り・工程接続,比較訪問,既存の搬送自動化とAIによる準備・判断機能を分けて確認する。,出展説明に掲載,INTEGREX＋Ez LOADER 30の対象品種・変更条件は何か。ワーク搬入出で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=q0OrZBKM3uQ
+https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes
+https://www.mazak.com/jp-en/news-media/upcoming-events/jimtof2026/"
+FT-Z01,ヤマザキマザック株式会社,E1001,Smooth CAM Ai,大手メーカーのAI実装,比較訪問,熟練加工パターンの学習と工程準備。搭載展示の有無を先に確認する。,展示未確認,誰のどの加工判断を学習するか、過去プログラムの必要量、材料・工具変更時の適用と人の修正を確認。,"https://www.mazak.com/jp-ja/technology/productivity/
+https://www.mazak.com/discover/jp-ja/jimtof2026/"
+FC064,三菱電機,S2003,NC MachiningAID（2024）／2026 CNC省人化,大手メーカーのAI実装,比較訪問,CNCのAI支援と実機動作の接続、新版の担当タスクを確認する。,展示未確認,NC MachiningAID（2024）／2026 CNC省人化の対象品種・変更条件は何か。加工信号解析で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=30li0vWcseI
+https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU"
+FC048,中村留精密工業,E2027,RoboSync：移設後の位置復旧,段取り・工程接続,比較訪問,移設後のマーカ読取りによる位置補正。学習AIと幾何補正を比較する。,出展説明に掲載,RoboSync：移設後の位置復旧の対象品種・変更条件は何か。教示・位置合わせで人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=RYK326OoMn4
+https://www.jimtof.org/search/jp/ESdetails?e=C7A_2ZTDXNw
+https://www.nakamura-tome.co.jp/products/automation/robosync/"
+FC047,松浦機械製作所,E3030,5軸＋マルチパレット／MiOS,段取り・工程接続,比較訪問,多品種パレット加工とプロジェクト単位の加工データ管理を確認する。,出展説明に掲載,5軸＋マルチパレット／MiOSの対象品種・変更条件は何か。パレット供給で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=_4GLIXLZuKE
+https://www.jimtof.org/2024/search/jp/ESdetails?e=coHqGCjVn0c
+https://www.jimtof.org/search/jp/ESdetails?e=K_X61J2xV_w"
+AC209,牧野フライス精機株式会社,E7090,SG10EX＋monocam2,加工・計測の閉ループ,比較訪問,工具研削の機内画像計測と自動補正。AI方式との違いを確認する。,展示予定を明記,SG10EX＋monocam2の対象品種・変更条件は何か。工程設計・プログラム生成で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/search/jp/ESdetails?e=jlC7OSSk2O4
+https://www.jimtof.org/2024/search/jp/ESdetails?e=uvTY1qMfjes
+https://www.makinoseiki.co.jp/exhibition/jimtof2026.html"
+FC046,牧野フライス製作所,E1024,パレット自動化／MAS・ラインエンジニアリング,段取り・工程接続,比較訪問,加工・パレット・ソフト・保守を接続するライン構成を確認する。,出展説明に掲載,パレット自動化／MAS・ラインエンジニアリングの対象品種・変更条件は何か。パレット供給で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。,"https://www.jimtof.org/2024/search/jp/ESdetails?e=95Yl5dQv2vI
+https://www.jimtof.org/search/jp/ESdetails?e=M5OL10ECBTE"
+FT-A01,autonomIQ,E1061,simplymill／AI CAM,工程設計・プログラム生成,事前確認,既存大手CAMと異なる新興AI CAMの候補。展示内容・対応機種を先に確認。,展示未確認,JIMTOF展示機能、使うモデル・物理計算、工具DB、対応軸数・加工機、検証・NC生成の制約を確認。,https://www.autonomiq.de/
+FT-SI01,シーメンス株式会社,E3006,Eigen Engineering Agent,制御開発・エージェント接続,事前確認,BeckhoffのCoAgentと比較する制御開発AI。個別展示の有無を先に確認する。,展示未確認,JIMTOF展示有無、生成・テスト・自己修正の範囲、既存設計規約、安全制御のレビュー・承認を確認。,https://www.siemens.com/en-us/company/insights/industrial-ai-changes-automation-engineers-work/
+FT-F01,ファナック株式会社,S2001,AI溶接エージェント,生成AI・フィジカルAI,事前確認,先端的な図面→動作生成の比較基準。JIMTOFで見られるかを事前・現地で確認。,展示未確認,JIMTOFで実演されるか。図面の適用形式、ロボット座標・治具設定、生成結果の安全検証と人の修正量を確認。,"https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260911.html
+https://www.fanuc.co.jp/ja/JIMTOF2026/"
+FT-F02,ファナック株式会社,S2001,AIエージェント・マスタレス認識によるキッティング,生成AI・フィジカルAI,事前確認,品種・指示変更への対応を確かめる有力事例。個別展示は未確認。,展示未確認,事例の実演有無、未登録部品の認識、指示変更後の動作再構成と失敗復帰を確認。,"https://www.fanuc.co.jp/ja/product/robot/academia/case_study/ai-agent-robot-kitting-system.html
+https://www.fanuc.co.jp/ja/JIMTOF2026/"
+FT-F04,ファナック株式会社,S2001,VLA模倣学習・双腕柔軟物操作,生成AI・フィジカルAI,事前確認,VLA・模倣学習と動作生成の明確な参照例。個別展示は未確認。,展示未確認,展示有無、使用モデル、実演データの収集量、初期姿勢を変えた試行・未学習品種・失敗復帰を確認。,"https://www.fanuc.co.jp/ja/product/robot/academia/case_study/imitation-learning-ai-robot.html
+https://www.fanuc.co.jp/ja/JIMTOF2026/"

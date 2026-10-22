@@ -1,0 +1,5433 @@
+[
+  {
+    "url": "https://www.aichi-sangyo.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "愛知産業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2d798f0af1cf3cf4079d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.aichi-sangyo.co.jp",
+    "content_type": "text/html",
+    "title": "金属3Dプリンター、溶接機、切断機、産業機械の販売｜愛知産業株式会社",
+    "characters": 18946,
+    "sha256": "4db5bf586a25792a89cac8ba82de018145a8fee2e0ceb408603e5735d0322482"
+  },
+  {
+    "url": "https://www.idec.com/ja-jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "IDEC株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e6153287fca2e45b547d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.idec.com/ja-jp",
+    "content_type": "text/html; charset=utf-8",
+    "title": "IDEC(アイデック)株式会社 FA制御機器",
+    "characters": 3750,
+    "sha256": "dc0752ffd7b72aa66c29e0039661b9451b8727dfd1b643b9ff6e7454b65a3106"
+  },
+  {
+    "url": "https://www.akamatsudenki.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社赤松電機製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ad85fdedd3ec492e0b7b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.akamatsudenki.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工場環境を改善する赤松電機製作所",
+    "characters": 4539,
+    "sha256": "f268a78bb5d2ad05201db377c9fe1a12a3d79ddc9ec8ae54ce7c31ffcc71a471"
+  },
+  {
+    "url": "https://aqua-c.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "アクア化学株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8f2e0df64ad9ca298cfa",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://aqua-c.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "クリーンテクノロジー創造企業　アクア化学株式会社||大阪府和泉市",
+    "characters": 462,
+    "sha256": "8a459a47256995b021f45a575e96c3c7c4687b490c673752abeeed911e3a9d9e"
+  },
+  {
+    "url": "https://www.kkamic.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社旭商工社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "abcb5cf6b53d57121fff",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.astec-edm.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社アステック"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "926fc5633b7261cb5b67",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.astec-edm.co.jp",
+    "content_type": "text/html",
+    "title": "細穴放電加工機専門メーカー｜株式会社アステック",
+    "characters": 9408,
+    "sha256": "fa44347a52e89857f40836f3c76058c8b979fe7154db62b3f502e8dfa49f2f0f"
+  },
+  {
+    "url": "https://atc.azbil.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "アズビルTACO株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f810ad76de9c873b9dba",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://atc.azbil.com/",
+    "content_type": "text/html",
+    "title": "アズビルTACO株式会社",
+    "characters": 1759,
+    "sha256": "8383fdf6c59856b1810e7f72c19cf4778ba35f616db8c44ab72d8b0df5491528"
+  },
+  {
+    "url": "https://www.analog.com/jp/index.html",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "アナログ・デバイセズ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f04b2c3feeca0c41a45b",
+    "status": "取得不能",
+    "error": "The read operation timed out"
+  },
+  {
+    "url": "https://abico-rd.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社アビコ技術研究所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a62bbda383c9a864ecf4",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://abico-rd.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社アビコ技術研究所 | 新潟県長岡市の工作機械メーカー・微細加工",
+    "characters": 1585,
+    "sha256": "0b0bed3dc1e482374f36b22ee505fa12b2cf63229d49799f1cd3678e3ce2e66e"
+  },
+  {
+    "url": "https://www.sheetmetal.amada.co.jp/event/JIMTOF2026/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社アマダ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "92a8883b3e635de8aa19",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sheetmetal.amada.co.jp/event/JIMTOF2026/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "JIMTOF2026｜株式会社アマダ",
+    "characters": 1900,
+    "sha256": "53ab95032a7a69c7eaf9a518cc3d83ed07fb4b4ad4febea941639b2e99da19d3"
+  },
+  {
+    "url": "https://www.amp.amada.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社アマダプレスシステム"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "997fa6a222529b62bff6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.amp.amada.co.jp/ja/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "ホーム - 株式会社アマダプレスシステム",
+    "characters": 1509,
+    "sha256": "ea81a5189157ad4efda3a2f8b5e35e2a2bbd0ad80237a64db8e42df7e81a6313"
+  },
+  {
+    "url": "https://alphalaser.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ALPHA LASER JAPAN株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "58e19d07a7e6f7da18c6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://alphalaser.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "メンテナンス中",
+    "characters": 513,
+    "sha256": "21abd10d735c307ae6369cea890cee4f39c91d3e56570b15361db78dc970c75b"
+  },
+  {
+    "url": "http://www.alpstool.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社アルプスツール"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "586ac1625a77fefdb039",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.alpstool.com/",
+    "content_type": "text/html",
+    "title": "株式会社アルプスツール | ALPSTOOL CO., LTD.",
+    "characters": 51,
+    "sha256": "a3c140742485a41e3d026b5182c6c84b4754c82a571981914f9fd7ff245262d9"
+  },
+  {
+    "url": "https://www.igus.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "イグス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b605d154e1b32a7cea22",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.igus.co.jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "可動部を改善するイグスの樹脂部品",
+    "characters": 10204,
+    "sha256": "515245d2f492fc20784858437fc45400298370641017f3ba0cf80d554086736d"
+  },
+  {
+    "url": "https://www.ikura.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "育良精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "fbdf71e2900cfbc7b9a7",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ikura.com",
+    "content_type": "text/html",
+    "title": "育良精機株式会社トップ",
+    "characters": 392,
+    "sha256": "6091c0082ad9cbc0efa30bb02b615b8e01b7a81e80fb47e626d26feb94fd289c"
+  },
+  {
+    "url": "https://www.ikegai.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社池貝"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b3c33295f2da3352337f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ikegai.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "【株式会社池貝】工作機械（旋盤・マシニングセンタ・ホーニング）、押出機",
+    "characters": 1139,
+    "sha256": "5da9375f7f8cb64d40fa62bbad269b0ba1c50b0f6307c6f986ab7a3226859e38"
+  },
+  {
+    "url": "https://www.ztec-izushi.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社IZUSHI"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a1d21db361311472a292",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ztec-izushi.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "刻印機・自動マーキングのテクノマーク 株式会社IZUSHI 株式会社IZUSHI（株式会社出石）",
+    "characters": 848,
+    "sha256": "85e1c34a63aaa5459bbff02002ce005bc284339d65e6e38f4c24bb38d2a34e4c"
+  },
+  {
+    "url": "https://www.izumi-js.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社イズミコーポレーション"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "24b6bccbf3381495e2aa",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.izumi-js.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "",
+    "characters": 1117,
+    "sha256": "36cf2eb38a7bbed3fc57acd83f6644d083ac6a792e4146a002aec3c008e2b4a7"
+  },
+  {
+    "url": "https://www.itnet.co.jp/lp/automation-studio/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社伊東商会"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "565cd5b92543d3c60013",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.itcmt.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "伊藤忠マシンテクノス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "79dcba1c68c090a3eb0f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.itcmt.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ホーム | 伊藤忠マシンテクノス",
+    "characters": 1550,
+    "sha256": "47b74fc66cbfc250c51d5ac55763a86fc3a809f5ef5fcf69ccc9e067c4a6a9d2"
+  },
+  {
+    "url": "http://www.inno-tech.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社イノテック"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ac0aaeb784d282b6324e",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.imao.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社イマオコーポレーション"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "55556400f6d2fbe36a71",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.imao.co.jp/",
+    "content_type": "text/html",
+    "title": "株式会社イマオコーポレーション",
+    "characters": 818,
+    "sha256": "54ff5729940414694fb4adb951f3cac07d0c66991afc047c4dd4d42c2b890910"
+  },
+  {
+    "url": "https://irinokiko.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "入野機工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "88fa19e06a577edaa793",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://irinokiko.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Irino Machinery Co., Ltd. | 内面研削盤、スピンドルの製造・販売・修繕",
+    "characters": 1481,
+    "sha256": "5bcf1225940cd9ec83f8721537e287b22e5ce3987f88e6283ca659863326d4fa"
+  },
+  {
+    "url": "https://www.iwatatool.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社イワタツール"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7824c826cb600fd90aeb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.iwatatool.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "イワタツール",
+    "characters": 1072,
+    "sha256": "15ca91d3b783e2360fd95e6ffe73b548fa3072a7604f49f91e237ee28a77153f"
+  },
+  {
+    "url": "https://iwmt-kg.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "岩本工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "22c3572e5de4a27e9902",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://iwmt-kg.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "機械加工、組立、楽～ラントの岩本工業株式会社　石川県白山市",
+    "characters": 2190,
+    "sha256": "03e75dc3d8810919d11a4f4c6488ce9acf627e43c9772231261ec18eae408af3"
+  },
+  {
+    "url": "https://camworks.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社インテグラ技術研究所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ac290becaabae1364fae",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://camworks.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "CAMWorks – SOLIDWORKS完全アドインCAMシステム。PMI情報も活用できます。",
+    "characters": 1703,
+    "sha256": "ae8bad56e72b81bb208fdd2a3a48dfc176a5be80208bfe3480ab9babafdb74b6"
+  },
+  {
+    "url": "https://www.smart-go.net/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社インプローブ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "16267757fca741171ae0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.smart-go.net/",
+    "content_type": "text/html",
+    "title": "4種類の工程管理システムの選び方 (製造業向け) スマホ,タブレット 対応",
+    "characters": 4911,
+    "sha256": "6f150fa1163fb7a804bfde5a1ec589e83c16d4f0e70c2671786fef819f41468a"
+  },
+  {
+    "url": "https://www.ujiden-net.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "宇治電化学工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1fab377c3ee57c183100",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ujiden-net.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "宇治電化学工業株式会社｜西山グループ",
+    "characters": 1017,
+    "sha256": "3a39686e6fff2284fd700dda5e98e6ca6b0300c5a4df39df2cfd1b15f637e1de"
+  },
+  {
+    "url": "https://www.usnet.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社宇都宮製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "31263a405358aaa64a0f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.usnet.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社宇都宮製作所｜CNC工具研削盤メーカー",
+    "characters": 1279,
+    "sha256": "ae4cb1a140c5231dd215cf1d604498aa75b9db374f49e3de35fbd71e6ec11837"
+  },
+  {
+    "url": "https://www.eiko-eforce.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "永興電機工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0094d4eccc7f033aa00c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.eiko-eforce.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "E-FORCE",
+    "characters": 1589,
+    "sha256": "38b63990d223b8d42a288b348b1a139ae392ed81de4fa1c9549179c3964feb04"
+  },
+  {
+    "url": "https://www.ai-sols.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社Aiソリューションズ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "dffc1ba0a6871d36d75c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ai-sols.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Aiソリューションズ | CAD/CAMシステムのお悩み解決",
+    "characters": 3534,
+    "sha256": "e0caf745ef03864cb7b616b12d2bca83cd0bf685b0bdffb30d944b3b5931d6a6"
+  },
+  {
+    "url": "https://www.eguro.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社エグロ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f3f752329a468c21f7e8",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.eguro.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "高精度NC旋盤メーカー株式会社エグロ｜CNC旋盤、マシニングセンター",
+    "characters": 2410,
+    "sha256": "f70e5377b5c908e172f72e72e4f677fc327063ee0798b230fe26d1500fb587be"
+  },
+  {
+    "url": "https://www.sandfinc.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社エスアンドエフ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "5db3e31639e5180e850b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sandfinc.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社エスアンドエフ",
+    "characters": 2037,
+    "sha256": "e75593b96c6d9ddedbb757e45a9d0b296f01c03c6295d3db07576f32f6ae4b3b"
+  },
+  {
+    "url": "https://www.smwautoblok.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "エスエムダブリューオートブロック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c6ccd4a788daa5522cbb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.smwautoblok.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "SMW-AUTOBLOK㈱｜名古屋｜チャック・シリンダー・振れ止めの販売",
+    "characters": 2520,
+    "sha256": "55d6a62eef370b7396e5dfbf52a08c94acd0229f93db1f1a1cd44bf19b96d456"
+  },
+  {
+    "url": "https://www.stctokyo.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社エス・ティ・シー"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "76aeac7c78ae955695f3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.stctokyo.co.jp/",
+    "content_type": "text/html",
+    "title": "株式会社エス・ティ・シー",
+    "characters": 787,
+    "sha256": "50cbf3789a4249c75244437a7cb6ef028697c250a2e98c7c3d9ba4d783bed037"
+  },
+  {
+    "url": "https://spieng.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社SPIエンジニアリング"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "017a8e4dab1c39886441",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://spieng.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工業用内視鏡ならSPIエンジニアリング | spieng.com",
+    "characters": 1259,
+    "sha256": "4f4f8f15d35f7924622eb7d7dec997138c02f80bf76429b989f030dcbfb52e27"
+  },
+  {
+    "url": "https://anydesign.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社Any Design"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0594e5af55c003be82b2",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://anydesign.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "高精度なデジタル水平器（水準器）株式会社 Any Design （エニデザイン） | 無線デジタル水準器（デジタル水平器）と無線アプリでレベル出し（水平出し）の手間を半減させます！",
+    "characters": 7755,
+    "sha256": "cbbcfcc2380c841fefd1c04ba67c3035b5b388a1d59af112098f264a2110235a"
+  },
+  {
+    "url": "https://nk-works.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "NKワークス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d1548c3e9591d7a46dba",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://nk-works.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "NKワークス株式会社について ｜東京都千代田区にある産業用機械の専門商社 NKワークス株式会社",
+    "characters": 8866,
+    "sha256": "16d8d3f58c2d78d678bee65e2960afdc288d4ef7f1fd5e1c5f063224a9596ad1"
+  },
+  {
+    "url": "https://ntkcuttingtools.com/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "NTKカッティングツールズ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8c12b25e8e4310d32859",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://ntkcuttingtools.com/ja/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "NTK Cutting Tools",
+    "characters": 5303,
+    "sha256": "86a5e43c6a21d0577242d33bf00bdc6f0da87e746a7970e40752a35a4a212b81"
+  },
+  {
+    "url": "https://www.nttool.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "エヌティーツール株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "edfb625f1e0ba816c7b2",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nttool.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "エヌティーツール株式会社",
+    "characters": 698,
+    "sha256": "1fb7afb313dd8021ab667267b72067faf0f61a3e0ebca7b163c4bbdc4c711b8d"
+  },
+  {
+    "url": "https://www.fns-inc.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "FNS株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7d63899ff2078c4bbd9b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.fns-inc.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "FNS株式会社　兵庫県神戸市　工作機械　マシニングセンタ　台車式ロボット　自動化システム",
+    "characters": 1326,
+    "sha256": "3b3642739c8901da629598be81ac361b2fe26905ac0fd992f105db4ec5867f21"
+  },
+  {
+    "url": "https://www.mst-corp.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社MSTコーポレーション"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a02ca107ad70e70aec71",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mst-corp.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "MST Corporation",
+    "characters": 8471,
+    "sha256": "2b63d1e46c9112c0d4dd26e0158286e175012e4e8d85b5e6cd58a8c3161fd7a7"
+  },
+  {
+    "url": "https://www.lkmetrology.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "LKメトロロジー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2e23dd5fb2885a013dd1",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.lkmetrology.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Coordinate Measuring Machines and Scanners | LK Metrology",
+    "characters": 6581,
+    "sha256": "40b6d348dd0988df86254550b7428f5766837dfdb7226b233d7cdf9edec71c25"
+  },
+  {
+    "url": "https://www.enshu.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "エンシュウ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "fd5380bb9603988ab686",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.enshu.co.jp",
+    "content_type": "text/html",
+    "title": "エンシュウ株式会社ホームページ",
+    "characters": 15,
+    "sha256": "527b25b220f00e40f2ba22ac8a06d9d50c3ac16832a45018a25810084dcc9d7d"
+  },
+  {
+    "url": "https://www.osg.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "オーエスジー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "637ab63e03897533586c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.osg.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "オーエスジー：タップ、ドリル、エンドミル等の切削工具メーカー",
+    "characters": 1372,
+    "sha256": "d94f82a4b15487f011791f8e355f3bedf54a6c94a7ad6993464c1bc4cbdc5f68"
+  },
+  {
+    "url": "https://www.omltd.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社オーエム製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "5f743ab847fe3dd5b4f6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.omltd.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社オーエム製作所 | 工作機械、立旋盤、その他諸機械の開発・製造・販売",
+    "characters": 1433,
+    "sha256": "e8d321505a305bb6e5e15e8e688fe0dd8f9dd5eac0110e6a117fbf5f9d3d6959"
+  },
+  {
+    "url": "https://www.okuma.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "オークマ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8825e5b613909090a9f3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.okuma.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "オークマ株式会社",
+    "characters": 4271,
+    "sha256": "dc4807629b28559666a3e24b859bca3c9464ee35cdb371d1f99bb534156e171d"
+  },
+  {
+    "url": "https://www.os-cabinet.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "大阪製罐株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b7b0c45b1fb8c23d6235",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.os-cabinet.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工場用什器製造企画販売の大阪製罐",
+    "characters": 720,
+    "sha256": "ebacb213f59645264ad046466e2be91be877f2dc6d7c83bb430421545f0d2d56"
+  },
+  {
+    "url": "https://www.autodesk.com/jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "オートデスク株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "fdae04e1b383be2f650f",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://orbray.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Orbray株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a162217bd71e9b0704b5",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://orbray.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Orbray株式会社",
+    "characters": 5456,
+    "sha256": "73fa2142d6a0a8669faedb243507b13780704116125f37b080d7bf010e10cbde"
+  },
+  {
+    "url": "https://www.openmind-tech.com/jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "オープン・マインド・テクノロジーズ・ジャパン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2391f83b6d04020e962e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.openmind-tech.com/jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "CAD CAMソフトウェア | 2.5D 加工 3D 加工 5 軸加工 | OPEN MIND",
+    "characters": 3328,
+    "sha256": "2864fe84bf5e683bf5f430e84820ad2b5a22cf86cf3978eb295925effa87835e"
+  },
+  {
+    "url": "https://www.ohmiya-machinery.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社大宮マシナリー"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "99af76b4c3d1a5c3977f",
+    "status": "取得不能",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ohmiya-machinery.co.jp'. (_ssl.c:1010)>"
+  },
+  {
+    "url": "https://www.okamoto.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社岡本工作機械製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6cf73c3dabe36cf89918",
+    "status": "取得不能",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://kato-tapper.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "カトウ工機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1f5826df1c9a6f9fd13f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://kato-tapper.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ねじ立てのコツ！カトウタッパー　カトウ工機｜オフィシャルサイト",
+    "characters": 1045,
+    "sha256": "06b1fa86e83db66bb9b25a068058166325976f123a4effe970dfd96526d380f3"
+  },
+  {
+    "url": "https://www.kanetec.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "カネテック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b96f3015c81cda66e388",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://kamo.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "加茂精工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a23793d90349d9e45c95",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://kamo.co.jp/ja/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "加茂精工株式会社｜ ノンバックラッシの高精度機器製造メーカー",
+    "characters": 2410,
+    "sha256": "64ad0f255de2c3709aeeea6ad4f11eb550a0a68a0e4c50560c577c786c1db31d"
+  },
+  {
+    "url": "https://www.kawaju.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "川重テクノロジー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "cfd7c79e7a8daae5c883",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kawaju.co.jp/",
+    "content_type": "text/html",
+    "title": "川重テクノロジー株式会社",
+    "characters": 497,
+    "sha256": "7708e1d3715717b663993587c8ec68c806ea7244129fd59a6426529e06be7707"
+  },
+  {
+    "url": "https://www.touchdex.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "川田鉄工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c1728957dc31c1cd538d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.touchdex.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "TOUCHDEX | 川田鉄工株式会社",
+    "characters": 1506,
+    "sha256": "73097a27482be19178357d15fc85ad9b9bf8e44861ce801739cbd0f25ce826a4"
+  },
+  {
+    "url": "http://www.kanzaki.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社神崎高級工機製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c6b42faabcd69b5432ae",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kanzaki.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社神崎高級工機製作所｜油圧機器・トランスミッション・マリンギヤ・電動機器・工作機械",
+    "characters": 1316,
+    "sha256": "64f28c271ce840a1c8fb16aaa2fc034c878261855e096759d345380d3eb353c3"
+  },
+  {
+    "url": "http://www.kistem.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "キステム株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7f6258bc1de065bbf404",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kistem.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "キステム株式会社（奈良本社）",
+    "characters": 929,
+    "sha256": "b01a4718fb14916e5efd56bc21de134e9622ef9a89f301bf4cab9f7549ada070"
+  },
+  {
+    "url": "https://www.kisoh.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "キソー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "27a87b20d929a75404c0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kisoh.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "環境・洗浄機器の総合メーカー|キソー株式会社",
+    "characters": 473,
+    "sha256": "c669b9bf4a715e8e7cd4adf21cd519b41cef6894628009b2c20c5fe2fcd065fc"
+  },
+  {
+    "url": "https://www.kiw.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社北川鉄工所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ad04e3c22b1f7752d6e3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kiw.co.jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "株式会社北川鉄工所 | パワーチャック・タワークレーン 国内No.1の総合製造メーカー",
+    "characters": 4948,
+    "sha256": "05dad68a9b4b66dad6f6aaf902ef8f655fbf318493e8ed6f1651c780f7bfd012"
+  },
+  {
+    "url": "https://kitamura-machinery.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "キタムラ機械株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ad417bc624fd541e0d06",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://kitamura-machinery.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "高精度加工なら高精度マシニングセンタ・高剛性マシニングセンタのキタムラ機械",
+    "characters": 3714,
+    "sha256": "c11731b2310fad52377e64771b6fb80df7d8273901b7fa62608945e39a8dd973"
+  },
+  {
+    "url": "https://jknc.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社北村製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c87fe2ec1f636908189a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://jknc.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社北村製作所",
+    "characters": 1128,
+    "sha256": "aecd4354d052a66daaebaeaaf4efa7ee89f5aaa8f30c2111fe950a408684330a"
+  },
+  {
+    "url": "https://www.capind.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社キャプテンインダストリーズ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0cba1a993c2e8663127a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.capind.co.jp/",
+    "content_type": "text/html",
+    "title": "株式会社キャプテンインダストリーズ",
+    "characters": 4238,
+    "sha256": "eaeeb322066632d13c4bb73d44f5e1e71635048c2a7cbdd70fba5fcdb9032314"
+  },
+  {
+    "url": "https://camtus.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "キャムタス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e1a47d190ef17f7848c1",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://camtus.co.jp/",
+    "content_type": "text/html",
+    "title": "キャムタス株式会社",
+    "characters": 735,
+    "sha256": "584d375c2311ea17c5d69a388eaa28500da1b8632915aad764f4527ef6884fd6"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/prdct/tool/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "京セラ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0cdfa4b54fe452a137ce",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kyocera.co.jp/prdct/tool/",
+    "content_type": "text/html",
+    "title": "機械工具 | 京セラ",
+    "characters": 2720,
+    "sha256": "fd0062c7a25e09685088a723170c5ff2036ac2ee8d16430f4d5c7696f09daef9"
+  },
+  {
+    "url": "https://www.kyoritsu-seiki.co.jp/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "共立精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "58c73088d3386c1d5e9b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kyoritsu-seiki.co.jp/ja/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "共立精機株式会社",
+    "characters": 1527,
+    "sha256": "5e09ed50d13b94d5a8bf74222cf770bf4373d594244f0b67332716ac1707fe44"
+  },
+  {
+    "url": "https://cooltech.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "クール・テック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "df354dcd890b229b7e23",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://cooltech.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "クール・テック株式会社 | アルカリイオン水・ミスト加工で生産性向上、環境対策",
+    "characters": 1552,
+    "sha256": "8da476a5d43a8301ab9111619d0eac4cd5a6eb1af43dce4ed2691cebd7f4d3ed"
+  },
+  {
+    "url": "https://www.quod6.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Quod6株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "5a5eb04bf5730a7e4b73",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.quod6.com",
+    "content_type": "text/html",
+    "title": "Quod6 株式会社",
+    "characters": 2003,
+    "sha256": "3eb1e984faf3811fb843509b57d72db95e109f019eef9ce44b967abb875b0456"
+  },
+  {
+    "url": "https://www.stertec.co.jp/~kunimori/silveyer/index.html",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社国盛化学"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6008143c68546fb1d8bc",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.stertec.co.jp/~kunimori/silveyer/index.html",
+    "content_type": "text/html",
+    "title": "製品紹介 | 株式会社国盛化学",
+    "characters": 3596,
+    "sha256": "9ae226c302df83143e08095d9e39b451eede9abe4c6a38b561c7dfd1009baa64"
+  },
+  {
+    "url": "http://www.voxa.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社クリエイトエンジニアリング"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "da6dd6a1f51230aa7412",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.kreuz.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社クロイツ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "11b3f30666c6ec39b51d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kreuz.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "HOME｜株式会社クロイツ",
+    "characters": 11019,
+    "sha256": "9c37cb07c0f9c85ac40e7cc47c2afeeca598080b0fe199ba573b006a11c761e6"
+  },
+  {
+    "url": "https://glo-j.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社グローバル・パーツ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b65db05ff48a8596f7f0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://glo-j.co.jp",
+    "content_type": "text/html",
+    "title": "株式会社グローバル・パーツ",
+    "characters": 464,
+    "sha256": "38eddbff0eda57cd74063e0be8fec0453ee5a54c547c5027ad88fd836cc18acb"
+  },
+  {
+    "url": "https://kurodaprecision.com/jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "黒田精工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3120b4fe60049d4725ab",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://kurodaprecision.com/jp/",
+    "content_type": "text/html;charset=utf-8",
+    "title": "黒田精工株式会社",
+    "characters": 5207,
+    "sha256": "1cae74052f21fcce74b8a3b3ea4c1db054965790614f4779e4d0fe8ea5e18b85"
+  },
+  {
+    "url": "https://www.grobgroup.com/jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "GROB Japan株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b07663111be0ddeaffe3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.grobgroup.com/jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "スタートページ - GROB",
+    "characters": 3313,
+    "sha256": "dff4e492d4389685e2ed632266d537438c21599bda496af366df1e7e2db62364"
+  },
+  {
+    "url": "https://www.kmkworld.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ケーエムケーワールド"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "979c433829ede8106f76",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kmkworld.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社ケーエムケーワールド – 「やさしいIT企業No.1」株式会社KMKWORLD。ERPをはじめとする業務系基幹システム、システムコンサルティングから開発、保守運用、それぞれの分野に精通したシステムエンジニアリングなど幅広く最適なソリューションを提供いたします。",
+    "characters": 1413,
+    "sha256": "f56b2bc95419a055e2ce653ffd04e597bbae65c78a0bff040da34c94d8d4887a"
+  },
+  {
+    "url": "https://kelk.komatsu/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ＫＥＬＫ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4bf19d4360736e4fd98e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://kelk.komatsu/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "株式会社ＫＥＬＫ",
+    "characters": 1846,
+    "sha256": "9a8484fbd7e1cd4415106494c2d3507fe5eda13cfe31adf1bdefa444c14fc933"
+  },
+  {
+    "url": "https://www.p-coretech.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "コアーテック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2a94456ee023cc5c6c51",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.p-coretech.com",
+    "content_type": "text/html",
+    "title": "コアーテック株式会社",
+    "characters": 1358,
+    "sha256": "4a2d9e50874b26e4dd14c598049e1afca80448b0d5e3347e30d4a2c45a005592"
+  },
+  {
+    "url": "https://optical.kowa-opt.co.jp/fa/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "興和オプトロニクス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e43b9c9da4e5b67ed377",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://optical.kowa-opt.co.jp/fa/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "産業用ビジョンユニット｜興和オプトロニクス株式会社｜ビジョンセンシング事業部",
+    "characters": 1100,
+    "sha256": "b449cf53e6f0c8cccf305bae5d37a1e9b56fe177646b6663a356904054649869"
+  },
+  {
+    "url": "https://www.gosho.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ゴーショー"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6cffa8ea4e8ef20db55a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.gosho.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "欧州工作機械の日本代理店は株式会社ゴーショー",
+    "characters": 2466,
+    "sha256": "7d64093084a919c9074576776f9207842ab62447a0de20ac5eaa266229778acc"
+  },
+  {
+    "url": "https://www.godo.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ゴードーソリューション"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ced9790a578758237688",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.godo.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "CAD/CAMや編集・NC加工シミュレーション・NCプログラム通信・工作機械の稼働監視システムを販売しているゴードーソリューション",
+    "characters": 6836,
+    "sha256": "361117649624a2684876392e33905eab82ac91fdf3f3f9507a0c7240b9426a5d"
+  },
+  {
+    "url": "https://www.kodamacorp.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "コダマコーポレーション株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "5b0314411de25a4b1084",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kodamacorp.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "コダマコーポレーション株式会社",
+    "characters": 4915,
+    "sha256": "cdd15b4ad0f3902ae8f2a87e3998ba9169b60714ea936016cfa1ba1cb3d1056d"
+  },
+  {
+    "url": "https://ntc.komatsu/jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "コマツNTC株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "462d81dff50ea7326452",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://ntc.komatsu/jp",
+    "content_type": "text/html; charset=utf-8",
+    "title": "コマツNTC株式会社",
+    "characters": 2853,
+    "sha256": "6c8195ce85640b45ca120a0893ec08973c77d586336e613b29f6b2e58c194579"
+  },
+  {
+    "url": "https://sanki.komatsu/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "コマツ産機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b480b8c6d7cb9a838656",
+    "status": "取得不能",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
+  },
+  {
+    "url": "https://www.cominix.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社Cominix"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1b9e7cbf5e2e0c2b2cac",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.cominix.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社Cominix",
+    "characters": 1925,
+    "sha256": "5d7c6e7d1a651845b9e493f4c778f976e415952e8e5f10720e39fe5cc80d4613"
+  },
+  {
+    "url": "http://www.komorisafety.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社小森安全機研究所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "94353f4076c26db5bece",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.komorisafety.co.jp",
+    "content_type": "text/html",
+    "title": "株式会社小森安全機研究所",
+    "characters": 940,
+    "sha256": "b11cfa97ddd9a5e3284e49d405eaa4da9dbd18676748890c0cf464d48afe309b"
+  },
+  {
+    "url": "https://www.komoriseiki.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社小森精機"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "fcc42556e05deebe9b75",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.komoriseiki.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ミクロン単位の高精度・超精密な部品加工なら｜株式会社小森精機",
+    "characters": 1807,
+    "sha256": "297b7ba3a42c6d0500bbcd44983f6bebfb530378910c28ff6836e9c9de6eb0b8"
+  },
+  {
+    "url": "https://www.konsei.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社近藤製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "58792638d22df84c732a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.konsei.co.jp",
+    "content_type": "text/html",
+    "title": "ハンド＆チャック・グリッパー・ロボットハンド・FAシステム開発｜近藤製作所",
+    "characters": 1628,
+    "sha256": "5f5ddae66ce7e11359676c50f33e7fc5379a98f3083a9a3693c35bf87c018726"
+  },
+  {
+    "url": "https://www.thirdwavesys.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Third Wave Systems Japan合同会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3fc349f33f3b53a5c05d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://thirdwavesys.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ホーム - Third Wave Systems",
+    "characters": 2701,
+    "sha256": "68acd45b4933922ac3621ee1f41a4d0c04e03c207a47dda31a789bf3cded901b"
+  },
+  {
+    "url": "https://www.saitama-seiki.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "埼玉精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "af2a7d86cbe7d4f6b637",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.saitama-seiki.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "エアツール（空気圧工具）一筋50年、埼玉精機株式会社",
+    "characters": 780,
+    "sha256": "921a41a000114d8d2949abb8d69716e0049df770aa5957898ad9036f3358f777"
+  },
+  {
+    "url": "https://www.saidagroup.jp/ums/product/versec",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社サイダ・UMS"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "9da51c957324b95f8357",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.saidagroup.jp/ums/product/versec",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "普通旋盤 VERSEC-neo - 株式会社サイダ・UMS",
+    "characters": 4520,
+    "sha256": "6933f4f26ad90e0380d99ddefa4f318839ab167d839b94c21588c16ec97e589a"
+  },
+  {
+    "url": "https://cyber-rc.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社サイバーRC"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "139f62c4dd6971a2ca3a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://cyber-rc.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "TOP - サイバーRC",
+    "characters": 1716,
+    "sha256": "cf53fe688b04b8dc0b49d8b2223c55b2becfbb9e2a50b969ee77a8ec9629574f"
+  },
+  {
+    "url": "https://sakurai-net.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社桜井製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e456bc23a2b9ecc9318f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://sakurai-net.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社桜井製作所｜精密部品加工・工作機械の製造・3Dプリンタ・受託造形",
+    "characters": 3509,
+    "sha256": "0a120c1329da9b5a0e610a2d31126a09d6917905fc2e1ca3dc3f368d34bf219d"
+  },
+  {
+    "url": "http://www.sto-co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "三旺株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "47941ed405849bfcd425",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.sto-co.jp/",
+    "content_type": "text/html",
+    "title": "中国製ベアリングのパイオニア 三旺株式会社",
+    "characters": 1487,
+    "sha256": "c1926244dd677c5b5b4d2ef30907ed6e9eb678aa55f9d07c697e45b9fc722bfa"
+  },
+  {
+    "url": "https://kksanshin.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社サンシン"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6e664dd7d48ae041426e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://kksanshin.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "フィルム研磨装置・精密研磨の株式会社サンシン｜新潟県長岡市",
+    "characters": 3080,
+    "sha256": "99ce6163e926275f49d41ee9b251c7e8251e26d4859cd053ebd3a99ddd3b44cf"
+  },
+  {
+    "url": "https://sumflex.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "サンフレックス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "bb48240b7a3fb5017462",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://sumflex.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "サンフレックス株式会社",
+    "characters": 865,
+    "sha256": "8d032f4b409036b53a468ab86864560a3c37e16f0817b9938fc70e05d360766f"
+  },
+  {
+    "url": "https://www.sanmatsu.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社SANMATSU"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "11a91ce18e561e62a1fc",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sanmatsu.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社SANMATSU",
+    "characters": 2806,
+    "sha256": "dea82d337be3345443cc2eefb8838660ac9d6acef433e2310a6fa553b4bcb892"
+  },
+  {
+    "url": "https://www.nakane34.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社三洋製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "736d4c081ca8e587126f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nakane34.co.jp",
+    "content_type": "text/html",
+    "title": "回転センターのNAKANE　（三洋製作所）",
+    "characters": 248,
+    "sha256": "a06d36e425592fc5f479361833fb9783a0e2315bee303586022c7dd29bb5e6b2"
+  },
+  {
+    "url": "https://sanwakouyu.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社三輪鉱油"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f59bdb4a5ec9c0ba6d79",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://sanwakouyu.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "TOP - 株式会社三輪鉱油",
+    "characters": 2375,
+    "sha256": "dda57f54758445cd9a7bf4afe8d830e76a81e5869e4b098d01f752cf496a6c43"
+  },
+  {
+    "url": "https://www.n-sanwa-sangyo.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "サンワ産業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4a19dbbb1762b73f1568",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.n-sanwa-sangyo.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工作機械や工場設備、建設業等、工場の課題解決はサンワ産業株式会社",
+    "characters": 3163,
+    "sha256": "b968cdb0ed69e4ba140ec72afd32cbb00847af54f0106bb3bde8f2f55ba07d7f"
+  },
+  {
+    "url": "https://vrr.cec-ltd.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社シーイーシー"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b8f03f7304c907b14018",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://vrr.cec-ltd.co.jp/",
+    "content_type": "text/html",
+    "title": "シーイーシー VR+R",
+    "characters": 2347,
+    "sha256": "a21c5058b34d79cfb01f1a939725093f808d44bc9e4dc69de5c4448bc14700fa"
+  },
+  {
+    "url": "https://www.ckb.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社シーケービー"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "96a7679a4b86d0899df1",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ckb.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工作機械の輸入、販売商社CKB | 株式会社シーケービー",
+    "characters": 2326,
+    "sha256": "f8463d9720ff7cf9bed07c10688cd9fc91abfc8d4f6b1c472845f6c195d9f5b8"
+  },
+  {
+    "url": "https://vericut.com/ja-jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社CGTech"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "9957cb6ac51ff6c301db",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://vericut.com/ja-jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ホーム | Vericut | 株式会社CGTech",
+    "characters": 4924,
+    "sha256": "a6a5ad37355469e332536153ab45def179416f9b2967ee0e054e6dc542b024cd"
+  },
+  {
+    "url": "https://www.xebec-tech.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ジーベックテクノロジー"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "47daa15812ed70ee62a9",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.xebec-tech.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "バリ取りの常識を変える | 株式会社ジーベックテクノロジー",
+    "characters": 1257,
+    "sha256": "e03952428a86c1b3cc858009560f36d7e15de8287e2f7faa892cb2980b9d9104"
+  },
+  {
+    "url": "https://www.siemens.com/ja-jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "シーメンス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "57ace4821dbce02e406e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.siemens.com/ja-jp/",
+    "content_type": "text/html",
+    "title": "シーメンスホーム | Siemens",
+    "characters": 5722,
+    "sha256": "77f6a87292d5c1d9770606daf4ba237b8cceff7e2e215d8b9abef1a642bc8573"
+  },
+  {
+    "url": "https://jfe-tsurumi.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "JFEエンジニアリング株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "656d0533c69feffa8cd2",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://jfe-tsurumi.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "JFEエンジニアリング 株式会社",
+    "characters": 570,
+    "sha256": "a2f7080c0339c03d726693399770ce69d31a4cff6801f612d97788b65458ba9e"
+  },
+  {
+    "url": "https://www.machine.jtekt.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ジェイテクトマシンシステム"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e70a44ac4162963b7bd4",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.machine.jtekt.co.jp/maintenance.html",
+    "content_type": "text/html",
+    "title": "メンテナンスのお知らせ｜株式会社ジェイテクトマシンシステム",
+    "characters": 399,
+    "sha256": "116bbd51186749c669d02244d3a0579c5b34572be026b155fef74b92a2f93f08"
+  },
+  {
+    "url": "https://www.jbm.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ジェービーエムエンジニアリング株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3269ac225dc9972626f3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.jbm.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "CADCAMソフトウェアのジェービーエムエンジニアリング株式会社",
+    "characters": 4271,
+    "sha256": "856780e43631afe539f346c61f319af86ee379e49c63a2b98baf0c0aeeb141b3"
+  },
+  {
+    "url": "https://www.shigiya.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社シギヤ精機製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "36f542571dbe32dddb07",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.shigiya.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社 シギヤ精機製作所：工作機械・円筒研削盤の製造メーカー",
+    "characters": 1739,
+    "sha256": "6ebeab230440f8e4c58798bf9f7ddf99c18362f9edaf3ba71c306b90c6d2f2eb"
+  },
+  {
+    "url": "https://www.shizuokatekko.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社静岡鐵工所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "19749cc3d78d53729c11",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.shizuokatekko.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "トップページ - 株式会社静岡鐵工所株式会社静岡鐵工所",
+    "characters": 2510,
+    "sha256": "ec37d0194af50da66d42a30d8b97d80d6e97662e774a3c267ca28f5e7a81d856"
+  },
+  {
+    "url": "https://cmj.citizen.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "シチズンマシナリー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3230c7397dbafa38cbe5",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://cmj.citizen.co.jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "シチズンマシナリー株式会社",
+    "characters": 2281,
+    "sha256": "45aaa92e503809df42f37516ad9bfe40189a704b4b0043d59b7c782f8a0628c3"
+  },
+  {
+    "url": "https://www.shibaura-machine.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "芝浦機械株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "282a8f27dd0251e6f47b",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://smd.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社シマダマシンツール"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "88311f4977b4092526ce",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://smd.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社シマダマシンツール",
+    "characters": 3187,
+    "sha256": "4399eeeb8c33717be65dcf78e5f339bc4b5222bf058c104dbad3664f043893e9"
+  },
+  {
+    "url": "https://info.toolsunited.com/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "CIMSOURCE Japan株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "9f5a7081e5dc02ed7891",
+    "status": "取得不能",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "url": "http://www.schunkjapan.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "シュンク・ジャパン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e10799f8903835f29f77",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://schunkjapan.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "シュンク・ジャパン株式会社 | 産業用ロボットハンド、工作機械用ツールホルダー、グリッピング、クランピングメーカー、ロボットハンド、グリッパー、ロボット",
+    "characters": 1844,
+    "sha256": "af8f34a0b261568c2dd0f74fc680a5bbf4940324b9fd601605de0288410b823b"
+  },
+  {
+    "url": "https://www.shoda.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "SHODA株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "52132ef3a068af2df6a8",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.shoda.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "SHODA株式会社｜NCルータ専門メーカー",
+    "characters": 1722,
+    "sha256": "5e4dab1c583fd16d296e474809a4efd7936df32426048148c960700653692fb4"
+  },
+  {
+    "url": "https://shoraku-jp.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社松楽産業"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "595b6b7cfa9a7ca1b759",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://shoraku-jp.com/",
+    "content_type": "text/html",
+    "title": "株式会社松楽産業｜パーツカウンター(自動計数機)、シードカウンター(自動計量機)",
+    "characters": 3436,
+    "sha256": "41d1b8200d206d089ba0bd8cc729df69ed2bf0ca47f2a3632da3898f07040896"
+  },
+  {
+    "url": "http://www.shinko-mfg-co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社進興製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7f1546fefda9351be080",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.shinko-mfg-co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ラップ盤レベルまで鏡面加工ができる超精密立型ロータリー研削盤なら進興製作所",
+    "characters": 1267,
+    "sha256": "a8af3eee3e9acfd56fc720cee2ac904fc8df8fc8845b929569ec7fd052bc5c6e"
+  },
+  {
+    "url": "https://www.shinsei-tools.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社真誠"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "33134c0e3bdd80615274",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.shinsei-tools.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "真誠│金属・木材・樹脂までSHINSEIは工業用機械刃物の専業メーカーです。真誠",
+    "characters": 1129,
+    "sha256": "6c3ba9069652f6228a11f217417c10ff16fc17ddb52f47e113a7a4a1ab676fdf"
+  },
+  {
+    "url": "https://www.snkc.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "新日本工機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0c693ab244f1569e9082",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.snkc.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "SNK | 新日本工機株式会社",
+    "characters": 3554,
+    "sha256": "9457854c4596f4c5c8e243d226d06a6989dafbab002da0d14aa654e3fd56896a"
+  },
+  {
+    "url": "https://www.cimple.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "シンプルテック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d6990567601de347e468",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.cimple.co.jp/jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "NCVIEW│NCプログラム加工を高速・精密にシミュレーション！工具軌跡＋3D切削検証ソフト『NCVIEW』",
+    "characters": 3772,
+    "sha256": "2f5bd79cecf9d8b146190d343a3688bbaa2dace1730db38ca036540aeab5dbea"
+  },
+  {
+    "url": "https://star-m.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "スター精密株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "db9e48263caca50172a3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://star-m.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "スター精密株式会社 | 世界を変える星となる。",
+    "characters": 1938,
+    "sha256": "d26e1d82d7462a51d95b085729ab9d599d482b28dc11dcacf3d9eac3e56bcf51"
+  },
+  {
+    "url": "https://smartcraft.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社Smart Craft"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d245777d50ea8eb07673",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://smartcraft.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工程管理「Smart Craft」 - スマートクラフト｜製造現場DXプラットフォーム",
+    "characters": 3045,
+    "sha256": "52902aad6042b7b70564085005c34efd2035ee181aaed5fea7d69d6f7d43b842"
+  },
+  {
+    "url": "https://www.spp.co.jp/category/jigyou/yuki/index.php",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "住友精密工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8f6bae45238fcb35cc6e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.spp.co.jp/category/jigyou/yuki/index.php",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "住友精密工業株式会社 油機事業室",
+    "characters": 1428,
+    "sha256": "532735efab82b43216ff319231ca89830d34a8902909630b31eb08701b13b5b5"
+  },
+  {
+    "url": "https://www.sumitool.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "住友電気工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d6d8141191dc5f438af8",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sumitool.com/",
+    "content_type": "text/html",
+    "title": "住友電工ハードメタル株式会社・住友電気工業株式会社ハードメタル事業部",
+    "characters": 3312,
+    "sha256": "a5bb0f15142a5e9efa21a361aeb5a6a6d1d9cf83c9ca41a088c6dd6e2294bc35"
+  },
+  {
+    "url": "https://www.sii.co.jp/mt/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "セイコーインスツル株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "85776eed72dc5796ac59",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sii.co.jp/mt/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "精機部 | セイコーインスツル株式会社",
+    "characters": 5327,
+    "sha256": "bd5333d3bee64f7448d9ffc47deb96ec3ac8446b30c9811e843414d488e053af"
+  },
+  {
+    "url": "https://seibushoko.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "西部商工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d975fd39e9b7d9f32fee",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://seibushoko.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工作機械の修理・メンテナンス、工場IoTの西部商工株式会社西部商工株式会社",
+    "characters": 3355,
+    "sha256": "1e809d389221a4de4d0218a0541fe82936d43dddb3642b9848750323b91f16c3"
+  },
+  {
+    "url": "https://www.seibudenki.co.jp/seimitu/discharge-machine/products/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "西部電機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1cf33324f4f2d0bb0be6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.seibudenki.co.jp/seimitu/discharge-machine/products/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "製品情報/加工サンプル｜放電加工機｜西部電機 精密機械事業",
+    "characters": 3998,
+    "sha256": "c4ea73039ac9611b62c94a5af1b61fadc0c2a09a2f0586414ec108e4ea2ff6d9"
+  },
+  {
+    "url": "https://www.seibuhitec.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社西部ハイテック"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4ed2ffeaf706e2cb6249",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://error.technowave.ne.jp/",
+    "content_type": "text/html",
+    "title": "緊急メンテナンスのお知らせ",
+    "characters": 86,
+    "sha256": "9f9a4b483108de173c6895f06604fd2bec3aa437df105c2fa4edb3d91aafadd1"
+  },
+  {
+    "url": "https://www.saeilo.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社セイロジャパン"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f6d4dc32de95145706e5",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.saeilo.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "製造業向けCAD/CAM/CAEのセイロジャパン",
+    "characters": 4246,
+    "sha256": "4f274d7f16b58cb47bba7935532b8a305897fe48d446eb4f68a163bed1ff9089"
+  },
+  {
+    "url": "https://www.mastercam.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ゼネテック"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "fdb14f66979abd191536",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.senjo-seiki.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "先生精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "69849217c73773d73814",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.senjo-seiki.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "バリ取り｜面取り｜バリ取り機　面取り機の先生精機",
+    "characters": 950,
+    "sha256": "dc1b0c0c7343e63465e4b4754622ff7c0f75806a90b92bea5453b187c4a61e53"
+  },
+  {
+    "url": "https://www.sojitz.com/jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "双日株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "bb0ee38ac6daa78015e8",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sojitz.com/jp/",
+    "content_type": "text/html;charset=utf-8",
+    "title": "双日株式会社｜Sojitz Corporation",
+    "characters": 12436,
+    "sha256": "e0eb7d8efc5abad95ff5fdfb26fd27b7bda1b59233ecd4716425d42ba0f2a62a"
+  },
+  {
+    "url": "https://www.sowakasei.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "双和化成株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8de995f65dbc66eedfd0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sowakasei.com/",
+    "content_type": "text/html",
+    "title": "ファイバー砥石、研磨材、高機能FRPの製造・販売 | SOWA-双和化成",
+    "characters": 2953,
+    "sha256": "00d46a2c2cf643bc1935df31b75cc1c077d6c0986a9f9f8d71eb2879c04d7aa6"
+  },
+  {
+    "url": "https://www.sodick.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ソディック"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b8ae4c0162e388572903",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sodick.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "未来を創る Sodick（株式会社ソディック）",
+    "characters": 4264,
+    "sha256": "0097bb578d42408d22ac30f563b5765d8f9c41cffbe927bfc84101d04d1a98e0"
+  },
+  {
+    "url": "https://soneda.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "有限会社曽根田工業"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8a52d6c4a3fabd90654a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://soneda.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "切削工具の事なら「有限会社曽根田工業」",
+    "characters": 3403,
+    "sha256": "3884f578eae8fe575d2050cb20cd2d5255a5b8c68ba194c80d76680f7a66ad05"
+  },
+  {
+    "url": "https://www.sofix.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ソフィックス"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "825357966c44977c2d26",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sofix.co.jp/",
+    "content_type": "text/html",
+    "title": "Simple & Direct 株式会社ソフィックス",
+    "characters": 4521,
+    "sha256": "318b455d2bcbbc6a15bb581fb8e4b4764fe7770226e6a1d1763f924a45d4af4e"
+  },
+  {
+    "url": "https://www.issoku.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社第一測範製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "9f0c2e82fb1f22bc49c2",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://issoku.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "計測 精密機器 なら 第一測範製作所 – 測定精度は０．１μm",
+    "characters": 2596,
+    "sha256": "e4f37f6936369cb353f8a9fcc0bcb4ed1900923c3655725302de22567bd7e5ec"
+  },
+  {
+    "url": "https://www.taiseikogyo.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "大生工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3331bf82547266f1107b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.taiseikogyo.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "産業機械用オイルフィルタ・熱交換器専門メーカー大生工業株式会社",
+    "characters": 3825,
+    "sha256": "8885584e69246be383d9f00eadb72ab71000dec709d3e2b8647eff2db6d85cf3"
+  },
+  {
+    "url": "https://www.dynamictools.co.jp/item",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ダイナミックツール株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1f1409cf0b060ed13b98",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.dynamictools.co.jp/item",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "取扱商品 - ダイナミックツール株式会社",
+    "characters": 381,
+    "sha256": "7d35f9c5ce28aeb72e8c9c0091ebe509a35cc8a86a6c6ae69ec4a58c2c96243d"
+  },
+  {
+    "url": "https://www.taiyu-chem.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "タイユ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "05311c068e47dd4e17a1",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.taiyokoki.com/jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社太陽工機"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "27b3d0ee59982beed644",
+    "status": "取得不能",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "url": "https://www.takashima.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "高島産業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "da3d4acecd4c9f5a20e7",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.takashima.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "高島産業株式会社",
+    "characters": 1246,
+    "sha256": "2cad0f483541f5463e8cbfa1437c3e8e9500b003460129f89185014dd2eb5f38"
+  },
+  {
+    "url": "https://www.takisawa.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社TAKISAWA"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ba5c64d86a13b9870d0f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.takisawa.co.jp/",
+    "content_type": "text/html",
+    "title": "株式会社ＴＡＫＩＳＡＷＡ",
+    "characters": 1056,
+    "sha256": "c3c799260432d55595a934fea74b00e49a45f5941559785256b5cc739682561a"
+  },
+  {
+    "url": "https://tactx.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "タクテックス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "778845ffd13a8ad99954",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://tactx.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "タクテックス株式会社 | CAD/CAM･オフィス周辺機器 | 名古屋",
+    "characters": 4672,
+    "sha256": "f91d7f9d6b3b5103371ffe129d812579f13da2752bb479cd7e0a7833ae09f60c"
+  },
+  {
+    "url": "https://takumi-giken.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "匠技研工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "56a178a2d3aa5bd18027",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://takumi-giken.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "匠技研工業株式会社",
+    "characters": 907,
+    "sha256": "3272b5033a66797e3315f9a3b8a2c0093e5e41e37276ccea127a117b37d883ce"
+  },
+  {
+    "url": "https://www.faweb.net/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社たけびし"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f809508b41ed873f1057",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.faweb.net/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "たけびしFAWEB",
+    "characters": 1563,
+    "sha256": "164f13a87ac51a7f185d1447cce352505ce71cf89f045ef8b5dc889724f42e37"
+  },
+  {
+    "url": "https://tungaloy.com/jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社タンガロイ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3cc19ddb47c6a3684965",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://tungaloy.com/jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社タンガロイ",
+    "characters": 5028,
+    "sha256": "232137b41b2ab398708d8909d7d532188011057163959b01d20dd816384ab54d"
+  },
+  {
+    "url": "https://www.tipton.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社チップトン"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ef5e25f8174d5e0d0a1d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.tipton.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "バレル研磨(研磨機、研磨材、研磨石、コンパウンド)を主とする株式会社チップトン",
+    "characters": 2639,
+    "sha256": "68f1f168abb530f24cb7ba3b6d5eb81dad9a607c60d8c4df6938335868074853"
+  },
+  {
+    "url": "http://chubu-cl.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "中部クリーン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "234b535bb744397fdccb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://chubu-cl.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "中部クリーン株式会社",
+    "characters": 654,
+    "sha256": "2b97ff37461a327e44f9972b816a618fa011fcb8588e2283c7153cab458ad5a5"
+  },
+  {
+    "url": "http://japan-parts.org/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "一般社団法人中部部品加工協会"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "27249645c70d9f550a43",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://japan-parts.org/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "一般社団法人 中部部品加工協会 | 将来の日本のものづくり産業の更なる発展のため設立された協会です。",
+    "characters": 3013,
+    "sha256": "3f905c4c737af340d6414bdb09b15c085e773996d605477bb8d7f224b7fa3612"
+  },
+  {
+    "url": "https://toolde.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ツールドインターナショナル株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "703e44133458aa80a196",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://toolde.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ツールドインターナショナル株式会社",
+    "characters": 1710,
+    "sha256": "f071a12f55a4480a9ef3754a1927762f3d990703702862ed84caee770f9a39e7"
+  },
+  {
+    "url": "https://www.zoller.info",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ZOLLER Japan株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "05b58632eb3592e09bc8",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.zoller.info/startseite",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Start with a Solution – Enter a System. | ZOLLER",
+    "characters": 13316,
+    "sha256": "c561d10f74778844f956eadd6104518654f972332c224f9a47fab062c87651de"
+  },
+  {
+    "url": "https://www.tsugami.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ツガミ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7f02862909dde9a8f2e9",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.tsugami.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社ツガミ",
+    "characters": 1904,
+    "sha256": "d4eb764c16ecdf4885fce95f444018e0fbd995447208416ef8f6edad222222f4"
+  },
+  {
+    "url": "https://www.syouryokuka-kikai.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "筑波エンジニアリング株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "98f28ba5b54f510717aa",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.tsudakoma.co.jp/index.html",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "津田駒工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "841ec097716f965df342",
+    "status": "取得不能",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.dmgmori.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "DMG森精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "745aab022d2d14c3dbba",
+    "status": "取得不能",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://tpr-osk.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "TPR大阪精密機械株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "48fcffd272780f5a148e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://tpr-osk.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "TPR大阪精密機械株式会社",
+    "characters": 1712,
+    "sha256": "7ea2da79a1922fa9b22012676f342057751cc0450ddca8c5ec8c99563c708c7a"
+  },
+  {
+    "url": "https://www.thk.com/jp/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "THK株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2f8a7e288006b3116d70",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.thk.com/jp/ja/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "THKオフィシャルウェブサイト",
+    "characters": 939,
+    "sha256": "c342972f4f400c4c2bb9e87f57122125a6162cfa5e72da6e72244a803e472b48"
+  },
+  {
+    "url": "https://www.teiken-corporation.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社テイケン"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7dd2730945c4953a2696",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.teiken-corporation.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "研削砥石メーカー - 株式会社テイケン",
+    "characters": 2094,
+    "sha256": "d3c06e789bb0fead425f30456190d9fe4b2636e9ce4c0beecdcdab7fb7e87219"
+  },
+  {
+    "url": "https://www.techs-s.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社テクノア"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f1e97aa930fdedafaa7d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.techs-s.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "中小製造業様向け DXソリューション・生産管理システムのテクノア",
+    "characters": 3301,
+    "sha256": "6cd7ab2a2e20570ea4eb08bf5fec6a830c9d09b7b4fad142a3fcc2243ad1f594"
+  },
+  {
+    "url": "https://www.techno-dynamics.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "テクノダイナミックス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d0a5a38ceeec21e556e7",
+    "status": "取得不能",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.deublin.com/ja",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "有限会社デュブリン・ジャパン・リミテッド"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a909c52e8b416bbfdd57",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.deublin.com/ja",
+    "content_type": "text/html;charset=UTF-8",
+    "title": "Deublin",
+    "characters": 3869,
+    "sha256": "5dfa97823be292e613fae9440ad36a2cd15eec0373c2f9f4ca043b0d01a63583"
+  },
+  {
+    "url": "https://www.inrevium.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "東京エレクトロンデバイス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "5a975d640cb17421ac92",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.inrevium.com/maintenance/maintenance.html",
+    "content_type": "text/html",
+    "title": "メンテナンス中",
+    "characters": 36,
+    "sha256": "e196b56ea09528f319f59bd7c972990a91bb18dae5a8767d4e94c2bec10a613e"
+  },
+  {
+    "url": "https://www.k-tsk.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社東京精機工作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c6e03b76d668ed9a551b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.k-tsk.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社東京精機工作所",
+    "characters": 1053,
+    "sha256": "3163d3a54498a907f15732ffaa7e645c2a0dff0126a2390f045a63f23e9b13b7"
+  },
+  {
+    "url": "https://www.tapping.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "東京タッピングマシン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "acc0f41dac6c3751336e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://tapping.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "東京タッピングマシン株式会社",
+    "characters": 1055,
+    "sha256": "5a8b146c26029e06309924f4d549c84b8ed1d107e63ea0f8859551b21fa25208"
+  },
+  {
+    "url": "https://www.tbts.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "東京貿易テクノシステム株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e96935679535b0708997",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.tbts.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "東京貿易テクノシステム",
+    "characters": 3535,
+    "sha256": "d2b67d7f226e0078bb4f5aef464236ea7cb1030205e5690b8b4c380ddb78946c"
+  },
+  {
+    "url": "https://www.tohshin-inc.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社東振テクニカル"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d2c419a56dcf76d55157",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.tohshin-inc.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "東振グループ | 東振精機・東振テクニカル・東振 | ローラー・研削盤・ベーンポンプ",
+    "characters": 2007,
+    "sha256": "5dce349ff0382ddfded9a9c560a9c8d486ad6d0195929e5fec82b9155e797f94"
+  },
+  {
+    "url": "https://www.toyo-tos.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社東陽"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "16bcc8061142e4223e23",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.toyo-tos.co.jp/",
+    "content_type": "text/html",
+    "title": "株式会社 東陽",
+    "characters": 1419,
+    "sha256": "24d1065a8ec9c682445bcc426985fddb2a522284599f721cef3d2fcd958f3373"
+  },
+  {
+    "url": "https://www.toyosk.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "東洋精機工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b5bc36cb4a545478fcd0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.toyosk.com",
+    "content_type": "text/html",
+    "title": "東洋精機工業株式会社",
+    "characters": 195,
+    "sha256": "7a1ca2c6de71658a173737f945bffc834dd094461088a9da74cd9700b131480f"
+  },
+  {
+    "url": "https://www.tokyo-chokoku.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "トーチョーマーキングシステムズ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c69ecbad48bd6cd46fda",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.toyo-at.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "トーヨーエイテック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c2861148cd1005d76476",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.toyo-at.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "トーヨーエイテック株式会社 | Toyo Advanced Technologies Co.,Ltd.",
+    "characters": 4213,
+    "sha256": "34bba255f410fd317d56d5b3c89c45af3d3dd69c5d77c82003e695caf317b5b6"
+  },
+  {
+    "url": "https://www.trioptics.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "トライオプティクス・ジャパン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7797bf23dded72e40c69",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.trioptics.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "光学測定装置のトライオプティクス・ジャパン株式会社",
+    "characters": 1499,
+    "sha256": "1e9f6e5c5a25876b2a20ca3fc5b1fed61101360167e2787c0887096802558b1d"
+  },
+  {
+    "url": "https://www.trumpf.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "トルンプ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2b7735a7483be895120f",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.nakamura-tome.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "中村留精密工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "744b0458bc935762abe0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nakamura-tome.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "中村留精密工業株式会社 – 複合加工機を作る工作機械メーカー",
+    "characters": 2322,
+    "sha256": "1cb9db9f854fc9dd0d1e99504b19ef7709566e00f4d4daea365074faabb3cb0e"
+  },
+  {
+    "url": "https://www.nabeya.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ナベヤ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3ce81876b8cad9781859",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nabeya.co.jp/",
+    "content_type": "text/html",
+    "title": "治具・マシンバイスの製造メーカー｜株式会社ナベヤ",
+    "characters": 3011,
+    "sha256": "0e9437632ccfb646b5a7ce28b34917cc772a0d4cf2a803fb5ad04375714bbdbb"
+  },
+  {
+    "url": "https://www.nbk1560.com/?SelectedLanguage=ja-JP",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "鍋屋バイテック会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "623564e64e698a1f04c1",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.bellows.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ナベル"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d181eb6e2dfffbb9b9a6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.bellows.co.jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "ジャバラの株式会社ナベル",
+    "characters": 1380,
+    "sha256": "09bf88ef7e078b67e2ba0981ea8f214994d1dc953e67222e5391e1645f0c5bd2"
+  },
+  {
+    "url": "https://www.nankaikozai.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "南海モルディ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a8a1f7d34f1149612586",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nankaikozai.co.jp",
+    "content_type": "text/html",
+    "title": "南海モルディ株式会社(旧　南海鋼材株式会社) | 金型・金型材料・治工具のスペシャリスト",
+    "characters": 1674,
+    "sha256": "ce92ed8001b05f5bb291c02f86bf6f9ce67e5d3663297e5fc641b11cafd22af4"
+  },
+  {
+    "url": "https://www.nango-kyoto.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ナンゴー"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "680be763b3a0d64f0acd",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nango-kyoto.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "(株)ナンゴー｜機械加工/金属加工/試作/旋盤/フライス/治具 京都/大阪",
+    "characters": 1843,
+    "sha256": "08eecb435de008603fa3abab1ec4bffc64a19c2a7c7c7ec140233537a34757f8"
+  },
+  {
+    "url": "https://www.niigataseiki.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "新潟精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c9fb9f08f5a59af48739",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.niigataseiki.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "新潟精機株式会社｜新潟精機株式会社は、レベルニック（デジタル水準器）・ピンゲージ・リングゲージなどの測定工具、エアパーツなどのDIY製品の製造・販売メーカーです。測定工具・DIY製品は新潟精機株式会社におまかせください。",
+    "characters": 2663,
+    "sha256": "3b0a3f8785334e749396f7eac72c3f4e6ff39be0cda672e481b0842bad00f8f6"
+  },
+  {
+    "url": "https://n-mtec.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ニイガタマシンテクノ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a3ae319d154873909452",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://n-mtec.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社ニイガタマシンテクノ",
+    "characters": 2153,
+    "sha256": "3e57eafe72e107b00f6265525262f36c4e03bce02153b09953fd93451bb09c44"
+  },
+  {
+    "url": "http://www.nishijima.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "西島株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8a37bdb56cac0ccb542b",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.nikken-kosakusho.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社日研工作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "bf55ae1afbab3d847218",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://nikkokizai.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日工機材株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "369226064bb8e5da35e3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://nikkokizai.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "日工機材株式会社 | 製造現場に笑顔を。人と人、人とモノ〜未来につなぐオーケストレーター〜",
+    "characters": 1546,
+    "sha256": "3332b5b6badeb4a1a0910bf7eb67b42401d900e6ff14e048eff26af61a7c63ed"
+  },
+  {
+    "url": "https://www.ns-tool.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日進工具株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "aecb748138c3a97b5023",
+    "status": "取得不能",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "url": "https://mktg.nissin-mfg.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社日進ProSOL"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c4ddb44db05748a86cba",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://mktg.nissin-mfg.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Honing Solution Museum｜株式会社日進ProSOL",
+    "characters": 1357,
+    "sha256": "d31044861c0784c0fe76e44bce7a67b1958f0ef686775f0dc434dc9a9dd164fa"
+  },
+  {
+    "url": "https://www.nissei-gtr.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ニッセイ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "59b41426891eade51c01",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nissei-gtr.co.jp/",
+    "content_type": "text/html",
+    "title": "高剛性歯車やギアモータ・減速機などの動力・伝導機器の製造・販売の株式会社ニッセイです。",
+    "characters": 4430,
+    "sha256": "b79948487c7eb344376d19700255cfdf4934801a46dddc00859b5ae68c3d2e6b"
+  },
+  {
+    "url": "https://www.nitto-kohki.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日東工器株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "dc8ac6c05ecb4006ce95",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nitto-kohki.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "日東工器株式会社",
+    "characters": 2702,
+    "sha256": "821dbc3c1aa7b121ed4d248e6466fe9695ff2adafe703c9d6a480fcd5c02b933"
+  },
+  {
+    "url": "http://www.nitto-s.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日東商事株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1e5e0f8463ad6e4f049b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.nitto-s.jp/",
+    "content_type": "text/html",
+    "title": "ホーム | 日東商事株式会社",
+    "characters": 2271,
+    "sha256": "4c3c0706a00a6164901a95048cc01ac48e8d36d7151a7abee7dfa35733db3680"
+  },
+  {
+    "url": "http://nittopolygon.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日藤ポリゴン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4c07f49508597a836183",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://nittopolygon.com/",
+    "content_type": "text/html",
+    "title": "日藤ポリゴン株式会社-工作機械の製造販売メーカー",
+    "characters": 956,
+    "sha256": "5ed424229274ab6bc5348bebdbe38f539348b6324a352b8d5f6051045af297b1"
+  },
+  {
+    "url": "https://www.nidec.com/jp/nidec-okk/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ニデックオーケーケー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "15211ee0c5ac743c729b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nidec.com/jp/nidec-okk/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "ニデックオーケーケー株式会社",
+    "characters": 719,
+    "sha256": "27b3757966d00ee59bfb21a380b3731b1e031ae4b21103fbf4526259c658a55e"
+  },
+  {
+    "url": "https://www.skf.com/jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本エスケイエフ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3d5811c751f24f730920",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.skf.com/jp",
+    "content_type": "text/html",
+    "title": "SKF",
+    "characters": 3,
+    "sha256": "4c37fdd5cd5e5f187b2b985fa633da7a88344cf5087e764c67fed2136aba5ab4"
+  },
+  {
+    "url": "https://www.nopgroup.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本オイルポンプ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ad94d94a79a220441497",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nopgroup.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "",
+    "characters": 2209,
+    "sha256": "a46ed16568c154c2e831220af502f14bb93345ed86748e5189ffb4cd57e0c8dd"
+  },
+  {
+    "url": "https://www.jam-net.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本オートマチックマシン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ee1447c242cea521934d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.jam-net.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "日本オートマチックマシン株式会社 | コネクタ・圧着機械・精密プレス・精密バイス・面取機",
+    "characters": 1130,
+    "sha256": "13e50334bbe25728e602d4d569466a09b01bf0506bf14173020057e10f5a0c86"
+  },
+  {
+    "url": "https://www.kistler.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本キスラー合同会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a71e2b409f3df55b4e8f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kistler.com",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Measurement systems and sensors | Kistler NL",
+    "characters": 3950,
+    "sha256": "cc4884a3671def1c661cac0e0ff1d3103fa9019929f1db7a2415a8cb574fbe5f"
+  },
+  {
+    "url": "https://klingelnberg.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本クリンゲルンベルグ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "07fc6234bc5ae1ecbfbc",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://klingelnberg.com",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Klingelnberg Gruppe: Klingelnberg Gruppe",
+    "characters": 1965,
+    "sha256": "bb716424d06cf4cdce8b89066aec5097cd82167ebf7c30d3843231737802056f"
+  },
+  {
+    "url": "https://speedshore.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本スピードショア株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "71d9a51fd4de40ecd94b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://speedshore.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "日本スピードショア株式会社 | 建設用仮設機材・製造機械",
+    "characters": 5916,
+    "sha256": "5ecb6abf3ecc761abaf5e7114b1d4044d980aeba36c040741823e6e9c3df37f4"
+  },
+  {
+    "url": "https://3dprinter.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本3Dプリンター株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "73d568e38df57b03694a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://3dprinter.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "日本3Dプリンター株式会社",
+    "characters": 3425,
+    "sha256": "7ccb74a24eee6cd8ae20f9dee857a5ff1c2ccbc767c30337cff92a7909894f1b"
+  },
+  {
+    "url": "https://www.nihon-seiki.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "25032671b6f0d70af137",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nihon-seiki.co.jp",
+    "content_type": "text/html",
+    "title": "日本精機株式会社｜センタレスグラインダー（心なし研削盤）メーカー",
+    "characters": 1014,
+    "sha256": "2b1984179de77900411e23a2baf11b4c2192a97a57124b83ff453897737180dd"
+  },
+  {
+    "url": "https://www.netkojo.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "日本ツクリダス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a0b149f3b7551279b019",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.netkojo.jp/",
+    "content_type": "text/html;charset=utf-8",
+    "title": "日本ツクリダス株式会社",
+    "characters": 11,
+    "sha256": "f872c9441850647d2e7d88f497041cebd8e2622ec278bf550e770b23d056b077"
+  },
+  {
+    "url": "https://www.newregiston.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ニューレジストン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "354d10ab4d0b705f0fb3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.newregiston.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ニューレジストン | KKMソリューション企業を目指す",
+    "characters": 3299,
+    "sha256": "2064bdcc3df9f0afb6d95e95965c9f603ffc6261581beaff06d32a600a271a36"
+  },
+  {
+    "url": "https://www.neoflex.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ネオフレックス"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "12a40b5aafbf3af78288",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.neoflex.co.jp",
+    "content_type": "text/html; charset=none",
+    "title": "NEOFLEX",
+    "characters": 279,
+    "sha256": "73d977849fee5388bf1789519c6c507657975bb55582aae025cf1fe38ad0024a"
+  },
+  {
+    "url": "https://www.hiwin.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ハイウィン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e589aae726c8ef40c620",
+    "status": "取得不能",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.heidenhain.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ハイデンハイン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2382758a3aae66ec562b",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.hainbuch.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ハインブッフ・ジャパン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4bb99a3b2327b2855339",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.hainbuch.jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "最新のクランプソリューションのパイオニア",
+    "characters": 1370,
+    "sha256": "ff9288bdc1beb4563bc2ae5665f2f56e188a14673ee2a0cbe83c150836787c20"
+  },
+  {
+    "url": "https://www.hawe.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "HAWEジャパン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "25613cb2424b067feed3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.hawe.com",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Home- Hawe Hydraulik SE",
+    "characters": 13118,
+    "sha256": "6f7416a73d288293977b17501a28cb053943b40f716b431aad998b214e7be061"
+  },
+  {
+    "url": "https://hacarus.com/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ＨＡＣＡＲＵＳ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "21b3727a815428169211",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.hakusankiko.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社白山機工"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0b73bcca9289298aed47",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.hakusankiko.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社白山機工 – 切屑処理の困りごとは白山機工にご相談ください",
+    "characters": 861,
+    "sha256": "96a3ec20dc61fae09cff2b54a919addc2a1d7d6d7a285a1edcf3d46b2a94e2d6"
+  },
+  {
+    "url": "https://www.pascaleng.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "パスカル株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b2de237142604a417af7",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.pascaleng.co.jp/jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Pascal パスカル株式会社",
+    "characters": 1019,
+    "sha256": "479b33c700daeb5f923059b7814de73affd9d3cd385f858eb0c1b8216b665f7e"
+  },
+  {
+    "url": "http://www.hasegawa-m.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社長谷川機械製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ea0f972fdf50588f755f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.hasegawa-m.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社長谷川機械製作所 | 小型NC旋盤・小型マシニングセンタ等の工作機械の製造を行なっております",
+    "characters": 2066,
+    "sha256": "eb928e5a235f97088bfca8cd0738826de8c3b27df5f4efcff1753d7f40c5c17e"
+  },
+  {
+    "url": "https://hatsuta.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社初田製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "58ef3bd751b7ceae8104",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://hatsuta.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "消火器・消火システムのHATSUTA",
+    "characters": 3728,
+    "sha256": "55be8d4e461ac503bebb6a64db8e63e0dbc179fd1d7b695be9a2fd003f261cb4"
+  },
+  {
+    "url": "https://www.panasonic.com/jp/company/ppe/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "パナソニックプロダクションエンジニアリング株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ddfc8878768e22b3a88e",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://hara-sss.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社原製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e940f913110b4a8c680e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://hara-sss.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "原製作所 | 3Dスキャン・リバースエンジニアリング・レーザートラッカー計測はお任せください［出張三次元測定・受託三次元測定］ | 株式会社 原製作所",
+    "characters": 2617,
+    "sha256": "c83656f802e54f503cd794f0fe9bd94f7d02d1f3d5286d86d871e38c896c93fc"
+  },
+  {
+    "url": "https://www.hikari-gr.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "光商工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f08c26d1d697496503a5",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.hikari-gr.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "光商工株式会社",
+    "characters": 2283,
+    "sha256": "0b597aeb35441a5dd44b76197a3b172c452fa446cd9047905c2696910f01ba88"
+  },
+  {
+    "url": "https://thermal.hirochiku.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社広築"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ded992acace980a86498",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://thermal.hirochiku.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "サーマルの熱処理設備サイト",
+    "characters": 3727,
+    "sha256": "c04be927f29c72907393b3949ccf67d36f30348954cd3cbd8520c50972d29b34"
+  },
+  {
+    "url": "https://www.firstec.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ファーステック"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c9101cb76e99e75ef39e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://firstec.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社ファーステック",
+    "characters": 2336,
+    "sha256": "785ac37564934c83e6295d6db63704eb6e88dbc8b47edae12415049eef3c1d80"
+  },
+  {
+    "url": "http://www.first-giken.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ファースト技研"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ae7f511d00b943fcb243",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://first-giken.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社ファースト技研 ｜FIRST GIKEN CO.,LTD.",
+    "characters": 1063,
+    "sha256": "7a5acb837fdce8564a31e7884fe19498550f6445ad4805ca5a980f85555b48b8"
+  },
+  {
+    "url": "https://www.fact-cam.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社フアクト"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3659c8b3ae12b2f54758",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.fact-cam.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社フアクト | Fusionの導入・CAM連携支援",
+    "characters": 6589,
+    "sha256": "e50cf83d0e63aaad3eb40c8186aa56702431a9e18020e0f8851232910899e0e3"
+  },
+  {
+    "url": "https://fact-base.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社Fact Base"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4e7b0f1df57192079c1a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://fact-base.com/",
+    "content_type": "text/html;charset=utf-8",
+    "title": "株式会社Fact Base",
+    "characters": 13,
+    "sha256": "fd73e8ac463f81a817f179ad90c7d3f598bae3e8ab7bcc40d6f6766768af7443"
+  },
+  {
+    "url": "https://www.fagorautomation.com/ja",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ファゴール・オートメーション・ジャパン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7dbf8546953e2c18fcd2",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://fagorautomation.com/ja/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Fagor Automation | Fagor Automation Japan",
+    "characters": 1448,
+    "sha256": "d27fdc2503a3ef328b7b6001b6ec84052ec0e9a05eb2bb523db8b29274a8d926"
+  },
+  {
+    "url": "https://www.fanuc.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ファナック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "13f056e55146808cf755",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.fanuc.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ファナック株式会社 (FANUC CORPORATION)",
+    "characters": 4205,
+    "sha256": "fc89e7da5dae6d1d484fc62eee01d0dd92712165ad9c753dbf2bcad29f2721fb"
+  },
+  {
+    "url": "https://www.vollmer-group.com/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "フォルマー・ジャパン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c25a866785c870ad2b2c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.vollmer-group.com/ja/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Home",
+    "characters": 5499,
+    "sha256": "c65fa34bc3ff7d2e61d09a83d14188f14237b1d8666a83765730e367dabde6f1"
+  },
+  {
+    "url": "https://www.fuji.co.jp/product/mt/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社FUJI"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8d19bb011453d50023d5",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.fuji.co.jp/product/mt/",
+    "content_type": "text/html",
+    "title": "工作機械 | 株式会社ＦＵＪＩ",
+    "characters": 2126,
+    "sha256": "bb0b768f53ee9d5cb2eb97220c19179d3e764c5f35800c2e3b5bb1712d5aaa11"
+  },
+  {
+    "url": "https://www.fuji-kiko.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社富士機工"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d76da4fdb8e85cd25981",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.fuji-kiko.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "HOME | 板金加工機械の製造は富士機工",
+    "characters": 3265,
+    "sha256": "f2fbc6bd2aa48ee97af47fbee7e24540ed61323ecefee6a38eca3f51366d267f"
+  },
+  {
+    "url": "https://www.nachi-fujikoshi.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社不二越"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "df66b77805c723ab7907",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.nachi-fujikoshi.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "産業用ロボット、ベアリング、油圧機器などの製造販売 | 株式会社不二越",
+    "characters": 4144,
+    "sha256": "8180ea892235374957f6264cf2f8c68e41e1a0a44b8630d9faac8f92f3ff949c"
+  },
+  {
+    "url": "https://www.c-max.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "富士精工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2b0bfcc7f31f9ed42623",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.c-max.co.jp/",
+    "content_type": "text/html",
+    "title": "C-max 富士精工株式会社",
+    "characters": 1870,
+    "sha256": "c1030c58cbd08d6ead9a175f7da1299e54c9ea141e0c3c7e389934495b53830c"
+  },
+  {
+    "url": "https://www.fuji-bc.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "フジBC技研株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e087fc833eb4bfbe447b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.fuji-bc.com/",
+    "content_type": "text/html",
+    "title": "フジBC技研株式会社 | MQL(セミドライ)加工･専用油剤と切削工具 名古屋　大阪　東京【FBC】",
+    "characters": 6647,
+    "sha256": "3c77c21cd950fdcbf61e08656d8d7b3cef2c9ce53b950d5559691c80356bc099"
+  },
+  {
+    "url": "https://www.brinkmannpumps.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ブリンクマン・ポンプ・ジャパン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4e85599e0672416b833c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.brinkmannpumps.jp/jp/home/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "工作機械産業向けクーラントポンプ - BRINKMANN PUMPS",
+    "characters": 2467,
+    "sha256": "93c604f235059017f5673dcda0ae368b0862073347ae6b95387111b6a06198a4"
+  },
+  {
+    "url": "https://www.blum-novotest.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ブルーム-ノボテスト株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c013954ad0c80fd5609e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.blum-novotest.com",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Blum-Novotest | Fertigungsmesstechnik",
+    "characters": 5617,
+    "sha256": "d01234c02a0336f75d857c2003abf7a4b712b2f374e89fa31ae553f3da4cdcf7"
+  },
+  {
+    "url": "http://www.furukawaseiki.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "古川精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "cbd4acf294e3febbc367",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://furukawaseiki.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "古川精機株式会社",
+    "characters": 2680,
+    "sha256": "ead7bc5453020f825b1432d921f8dcdf2528f0ff6f43651facd5525bec47acd1"
+  },
+  {
+    "url": "https://www.broadleaf.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ブロードリーフ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c480fa0ed7a0337bada3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.broadleaf.co.jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "株式会社ブロードリーフ",
+    "characters": 4755,
+    "sha256": "37c00ca0b8c02758f9c5ade3d54565ec55a2a72801e8e7412d31e6cbfb1c56b0"
+  },
+  {
+    "url": "https://www.bunri.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ブンリ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "55f32813aacf8ed7a653",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.bunri.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "研削・切削液（クーラント）のスラッジ・切粉濾過装置の専門メーカー｜BUNRI（ブンリ）",
+    "characters": 2802,
+    "sha256": "eab8d1969bd7de712fd375aff5329ce629ebe7897b32a55d92bd1ec6608479bd"
+  },
+  {
+    "url": "https://www.hexagon.com/ja",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Hexagon Manufacturing Intelligence株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4648a0c1c8916eaf6d40",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.vectrix.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ベクトリックス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0e09320b140c2490c9bf",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.vectrix.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ベクトリックス – テレメジャー＆トルクアナライザー",
+    "characters": 15145,
+    "sha256": "7d7267d871101189e89a51fda7d48ef7df844aa87f07c97f0b0bbb7f045eb03d"
+  },
+  {
+    "url": "https://vecc.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ベクトル株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4f6ac4f0d047adf226cd",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://vecc.jp",
+    "content_type": "text/html",
+    "title": "ベクトル株式会社｜マーキング装置（刻印機）の開発・設計・販売",
+    "characters": 6824,
+    "sha256": "14ce3ff7cb0be866ffb907281fe5ea9b791d559fca467a1161e4a9703fb14bbc"
+  },
+  {
+    "url": "https://www.beckhoff.com/ja-jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ベッコフオートメーション株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "76f87498bcbe230a2a8c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.beckhoff.com/ja-jp/",
+    "content_type": "text/html",
+    "title": "Beckhoff | New Automation Technology | ベッコフ 日本",
+    "characters": 3252,
+    "sha256": "294a56e6ccc6623110c142f6e593840d27b5c162ed0d4898f597ece5d11c80fc"
+  },
+  {
+    "url": "https://www.hellermanntyton.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ヘラマンタイトン株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6e7a94902ba4d3e6db9f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.hellermanntyton.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "結束バンド・配線資材の世界的メーカー|ヘラマンタイトン株式会社",
+    "characters": 8662,
+    "sha256": "9ae4ad16c0ccb736fcb59d6dc9be8b4dcf7d4c13503fffc2888f3603bfd44a4c"
+  },
+  {
+    "url": "https://horkos.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ホーコス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a49a08b251f0a2368762",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://horkos.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ホーコス株式会社【製造業】広島県福山市",
+    "characters": 1457,
+    "sha256": "28687bc57e00d89e613a2332e1a205f85159680265846b81bd772626af5f4fc2"
+  },
+  {
+    "url": "https://www.marposs.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "マーポス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1128330e45ea8ac71426",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.marposs.com/eng/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Precision equipment for measurement, inspection and test | Marposs",
+    "characters": 3928,
+    "sha256": "e72b82fc98893d0ad54bc7494f6a92d4c8ea210b345448dac2a517f673a00ff1"
+  },
+  {
+    "url": "https://www.mytoolnagano.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社マイツール長野"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3cd64cc9b066a6cb0535",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mytoolnagano.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社マイツール長野",
+    "characters": 1342,
+    "sha256": "ac3858de2f66997326762af795c1bb82b1ac4dc8267db07dfe8992ac61e3f387"
+  },
+  {
+    "url": "https://www.makinoseiki.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "牧野フライス精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "25327e429638a3453ad3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.makinoseiki.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "牧野フライス精機株式会社 -TRADITION & INNOVATION-",
+    "characters": 780,
+    "sha256": "104dc80f147c28947fa122cccc0851826ae969d45bcc6a6fc424105de9b488b1"
+  },
+  {
+    "url": "https://www.makino.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社牧野フライス製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "774ee8554372ec614632",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.makino.co.jp",
+    "content_type": "text/html; charset=utf-8",
+    "title": "株式会社牧野フライス製作所",
+    "characters": 3482,
+    "sha256": "a6f56945785b48545bca771d3f71101ccc9fec4d93707f6d81edc5a529210c2b"
+  },
+  {
+    "url": "https://www.mothertool.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社マザーツール"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "026ee049df8fab8a07f5",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mothertool.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "デジタル計測器と防犯カメラの総合メーカー 株式会社マザーツール",
+    "characters": 2185,
+    "sha256": "b9c03df5cf7ab1ad3741b3167605a3c299a7b1b15cb337069eb88c19d1baa797"
+  },
+  {
+    "url": "http://www.machinesol.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社マシンソル"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b3493214256f1a604c13",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.machinesol.jp",
+    "content_type": "text/html",
+    "title": "",
+    "characters": 285,
+    "sha256": "0904ef6f6cb374292871e4d17c0d0b365aed751a33566bb84e7daf875c1c487e"
+  },
+  {
+    "url": "https://www.matsuura.co.jp/japan/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社松浦機械製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b2d1bd34686e46b38cbb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.matsuura.co.jp/japan/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工作機械の松浦機械製作所 - Matsuura Machinery Corporation工作機械の松浦機械製作所 - Matsuura Machinery Corporation",
+    "characters": 3564,
+    "sha256": "7dbf38132726d10283fd5e29c0eff96798dbc9bbba0df7a1954e208e5933062d"
+  },
+  {
+    "url": "https://matsuzawa-m.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "マツザワマシナリー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d19e2846192a2687b9eb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://matsuzawa-m.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "マツザワマシナリー株式会社",
+    "characters": 717,
+    "sha256": "07b07d94f26683e1bbc215ef3642125f64aee23584836ab0ffcd5198b988dd2e"
+  },
+  {
+    "url": "http://www.thecut.co.JP/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "丸一切削工具株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6db98228c6191292cc24",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.marubeni-idigio.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "丸紅情報システムズ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2838bb113f17fb3635b3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.marubeni-idigio.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "丸紅I-DIGIOグループ ｜ICTで企業の成長と変革を切り拓く",
+    "characters": 621,
+    "sha256": "ce3ea642858da7ef23cc061240a2ac150b5118b1d7faa33f2278989428d6ef7a"
+  },
+  {
+    "url": "https://jp.misumi-ec.com/service/floow/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ミスミ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "93661110130e6582389e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://jp.misumi-ec.com/service/floow/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "MISUMI floow（間接材トータルコストダウンサービス） | MISUMI(ミスミ)",
+    "characters": 12009,
+    "sha256": "d15e25884b36f83a00bf0d9cc5e7f69228a76c4cdd5cf97ae5dc61a71a928ab4"
+  },
+  {
+    "url": "https://www.mitakakohki.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "三鷹光器株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "fb834aa60a93ac59e874",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mitakakohki.co.jp/",
+    "content_type": "text/html",
+    "title": "トップページ | 三鷹光器",
+    "characters": 1063,
+    "sha256": "6955053cef7613181e555795c36773ad4f515e0453d8daa7b2da96c59d510984"
+  },
+  {
+    "url": "https://www.mitsuiseiki.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "三井精機工業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "79407acc7fff48a87c3c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mitsuiseiki.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "三井精機工業株式会社 – マシニングセンタ・コンプレッサ製造",
+    "characters": 1995,
+    "sha256": "ac897212004e36cfd409a14fa96e0af2bb881eb3df3fb826bc2f1b52a501b212"
+  },
+  {
+    "url": "https://www.mitsu-tec.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ミツテック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "10937238155e3c4f82b1",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mitsu-tec.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ミツテック株式会社",
+    "characters": 1808,
+    "sha256": "0dc8d60319c5262e98a2f8e747b853b4695a6d160236087a57582cb1e1602c80"
+  },
+  {
+    "url": "https://www.mitutoyo.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ミツトヨ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "205db9bee678b58c732f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mitutoyo.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社 ミツトヨ：精密測定機器の総合メーカー | ミツトヨ",
+    "characters": 5254,
+    "sha256": "999f4fac4229e6d92184c2111bd8f2abc3cab139c2ad8a8cd048bb54b3875033"
+  },
+  {
+    "url": "https://www.mmts.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "三菱商事テクノス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "48dbbff422c3574b9013",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mmts.co.jp/",
+    "content_type": "text/html",
+    "title": "三菱商事テクノス",
+    "characters": 768,
+    "sha256": "1f7c5aa8fab2c14f94e5d0ece6343cfad014dc6ad4367aeb2f20953d83b479a4"
+  },
+  {
+    "url": "https://www.mitsubishielectric.co.jp/fa/index.html",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "三菱電機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "27aed1eab9666809f943",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mitsubishielectric.co.jp/fa/index.html",
+    "content_type": "text/html;charset=utf-8",
+    "title": "三菱電機FA",
+    "characters": 1604,
+    "sha256": "dd8a059ba99e783d84fe29de11cab0fb1af47bd7f1519e09a705ba90e7437a36"
+  },
+  {
+    "url": "https://www.minebeamitsumi.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ミネベアミツミ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b39b81de69f8cb021476",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.minebeamitsumi.com/",
+    "content_type": "text/html",
+    "title": "ミネベアミツミ株式会社",
+    "characters": 2256,
+    "sha256": "71182a93e11b13afd1ea55685a8e4ceb2360793558403532402a9f2688e211c2"
+  },
+  {
+    "url": "https://miroclkarte.mirocl.net/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ミロクリエ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a5891e9951215e4a8a2d",
+    "status": "取得不能",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.muraki-ltd.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ムラキ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "109322d7e9134cba3fbb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.muraki-ltd.co.jp/",
+    "content_type": "text/html",
+    "title": "株式会社ムラキ",
+    "characters": 935,
+    "sha256": "dcdacae42a241bcab9ba9b07bb1ae76822c127a69216fef8a09a94b3ca508c4c"
+  },
+  {
+    "url": "https://machinetools.muratec.net/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "村田機械株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "fcdc4973b117fc90a684",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://machinetools.muratec.net/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "CNCターニングと自動化ソリューション｜ムラテック（村田機械）｜旋盤ユニバースサイト",
+    "characters": 823,
+    "sha256": "007532c2ead1970f9623225fa964aab20a7caf61da077a1e55f682850a7b07dc"
+  },
+  {
+    "url": "https://www.muratec-ccs.co.jp/mt/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ムラテックＣＣＳ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7f18d55aa1c2695db8df",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.muratec-ccs.co.jp/mt/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工作機械 | ムラテックCCS株式会社",
+    "characters": 4524,
+    "sha256": "f32620475b2112eda1bff99b7b0d64a5f1aa07d16a1f9271887f4c3d69fa2277"
+  },
+  {
+    "url": "https://www.metrol.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社メトロール"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6e46c73882694c0860eb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.metrol.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "精密位置決めセンサはメトロール",
+    "characters": 4221,
+    "sha256": "446efe63f8bc8c99b6b123006eafce917f1c0c57aad7cf2a8d5d40ffc60add17"
+  },
+  {
+    "url": "https://metrotec.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社メトロテック"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b2b7a4841a0e8275a11b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://metrotec.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "三次元測定機のメトロテック／三次元測定、評価はメトロテックメトロテック | 三次元測定機・測定組立治具・真直度測定器・3Dスキャナーの株式会社メトロテックへ",
+    "characters": 4448,
+    "sha256": "84270b57f3322da42f345f7817aaf32218a9954f93dd8fd9ab7be4937738240a"
+  },
+  {
+    "url": "https://www.morson.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社モアソンジャパン"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b39f2004132a36e69f0c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.morson.jp/",
+    "content_type": "text/html",
+    "title": "株式会社モアソンジャパン（ビジネスソフト・アプリケーション受託開発、CAD/CAM/PLM、ラジオ放送局）",
+    "characters": 2029,
+    "sha256": "7dd274bc4dd37cf372609fe58833b1a5c8c56a8c9aeb6d8ccb7295f19cee2f64"
+  },
+  {
+    "url": "https://monorevo.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ものレボ株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "598f26c3ffa676ca42a3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://monorevo.jp",
+    "content_type": "text/html",
+    "title": "製造業の工程管理なら「MonoRevo（ものレボ）」",
+    "characters": 2985,
+    "sha256": "d82797e93b77452126f3c6c20824c459972619b0a7e046ba9c252d8cb81ba02c"
+  },
+  {
+    "url": "https://www.movac.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "モバック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3b745125c4a7fa1c8960",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.movac.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "モバック株式会社",
+    "characters": 3520,
+    "sha256": "7c52a1e84e32ca1b8e5695acc21f9ce3cf6ada0dade2fbc9beee39c8eb4f1ffd"
+  },
+  {
+    "url": "https://mori-machinery.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "モリマシナリー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "506b1b1b491aa1eeb8d8",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://mori-machinery.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "モリマシナリー株式会社｜精密機械・精密部品の設計 加工 一貫生産",
+    "characters": 1255,
+    "sha256": "e04a7086e638af0d4dcfa13193c56cf0e279de2e68307807193b71444acb085b"
+  },
+  {
+    "url": "https://yanase-saving.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "柳瀬株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ef27478ecb4903c36968",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://yanase-saving.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "柳瀬株式会社",
+    "characters": 1708,
+    "sha256": "d490295c36cf05651a30ad26769a7374d1bd171654446eda63846768fa0fca5b"
+  },
+  {
+    "url": "https://yamatech.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "山口産業株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6c745efa07884a0589d0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://yamatech.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "トップページ - 山口産業株式会社",
+    "characters": 761,
+    "sha256": "9741d5a85a85bf602b67e38bfc300464b8ea34441e49a289c86055829ce68eb9"
+  },
+  {
+    "url": "https://www.mazak.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ヤマザキマザック株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e30be3cf80b09fc2aeeb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.mazak.com/jp-ja/",
+    "content_type": "text/html;charset=utf-8",
+    "title": "工作機械のヤマザキマザック株式会社 - 旋盤, マシニングセンタ, 複合加工機, 5軸加工機, レーザー加工機 | ヤマザキマザック",
+    "characters": 3975,
+    "sha256": "f0e72ffeb517a776c6dd36a1d4b8c9de1036e655723c142bc98a165e4dbd1e56"
+  },
+  {
+    "url": "https://www.yamazen.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社山善"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d0bcd1ea74b9d8ee591f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.yamazen.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "TOP | 株式会社山善",
+    "characters": 2704,
+    "sha256": "601f0a2072ad6043e05ac1c5811c089bcb184c5c55e028f90f37efd924a7d115"
+  },
+  {
+    "url": "https://yamada-mt.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "山田マシンツール株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "abee93d5eb27ae8ccad4",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://yamada-mt.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "山田マシンツール株式会社",
+    "characters": 1151,
+    "sha256": "03f76c137ba75bca4b026e44e709bc2b4b359e98feb47eeaed74a9e2767ada1a"
+  },
+  {
+    "url": "https://www.biprogy-uel.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "UEL株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "7f078bab78d60cadfe53",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.biprogy-uel.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "UEL株式会社",
+    "characters": 2096,
+    "sha256": "2d500f2ebb525d866983353b0b862d64ba325e31b38a2743158b8297780933ec"
+  },
+  {
+    "url": "https://eurotechno.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ユーロテクノ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "240028beca89d6ef46a9",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.yukiwa.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ユキワ精工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b811d2ceee89d22c9efb",
+    "status": "取得不能",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://www.yushiro.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社ユシロ"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2e46af56dbb6fc9c2bc4",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.yushiro.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "株式会社ユシロ",
+    "characters": 3067,
+    "sha256": "8a3ab9c96caa56e283e09fa75768d7f847cf48511f473f727748ac0b9de2a021"
+  },
+  {
+    "url": "https://www.grinding.ch/jp/united-grinding/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ユナイテッドグラインディング株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ed882e76b782895298bd",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.grinding.ch/jp/united-grinding/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "UNITED GRINDING | UNITED GRINDING",
+    "characters": 5273,
+    "sha256": "b6f733faa110a85ba3400799329b24f22f7d710ef4202ec8825a81b4a63b9cfa"
+  },
+  {
+    "url": "https://www.machining.com/ja",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ユナイテッドマシニング株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c60c286cbfe29091953f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.machining.com/ja",
+    "content_type": "text/html; charset=utf-8",
+    "title": "UNITED MACHINING  – 6つの精密機械加工ブランド、ひとつのグローバル事業部門 | UMS",
+    "characters": 2470,
+    "sha256": "891535ab8256c44bcf7a981622785a6536e18094b12365a6ba5e134eae1da8ad"
+  },
+  {
+    "url": "https://www.uniontool.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ユニオンツール株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4a1c421b99a41e0beda1",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.uniontool.co.jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "ユニオンツール株式会社",
+    "characters": 3391,
+    "sha256": "8f89f1b6861fd484e18ad3e3e8ca9f727650c9e3e55e61181723575ae8c43cc5"
+  },
+  {
+    "url": "https://www.unipulse.tokyo/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ユニパルス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4166631aac0d6e474894",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.unipulse.tokyo/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "UNIPULSE | ものづくりを \"はかる\" でささえるセンサメーカーです。",
+    "characters": 4305,
+    "sha256": "77fb3af7637bce71f568744ad8edc4347d166eaeee4d9cce3da50ee9bec66f00"
+  },
+  {
+    "url": "https://riveting-mcn.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "吉川鐵工株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6295e471dcd7e3f5c847",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://riveting-mcn.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "吉川鐵工株式会社（公式ホームページ）",
+    "characters": 1528,
+    "sha256": "c0aedcff00f4db4e268c8c0780676cfdfc992f0932593ed2df362494d2ced128"
+  },
+  {
+    "url": "http://www.rikenseiki.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "理研精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a1712768f3a4fb8650a1",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.rikenseiki.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "精密チャック装置・コレットチャック・超高圧油圧機器｜理研精機株式会社",
+    "characters": 1020,
+    "sha256": "c48ea96cbdd1f53b9901aef1436fb2576b5829e7316873959a22c10b7d2378a0"
+  },
+  {
+    "url": "https://www.rittal.com/jp-ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "リタール株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "514cd715f0cacc690533",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.rittal.com/jp-ja/",
+    "content_type": "text/html;charset=UTF-8",
+    "title": "キャビネット・ボックス、盤用クーラー、ネットワークサーバーラックのグローバルメーカー【リタール株式会社】",
+    "characters": 6013,
+    "sha256": "4093fb8d2d4ff21f78e275642ebca7147255db2e2f49e0da2284e0e302c3c108"
+  },
+  {
+    "url": "https://www.rix.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "リックス株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "5a8c47dedb1012ebc21c",
+    "status": "取得不能",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "http://www.ryoco.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "菱高精機株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "11581c6d73c0dcf3b23a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ryoco.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Ryoko Seiki",
+    "characters": 1196,
+    "sha256": "c3b2a9ce1f19f2b645220dbeb9b465a1cf92f40b5ddf0d5378a692ae53749005"
+  },
+  {
+    "url": "https://www.renishaw.com/jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "レニショー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0065328d76d2fc881083",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.renishaw.com/en-SG",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Precision engineering solutions | Renishaw",
+    "characters": 2843,
+    "sha256": "910c229e2711cfab996bdbb5dcc53b1ed9138e01e00b47b5253a81b0cdfef959"
+  },
+  {
+    "url": "https://www.roemheld-halder.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ロームヘルド・ハルダー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "66f511be6f6e14ff86a0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.roemheld-halder.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "工作機械用のクランプ技術と治具製品をドイツから日本へ | ロームヘルド・ハルダー株式会社",
+    "characters": 1567,
+    "sha256": "7933a01edffb4050c93d8d75ea2a6b758129fb2e2647a0a9c6865c74585e50c8"
+  },
+  {
+    "url": "https://www.roku-roku.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "碌々スマートテクノロジー株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f5139ce9d21b9b503b8c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://error.technowave.ne.jp/",
+    "content_type": "text/html",
+    "title": "緊急メンテナンスのお知らせ",
+    "characters": 86,
+    "sha256": "9f9a4b483108de173c6895f06604fd2bec3aa437df105c2fa4edb3d91aafadd1"
+  },
+  {
+    "url": "https://www.rollomatic.ch/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Rollomatic Japan株式会社"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1a54a34168001e923e3a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.rollomatic.ch/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Cutting Tool Grinding | Cylindrical Grinding | Rollomatic",
+    "characters": 7523,
+    "sha256": "f6630ff5fd3e148fd6cc5385efabda84a789f2f6ba501f7894fa735e82aadc91"
+  },
+  {
+    "url": "https://www.ykt.co.jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "YKT株式会社",
+      "Crevoisier SA",
+      "FAPTECH (HANGZHOU) CO.,LTD.",
+      "GC (Shanghai Guicheng Precision Machinery) Co., LTD.",
+      "IMM Maschinenbau GmbH",
+      "INDEX-Werke GmbH & Co. KG Hahn & Tessky",
+      "Mägerle AG Maschinenfabrik",
+      "Quality Vision International Inc",
+      "TOOL LENSE",
+      "WYLER AG"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ee952f2297e41e2b2474",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ykt.co.jp/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "YKT株式会社 | 一世紀にわたり産業の西と東を結び、届けてきたのは、世界の技術。YKTは、ものづくりに欠かせない工作機械･産業機器･測定機器･エレクトロニクス機器を世界中に届ける機械専門商社です。",
+    "characters": 2194,
+    "sha256": "bfd1eff147357fd4e24d2aadd559e00a851e25261d792285b4941a56ac89a3d5"
+  },
+  {
+    "url": "https://www.waida.co.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "株式会社和井田製作所"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "af4cdaedad7fdf92f318",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.waida.co.jp",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "CNC高精度研削盤－和井田製作所",
+    "characters": 2346,
+    "sha256": "6967310adbeaaffcaf4584c71b551a0eb7a537b80ceeda128a2add53a03a4c51"
+  },
+  {
+    "url": "https://www.agiecharmilles.com/ja",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Agie Charmilles SA"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ac8d61b3112ae4615285",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.agiecharmilles.com/ja",
+    "content_type": "text/html; charset=utf-8",
+    "title": "AGIE CHARMILLES EDM放電加工機 – ワイヤーカット・形彫り加工 | UMS",
+    "characters": 2615,
+    "sha256": "5e9e3d8e36e9e4209199a51dbcf08b93bc1796b27c9ed4758902fd40085b59a6"
+  },
+  {
+    "url": "https://www.schuette.de",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Alfred H. Schütte GmbH"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "6ea5efc5d097ca5f6bfb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.schuette.de",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Schütte",
+    "characters": 3182,
+    "sha256": "f9674eba5803ba51dddd6a592d19c097bf6ad9cf7541c3bf478ab2ac1453a07d"
+  },
+  {
+    "url": "https://www.applitec-tools.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "APPLITEC MOUTIER S.A."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2917dd39657b17d4dba7",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.applitec-tools.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Accueil - Applitec Swiss Tooling",
+    "characters": 6678,
+    "sha256": "8ca4ba0fc1ceb78129689ab5719312dc8d2fda9bdc38bd64ce9c34ce19bca0ef"
+  },
+  {
+    "url": "https://www.autogrip-machinery.com/ja",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "AUTOGRIP MACHINERY CO., LTD."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3bf4be3dcc58721c2522",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.autogrip-machinery.com/ja",
+    "content_type": "text/html; charset=utf-8; charset=utf-8",
+    "title": "高精度チャック・把握ソリューションの専門メーカー | AUTOGRIP MACHINERY CO., LTD.",
+    "characters": 2393,
+    "sha256": "fd3a7f8fe33e031dc1a2469c3368c271fdf8c30a2ce49cc4980d143a4f13944a"
+  },
+  {
+    "url": "https://automation-drives.bizlinktech.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "BizLink Special Cables (Changzhou) Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "72bff758cd16f0b97577",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://factory-automation-machinery.bizlinktech.com/applications/automation-drives/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "BizLink Factory Automation & Machinery | Automation & Drives",
+    "characters": 8648,
+    "sha256": "ffb2b065c0fd139316c59ec4c05b249c75c840dd79fcaa2aef73929d5b16c258"
+  },
+  {
+    "url": "https://www.blohm-machines.com/jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Blohm Jung GmbH"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "fcfc3e5d0c1f21225c1e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.blohm-machines.com/jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "www.blohm-machines.com | BLOHM",
+    "characters": 3728,
+    "sha256": "891ec85b1905020a2a79b7308e6c2c7814d4fa2c586875496e75ff3e13b11c9b"
+  },
+  {
+    "url": "https://www.buffoli.it",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "BUFFOLI TRANSFER S.p.A."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c4b0f478eebe7cff36d0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.buffoli.com/",
+    "content_type": "text/html",
+    "title": "Buffoli Industries official website",
+    "characters": 3351,
+    "sha256": "522744080e2fc7684b85342d1fb16df7001b7da70ef381fa755251a05e80f1ac"
+  },
+  {
+    "url": "https://www.cam-power.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Cam Power International Precision Machinery Co.,Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "19152b0709dd674661c6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.cam-power.com/",
+    "content_type": "text/html; charset=utf-8; charset=utf-8",
+    "title": "Campower International - Your Trusted Rotary Table Manufacturer",
+    "characters": 3665,
+    "sha256": "268360249dc08d257f64e51f6b20027e083781a609b1054063e219d895f362ab"
+  },
+  {
+    "url": "https://www.czchl.cn/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Changzhou chenlin tools co.,ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b317406b371b23c3e5c4",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.czchl.cn/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "常州晨琳工具有限公司-首页",
+    "characters": 13,
+    "sha256": "8d93fb62a649dbc860355571cb59b5b1eb420169a4ef6816503439bfecf6b8e9"
+  },
+  {
+    "url": "https://www.chenying.com.tw/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Chen Ying Oil Machine Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "c254297083f7ec108554",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.cscbearing.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "CSC Bearing Co.,Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "56f7aa1273627d32b584",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "http://www.dgdy.cn/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "DGDY SHEET METAL MACHINERY CO.,LTD"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "48b33c0c2539e4439099",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "http://www.dgdy.cn/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "东锻数控折弯机，液压折弯机 -东锻机械(广东）有限公司",
+    "characters": 1683,
+    "sha256": "64ca963eea87371cfd655a6eeffc1d6f5ac3c6c8204afe7f04da4448fba86b28"
+  },
+  {
+    "url": "https://www.qidumetro.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Dongguan Dongfangqidu Metrology Co Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ceac1c824c44934299e6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.qidumetro.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "",
+    "characters": 872236,
+    "sha256": "16d231c7a1295a48813ddcbbe635d5e52cc09a6c0486015a7db953dc3de43a20"
+  },
+  {
+    "url": "https://ww.silvercnc.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Dongguan Simp Tech Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "727112f12228cce4bfdc",
+    "status": "取得不能",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "url": "https://ottolf.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Donghelian (Hebei) Technology Co.,Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2e3e9fba025843eb4444",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://ottolf.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "",
+    "characters": 19478,
+    "sha256": "7400073333286d560fa2ec846e7bb713dbfac721bad5822061d51ef7abc7c3c1"
+  },
+  {
+    "url": "https://dontynesystems.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Dontyne Systems Limited"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1987b6aa9ccc2b381397",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.emag.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "EMAG GmbH & Co. KG"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "43f27d73f34abe885e77",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.emag.com/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "EMAG Machine Tools: Turning Lathes and Grinding Machines",
+    "characters": 10665,
+    "sha256": "cf5dce6576b95fc5933f203c136a683d98ba79215b31d1832bdb2e4f39b0a33e"
+  },
+  {
+    "url": "https://hat-japan.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ESCO S.A."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "54291c29b989d6c113b1",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://hat-japan.jp/index.html",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "HAT JAPAN - HAT Japan Co., Ltd.",
+    "characters": 1423,
+    "sha256": "d3259d5e05dae6d68531ebdde7929252297506c8d27d03d8ac5c4a65ec21522a"
+  },
+  {
+    "url": "https://www.jp.messefrankfurt.com/tokyo/ja/events/manufacturing-technologies-components-outgoing/formnext.html",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Formnext"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b861bec5726e98aaf9c6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.jp.messefrankfurt.com/tokyo/ja/events/manufacturing-technologies-components-outgoing/formnext.html",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Formnext",
+    "characters": 1561,
+    "sha256": "662e84b3c5fc5177e8c39ffa610531fd2ce4b82e065f2e1ef1db3c247d3e728c"
+  },
+  {
+    "url": "https://www.atcgifu.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Gifu Enterprise Co., Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "30e2e2041b2a9b2a8cb1",
+    "status": "取得不能",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "url": "https://www.hscoat.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Guangdong Huasheng Nanotechnology Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ea5c13fdb5728a6f52b5",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.hscoat.com/",
+    "content_type": "text/html",
+    "title": "Huasheng Vacuum Coating Machine & Equipment Manufacturer",
+    "characters": 6873,
+    "sha256": "2e0e1320b4020a418b6a8ed2a5937a553e2b3c9340e05f40c734c31a8f8a32d1"
+  },
+  {
+    "url": "https://www.hardy-tw.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Hann Kuen Machinery and Hardware Co Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4f7879ab0f6f702255be",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.hardy-tw.com",
+    "content_type": "text/html",
+    "title": "Spindle and Slide Unit | HARDY",
+    "characters": 1620,
+    "sha256": "b999aa30602f05206985457486d6d61e4b65d7305eaad3634a62d2111d3d4ee6"
+  },
+  {
+    "url": "https://www.boxcon.co.kr",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "INCOS INC"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3f1636f4a8a3837b5e98",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.boxcon.co.kr",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "홈 | BOXCON",
+    "characters": 1214,
+    "sha256": "480ff591964da1388be097da0dbf75a4f0534221968a1104382e48a7366ec438"
+  },
+  {
+    "url": "https://innovalia-metrology.com/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Innovalia Metrology"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "d60d665d1f68f40a4078",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://innovalia-metrology.com/ja/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "INNOVALIA METROLOGY | INDUSTRIAL METROLOGY SOLUTIONS - METROLOGY SOLUTIONS",
+    "characters": 3836,
+    "sha256": "49cb51df17a26745ee11b14a9012e509bcc0521cd1347e2fdba372dd937efd8a"
+  },
+  {
+    "url": "https://www.irpd.ch/en/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Irpd AG"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0e508c643638e3d884af",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.irpd.ch/en/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "www.irpd.ch | IRPD",
+    "characters": 6807,
+    "sha256": "a03a62b739b0f766c3590cbe125778cecdbcfec272832bfcd4a9eed8ee6fade5"
+  },
+  {
+    "url": "https://www.jsswft.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Jiangsu Swift Machinery Technology Co Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "a8b1ac70a4b3f3b1d1b0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.jsswft.com/index.html",
+    "content_type": "text/html",
+    "title": "江苏思维福特机械科技股份有限公司官网",
+    "characters": 18,
+    "sha256": "18140e0b88955b91a939cc00cce639b1135968847d2bd0769c1696bfd681914c"
+  },
+  {
+    "url": "https://www.kaihung.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "KAI HUNG MACHINERY CO., LTD."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1eb86e99a004593adda0",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.kaihung.com/en/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "KAI HUNG MACHINERY CO.,LTD.",
+    "characters": 6811,
+    "sha256": "ed0636d48dbe871b376cc2c2608ab204a6b563bcec15768b8595d2cc21848f5b"
+  },
+  {
+    "url": "https://www.lns-japan.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "LNS Management SA"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "646012e63b0b7b84954f",
+    "status": "取得不能",
+    "error": "The read operation timed out"
+  },
+  {
+    "url": "https://www.matrix-machine.tw/jp/index.html",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Matrix Precision Co., Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ee979f78427241d1c1eb",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.matrix-machine.tw/jp/index.html",
+    "content_type": "text/html",
+    "title": "Matrix Precision CO.,LTD.",
+    "characters": 1010,
+    "sha256": "d9cd010ef4305cbd953834923a35bf0dcb9d4c8d4fd2e69fd757d644ba1ab781"
+  },
+  {
+    "url": "https://ndotlight.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "NdotLight Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "3c7db1971d79fed63b64",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://ndotlight.com/",
+    "content_type": "text/html",
+    "title": "NdotLight - We Make Everything SimReady",
+    "characters": 9017,
+    "sha256": "d678620f4314fa139ac6c24a44230c8cbe41dd3db916ea7146eceee080aff193"
+  },
+  {
+    "url": "https://yuweibroach.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "NEW YU WEI INDUSTRIAL CO., LTD."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "27d5b97e6eeb5e138985",
+    "status": "取得不能",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.blincnc.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "NINGBO BLIN MACHINERY CO LTD"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8e8bd8e137da701f4a8e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.blincnc.com/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "CNC Machine Manufacturer & Supplier in China | Blin Machinery",
+    "characters": 14368,
+    "sha256": "313a2609ae99def9a6eadee1e2e8fc9b32287abd48593a54f46e7f5dc19afb86"
+  },
+  {
+    "url": "https://www.perfectmachine.com.tw",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "PERFECT MACHINE CO., LTD."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "bed425895dc8f3c94c7d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.perfectmachine.com.tw",
+    "content_type": "text/html",
+    "title": "PERFECT MACHINE CO., LTD.｜SURFACE GRINDER",
+    "characters": 1797,
+    "sha256": "b0056a68caa9c434692514d026b8e268c5a465bf17157e6403af54d6c5c91880"
+  },
+  {
+    "url": "https://www.profiroll.de",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Profiroll Technologies GmbH"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "447fe6c7c800bcf244f3",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.profiroll.de",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Startseite -  Profiroll Technologies",
+    "characters": 4613,
+    "sha256": "7097c8aba865744128cec06bfe603caa3f0ce074ef2ad42d8c964ffc6311b5d0"
+  },
+  {
+    "url": "https://www.progrit.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "ProGrit GmbH"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "f08005b7d04767a11173",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.progrit.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "ProGrit",
+    "characters": 7804,
+    "sha256": "31ac720a95d7a40a8baf7d634a29d71ea9ebcf9f032289d7f7d104b8e35d82cf"
+  },
+  {
+    "url": "https://roeders.de",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Röders GmbH"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "0f835b5404ed0163f84a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://roeders.de",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Startseite - Röders TEC",
+    "characters": 1428,
+    "sha256": "bb3bd890ac83ccd37cf16aaa8d6d9f8e11fc45d118cd9b5a6b5817279344288f"
+  },
+  {
+    "url": "https://safeway-vise.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "SAFEWAY MACHINERY INDUSTRY CORPORATION"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b68c8f81cda26bdd878d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://safeway-vise.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "協威機械-高精度精密夾具全系列 > 協威機械工業股份有限公司",
+    "characters": 1743,
+    "sha256": "2ce3734604fc58d880c2b5afa0472236b164b15b37c8c45c42c12c5f400787a2"
+  },
+  {
+    "url": "https://sw-machines.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Schwäbische Werkzeugmaschinen GmbH"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "e5405c9b221f23f20d67",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://sw-machines.com/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "",
+    "characters": 0,
+    "sha256": "a6753088fa91d49bbcdddcb244a7c67a0f74ce63d1bd18ee4f97c73e40a28512"
+  },
+  {
+    "url": "https://www.yamadachina.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "SHANGHAI YAMADA PRECISION TOOLS CO.,LTD"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "5e1d1e83c8a6847b010a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.yamadachina.com/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "山田刀具/上海山田刀具有限公司– 官网",
+    "characters": 821,
+    "sha256": "2cbb32fd4499d64fa07168d98f1c2ef27ae5b4b13e590cc17e1b7b1f037b9e6c"
+  },
+  {
+    "url": "https://jptjp.jp",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Shenzhen JPT Opto-Electronics Co Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "2c90b1184ad45cf8b67e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://jptjp.jp",
+    "content_type": "text/html; charset=utf-8",
+    "title": "JPTジャパン株式会社",
+    "characters": 4397,
+    "sha256": "efd98ddb08490309f9a76dfeb3a9a1fe635a4e1bc8ca6e7fb6934d0ab1e943cf"
+  },
+  {
+    "url": "https://www.yubodia.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "SHENZHEN YUBAO DIAMOND TOOLS CO.,LTD"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "71e5e92e805f0852eb4c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.yubodia.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "钎焊砂轮生产厂家-提供强力开槽,电镀,金刚石砂轮定制与批发-深圳市玉宝钻石工具有限公司",
+    "characters": 2221,
+    "sha256": "2c631e783f7e56e56ce928e609711056352854e2ce80e476dd7bca7108fe95f7"
+  },
+  {
+    "url": "https://www.soco.com.tw",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "SOCO Machinery Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b918bf07ba42a950d034",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.soco.com.tw/en/",
+    "content_type": "text/html;charset=UTF-8",
+    "title": "SOCO | Tube Laser, Bending and Cutting Machine Manufacturers | SOCO Machinery",
+    "characters": 8453,
+    "sha256": "87de35e4e798056fc9ed5b4ecb16b1b5e892f9ecac2982592e2a4f2349b570ca"
+  },
+  {
+    "url": "https://www.spatial.com/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Spatial Corp."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4e2db14613aa62025a74",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.spatial.com/ja/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "スペイシャル｜ エンジニアリング アプリケーション開発のための先進的3Dソフトウェア ソリューション",
+    "characters": 5519,
+    "sha256": "e2cbce5e57802ad8eb80b937f8f852c3faf6e61891ce1d33d8470e1bbbcf56b0"
+  },
+  {
+    "url": "https://www.system3r.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "System 3R International AB"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "aa255efec98c2292e36d",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.system3r.com",
+    "content_type": "text/html; charset=utf-8",
+    "title": "System 3R Tooling, Automation & Software Solutions | UMS",
+    "characters": 5682,
+    "sha256": "fb6dca61d3ac98305e43f602bfd17a2e6609a295e034aca62e6af1df439abbed"
+  },
+  {
+    "url": "https://www.taegutec.com/pages/ja/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "TaeguTec LTD."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "874c4f7bdc546ad8635e",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.taegutec.com/pages/ja/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "TaeguTec Metalworking Solutions - Taegutec",
+    "characters": 1621,
+    "sha256": "03d684c57504d6558f013b2d8eec21275d3beafe615e3e4cd3510436c279137f"
+  },
+  {
+    "url": "https://www.theta-spindle.com/ja",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Theta Precision Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1f97e75d591580acbd6a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.theta-spindle.com/ja",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Theta Precision Co., LTD",
+    "characters": 1579,
+    "sha256": "2a0775cbb5f8369233e5d986a5c841f9180b5625a2cfda5c152859aead78e12c"
+  },
+  {
+    "url": "https://www.tongtaimachinetool.com/en/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Tongtai Machine Tool Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "93271ffbbd73f53e5efc",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.tongtaimachinetool.com/en/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "Tongtai｜Precision Machine Tools & Machining Solutions",
+    "characters": 8718,
+    "sha256": "0eaa794f105735af9e4e524b0cd18326778604c2f1f7469fa42a51f4afce96b9"
+  },
+  {
+    "url": "https://www.united-mikronmill.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "United Machining Mill AG - MIKRON MILL"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "cb23869a1cabdf91e87c",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.united-mikronmill.com",
+    "content_type": "text/html; charset=utf-8",
+    "title": "MIKRON MILL 3-Axis & 5-Axis CNC Milling Machine Centers | UMS",
+    "characters": 4431,
+    "sha256": "a60bc2fd9520dbb246c7f806d28481f5d49fa8b61d6a9aafaec91437facf0dab"
+  },
+  {
+    "url": "https://www.ums.swiss/en/united-machining-solutions/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "United Machining Solutions Management AG"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "b4d25c91d6dae181a66b",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.ums.swiss/en/united-machining-solutions/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "UNITED MACHINING SOLUTIONS",
+    "characters": 3860,
+    "sha256": "16084f2ea71d03e4d664363947ec2add5bc5458e30e76ccd71110fcd560d98b0"
+  },
+  {
+    "url": "https://www.vernalco.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "VERNAL ENGINEERING CO.,LTD."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "709915be4052cac6c6f8",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.vernalco.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "HOME | Vernalco",
+    "characters": 2156,
+    "sha256": "448e232d957b79c7988f21dd1ed045cc7c04c0d482a93ba9c42f1b63aa47502f"
+  },
+  {
+    "url": "https://www.walruspump.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "WALRUS PUMP Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1636aeb6dbc9d458c249",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.walruspump.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Total Pump Solutions, Data Center Cooling | Walrus Pump",
+    "characters": 3447,
+    "sha256": "a0197c86ca36ca559444f3b0ad4edd7bced6efff3abeca662a2015cd465db718"
+  },
+  {
+    "url": "https://www.walsin.com/en/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "WALSIN LIHWA CORPORATION"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ea9e34065eb041799fca",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.walsin.com/en/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Walsin Lihwa",
+    "characters": 6850,
+    "sha256": "60a1bb52d1e59b82ba5ac9543cd55490ffe1f082101c02a086f6dda2e9895bf6"
+  },
+  {
+    "url": "https://www.walter-machines.com/jp/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Walter Maschinenbau GmbH"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8b630e6ea6ba63d14d1f",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.walter-machines.com/jp/",
+    "content_type": "text/html; charset=utf-8",
+    "title": "www.walter-machines.com | WALTER",
+    "characters": 4543,
+    "sha256": "1e1946f7e75b5a8b685ed51c94bbf69c59af203be10faebf86d28e1ece9cb7c8"
+  },
+  {
+    "url": "https://www.wta.kr",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Wintech Automation Co., Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "1116d9543b7c35725e96",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.wta.kr",
+    "content_type": "text/html; charset=utf-8",
+    "title": "WTA-메인",
+    "characters": 1754,
+    "sha256": "7f0c3895f117b7b5e4639d51aaf3eed383ca4318081ff065ab95b64b7a44a519"
+  },
+  {
+    "url": "https://www.wintool.com/ja",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "WinTool AG"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "81544eb8fcafa8335d8a",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.wintool.com/ja",
+    "content_type": "text/html; charset=utf-8",
+    "title": "工具管理システム: Wintool",
+    "characters": 2968,
+    "sha256": "fbce4d3d92c54509b66069e7990ddf9cadc89b623f0d70449d74d8239d44b0d8"
+  },
+  {
+    "url": "https://www.rainbow-industry.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Wuxi Rainbow Intelligent Technology Co., Ltd."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "ecc04e0e3d612e17c4be",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.rainbow-industry.com",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "仁博工业设备(江苏)有限公司",
+    "characters": 1050,
+    "sha256": "c2ed3e62a1e2d64ec4a830bae951ce40d34f8fd38e817b1d78f423e86a70f97f"
+  },
+  {
+    "url": "https://www.slcbearings.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "WUXI SANLI ROBOT TECHNOLOGY CO.,LTD"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "587be166168dc6a059b5",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.slcbearings.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Angular Contact Ball Bearings Manufacturer,High Precision Ball Bearings | Wuxi Sanli Robot",
+    "characters": 8812,
+    "sha256": "934b01c7a3be0cd7bf1716054851dff0ce58370c55d0997172801b158d9a2165"
+  },
+  {
+    "url": "https://www.yadonpress.com/",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "YANGZHOU METALFORMING MACHINE TOOL CO.,LTD"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "8afc32c4dbe9a0c11b67",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.yadonpress.com/",
+    "content_type": "text/html",
+    "title": "",
+    "characters": 15212,
+    "sha256": "d4a7f194e2189b3b2c4cd908a1d3b575fc6820135e83cdc6f58ddb1cadda2dff"
+  },
+  {
+    "url": "https://www.sawingmachine.com.tw",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Yuan Jun Industry Co., Ltd ."
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "4aa0324484d7b97ee7f6",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.sawingmachine.com.tw",
+    "content_type": "text/html",
+    "title": "YCM Yuan Jun Industry Co., Ltd. - METAL CUTTING SAWING MACHINE",
+    "characters": 1608,
+    "sha256": "a4107dbdbfa83c7ea8f54983d1642abb75ff96863a69b225ad61e416e4e06491"
+  },
+  {
+    "url": "https://www.zjtxzz.com",
+    "kind": "出展ページに記載された企業サイト",
+    "companies": [
+      "Zhejiang Taixing Intelligent Equipment Co Ltd"
+    ],
+    "checked_date": "2026-10-22",
+    "cache_key": "86f171ba00ffcd095128",
+    "status": "本文取得",
+    "http_status": 200,
+    "final_url": "https://www.zjtxzz.com",
+    "content_type": "text/html; charset=utf-8",
+    "title": "TXMC | CUTTING TOOL RESHARPENER - Zhejiang Taixing Intelligent Equipment Co., Ltd.",
+    "characters": 3974,
+    "sha256": "ce7e4edab886db3abbf45541083f708283cc6b7c59e67c8ea283149824551707"
+  }
+]
