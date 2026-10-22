@@ -1,0 +1,35 @@
+{
+  "version": "2026-10-22",
+  "instruction": "複製して記入する。nullは未確認。仮想例を実際の展示として登録しない。",
+  "record": {
+    "record_id": null,
+    "company": null,
+    "product": null,
+    "task_ids": [],
+    "manufacturer_term": null,
+    "manufacturer_term_evidence": null,
+    "state_inputs": null,
+    "ai_decision": null,
+    "physical_action": null,
+    "changing_conditions": null,
+    "learned_component": null,
+    "rules_and_physics_roles": null,
+    "training_and_adaptation_scope": null,
+    "human_intervention": null,
+    "validation_conditions_and_metrics": null,
+    "maturity_stage": null,
+    "novelty_vs_2024": null,
+    "interfaces_and_responsibilities": null,
+    "customer_value": null,
+    "data_rights": null,
+    "sources": [],
+    "observed_date": null
+  },
+  "evidence_checks": {
+    "manufacturer_uses_term": null,
+    "mechanism_and_adaptation_documented": null,
+    "real_machine_comparison_documented": null,
+    "observed_on_site": null
+  },
+  "reporting_rule": "呼称・方式・比較検証・現地確認を独立して記録する。未確認を不在と解釈せず、総合点へ変換しない。"
+}

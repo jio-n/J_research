@@ -1,0 +1,16 @@
+{
+  "desktop": "1280x1000",
+  "mobile": "390x844",
+  "quotes": 46,
+  "company_search_fanuc": 4,
+  "task_filter": "T07 -> 1",
+  "empty_search": "passed",
+  "reset": "passed",
+  "details": "passed",
+  "horizontal_overflow": false,
+  "page_errors": [],
+  "date": "2026-10-22",
+  "method": "Playwright / headless Microsoft Edge / 一時プロファイル",
+  "visual_inspection": "デスクトップと390px幅のスクリーンショットを確認。引用を本文より強調し、横スクロールなし。",
+  "html_sha256": "33ea4e6f98afb3b59e4db9d19f2330fda3771a4b8aa1676049a4fd488745f982"
+}

@@ -4,6 +4,18 @@ AI・自動化・AX／DXを中心に、公式出展者情報、企業公式発�
 
 公開スナップショット：2026年10月19日。出展者CSVの収集基準日は2026年10月16日。レポートの追加Web確認は2026年10月19日です。
 
+## 原文の根拠と、追加調査の共通基盤（2026年10月22日）
+
+元のS01～S40を各1か所と追加6資料を各1か所、**46の短い原文抜粋**に整理しました。原文、話者・掲載位置、前後関係の要約、根拠に使える論点、その一節からは言えないことを分けています。重要文を全て抽出し尽くしたものではありません。
+
+- [原文集をGitHub上で読む](data/research/quotation_evidence_20261022/01_verbatim_evidence.md)／[検索・タスク絞り込み付きHTML](outputs/JIMTOF2026_原文エビデンス集_20261022.html)／[原文台帳JSON](data/research/quotation_evidence_20261022/quotes.json)
+- [フィジカルAIの作業定義・14のタスク分類・展示の確認方法](data/research/quotation_evidence_20261022/02_physical_ai_and_tasks.md)／[記入用評価票](data/research/quotation_evidence_20261022/exhibit_assessment_template.json)
+- [別セッションが最初に読む入口](RESEARCH_START.md)／[五つの切り口の並行調査指示文](data/research/quotation_evidence_20261022/03_parallel_research_prompts.md)
+
+呼称、適応する仕組み、実機検証、新規性を区別します。既存344技術の14タスクへの全面再分類と、既存Word・PPTXの改訂はまだ行っていません。別セッションは共通ファイルを読み、担当別フォルダへ追加結果を残す運用です。この追加でセッションを自動作成したわけではありません。
+
+44抜粋を原文テキスト、2抜粋をPDF画像で照合。HTMLとMarkdownの原文一致・出典とタスクの参照関係を検証し、HTMLは検索・絞り込み・スマートフォン幅も確認しました。[構造検証](data/research/quotation_evidence_20261022/validation.json)／[ブラウザ検証](data/research/quotation_evidence_20261022/browser_validation.json)。HTMLはダウンロードして開いてください。
+
 ## 40資料の精読と追加調査（2026年10月21日）
 
 記事の個別分析を省いて分類・要約へ進んだ点を見直し、元の40資料へ戻って、具体的な表現、技術・データ・事業の関係、次に調べる問いを記録しました。物理モデルの作成・校正、熟練者の判断の記録、継続サービスの価値、工場全体の計画と実行を、追加の一次資料11件まで追っています。

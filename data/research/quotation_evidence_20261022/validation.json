@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-22",
+  "quotes": 46,
+  "original_sources": 40,
+  "additional_quote_sources": 6,
+  "task_categories": 14,
+  "curation_verification_modes": {
+    "原文テキストと照合": 44,
+    "PDF画像で原文照合（前回精読時の画像）": 2
+  },
+  "automated_checks": [
+    "原資料ID40件の網羅",
+    "原文46抜粋のMarkdown・HTML一致",
+    "タスク参照・ID重複",
+    "ローカルリンクの存在",
+    "空の展示評価票"
+  ],
+  "local_links_checked": 30,
+  "scope": "構造と参照の検証。原典の原文照合は編集時に別途実施。ブラウザでの動作確認結果はこの検証に含まない。",
+  "sha256": {
+    "data/research/quotation_evidence_20261022/quotes.json": "94f090327a80ed3833be012fe7cda619c186b89335255a8aa7ae363caa4d0d7d",
+    "data/research/quotation_evidence_20261022/task_taxonomy.json": "c7ce599dc7a9230c6215a1902192fa8427bc887cc3f1009aa7f25cc6663e3773",
+    "data/research/quotation_evidence_20261022/01_verbatim_evidence.md": "f4ff41c8895a4b8c0e6f16fd2c61c5d11192d0309a1a0144eda295f9cbe584b2",
+    "data/research/quotation_evidence_20261022/02_physical_ai_and_tasks.md": "a1bee44dbfeee709fa38405ae336632e6b2c006cf42a5dd27f171d29ec64b7d5",
+    "outputs/JIMTOF2026_原文エビデンス集_20261022.html": "33ea4e6f98afb3b59e4db9d19f2330fda3771a4b8aa1676049a4fd488745f982"
+  }
+}
