@@ -1,0 +1,730 @@
+[
+  {
+    "url": "https://check.hacarus.com/ja/",
+    "cache": "f12b585db6a91cb3a2d1",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://check.hacarus.com/ja/",
+    "status": "retrieved",
+    "title": "AI外観検査｜HACARUS Checkシリーズ",
+    "characters": 1961
+  },
+  {
+    "url": "https://check.hacarus.com/ja/aisoftware/",
+    "cache": "9ca0a64d39e1f7fb6a2c",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://check.hacarus.com/ja/aisoftware/",
+    "status": "retrieved",
+    "title": "HACARUS Check ZERO　外観検査 AIソフトウェア｜株式会社HACARUS",
+    "characters": 1881
+  },
+  {
+    "url": "https://cyber-rc.com/wp-content/uploads/2025/10/%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0420-x-297-mm%E6%A8%AA%E4%B8%A6%E3%81%B3-.pdf",
+    "cache": "9b173220a7672151f800",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://cyber-rc.com/wp-content/uploads/2025/10/%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0420-x-297-mm%E6%A8%AA%E4%B8%A6%E3%81%B3-.pdf",
+    "status": "retrieved",
+    "title": "PDF",
+    "characters": 830
+  },
+  {
+    "url": "https://docs.omniverse.nvidia.com/simready/latest/simready-asset-creation/physics-best-practices.html",
+    "cache": "9fcb665aa914de518c3d",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://docs.omniverse.nvidia.com/simready/latest/simready-asset-creation/physics-best-practices.html",
+    "status": "retrieved",
+    "title": "Physics Best Practices — Omniverse SimReady",
+    "characters": 4039
+  },
+  {
+    "url": "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+    "cache": "f8973ba30f299b8c56a4",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+    "status": "retrieved",
+    "title": "SimReady FAQ — Omniverse SimReady",
+    "characters": 43096
+  },
+  {
+    "url": "https://gaziru.co.jp/blogs/19gxg1fly3zd",
+    "cache": "b3c41de0b894d2088881",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://gaziru.co.jp/blogs/19gxg1fly3zd",
+    "status": "retrieved",
+    "title": "JIMTOF2026に出展いたします | GAZIRU Blog",
+    "characters": 1200
+  },
+  {
+    "url": "https://gaziru.co.jp/blogs/4j7fi3f3fiyg",
+    "cache": "21493c7b414d02f835d3",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://gaziru.co.jp/blogs/4j7fi3f3fiyg",
+    "status": "retrieved",
+    "title": "AI異常検知と個体識別技術で実現する検査自動化とトレーサビリティ | GAZIRU Blog",
+    "characters": 4238
+  },
+  {
+    "url": "https://gaziru.co.jp/eye",
+    "cache": "5419f4090876be29471b",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://gaziru.co.jp/eye",
+    "status": "retrieved",
+    "title": "GAZIRU.eye - AI外観検査・異常検知 | タグレス個体識別のGAZIRU",
+    "characters": 1933
+  },
+  {
+    "url": "https://hacarus.com/ja/press-release/20250707-news/",
+    "cache": "68337cff8026b66bc330",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://hacarus.com/ja/press-release/20250707-news/",
+    "status": "retrieved",
+    "title": "外観検査AIソフトウェア「HACARUS Check ZERO」正式販売開始 - HACARUS INC.",
+    "characters": 3008
+  },
+  {
+    "url": "https://hacarus.com/ja/technology/hacarus-check-series/",
+    "cache": "fe20ad07e5b95a0577db",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://hacarus.com/ja/technology/hacarus-check-series/",
+    "status": "retrieved",
+    "title": "AI外観検査ソリューション「HACARUS Check」 - HACARUS INC.",
+    "characters": 2628
+  },
+  {
+    "url": "https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm",
+    "cache": "6421e9939a4668d70e62",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://help.solidcam.com/topics/solutions/cloudnc-cam-assist.htm",
+    "status": "retrieved",
+    "title": "CloudNC CAM Assist",
+    "characters": 2402
+  },
+  {
+    "url": "https://hexagon.com/products/esprit-edge/release-highlights",
+    "cache": "89cf89ef090969223de3",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://kanetec.co.jp/lp/MagnetPinset%40LP.html",
+    "cache": "1e86911e458b3853bc2d",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "<urlopen error [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。>"
+  },
+  {
+    "url": "https://ndotlight.com/",
+    "cache": "3c7db1971d79fed63b64",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://ndotlight.com/",
+    "status": "retrieved",
+    "title": "NdotLight - We Make Everything SimReady",
+    "characters": 9017
+  },
+  {
+    "url": "https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix",
+    "cache": "0b5f3f39fb6918bf75ed",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix",
+    "status": "retrieved",
+    "title": "NdotLight Proposes a New 3D Data Standard for the Physical AI Era with TRINIX | NdotLight",
+    "characters": 3015
+  },
+  {
+    "url": "https://ndotlight.com/newsroom/ndotlight-to-co-develop-dexbench-a-global-standard-for-humanoid-evaluation-with-nvidia-and-rlwrld",
+    "cache": "63a650fcbbf974837b72",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://ndotlight.com/newsroom/ndotlight-to-co-develop-dexbench-a-global-standard-for-humanoid-evaluation-with-nvidia-and-rlwrld",
+    "status": "retrieved",
+    "title": "NdotLight to Co-Develop DexBench, a Global Standard for Humanoid Evaluation, With NVIDIA and RLWRLD | NdotLight",
+    "characters": 4106
+  },
+  {
+    "url": "https://news.panasonic.com/jp/press/jn260713-1",
+    "cache": "c40b99211fe6210c2af5",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://news.panasonic.com/jp/press/jn260713-1",
+    "status": "retrieved",
+    "title": "AI支援型遠隔操作に対応した屋外自動搬送システムを構築、完全無人運用の実用化へ前進 | 技術・研究開発 | 技術・研究開発 | プレスリリース | Panasonic Newsroom Japan : パナソニック ニュースルーム ジャパン",
+    "characters": 7832
+  },
+  {
+    "url": "https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/",
+    "cache": "a4269087ce68a9f69e57",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://opcconnect.opcfoundation.org/2026/06/toward-realizing-ai-utilization-in-manufacturing-exploring-the-potential-of-integrating-the-opc-ua-information-model-with-ai-agents/",
+    "status": "retrieved",
+    "title": "Toward Realizing AI Utilization in Manufacturing – Exploring the Potential of Integrating the OPC UA Information Model with AI Agents – OPC Connect",
+    "characters": 7284
+  },
+  {
+    "url": "https://smd.co.jp/",
+    "cache": "88311f4977b4092526ce",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://smd.co.jp/",
+    "status": "retrieved",
+    "title": "株式会社シマダマシンツール",
+    "characters": 3187
+  },
+  {
+    "url": "https://tech.panasonic.com/jp/td/news/20221124.html",
+    "cache": "b6beee956a76c9879226",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://tech.panasonic.com/jp/td/news/20221124.html",
+    "status": "retrieved",
+    "title": "自動運転車両を遠隔監視・制御する「X-Area Remote」が導入された実証実験を工場敷地内で実施 - NEWS & TOPICS - DX・CPS本部／GX本部 - パナソニック ホールディングス",
+    "characters": 2646
+  },
+  {
+    "url": "https://toyoda.jtekt.co.jp/jimtof2026/",
+    "cache": "f44e8cd99214c72f18fc",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://toyoda.jtekt.co.jp/jimtof2026/",
+    "status": "retrieved",
+    "title": "JIMTOF2026 ジェイテクト出展のご案内 | JTEKT",
+    "characters": 2662
+  },
+  {
+    "url": "https://unit.aist.go.jp/cmt-ri/research-topics/digital-manufacturing.htm",
+    "cache": "380c19f634e6089580cc",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://unit.aist.go.jp/cmt-ri/research-topics/digital-manufacturing.htm",
+    "status": "retrieved",
+    "title": "国立研究開発法人 産業技術総合研究所 製造基盤技術研究部門",
+    "characters": 2644
+  },
+  {
+    "url": "https://www.abejainc.com/news/20261016/2",
+    "cache": "a3d88c9ee243bd8c0619",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.abejainc.com/news/20261016/2",
+    "status": "retrieved",
+    "title": "ABEJA、ヤマザキマザックと製造現場のフィジカルAI実装に向けた業務連携を開始|株式会社ABEJA",
+    "characters": 4591
+  },
+  {
+    "url": "https://www.aist.go.jp/aist_j/news/pr20260702.html",
+    "cache": "f1e652b05cd509429c09",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.aist.go.jp/aist_j/news/pr20260702.html",
+    "status": "retrieved",
+    "title": "産総研：産総研、製造AX拠点を始動\n－製造データとAIでつなぎ、高稼働率、高品質、高収益体質な製造業へと変革－",
+    "characters": 5734
+  },
+  {
+    "url": "https://www.aist.go.jp/aist_j/press_release/pr2022/pr20220117/pr20220117.html",
+    "cache": "b14303a04e5968f4c797",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.aist.go.jp/aist_j/press_release/pr2022/pr20220117/pr20220117.html",
+    "status": "retrieved",
+    "title": "産総研：少数データから短時間で現場環境に応じた最適加工条件を決定",
+    "characters": 5275
+  },
+  {
+    "url": "https://www.autodesk.com/jp",
+    "cache": "fdae04e1b383be2f650f",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.autonomiq.de/",
+    "cache": "47dc83e572ed5ae9d515",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://autonomiq.de/",
+    "status": "retrieved",
+    "title": "autonomIQ - Intelligente CAM-Software für die CNC-Fertigung",
+    "characters": 2958
+  },
+  {
+    "url": "https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html",
+    "cache": "3cf92ad6d540efd0f0f2",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.beckhoff.com/en-en/company/press/twincat-chat-using-innovative-chatbot-technology-in-twincat-engineering-2023-04.html",
+    "status": "retrieved",
+    "title": "More productive control programming with AI-assisted engineering | Beckhoff Worldwide",
+    "characters": 5145
+  },
+  {
+    "url": "https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html",
+    "cache": "15c9f7275eaee9766572",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+    "cache": "29c0271933816e9fb4b5",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.beckhoff.com/ko-kr/products/automation/twincat-projects-with-ai-supported-engineering/",
+    "status": "retrieved",
+    "title": "TwinCAT projects with AI-assisted engineering | Beckhoff 대한민국",
+    "characters": 11742
+  },
+  {
+    "url": "https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+    "cache": "2da9f5f57a171baa292d",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.beckhoff.com/ko-kr/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+    "status": "retrieved",
+    "title": "TE1700 | TwinCAT 3 CoAgent for Engineering | Beckhoff 대한민국",
+    "characters": 3755
+  },
+  {
+    "url": "https://www.bellows.co.jp/",
+    "cache": "d181eb6e2dfffbb9b9a6",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.bellows.co.jp/",
+    "status": "retrieved",
+    "title": "ジャバラの株式会社ナベル",
+    "characters": 1379
+  },
+  {
+    "url": "https://www.bellows.co.jp/products/tm-robot",
+    "cache": "fbb7574033894da80b89",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.bellows.co.jp/products/tm-robot",
+    "status": "retrieved",
+    "title": "ジャバラの株式会社ナベル",
+    "characters": 1775
+  },
+  {
+    "url": "https://www.buffoli.it",
+    "cache": "c4b0f478eebe7cff36d0",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.buffoli.com/",
+    "status": "retrieved",
+    "title": "Buffoli Industries official website",
+    "characters": 3351
+  },
+  {
+    "url": "https://www.cgsys.co.jp/jp/cam-tool/function_features.html",
+    "cache": "c8c92c29a76d66fcdc48",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.cgsys.co.jp/jp/cam-tool/function_features.html",
+    "status": "retrieved",
+    "title": "CAM-TOOL 製品概要",
+    "characters": 10620
+  },
+  {
+    "url": "https://www.cgsys.co.jp/jp/products/event_ct.html",
+    "cache": "530e49019347fb77c885",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.cgsys.co.jp/jp/products/event_ct.html",
+    "status": "retrieved",
+    "title": "CGS製品 展示会情報",
+    "characters": 7913
+  },
+  {
+    "url": "https://www.cloudnc.com/ja/mastercam",
+    "cache": "4ac113a0d672ae1a0475",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.cloudnc.com/ja/mastercam",
+    "status": "retrieved",
+    "title": "Mastercam用 CAMアシスト - AI CAM",
+    "characters": 8262
+  },
+  {
+    "url": "https://www.cloudnc.com/ja/solidcam",
+    "cache": "6197bf2a45635d10db8c",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.cloudnc.com/ja/solidcam",
+    "status": "retrieved",
+    "title": "SolidCAM向けCAM Assist - AI CAM",
+    "characters": 7157
+  },
+  {
+    "url": "https://www.cloudnc.com/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "cache": "e47219fc6c4c7fd9742a",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.cloudnc.com/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "status": "retrieved",
+    "title": "CAM Assist, the first AI plug-in for CAM, is now available for Mastercam",
+    "characters": 7246
+  },
+  {
+    "url": "https://www.dmgmori.co.jp/",
+    "cache": "745aab022d2d14c3dbba",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_conditionagent.html",
+    "cache": "657b5249ce2df4f0e33a",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_geniac.html",
+    "cache": "b1c83b3d748845469fd8",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261016_jimtof2026.html",
+    "cache": "cfbec595054fc845105f",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+    "cache": "bfcb076e54bbf17f1e0c",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://www.fact-cam.co.jp/",
+    "cache": "3659c8b3ae12b2f54758",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fact-cam.co.jp/",
+    "status": "retrieved",
+    "title": "株式会社フアクト | Fusionの導入・CAM連携支援",
+    "characters": 6589
+  },
+  {
+    "url": "https://www.fanuc.co.jp/",
+    "cache": "13f056e55146808cf755",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fanuc.co.jp/",
+    "status": "retrieved",
+    "title": "ファナック株式会社 (FANUC CORPORATION)",
+    "characters": 4205
+  },
+  {
+    "url": "https://www.fanuc.co.jp/ja/JIMTOF2026/",
+    "cache": "33475568ff4a3f9bb30d",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fanuc.co.jp/ja/JIMTOF2026/",
+    "status": "retrieved",
+    "title": "JIMTOF2026特設ページ - 展示会出展予定 - ファナック株式会社",
+    "characters": 1938
+  },
+  {
+    "url": "https://www.fanuc.co.jp/ja/product/cnc/physical-ai-cnc/index.html",
+    "cache": "e9cbe2bc176ab9d06267",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fanuc.co.jp/ja/product/cnc/physical-ai-cnc/",
+    "status": "retrieved",
+    "title": "ファナックのフィジカルAI CNC - フィジカルAI CNC特設ページ - ファナック株式会社",
+    "characters": 1778
+  },
+  {
+    "url": "https://www.fanuc.co.jp/ja/product/robot/academia/case_study/ai-agent-robot-kitting-system.html",
+    "cache": "3a72ad3b242bb9ee6043",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fanuc.co.jp/ja/product/robot/academia/case_study/ai-agent-robot-kitting-system.html",
+    "status": "retrieved",
+    "title": "AIエージェントによるキッティング作業｜オープンプラットフォームの活用事例を紹介！ - オープンプラットフォーム特設ページ - ファナック株式会社",
+    "characters": 997
+  },
+  {
+    "url": "https://www.fanuc.co.jp/ja/product/robot/academia/case_study/imitation-learning-ai-robot.html",
+    "cache": "9e5056337e5c78b0ed3e",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fanuc.co.jp/ja/product/robot/academia/case_study/imitation-learning-ai-robot.html",
+    "status": "retrieved",
+    "title": "人の作業を模倣するAIロボット｜オープンプラットフォームの活用事例を紹介！ - オープンプラットフォーム特設ページ - ファナック株式会社",
+    "characters": 964
+  },
+  {
+    "url": "https://www.fanuc.co.jp/ja/product/robot/academia/case_study/moving-parts-ai-tracking-screwdriving.html",
+    "cache": "f902d87db0cf7ce5e798",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fanuc.co.jp/ja/product/robot/academia/case_study/moving-parts-ai-tracking-screwdriving.html",
+    "status": "retrieved",
+    "title": "動く部品を追いかけ、ねじ締め｜オープンプラットフォームの活用事例を紹介！ - オープンプラットフォーム特設ページ - ファナック株式会社",
+    "characters": 817
+  },
+  {
+    "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260911.html",
+    "cache": "eb739a02acad3ab90cb7",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260911.html",
+    "status": "retrieved",
+    "title": "溶接現場でもフィジカルAI実装を加速、新商品「AI溶接エージェント」 AIエージェントが図面を読みアーク溶接！ - ニュースリリース - ファナック株式会社",
+    "characters": 3716
+  },
+  {
+    "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260930.html",
+    "cache": "a24a97f714f0e231734b",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260930.html",
+    "status": "retrieved",
+    "title": "日立とファナック、フィジカルAI実装の共同事業化に向けた戦略的パートナーシップを締結 - ニュースリリース - ファナック株式会社",
+    "characters": 5412
+  },
+  {
+    "url": "https://www.iwatatool.co.jp",
+    "cache": "7824c826cb600fd90aeb",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.iwatatool.co.jp",
+    "status": "retrieved",
+    "title": "\n    イワタツール  \t\n\t\t",
+    "characters": 1073
+  },
+  {
+    "url": "https://www.makinoseiki.co.jp/exhibition/jimtof2026.html",
+    "cache": "8566b9ca946ec6e826f1",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.makinoseiki.co.jp/exhibition/jimtof2026.html",
+    "status": "retrieved",
+    "title": "展示会出展情報 | 牧野フライス精機株式会社",
+    "characters": 1402
+  },
+  {
+    "url": "https://www.mazak.com/discover/jp-ja/jimtof2026/",
+    "cache": "62803514b788d66b37f7",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.mazak.com/discover/jp-ja/jimtof2026/",
+    "status": "retrieved",
+    "title": "JIMTOF2026│MAZAK│ヤマザキマザック株式会社",
+    "characters": 2198
+  },
+  {
+    "url": "https://www.mazak.com/jp-en/news-media/upcoming-events/jimtof2026/",
+    "cache": "1c0ab60d22fe7f36785e",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.mazak.com/jp-en/news-media/upcoming-events/jimtof2026/",
+    "status": "retrieved",
+    "title": "JIMTOF2026 - Upcoming Events | Yamazaki Mazak Corporation",
+    "characters": 5383
+  },
+  {
+    "url": "https://www.mazak.com/jp-ja/technology/productivity/",
+    "cache": "cec3b168669911775ea1",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.mazak.com/jp-ja/technology/productivity/",
+    "status": "retrieved",
+    "title": "工作機械 自動プログラミング・段取り支援 - テクノロジー & ソリューション | ヤマザキマザック",
+    "characters": 4911
+  },
+  {
+    "url": "https://www.mazak.com/uk-en/technology/accuracy/",
+    "cache": "648833606344a612e0b5",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.mazak.com/uk-en/technology/accuracy/",
+    "status": "retrieved",
+    "title": "Accuracy - Technology & Solutions | Mazak UK",
+    "characters": 6411
+  },
+  {
+    "url": "https://www.mitsubishielectric.co.jp/fa/index.html",
+    "cache": "27aed1eab9666809f943",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.mitsubishielectric.co.jp/fa/index.html",
+    "status": "retrieved",
+    "title": "三菱電機FA",
+    "characters": 1604
+  },
+  {
+    "url": "https://www.moduleworks.com/see-you-at-jimtof-2026/",
+    "cache": "fd2bb2b80a67ac2fcc0a",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.moduleworks.com/see-you-at-jimtof-2026/",
+    "status": "retrieved",
+    "title": "See You at JIMTOF 2026 | ModuleWorks",
+    "characters": 7736
+  },
+  {
+    "url": "https://www.nakamura-tome.co.jp/products/automation/robosync/",
+    "cache": "dce953432740c798880e",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.nakamura-tome.co.jp/products/automation/robosync/",
+    "status": "retrieved",
+    "title": "RoboSync | 中村留精密工業株式会社",
+    "characters": 2028
+  },
+  {
+    "url": "https://www.nidec.com/jp/product/news/2024/news1101-03/",
+    "cache": "8ff164ed9db668694cc5",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.nidec.com/jp/products/news/2024/news1101-03/",
+    "status": "retrieved",
+    "title": "当社グループ会社によるマルチタスクギヤセンタ「MGC300」の開発について（ニデックマシンツール） | ニデック株式会社 - NIDEC CORPORATION",
+    "characters": 2286
+  },
+  {
+    "url": "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+    "cache": "1ebb7ce09add09dc0f68",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+    "status": "retrieved",
+    "title": "JIMTOF2026 | ニデックマシンツール・ニデックオーケーケー・TAKISAWA・PAMA",
+    "characters": 5409
+  },
+  {
+    "url": "https://www.okuma.co.jp",
+    "cache": "8825e5b613909090a9f3",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.okuma.co.jp",
+    "status": "retrieved",
+    "title": "オークマ株式会社",
+    "characters": 4271
+  },
+  {
+    "url": "https://www.okuma.co.jp/event/jimtof/2026/",
+    "cache": "06ec97f25761b966fa00",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.okuma.co.jp/event/jimtof/2026/",
+    "status": "retrieved",
+    "title": "JIMTOF 2026 第33回日本国際工作機械見本市 | オークマ株式会社",
+    "characters": 1958
+  },
+  {
+    "url": "https://www.okuma.co.jp/smart-factory/osp-suite/osp-ai.php",
+    "cache": "f4bb93fb6be45798834d",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.okuma.co.jp/smart-factory/osp-suite/osp-ai.php",
+    "status": "retrieved",
+    "title": "AI機械診断機能 AI加工診断機能 | OSP suite | 技術・ソリューション Okuma Smart Factory | オークマ株式会社",
+    "characters": 4066
+  },
+  {
+    "url": "https://www.panasonic.com/jp/company/ppe/",
+    "cache": "ddfc8878768e22b3a88e",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.panasonic.com/jp/company/ppe/products/x-area.html",
+    "cache": "3016b0cbe506b1810429",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.phoxter.co.jp/news/jimtof2026",
+    "cache": "08d35479859957e037bc",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.phoxter.co.jp/news/jimtof2026",
+    "status": "retrieved",
+    "title": "【10/26～10/31：東京】JIMTOF2026に出展します ",
+    "characters": 2469
+  },
+  {
+    "url": "https://www.renishaw.com/jp/smart-manufacturing-data-platform-for-industrial-process-control--47853",
+    "cache": "43e047bb260755c51e77",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.renishaw.com/jp/smart-manufacturing-data-platform-for-industrial-process-control--47853",
+    "status": "retrieved",
+    "title": "スマートなものづくりを実現するデータプラットフォーム",
+    "characters": 6107
+  },
+  {
+    "url": "https://www.siemens.com/en-us/company/insights/industrial-ai-changes-automation-engineers-work/",
+    "cache": "68e04985c64b5ad0b4d7",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.siemens.com/en-us/company/insights/industrial-ai-changes-automation-engineers-work/",
+    "status": "retrieved",
+    "title": "How industrial AI is reshaping automation engineering | Siemens",
+    "characters": 6541
+  },
+  {
+    "url": "https://www.tm-robot.com/ja/product/ai-vision",
+    "cache": "9258ec496e6ec8190044",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.tm-robot.com/ja/product/ai-vision",
+    "status": "retrieved",
+    "title": "AIビジョン | ネイティブAIエンジン + ロボットアーム + ビジョンシステム",
+    "characters": 1220
+  },
+  {
+    "url": "https://www.yonek.co.jp/news/event/yonezawa-jimtof2026",
+    "cache": "9380173c8ae870cc54d7",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://www.yonek.co.jp/news/event/yonezawa-jimtof2026",
+    "status": "retrieved",
+    "title": "【JIMTOF2026】出展のお知らせ｜東3ホール E3008【出展概要】 | 展示会 | ニュース | 米沢工機株式会社",
+    "characters": 2125
+  },
+  {
+    "url": "https://yamatech.jp",
+    "cache": "6c745efa07884a0589d0",
+    "checked": "2026-10-23",
+    "semantic_review": false,
+    "resolved_url": "https://yamatech.jp",
+    "status": "retrieved",
+    "title": "トップページ - 山口産業株式会社",
+    "characters": 761
+  }
+]

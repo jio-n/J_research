@@ -1,0 +1,1147 @@
+﻿row_no,record_id,company,booth,status,reason,item_ids,tag_names,description_available,detail_url
+1,EXH-2026-dca2227aa7183e58,株式会社IHI,WA001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ysW3xitC8p0
+2,EXH-2026-be046ba3ccd15cda,株式会社ＩＨＩ機械システム,WA001,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+3,EXH-2026-2a48937f4eb5e220,ifm efector株式会社,S3061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+4,EXH-2026-6cc45af1cf11fc89,株式会社アイゼン,E7002,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=XcS9JP3cDXc
+5,EXH-2026-c1f3f446d50362cc,アイダエンジニアリング株式会社,E1059,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=IYdFqkTtym4
+6,EXH-2026-48e2386f5fc453a1,愛知産業株式会社,E2024,候補あり,AC001：C12 GEN2＋RS05-2,AC001,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Yl0biW0wGYQ
+7,EXH-2026-5ee6d849d1e61ac0,itp株式会社,S3072,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VWpk2UWgJhw
+8,EXH-2026-7d2e05044c8b6788,IDEC株式会社,W4090,候補あり,AC002：安全センサ・ガードロック,AC002,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=26-u-N6DHfQ
+9,EXH-2026-77aa7f051330262f,株式会社アカツキ製作所,S4029,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+10,EXH-2026-e01dca63e90b3edc,株式会社赤松電機製作所,W2032,候補あり,AC003：SMX逆洗ユニット・目詰まりセンサ,AC003,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=lPv1x-bM_CQ
+11,EXH-2026-9312cf5cc5884fb7,株式会社明吉製作所,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+12,EXH-2026-5fd2526030e71dbe,アクア化学株式会社,E1012,対象外（既存判定照合）,具体的な自動化・データ利用の範囲を追加確認する。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=uEC5aclgII4
+13,EXH-2026-e53889bf26b47cea,アクアシステム株式会社,W4071,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+14,EXH-2026-a1ccf71050e67970,株式会社アコー,W3104,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RA_-8Qnh5Nc
+15,EXH-2026-72f04e65b5f26910,アコージャパン株式会社,W3104,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RCMpoKYjdqU
+16,EXH-2026-e35d773a7dbf71a1,アサ電子工業株式会社,W2051,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+17,EXH-2026-f773b996fba22c34,株式会社浅沼技研,S3071,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=HR5Su5IkMj0
+18,EXH-2026-8a5315e2e77631f3,株式会社アサヒ工具製作所,W1089,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0RNdRWbc9h0
+19,EXH-2026-63a8410d7c618e02,旭商工株式会社,W3056,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=R_rANt3zYio
+20,EXH-2026-907ef152949f6105,株式会社旭商工社,W3043,候補あり,AC005：ロボットシステム提案,AC005,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=16et4DWBUOg
+21,EXH-2026-34f384e0c88ee32c,旭ダイヤモンド工業株式会社,W4018,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+22,EXH-2026-b6d1434bfe8ae571,株式会社アステック,S1023,候補あり,AC006：A33CNC7 ロボット搭載放電加工ヘッド,AC006,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=3riic2Y52c8
+23,EXH-2026-0decd87d119581b8,アズビル株式会社,W4070,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+24,EXH-2026-2c48cf1373cedc75,アズビルTACO株式会社,W4070,候補あり,AC007：QM30VT3・安全制御機器／RPT003：U4DM01 NC旋盤予兆検知,AC007 / RPT003,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=x6DdroBnfSA
+25,EXH-2026-31fee16f4e2e302f,アズビルトレーディング株式会社,W4070,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+26,EXH-2026-234ca3b7d79b300b,亜台富士Japan株式会社,W4091,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+27,EXH-2026-211afaf5df999896,足立総業株式会社,W3063,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=XBmlA1ZOTlU
+28,EXH-2026-682bc1a118961965,厚地鉄工株式会社,W4096,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+29,EXH-2026-41867cea56f579d4,株式会社アドコールファーイースト,E7012,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+30,EXH-2026-28a60c0c374dbd1c,株式会社アドテック富士,E3021,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+31,EXH-2026-5fe4f7b65e7b1d1b,アナログ・デバイセズ株式会社,S3003,候補あり,AC008：産業用Ethernet・エッジAI制御基盤,AC008,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=KmFutdwRdo0
+32,EXH-2026-ad740d16e5bf8aeb,株式会社アビコ技術研究所,S2008,候補あり,AC009：AL-1 ロボットストッカー,AC009,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=FM2ZTtdHV5w
+33,EXH-2026-650d9d144d109d53,株式会社アマダ,E2012,候補あり,AC010：SDEW8010i III＋ALFAS-03KR,AC010,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=lwacRdqPa60
+34,EXH-2026-6029a59fb8aad4a7,株式会社アマダプレスシステム,E2012,候補あり,AC011：SDEW8010i III＋ALFAS-03KR,AC011,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=QfXLYGGnIbs
+35,EXH-2026-1528d81bd5c28405,株式会社アマダマシナリー,E2012,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=U1jo4_mWKu0
+36,EXH-2026-9e75966fdb33f3e3,アマノ株式会社,W3115,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+37,EXH-2026-cea854658379b29a,アメテック株式会社,E7025,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Ku9wuwnM7BI
+38,EXH-2026-7731b1e3a5b807c9,アメテック株式会社,E7030,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+39,EXH-2026-c652c17bd16cf57c,株式会社アヤボ,WA015,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VgE3oG161nk
+40,EXH-2026-bd0f5ee2e92a28b5,株式会社アライドマテリアル,W4011,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=vPxHIr9l2jI
+41,EXH-2026-7765c20b41e7f292,株式会社アライドマテリアル,W1028,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+42,EXH-2026-8629da16c0024fa7,有限会社アリューズ,WA021,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=I-NS8h7-tdo
+43,EXH-2026-074a6cdb226b9326,アルゴット株式会社,S3090,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=S1wEVG57s2o
+44,EXH-2026-ecbc4eb72731f0b2,アルファーミラージュ株式会社,S3077,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+45,EXH-2026-98b6ed24a022a7f1,ALPHA LASER JAPAN株式会社,S1009,候補あり,N0044：3D自動レーザ肉盛り,N0044,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Ns7pdNPCllg
+46,EXH-2026-aa4cb9abd8dccbec,株式会社アルプスツール,E7047,候補あり,AC012：CELSUS32／ASRX-04A,AC012,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=2TYreMhMb5Q
+47,EXH-2026-bc03b4dc43a21c8d,株式会社アルプスツール,W2044,候補あり,AC012：CELSUS32／ASRX-04A,AC012,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=QEtxSDExftE
+48,EXH-2026-4fae50b808ddf171,アローテクノ株式会社,W2007,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0ayXe8b8Xec
+49,EXH-2026-6bde0b485bb27f8c,阿波スピンドル株式会社,S4034,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=MTYTZ2Km3zM
+50,EXH-2026-02e7070b98e7ee0b,ANCA Machine Tools Japan株式会社,E1066,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=MX_j1ecD9ZI
+51,EXH-2026-af594372ce986f00,安藤株式会社,S3034,候補あり,AC013：FAIRINOロボット・溶接／供給システム,AC013,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=E-sJ8QNrgW0
+52,EXH-2026-c0ca7c25f857e102,イースタン技研株式会社,S1013,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=U2jzNr1dfLo
+53,EXH-2026-0855541afdd2d828,EPLAN株式会社,S1067,候補あり,FC016：Eplan P8／Pro Panel／FC017：Eplan Copilot,FC016 / FC017,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=FHsQAvmFusY
+54,EXH-2026-d7f06610e0cfe3de,イグス株式会社,E3004,候補あり,AC014：smart plastics 状態監視,AC014,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=BnXXMpSPRVw
+55,EXH-2026-35689b80a4d071e3,育良精機株式会社,E7093,候補あり,N0054：自動棒材供給機,N0054,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=4LoxH3psdFE
+56,EXH-2026-b13a1cbd634179d5,株式会社池貝,E3002,候補あり,AC015：Neo VM II／HPSB II 自動化構成,AC015,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=WS9ql5D41fQ
+57,EXH-2026-756b3bb3441af81b,株式会社石井表記,S1043,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+58,EXH-2026-fa1b1c64b13c5f19,株式会社石川研磨,W3042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=1x9xspKpHbk
+59,EXH-2026-dcc361015ad89157,株式会社IZUSHI,W1087,候補あり,AC016：FORMHAND／IDECK1,AC016,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=XQSp36eC9AA
+60,EXH-2026-681d5ad2651a63b2,株式会社イズミコーポレーション,WA007,候補あり,AC017：AMV エアクランピングバイス,AC017,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Eo7w7UDoYR0
+61,EXH-2026-58decec4008df858,和泉産業株式会社,W4084,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+62,EXH-2026-d820caeb8fd9158c,株式会社イタカジャパン,E1033,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+63,EXH-2026-8b62d388cf6eb5ad,株式会社イチグチ,W4056,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ZVKmtH7jaoU
+64,EXH-2026-fbfdf397b0639dbf,出光興産株式会社,W4092,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+65,EXH-2026-7f41e63bd0f47a62,株式会社伊東商会,S4013,対象外（機能未特定）,Automation Studioは回路設計・シミュレーション。製品名だけでは四タグの自動処理機能を特定できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=zWtwHxsaw3Q
+66,EXH-2026-5d93ba5fa3b35f3a,伊藤忠テクノソリューションズ株式会社,E1064,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+67,EXH-2026-41dc1e5513fe9737,伊藤忠マシンテクノス株式会社,E1002,候補あり,AC019：フィジカルAI向け二次開発・統合提案,AC019,AI / フィジカルAI,True,https://www.jimtof.org/search/jp/ESdetails?e=7ypX6WR51KU
+68,EXH-2026-ba823dc0e6bbb8bf,株式会社イノテック,W2076,候補あり,N0067：スマートキャビネット,N0067,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=dzC7Uuhkeo0
+69,EXH-2026-442ce0260aab1d7c,イハラサイエンス株式会社,W4067,対象外（既存判定照合）,配管・流量最適化の説明。AI・DX・自動運用の具体機能は今回の記述では確認できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=XWNRIrV419c
+70,EXH-2026-99234148cbcc9c85,株式会社イマオコーポレーション,W2001,候補あり,FC042：ナットランナー治具／FC043：メカ式フィンガー交換,FC042 / FC043,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=shuDpJLDn-A
+71,EXH-2026-e688a71f11c19f74,入野機工株式会社,E7048,候補あり,AC021：IIG15HE 内面研削自動化,AC021,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=vWBww2kQlVU
+72,EXH-2026-4cf44dfd2bc07e2b,イルジンジャパン株式会社,W4023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+73,EXH-2026-d3c9a9c625e8cd68,イルジンジャパン株式会社,W4023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+74,EXH-2026-1c92e85ce52e9b1d,株式会社イワシタ,E3023,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RB0_ff0ogUI
+75,EXH-2026-30fa7d4bf3eb94b2,株式会社イワタツール,W1069,候補あり,AC022：ロボット加工・AI協業提案,AC022,AI,True,https://www.jimtof.org/search/jp/ESdetails?e=1GQBhZ1T3X0
+76,EXH-2026-2665eec2815b539b,磐田刃物株式会社,W4035,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=1fYXdd0MTS0
+77,EXH-2026-62123840b31a73c9,株式会社岩間工業所,E7063,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=nbam_9EMKik
+78,EXH-2026-f1109e3463dd2ac3,岩本工業株式会社,S4043,候補あり,AC023：ICS3200 クーラント希釈・供給,AC023,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=pOe5ZdiBMpc
+79,EXH-2026-421cd3fbf086b840,株式会社インコム,S3051,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+80,EXH-2026-ddf9d722a97865e7,インターナショナルダイヤモンド株式会社,W4020,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=EANP_sd31gg
+81,EXH-2026-ded6fc1cc6b70188,株式会社industria,S3050,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=z9RrQuf-IvA
+82,EXH-2026-10a39d4f417e3976,株式会社インテグラ技術研究所,S3069,候補あり,AC024：CAMWorks／SOLIDWORKS CAM,AC024,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=xEdNPWdhbs8
+83,EXH-2026-2703960c6bc2e1d3,株式会社インプローブ,W3042,候補あり,AC025：サクスマ 生産管理・スケジューリング／AC026：サクスマ 自律型スケジューラ,AC025 / AC026,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=WacbHqw4PMw
+84,EXH-2026-dc0db149daeb6803,株式会社インプローブ,S3008,候補あり,AC025：サクスマ 生産管理・スケジューリング／AC026：サクスマ 自律型スケジューラ,AC025 / AC026,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=U6gS--b_Z9A
+85,EXH-2026-3884a355dc068f08,株式会社ヴィクストリン,W4098,候補あり,AC027：QuickStop／工具自動交換,AC027,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=aO10VG4tnUs
+86,EXH-2026-cff64171ab038345,株式会社ウィンテック,W4089,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+87,EXH-2026-f82101935c4b9830,宇治電化学工業株式会社,W4025,候補あり,AC028：協働ロボット研磨・検査,AC028,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=nxFvaTiEEvg
+88,EXH-2026-cf22d85686acc029,株式会社宇都宮製作所,W1001,候補あり,AC029：TGR032 工具研削自動化,AC029,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=hU8LqSDiscs
+89,EXH-2026-75a3d696f1d42275,ASK株式会社,W4046,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=TKbYZS8t9TM
+90,EXH-2026-57505d36f841ff70,株式会社栄工舎,W1068,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=cbWuBOz5AqU
+91,EXH-2026-6ef0e5bdfc35158c,永興電機工業株式会社,W3057,候補あり,AC030：EFORCE ロボット用スピンドル,AC030,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=rF_cWwycdK4
+92,EXH-2026-9518b8f6ee55f912,永進テクノ株式会社,S3046,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=w5N_geUe3do
+93,EXH-2026-9109f51b0514db5c,株式会社Aiソリューションズ,S4011,候補あり,AC031：hyperMILL／Mastercam,AC031,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=DiSAGV9x7AM
+94,EXH-2026-0cde9e6617481d8a,AFCジャパン株式会社,W1013,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+95,EXH-2026-ca6a2f3b59e58420,ACS株式会社,S1001,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+96,EXH-2026-d07bdafc8140b1cb,エースポイントシステムズ株式会社,S4026,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+97,EXH-2026-1100ae8a251b24f6,エクソンモービル・ジャパン合同会社,S3086,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+98,EXH-2026-8b33ed02caa981c7,株式会社エグロ,E1045,候補あり,AC032：E32v ロボットセル／E15SK ATC,AC032,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=jYjN83ZMZpQ
+99,EXH-2026-96b9cbd9e371eddd,エコーテック株式会社,W3045,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=OEd8tBlp4n0
+100,EXH-2026-8dce061dd8de00db,株式会社エスアンドエフ,E1034,候補あり,N0099：自動調整機構付き特殊チャック,N0099,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=hIIJWwmaNOY
+101,EXH-2026-4f6dfe28b4544b31,エスエスシー株式会社,S4040,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+102,EXH-2026-b3c23eb81c430108,SMC株式会社,W4063,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3oUCCObcIv4
+103,EXH-2026-d32f9a2c2a12af7a,エスエムダブリューオートブロック株式会社,W2074,候補あり,AC033：KNCS-N等・自動ワーク保持,AC033,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=AKC0LsfHQI4
+104,EXH-2026-bf1b5c32d2761cff,株式会社エスケーファイン,S1061,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=tKJhtVykPLE
+105,EXH-2026-521637b4c962ce6d,株式会社エス・ティ・シー,E1069,候補あり,AC034：複合加工機の自動化提案,AC034,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=KczqG602kSE
+106,EXH-2026-70ddea7ea4f5f935,株式会社エステーリンク,E1025,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+107,EXH-2026-6cc94d6dd29e297f,株式会社SPIエンジニアリング,S3079,対象外（既存判定照合）,CAMは内視鏡の型番。CAD/CAMやAI展示を示す一致ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ogbuUD4PHqo
+108,EXH-2026-2c3b29ba2ffddae4,エス．ラボ株式会社,S1036,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+109,EXH-2026-6059dd307931eaee,株式会社Any Design,S4033,候補あり,AC036：AdjustMan／CalibMan,AC036,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=IR4kvy0h_O4
+110,EXH-2026-7807206b2b7166e5,エヌ・エス・エス株式会社,E1048,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=BF-oP5b4lM8
+111,EXH-2026-9ac2eb87d29b1692,NKワークス株式会社,E3015,候補あり,AC037：自動開閉バイス・グリッパ,AC037,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=UQBQ5yg2WIk
+112,EXH-2026-5a8e05a3891db23f,NTKカッティングツールズ株式会社,W1017,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=TBbKSqJMWQI
+113,EXH-2026-e3e0ddff337c4b17,エヌティーツール株式会社,W2019,候補あり,FC044：マテハンホルダ／FC045：BoostMaster,FC044 / FC045,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=iW3vesxy4DU
+114,EXH-2026-ddf6c371465ffd05,NTN株式会社,W2037,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+115,EXH-2026-9777aef41b295e72,NTTスマートコネクト株式会社,E7037,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+116,EXH-2026-dab434a75efb3ee5,ENEOS株式会社,E2032,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=c2DYD5xW8Hg
+117,EXH-2026-a1dbd6616df1ea2d,エバーロイ商事株式会社,W1044,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+118,EXH-2026-dfe93ffb9c8b9aaf,エバオン株式会社,S3037,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=aMMGPhlnKE4
+119,EXH-2026-82c1d23abea2ae6d,エバ工業株式会社,E7065,候補あり,AC038：VTS 工具ストッカー,AC038,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=BQDEsiMInIU
+120,EXH-2026-f121329fc448725c,株式会社エフエスケー,W4033,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Xkz8CdhisBM
+121,EXH-2026-9022dcaec2b02dde,FNS株式会社,E2034,候補あり,AC039：TM-2800,AC039,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=_q_YetP8_og
+122,EXH-2026-994132acad006121,エフ・ピー・ツール株式会社,W1086,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=YKO4pcNgfEI
+123,EXH-2026-a2564c947cb61cb3,エムーゲ・フランケン株式会社,W1009,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=WZjeoEoTWXw
+124,EXH-2026-c10951d14dbc0dc5,株式会社エムエーツール,W1020,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=P4ooBSu0f68
+125,EXH-2026-f74dba1a90bb7c60,株式会社MSTコーポレーション,W2011,候補あり,AC040：吊下げロボットストッカー／HSKクランプ,AC040,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=SJ1uP-anpRI
+126,EXH-2026-92d33b1e6bae230e,エリコンジャパン株式会社,W1055,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=wdvcAquYcW0
+127,EXH-2026-83e6b58f289b5319,合同会社LNSジャパン,S4016,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+128,EXH-2026-8a1672c9a725f179,LKメトロロジー株式会社,S4035,候補あり,N0127：H120 レーザスキャナ,N0127,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=58-lhh4o9Oo
+129,EXH-2026-e8cfdc77140dc6f8,エルゴジャパン株式会社,E7018,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=kwSptRXMjmo
+130,EXH-2026-7c27b702080c59ab,株式会社エレニックス,E2020,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+131,EXH-2026-f70ca2797c588894,株式会社エロワ日本,S1068,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+132,EXH-2026-0e942b9436bf5d6c,エンシュウ株式会社,E3027,候補あり,AC041：Mobile Robot＋JE50S,AC041,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=fPfTIEegDHY
+133,EXH-2026-68c1d2b691dcb28c,オイヒナー株式会社,S4003,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=AIdyY-ZVQzw
+134,EXH-2026-89ee86275a54f434,オーエスジー株式会社,W1070,候補あり,AC042：MONOlith BOX 工具管理,AC042,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=AooPnMJlHW4
+135,EXH-2026-75e6c92f1fdf0cb3,株式会社オーエム製作所,E2019,候補あり,AC043：VTLex1100M 自動化構成,AC043,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=TbC314Ifhvc
+136,EXH-2026-83dac2656a4ec28c,オークマ株式会社,E3028,候補あり,FC008：ARMROID／OMR20／FC009：熱変位制御・AI知能化／RPT007：加工ナビM-i／M-gⅡ（製品資料による比較）／FT-O01：OSP-AI 機械診断／加工診断,FT-O01 / FC008 / FC009 / RPT007,AI / フィジカルAI / 自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI
+137,EXH-2026-97f5a8a9c32a63e9,大古精機株式会社,E7021,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=860GyAoBUH0
+138,EXH-2026-40870007c88bd39f,大阪製罐株式会社,W3112,対象外（既存判定照合）,DXはキャビネットの型番。透明窓による見える化をデジタルDXと扱わない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=fVouQpPd88c
+139,EXH-2026-e055ca136fdeb1ab,オーセンテック株式会社,E1030,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=t1KJDnOzCsU
+140,EXH-2026-3a0ecdf147db874b,株式会社オーツカ光学,E7011,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+141,EXH-2026-d680c617bfdb1dc2,オートデスク株式会社,S3019,候補あり,FC023：Fusion／FeatureCAM／PLM連携,FC023,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Y_kC6hMTghk
+142,EXH-2026-e25036246b9260c0,大鳥機工株式会社,E2011,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=BAHnkiwqlMM
+143,EXH-2026-8a94c813fb949d2d,有限会社大野精機,S3038,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=NTWx4OUzu8I
+144,EXH-2026-426a2f9fe17c70e9,大野精工株式会社,E7075,候補あり,AC045：HG400 自動結線,AC045,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=BUXIodTELh0
+145,EXH-2026-d9f7c60e51a8c248,大野精工株式会社,S1031,候補あり,AC045：HG400 自動結線,AC045,自動化,False,
+146,EXH-2026-1db333ec801b618f,株式会社大菱計器製作所,E7027,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=EYRSJDsF4A4
+147,EXH-2026-ba1fb022d9f4e67c,Orbray株式会社,E7023,候補あり,AC046：自動アライメント・多方向計測,AC046,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=sqqEKtPeqfw
+148,EXH-2026-f3eec5560e813e09,オープン・マインド・テクノロジーズ・ジャパン株式会社,S4007,候補あり,AC047：hyperMILL 自動プログラミング,AC047,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=A5CG9Q83cis
+149,EXH-2026-f732ce78a6b2ce6a,株式会社オーマット,E7080,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+150,EXH-2026-ea0788f57f81b52a,大峰工業株式会社,E1042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Ls0vCKRECcg
+151,EXH-2026-6703fc63c6ab91c5,株式会社大宮マシナリー,E7049,候補あり,AC048：センタレス研削自動ライン,AC048,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=q6gAUajA3gE
+152,EXH-2026-0b06837ec63aeb79,オーム電機株式会社,W4083,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+153,EXH-2026-46ab33fd093b31bc,岡﨑精工株式会社,W1074,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3eq-FbqXtMg
+154,EXH-2026-5328cd9bc8bcf4ba,株式会社小笠原プレシジョンラボラトリー,W1073,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=vJBoIDNEQPQ
+155,EXH-2026-770fa4b5c41d4f19,株式会社オカスギ,W4045,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+156,EXH-2026-6c8f6fc8882f6c9c,株式会社岡本工作機械製作所,E7095,候補あり,AC049：研削盤の自動化ソリューション,AC049,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=cWqFNxFT9X8
+157,EXH-2026-75e88355af6fe4bd,株式会社尾崎製作所,E7028,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+158,EXH-2026-d6cb47f8b71f745a,オヂヤセイキ株式会社,E7042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=pzcvS3arTL8
+159,EXH-2026-586e3485c673ec4b,オフィス・キートス,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+160,EXH-2026-ffc1733aea366804,株式会社オプトン,E1007,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+161,EXH-2026-51b67750f299f152,ORiN協議会,S3007,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=seZBgJCmESw
+162,EXH-2026-d50dd8d2a40714a7,株式会社オンワード技研,WA004,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=-n22F1d_CDc
+163,EXH-2026-8b7455a3c3b59fa5,有限会社海王,S1044,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+164,EXH-2026-7a9db0ee5a53173d,株式会社科学計器研究所,E2014,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=HtbUEMRAlyw
+165,EXH-2026-bd10b49a912f0ee8,株式会社カシフジ,E1070,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+166,EXH-2026-96f654a6ea503735,株式会社GAZIRU,E3008,候補あり,FT-G01：GAZIRU.eye 良品学習AI検査／FT-G02：GAZIRU.z V5 タグレス個体識別,FT-G01 / FT-G02,AI / 自動化,False,
+167,EXH-2026-ce9f1e0e631bd381,春日井精工株式会社,W1007,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+168,EXH-2026-c1cdd9cbc9694b33,カストロールインターナショナル株式会社,S2021,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+169,EXH-2026-024be58bd1c7d46f,カトウ工機株式会社,W2038,候補あり,AC050：ロボット・MC用バリ取りツーリング,AC050,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=36Mstb-jm5Q
+170,EXH-2026-5a2a6af269875e0e,株式会社金型新聞社,S3027,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+171,EXH-2026-e99aaa28e13e64fa,カネックス刃物工業株式会社,W1041,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=bxF5MevR44k
+172,EXH-2026-30b70a74241de123,カネテック株式会社,W2013,候補あり,AC051：AI・2Dカメラ＋マグネットピンセット,AC051,AI / フィジカルAI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ekM3exgIAtc
+173,EXH-2026-13cc8949c18d331d,兼房株式会社,W1037,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Aon5uhiKF3U
+174,EXH-2026-8c94cb18f4807b4e,株式会社兼松ケージーケイ,S2017,候補あり,AC052：JDHGT600THMG 計測・研削補正,AC052,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=soucpoaRRyI
+175,EXH-2026-948215cf18f85fdb,カブト工業株式会社,W2014,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=DyUagriLzR0
+176,EXH-2026-71ba5279a9c92639,神谷機工株式会社,W3044,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=NqTapITKGhM
+177,EXH-2026-c082674ade91e382,加茂精工株式会社,W3109,候補あり,N0176：TLS 自動潤滑供給,N0176,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ixEDpaZ_Tkc
+178,EXH-2026-366cd35d1fd66cdc,株式会社唐津プレシジョン,E1052,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=dmBE6KrPBwU
+179,EXH-2026-8b196d0a504dcc0c,川重テクノロジー株式会社,S1042,対象外（機能未特定）,FEM・CFD解析サービスとミスト捕集。AI推論・自動工程の具体記載なし。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Wa3P03zlqwQ
+180,EXH-2026-c6befe088d12af2f,株式会社カワタテック,W2066,候補あり,N0179：SP3950G パレットチェンジャ,N0179,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=SdgtqHZPhzY
+181,EXH-2026-f470574efb9f0ae4,川田鉄工株式会社,W2065,候補あり,N0180：EPS 自動スクロールチャック,N0180,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Ww4k0_KqdAU
+182,EXH-2026-8939387e1b4245a8,株式会社川本製作所,W4073,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=vPG0XMiBzgY
+183,EXH-2026-2073931a2de163fc,菅機械産業株式会社,S4025,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5CWUqNS_dBw
+184,EXH-2026-ed4a0a8bf9a36920,株式会社管機産業新聞社,S3026,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+185,EXH-2026-91aa8dd094a4a7b2,株式会社神崎高級工機製作所,E1071,候補あり,AC054：FD100 自動歯合わせ／加工条件最適化開発／RPT004：FD100 ギヤチェッカー,RPT004 / AC054,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=bpuT_4Xpv_c
+186,EXH-2026-e559d4cc4e4e0f1c,関東精機株式会社,W2049,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=cRQc_VGxBXo
+187,EXH-2026-8ec273f6a72aae0c,株式会社キーエンス,S4021,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+188,EXH-2026-ab8e543c2acb244d,喜一工具株式会社,W1078,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=KpK14LCvF5I
+189,EXH-2026-b00d2af554dfea8e,株式会社ギケン,W1069,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=a8cwvWhlLow
+190,EXH-2026-2c1bff525e1eb40c,キステム株式会社,S4014,候補あり,AC055：Opt1 6軸加工補正,AC055,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=QjS8eNKRLhw
+191,EXH-2026-4064c0e9220721ee,キソー株式会社,S3092,候補あり,AC056：自動洗浄装置,AC056,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=q16UKMJlnLI
+192,EXH-2026-8ba09f34bea6a6bb,北井産業株式会社,E7066,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+193,EXH-2026-c8fbda3c11c86f47,株式会社北岡鉄工所,WA019,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+194,EXH-2026-4e495b7a38654a48,株式会社北川鉄工所,W2016,候補あり,AC057：ロボットグリッパ・自動交換チャック,AC057,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=XAQiCUDqIGg
+195,EXH-2026-8dc74bc2bb78626e,キタムラ機械株式会社,E2030,候補あり,AC058：SUPERCELL-400Ga,AC058,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=8B2MeaGChjg
+196,EXH-2026-99a305a4fe6032c4,株式会社北村製作所,E7054,候補あり,AC059：研削加工の自動化ユニット,AC059,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ggacRtFUF1k
+197,EXH-2026-1ffec81a44738bd3,株式会社鬼頭精器製作所,W3072,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VwKQq9dYLj4
+198,EXH-2026-66ac0fe1ee9cbaf6,株式会社岐阜プロテック,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+199,EXH-2026-a20289b35c1607c4,木村刃物製造株式会社,S1011,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+200,EXH-2026-c8de4ae2c9076f2f,株式会社キャプテンインダストリーズ,E3003,候補あり,AC060：PC-DMIS NC 機上計測,AC060,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=9vpTjarQl8s
+201,EXH-2026-6e1367bfcf2402d3,株式会社CAMSUPS,E1053,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+202,EXH-2026-27ca2522afe8413a,キャムタス株式会社,S3067,候補あり,AC061：Speedy mill／Cimatron,AC061,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=7W94U2NDZqc
+203,EXH-2026-7d2807077554a905,株式会社QMC,W1069,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+204,EXH-2026-17b270f2c0f6c8c5,株式会社九州工具製作所,W2069,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2GogzzkH4bw
+205,EXH-2026-f8bab15f693db117,協育歯車工業株式会社,W3105,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+206,EXH-2026-9e3b1966adbc6039,協栄電機株式会社,W3097,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=02CgvaNiK-8
+207,EXH-2026-916418fd838030de,京セラ株式会社,W1046,候補あり,AC062：VIMOA 工具・加工監視,AC062,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=E4SA18YM2G4
+208,EXH-2026-7c3bb943d7f44f0b,株式会社京二,W1099,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Ykv-_SDsX6A
+209,EXH-2026-379122f130d0b4e8,株式会社共立合金製作所,W1044,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=mjIyOzHh7nU
+210,EXH-2026-1c8938d47b63e4bb,共立精機株式会社,W2025,候補あり,AC063：HP6040VFA・インサート自動交換,AC063,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=9k7ro8sL0VA
+211,EXH-2026-02aafb7f5d6c24f2,協和精工株式会社,W1075,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=wvRjbRH3NUI
+212,EXH-2026-89bd5384b9c471bc,協和石油ルブリカンツ株式会社,S3062,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=TO7dRs4Gss8
+213,EXH-2026-e8f096fb04816f53,株式会社きりしま,S3047,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3R9_t_uaxLw
+214,EXH-2026-38d951d64d0b7a18,株式会社紀和マシナリー,E2004,候補あり,N0213：2面パレット・両面同時5軸加工機,N0213,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=nf9EqNHmWGY
+215,EXH-2026-1e370387df5293a4,株式会社グーテンベルク,S1045,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+216,EXH-2026-e778bb42eb90c2ef,グーリングジャパン株式会社,W1072,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2xYedDmF0s8
+217,EXH-2026-f7001e23342231ac,クール・テック株式会社,S3096,候補あり,N0216：Aqua Blend Pro,N0216,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=7TzCPB85VEw
+218,EXH-2026-7b1312c50474d3b9,Quod6株式会社,W4017,候補あり,AC064：Pin Power PP-S PLUS,AC064,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ecnhDTVp2uU
+219,EXH-2026-50d8c951f736be82,クオリカ株式会社,E1058,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+220,EXH-2026-54d4125bcf6a94ab,株式会社GUGEN,S3016,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+221,EXH-2026-494539b75342b5a9,株式会社国盛化学,S3039,対象外（機能未特定）,ケーブル保護材。ロボットへの利用だけで作業自動化機能とは数えない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=27tfI7tHVRI
+222,EXH-2026-e478008dfee64aaf,Gracat Japan株式会社,W1100,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=_wNjhm1EAFE
+223,EXH-2026-dd737de13e95a9e4,グラボテック株式会社,S1034,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+224,EXH-2026-1e8f0c20d2912c1a,グリーンツール株式会社,W1080,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=EG5nDinPQuw
+225,EXH-2026-305fafac870ddc6a,株式会社グリーンプラス,S3101,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=BUBJ1-F2eKA
+226,EXH-2026-ad21e1d250ae4595,株式会社クリエイトエンジニアリング,E1022,候補あり,N0225：自動切粉破砕圧縮機,N0225,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=1tB6GL9tWYY
+227,EXH-2026-44f03ddc21028b66,グルンドフォスポンプ株式会社,E1004,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=yOgt5jhM9VI
+228,EXH-2026-3c328ef443098e27,株式会社クレオ,W3102,候補あり,N0227：通い箱・容器洗浄機,N0227,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=cd1GdKID4u0
+229,EXH-2026-366c2ca488ac528f,株式会社クレステック,W3070,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=EsibYSGcpfA
+230,EXH-2026-190942b252a1b84c,クレトイシ株式会社,W4038,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+231,EXH-2026-65a684118b48bdf2,株式会社クロイツ,E3025,候補あり,AC066：フローティング式ロボットバリ取り,AC066,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=pKhtGg5AXLc
+232,EXH-2026-3b00712e843bc8e1,株式会社グローバルダイヤモンド,W4001,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+233,EXH-2026-52c126c6f3c4371e,株式会社グローバル・パーツ,S3045,候補あり,AC067：ATCマガジン・APC機構,AC067,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=7pg5I7Dvfkc
+234,EXH-2026-4c6607bd34e11b36,株式会社グローブ・テック,W3085,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ooJTAeOE_hc
+235,EXH-2026-d1c4b808057b7341,黒田精工株式会社,E7091,候補あり,AC068：歯車計測・研削自動化,AC068,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=46cG1q7GwI4
+236,EXH-2026-c73d489b393f8bc8,GROB Japan株式会社,S1059,候補あり,AC069：加工ライン自動化,AC069,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=1gMJ22MesEE
+237,EXH-2026-fab3c2cc7a727f21,株式会社群協製作所,S1040,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+238,EXH-2026-d9cea950bc828ef7,株式会社ケー・ティー・システム,E3015,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+239,EXH-2026-5f368e093f795d47,株式会社ケーエムケーワールド,S3018,対象外（機能未特定）,生産情報の一元管理が中心。自動計画・AI・自律実行の具体機能は未確認。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=iRQKn5kaGi8
+240,EXH-2026-20aa2b17f81ff511,株式会社ゲートジャパン,E1026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Ec0hl8Ovizo
+241,EXH-2026-d66aeebae0c97d51,株式会社ケーメックス・オートメーション,S3024,候補あり,FC068：産業用IPC／VARIO-X・分散I/O,FC068,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=bz4bGc4T6ag
+242,EXH-2026-f960a6b7504d66c5,株式会社keg,W2040,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=BiZonzjokTc
+243,EXH-2026-56c116ed63654eae,ケナメタルジャパン株式会社,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+244,EXH-2026-f9b4b6d720da3a67,株式会社ＫＥＬＫ,E1058,対象外（機能未特定）,無線振動センサのデータ基盤。AI診断・閉ループ実行機能は未確認。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=bcTCu5edlsM
+245,EXH-2026-d079bb7635d22526,株式会社研削研磨,S3095,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=PPRbqg5klUc
+246,EXH-2026-01761b7d0056c58f,コアーテック株式会社,E7018,候補あり,AC072：ロボポール 電動伸縮アクチュエータ,AC072,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=TfkhiNP60VQ
+247,EXH-2026-464aff97f41fc725,株式会社コイズミツール,W1004,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=nKu4F7kQI2g
+248,EXH-2026-47a724582af2013e,株式会社弘輝テック,S4052,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+249,EXH-2026-a635923b5c450d23,株式会社光正,W3055,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=vsfvyGQuzOM
+250,EXH-2026-913d3ae4a912cb46,株式会社功晴精密,W4057,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=G_Eeg2HvvrA
+251,EXH-2026-da0effb3fad46446,株式会社神戸製鋼所,W1024,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=zf3trn4cGyM
+252,EXH-2026-68778bce34107707,株式会社向洋技研,E1036,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Ln1NH2a_tvk
+253,EXH-2026-11bd6fefc792ea06,広和エムテック株式会社,W4088,候補あり,N0252：ミニコン／オートミックスⅡ,N0252,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=a3JRlrCqTA8
+254,EXH-2026-d8cb2091f35c6af8,興和オプトロニクス株式会社,S3104,候補あり,FC063：RW耐環境ビジョンユニット,FC063,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ
+255,EXH-2026-8e9002c2f5753301,興和機械株式会社,S1090,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+256,EXH-2026-274028d500af35a8,株式会社ゴーショー,E3014,候補あり,AC073：Schütte 335linear＋ロボット,AC073,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=CKssMtqLQME
+257,EXH-2026-a64bab179251039a,株式会社ゴードーソリューション,S4009,候補あり,AC074：NAZCA5 CAM／LINKA3,AC074,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=oO-G_YDcimE
+258,EXH-2026-97371c79e4c1b5cf,COYO株式会社,W2081,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xah-E1K0rS0
+259,EXH-2026-6e36c491a8144581,株式会社コガネイプレシジョン,E7076,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+260,EXH-2026-bfa2c6f6f58d3cee,株式会社小坂研究所,E7017,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+261,EXH-2026-0376f488fb693c45,株式会社コスメック,W2033,候補あり,AC075：ロボットハンドチェンジャ・クランプ,AC075,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=yiHo9SMP4lY
+262,EXH-2026-2bf6c8ec313de863,株式会社コスモテック,W3039,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=vKkJajSuHL4
+263,EXH-2026-d7ec640627a22b17,コダマコーポレーション株式会社,S3066,候補あり,AC076：TopSolid CAM／SwissTurn,AC076,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=w3OCd-Yb-pM
+264,EXH-2026-afdf961da4a23f78,コニテク株式会社,W2002,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=eJXAPEmuAyk
+265,EXH-2026-68821bde96583b34,株式会社小林ダイヤ,W4005,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=XqS-OO5nN-M
+266,EXH-2026-3b799deaeb0aa5b3,小林鉄工株式会社,W2054,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=OLPAL7wEL2o
+267,EXH-2026-6830ac4a6f307c06,小原歯車工業株式会社,W4082,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+268,EXH-2026-8970f2d69919d770,コマツNTC株式会社,E1058,候補あり,AC077：CX500 連続加工・自動計測 10/22企業告知で個別機能3件を追加。,AC077 / AR-C01 / AR-C02 / AR-C03,AI / 自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=juRUHcsXGOk
+269,EXH-2026-ae3f2d856dd92152,コマツカスタマーサポート株式会社,E1058,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ib-OrscSg4g
+270,EXH-2026-809df5c41ccb6ba9,小松鋼機株式会社,S4043,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=Qrk3xqUNiIs
+271,EXH-2026-aac3acc29ee983af,コマツ産機株式会社,E1058,候補あり,N0270：位置・荷重フィードバック制御プレス,N0270,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=pML8JftQtjU
+272,EXH-2026-63e31a243d5f56e1,株式会社Cominix,W1094,候補あり,AC078：Automix 油剤ミキシング装置,AC078,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=HppbBVVl0EY
+273,EXH-2026-8b9a115a6653d069,コムネット株式会社,S1020,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=9OmYxzOtCjc
+274,EXH-2026-7dc74545d7cf35a3,株式会社小森安全機研究所,E1039,候補あり,AC079：KAGAI 人検知安全システム,AC079,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=utVc5A88Bgw
+275,EXH-2026-0ec4261df2255692,株式会社小森精機,W3042,対象外（既存判定照合）,社内のCAD/CAM設備と受託精密加工の説明。DXソフト展示ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=lCRhaAH1JOM
+276,EXH-2026-bd0d66002ae0a2a3,株式会社コンドウ,E7052,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=adMRptVL49I
+277,EXH-2026-ff39ef77fc84bf6f,株式会社近藤製作所,E7096,候補あり,AC081：CRX用カメラ・複式チャックハンド,AC081,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=2lZ4aWGpFxM
+278,EXH-2026-3f24aaee60d77db1,Third Wave Systems Japan合同会社,E1064,候補あり,RPT001：Production Module／AdvantEdge,RPT001,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=L43LSAjxuyc
+279,EXH-2026-08030dcd82b4b70e,埼玉精機株式会社,W1002,候補あり,AC083：ロボット用エアツール,AC083,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=eKJZ035sC1A
+280,EXH-2026-a77435681a096374,株式会社サイダ・UMS,E2003,対象外（既存判定照合）,汎用旋盤の条件調整・教育用途。最適化の語だけでAI等に分類しない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=FVMAfUat0Tc
+281,EXH-2026-eb453d52282e2661,斉藤光学株式会社,S4030,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=eMO6syXqDp8
+282,EXH-2026-296440b0474e1c79,株式会社サイトウ製作所,W1045,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=4Qi-149WPx4
+283,EXH-2026-a0cbad27ea34d7c4,株式会社サイバーRC,E7074,候補あり,AC085：GH5 AI補正ホーニング,AC085,AI / フィジカルAI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o
+284,EXH-2026-9922b8081fe65609,株式会社坂井製作所,W3042,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0vpxWt0CmCU
+285,EXH-2026-1880b462e8c95c42,株式会社阪上製作所,W4068,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+286,EXH-2026-84b51f9f321194ba,株式会社桜井製作所,E2005,候補あり,AC086：SAKU270F ロボット加工,AC086,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=vrzq9i_9GIk
+287,EXH-2026-60178ba44eeb51f4,株式会社サミットスーパーアブレーシブ,W4029,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+288,EXH-2026-be17c90d9b568a35,株式会社サワイリエンジニアリング,E1068,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+289,EXH-2026-4d005c79e70191ed,サンアロイ工業株式会社,W1048,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=AtnVd5760bk
+290,EXH-2026-68e8db1f77b4909f,サンエール株式会社,S4017,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=i-vaS7FdyXI
+291,EXH-2026-9f34e4dab6479e5b,三旺株式会社,WA022,対象外（既存判定照合）,AIロボット等はベアリングの供給先分野。AI作業の展示ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=i91hxA4q8KY
+292,EXH-2026-afa115670c089d66,産機テクノス株式会社,W4085,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=PevEiKJCCfw
+293,EXH-2026-a4bf3eed8695a964,株式会社三共製作所,W2067,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+294,EXH-2026-c29985f5703ac549,株式会社三協リール,W4074,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=tQPG_56gOak
+295,EXH-2026-58b7a6b32de2ca59,株式会社三桂製作所,W3117,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=6kh9G69ZRG8
+296,EXH-2026-5c08ccfcdfa12bac,サンゲン株式会社,S4032,候補あり,AC088：New Vista／Ovit 画像検査,AC088,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=I2fW30uvRgk
+297,EXH-2026-7aed3ff21c2e7e81,株式会社サンコー,W4095,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+298,EXH-2026-510e9c3efc641c9f,株式会社サンシン,E7041,候補あり,AC089：ロボット研磨システム,AC089,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ooNmKjSJlIc
+299,EXH-2026-953b1500091c425d,サンフレックス株式会社,W4042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=NgJlcFXZBPs
+300,EXH-2026-bd1b8a8f48dd7784,三宝精機工業株式会社,E8010,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=7BrCesopY-c
+301,EXH-2026-b00bbfd6ce23a97e,株式会社SANMATSU,S3102,候補あり,AC090：GentleGiant＋iRAYPE,AC090,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ox2LGS2B2t4
+302,EXH-2026-b791f4b134a18c0f,株式会社三洋製作所,W2021,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=sEqCHpjquj8
+303,EXH-2026-98823a900a697909,山陽マシン株式会社,S1072,候補あり,AC091：加工＋ロボット搬送デモ,AC091,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=mnvwVRInyM8
+304,EXH-2026-9675d2763f737271,サンワケミカル株式会社,S3082,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=z6UmSRtw-wE
+305,EXH-2026-e0d6414196392d46,株式会社三輪鉱油,S1039,候補あり,N0304：カム式自動旋盤,N0304,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=DWItcWihgDk
+306,EXH-2026-888a1f50fa3f30c8,サンワ産業株式会社,W3100,候補あり,AC093：SM200＋ 自動傾斜,AC093,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=KqvVyzLYaL0
+307,EXH-2026-f42ea49d5d5445ec,三和商工株式会社,W4032,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=lux1VKUheP4
+308,EXH-2026-abcc179f01c0ce50,株式会社三和製作所,W1060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+309,EXH-2026-26cebfacb64ec6c3,三和ロボティクス株式会社,E7069,候補あり,AC094：NEXSRT J30F,AC094,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=SnqZSY1MFMk
+310,EXH-2026-8d7ad5c62f3412a9,株式会社C＆Gシステムズ,E2008,候補あり,AC095：CAM-TOOL等・AI活用提案,AC095,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=U_kHbhLD6rU
+311,EXH-2026-a4e5abed33d00e30,株式会社シーイーシー,E2006,候補あり,FC025：Facteye／Resolana,FC025,AI,True,https://www.jimtof.org/search/jp/ESdetails?e=tW-C9oF94EQ
+312,EXH-2026-bcfa4db433adef4d,CSAグループジャパン株式会社,S3103,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+313,EXH-2026-c8221fc902e6594b,ジーエムシステム株式会社,W2060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+314,EXH-2026-7208c6a57b73beea,CKD株式会社,W4064,候補あり,FT-C01：FSH／FSB／QREC・組立自動化,FT-C01,自動化,False,
+315,EXH-2026-22d80dbe4c402896,株式会社シーケービー,E2035,候補あり,AC096：Flexmill等・加工／測定自動化,AC096,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=-waFBj53SPU
+316,EXH-2026-7a9bc1f0c7b3ed44,シージーケー株式会社,E1015,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=MmIkQ5B_7IA
+317,EXH-2026-5bd703fc37f6b69e,株式会社CGTech,S3014,候補あり,FC021：Vericut：Gコード検証／FC022：Vericut Force／Optimizer,FC021 / FC022,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=41U8xW4UkcM
+318,EXH-2026-f94e632c9caa4112,シーフォース株式会社,S1057,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=MJu9rNomJQc
+319,EXH-2026-ba283a239e52d644,株式会社ジーベックテクノロジー,WA006,候補あり,AC097：CPS ブラシ突出し自動調整,AC097,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=jbu03Ik4s00
+320,EXH-2026-9b991dd8132f51dc,シーメンス株式会社,E3006,候補あり,AC098：デジタルツイン／人型ロボット紹介／SUB003：NX CAM／NX CMM／FT-SI01：Eigen Engineering Agent,FT-SI01 / AC098 / SUB003,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=EBIotJu7lrg
+321,EXH-2026-cd259fd418e4ae20,CYカーバイドジャパン株式会社,W1043,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xJ3gHIrrvF8
+322,EXH-2026-c6d746e8cf9cad74,ShareLab,S4054,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+323,EXH-2026-64caad79f2ec2e09,JFEエンジニアリング株式会社,W4102,対象外（機能未特定）,受託積層造形・加工サンプル。今回の対象となる個別のAI・自動化機能は未確認。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3fQN8AhQ2X0
+324,EXH-2026-18d08a3e4d8ab906,株式会社ジェイテクト,E8003,候補あり,AC100：加工・研削自動化／工程設計支援／FT-J01：Mill-Plan／FT-J02：ファインティーチレスツール／FT-J03：mJM AI相談室365／Remote Care,FT-J01 / AC100 / FT-J02 / FT-J03,AI / 自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=cW9RNSMEfso
+325,EXH-2026-bb8435e4f6451c88,株式会社ジェイテクトグラインディングツール,W4022,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=jnr2AkNUyFE
+326,EXH-2026-9b9b88b33e990b6b,株式会社ジェイテクトマシンシステム,W2027,候補あり,N0325：90度自動インデックス機構,N0325,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=anszOsTbjDI
+327,EXH-2026-9826f39f53f0e6b2,株式会社ジェイテクトマシンシステム,E8004,候補あり,N0325：90度自動インデックス機構,N0325,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=0JsxeIf1QBU
+328,EXH-2026-afb31b4763e6a73e,株式会社Jpキュービック,W1069,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=jPHrTGVQeH4
+329,EXH-2026-ab550949476b26f0,JSK刃物株式会社,S1011,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xwuA-iyG52g
+330,EXH-2026-8e1cb5ee900beda8,ジェービーエムエンジニアリング株式会社,E2002,候補あり,FC020：Mastercam＋CAMAssist,FC020,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=VrAjMTKmxdw
+331,EXH-2026-3a79211a5eb90152,GENIO Solutions株式会社,S3021,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+332,EXH-2026-be629e2762991c92,シェルルブリカンツジャパン株式会社,W4072,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=UNYODeQiZMs
+333,EXH-2026-7202c548ce5b76ba,シオンダイヤモンド工業株式会社,E7002,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=uhrOpYDla80
+334,EXH-2026-3772138292f999a4,志賀機械工業株式会社,W1062,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VOmdqmCvhRU
+335,EXH-2026-ec6cc41bae704f0d,株式会社シギヤ精機製作所,E7094,候補あり,AC101：S3 Pro 対話型研削プログラム,AC101,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=7L3V3jg3cYg
+336,EXH-2026-9d5f2502162dc283,シグマ電子工業株式会社,E7061,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QrdbDRd0_CA
+337,EXH-2026-701393f130ab8911,株式会社静岡鐵工所,E1046,候補あり,N0336：ATC搭載CNC立フライス盤,N0336,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Kc0esRkBA1g
+338,EXH-2026-02147c6f37a0a824,シチズンマシナリー株式会社,S2002,候補あり,AC102：LFV・ATC・計測連携自動化,AC102,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=sqCigr-Fu70
+339,EXH-2026-c2a644687149a6bb,信濃機販株式会社,W4036,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=S23RMUbJOQs
+340,EXH-2026-02a87670203c2a23,SYNOVA JAPAN株式会社,E1060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+341,EXH-2026-2d71c6ed52b9c1a3,芝浦機械株式会社,E2031,候補あり,AC103：工作機械DX・稼働監視,AC103,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=-bHzD_rkD3E
+342,EXH-2026-52596ffa8f1a37a8,澁谷工業株式会社,E1037,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=j0_d31quoaE
+343,EXH-2026-f1923bd974b0a68e,株式会社シマダマシンツール,E2018,候補あり,FC050：HS4200＋レール走行ロボット／FC051：HS4200：フィジカルAI自動段取り替え,FC051 / FC050,AI / フィジカルAI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4
+344,EXH-2026-01e20e87bdb59892,CIMSOURCE Japan株式会社,W1085,対象外（機能未特定）,標準工具データの提供基盤。データ連携だけでAI・自律判断とは数えない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=qRD_BxF9DJo
+345,EXH-2026-eb85265d7e5abe25,株式会社シモツウ,W1097,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+346,EXH-2026-251c6d4fb5744950,ジャトコツール株式会社,E1071,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+347,EXH-2026-50aedff53e08912a,Shining3D Technology Japan株式会社,E7014,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+348,EXH-2026-379e4eeb6b56c15d,シュメアザール株式会社,S3089,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+349,EXH-2026-a1b1c81b9862bd22,シュンク・ジャパン株式会社,S2024,候補あり,AC105：自動把持・ジョー／パレット交換,AC105,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=2D3NykNxU4o
+350,EXH-2026-96430d6788c41c87,SHODA株式会社,S1070,対象外（機能未特定）,樹脂加工とIoT可視化。個別の自動判断・自動作業の説明が不足。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=BeXt5Rn6DGg
+351,EXH-2026-ebbfa1a7c0eef831,JOHNAN株式会社,S3085,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+352,EXH-2026-779f1193d7b75ced,城北化学工業株式会社,W3103,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=nR4ScTSgwHI
+353,EXH-2026-652d399463a4c9e2,株式会社松楽産業,S3105,候補あり,AC107：AI画像カウント,AC107,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=L-V39ptNjvw
+354,EXH-2026-3decb831b4cb37b2,聖和精機株式会社,W2058,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=YCcZltrm_p8
+355,EXH-2026-c02f0ff468cba661,聖和精密工機株式会社,W1098,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+356,EXH-2026-582368ef45475473,ショーワインダストリー株式会社,W4100,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=pNPnTS5-vOI
+357,EXH-2026-970e7368a6b2a67c,株式会社シルバーロイ,W1016,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=OdShO16iijA
+358,EXH-2026-2d1137fe22418443,シルベントジャパン合同会社,W4066,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8-9_c7w9DM4
+359,EXH-2026-90247bcf7f6d80c5,進桜電機株式会社,S3049,候補あり,AC108：ロボットバリ取り・研磨,AC108,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=8aXnlzFtkVQ
+360,EXH-2026-618e70ffccfa3638,シンクビジョン株式会社,S3022,候補あり,AC109：cycleon 生産スケジューラ,AC109,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=WPabQbHCkho
+361,EXH-2026-ea296c22b3f85498,新興機械工業株式会社,E1010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+362,EXH-2026-e10062b724bfbd5e,株式会社進興製作所,E7067,候補あり,N0361：NC全自動定寸研削,N0361,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=KUT3kQWhGDI
+363,EXH-2026-7e02089c9c9de2e5,株式会社シンコーメタリコン,W3032,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+364,EXH-2026-92219ad2fe83cef2,株式会社新三協工具,W1067,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=7JiCTnsEx48
+365,EXH-2026-54ebb5b381099ebb,株式会社真誠,W1084,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=HKpDqZS1Amw
+366,EXH-2026-73222da8f6abd006,新拓精工株式会社,W1003,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+367,EXH-2026-f1ea599a0042bc55,新日本工機株式会社,E3001,候補あり,AC110：大型工作機械の自動化提案,AC110,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=RD73EqDannI
+368,EXH-2026-b4a6c12c649d83ee,新日本産業株式会社,W2060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+369,EXH-2026-7bf0d464b165a8be,シンプルテック株式会社,E2022,候補あり,AC111：NCVIEW 自動検証支援,AC111,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ERhED8Spe2Q
+370,EXH-2026-a456537ce2f6945d,スガツネ工業株式会社,W4087,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=BUYbSqUg6fc
+371,EXH-2026-7e286b0cb5c5d335,株式会社スギノマシン,E7088,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+372,EXH-2026-81fa07b6e9f0e721,株式会社スギヤマ,W3042,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8mHa-sLAl1Q
+373,EXH-2026-ac9ff2999c00e18a,スズキ機工株式会社,W3113,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=obce1-s1qno
+374,EXH-2026-0a5e5a2628606f5f,スター精密株式会社,S1003,候補あり,AC112：SC系・自動旋盤の連続加工,AC112,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=uGFHKigy2ag
+375,EXH-2026-989f2d5eb4b7a441,スナップオン・ツールズ株式会社,W3098,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=-rwblKpSVo0
+376,EXH-2026-62dd43a45ebf4bd7,株式会社スピーディーターゲットグループ,S1062,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=NRyl37SQ_0M
+377,EXH-2026-e04c5180b870cfec,株式会社Smart Craft,S3002,対象外（機能未特定）,MESの一元管理・API連携は確認できるが、四タグに該当する個別の自動判断・実行機能を特定できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=WqjRB6DEqN0
+378,EXH-2026-a08070c4a14079e9,株式会社スマートモア,E3008,候補あり,FT-SM01：AIデスクトップ外観検査,FT-SM01,AI / 自動化,False,
+379,EXH-2026-2c62a89eb507f9aa,住友重機械工業株式会社,E7079,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2nZCuJcfrTg
+380,EXH-2026-a155e7aeaf9b66f3,住友精密工業株式会社,E2021,候補あり,AC113：サーボ制御クーラントポンプ,AC113,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=RUfUkmbjQf0
+381,EXH-2026-c77e3e4e4df4afc5,住友電気工業株式会社,W1027,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=fUD_CMl54Kw
+382,EXH-2026-8395cab272ae35be,スリーアールソリューション株式会社,E7015,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+383,EXH-2026-a0fa658c78f270cd,セイコーインスツル株式会社,E7078,候補あり,AC114：SG1-IB 全自動研削,AC114,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=rlHRPwmg5sk
+384,EXH-2026-107042c6cf64ba96,西部商工株式会社,S3020,候補あり,RPT002：ACM,RPT002,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=OC6R-wdDduM
+385,EXH-2026-80abc40ff2c32d3f,西部電機株式会社,E2015,候補あり,AC116：M35LP QRコード連携スケジューラ,AC116,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=LqNWsydMu7s
+386,EXH-2026-db033f1a12544286,株式会社西部ハイテック,S1058,候補あり,N0385：汎用旋盤テーパ自動送り,N0385,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=7xLdM-Dtu4o
+387,EXH-2026-5165b2ce2d15ebb6,株式会社セイロアジアネット,S1015,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+388,EXH-2026-7c65eb7290ab9d16,株式会社セイロジャパン,S3010,候補あり,AC117：GO2cam／Cimatron,AC117,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=nz0oSJ7WlKg
+389,EXH-2026-1046494d602d0d79,清和ジーテック株式会社,E3007,候補あり,AC118：歯車加工自動化,AC118,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=UZiobfgROkY
+390,EXH-2026-3578da576a0d1e12,株式会社ゼネテック,E2022,候補あり,AC119：スキャン→CAD/CAM→加工機連携,AC119,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=BLWqVcnax5s
+391,EXH-2026-c1539221d84a3e02,CemeCon株式会社,W1076,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=b46INLh_-V8
+392,EXH-2026-8b76656f4b907929,株式会社CERATIZIT Japan,W1031,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=G-8gydwhMvE
+393,EXH-2026-c5ea9a742076c7a1,先生精機株式会社,S1033,候補あり,AC120：prochamfer 自動位相合わせ,AC120,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=LbuFdZUa35w
+394,EXH-2026-94536b46ad30e81c,双日株式会社,S4027,対象外（機能未特定）,CTの可視化・解析。自動欠陥判定・自動搬送・AI方式の記載は未確認。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=yEoPl5sH6Sg
+395,EXH-2026-f4c953df9f4aea17,双和化成株式会社,W4050,候補あり,AC122：ロボット用セラミックバリ取り工具,AC122,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=aJBm2hnGsqY
+396,EXH-2026-702806db93ab0609,株式会社測範社,E7026,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+397,EXH-2026-f434da28b26d8f26,株式会社ソディック,E2017,候補あり,AC123：ロボット放電加工セル,AC123,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=k6keXdSLQmQ
+398,EXH-2026-6c09024686b35965,有限会社曽根田工業,W1050,候補あり,AC124：DXキャビネット 工具・物品管理,AC124,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=GmcV3KL5k6M
+399,EXH-2026-5045517fca4eabf6,株式会社ソフィックス,E1067,候補あり,FC029：SOFIXCAN Ω Eye／FC030：SOFIXCAN Fleeter＋AI Forecast：ミニ工場,FC029 / FC030,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ
+400,EXH-2026-e02448bcf66bf6bb,ソマックス株式会社,E1014,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=R-ai3UyX7es
+401,EXH-2026-020d50985aff2719,第一稀元素化学工業株式会社,W2008,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5Rt3N3UvXJE
+402,EXH-2026-0044466344b4a59b,株式会社第一計器製作所,E7009,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+403,EXH-2026-c7878b4aab9b2732,第一産業株式会社,WA014,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+404,EXH-2026-6a2286521c8a84e7,株式会社第一測範製作所,E7004,候補あり,AC125：ISSOKU 自動計測,AC125,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=RFZbEhJ7OQ4
+405,EXH-2026-b2c85e16eb128843,ダイキン工業株式会社,W4047,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+406,EXH-2026-2d3e1d7eeae51cbe,ダイジェット工業株式会社,W1047,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=tccPoadgztc
+407,EXH-2026-89ca314ae20227b4,大松精機株式会社,W3114,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+408,EXH-2026-2b0014d7d601b97a,大昭和精機株式会社,W2055,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5LtgY_Bg5IA
+409,EXH-2026-05d3ea4624d6d0d5,大生工業株式会社,W4069,候補あり,N0408：ADF型オートドライブフィルタ,N0408,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=1E96ng0xoFA
+410,EXH-2026-6ffc5e37fa7b33e5,大同興業株式会社,S1007,候補あり,AC126：UNIバリ取り／AXXAIR溶接,AC126,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=t55m-mwo_zM
+411,EXH-2026-d32daa7543b852bd,ダイナミックツール株式会社,S2009,候補あり,AC127：磁気搬送・ロボットバリ取り,AC127,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=wAurYrCTgOs
+412,EXH-2026-8f3ecc4ddec92849,大日金属工業株式会社,E2029,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QYtDipGsWxY
+413,EXH-2026-0b4c68903e84b545,株式会社ダイヤ精機製作所,S3094,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+414,EXH-2026-21c98e78845e8d80,株式会社ダイヤテスト・ジャパン,E7008,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=jMueSSsJib0
+415,EXH-2026-36d601376e0e1b48,タイユ株式会社,S4019,対象外（既存判定照合）,省人化は切削油剤の訴求。自動化システム・データ機能の説明なし。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2b4Sfu3P7xA
+416,EXH-2026-e6fcc0e596789ea4,大洋ツール株式会社,W1038,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=LRAQrq1Nfo4
+417,EXH-2026-68590f09050a3b5c,株式会社太陽工機,E8007,候補あり,AC129：TKV85＋PH Cell500,AC129,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=p0lGaSOw5EY
+418,EXH-2026-6151cd7fb32ce738,ダイワラビン株式会社,W4028,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=NbbKntQfXMQ
+419,EXH-2026-994c61c4c307284f,株式会社タカギスチール,W3042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=uSpIwSKqAKs
+420,EXH-2026-51b26370956d2831,高島産業株式会社,S1010,候補あり,AC130：MULTIPRO6 ロボット加工システム,AC130,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=CkrmvOrMu0I
+421,EXH-2026-483d6b54e3902b06,株式会社タカハシキカイ,E7053,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=07MMlAViOTM
+422,EXH-2026-b9de7eccbd757076,髙橋刃物工業株式会社,WA018,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=-iBuB9P2nOg
+423,EXH-2026-425f672776606f97,高松機械工業株式会社,E3020,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+424,EXH-2026-8ac76ba19b2d4f41,株式会社TAKISAWA,E3013,候補あり,FC049：TR-20W：主軸の切粉除去,FC049,AI / フィジカルAI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM
+425,EXH-2026-aa8776e78ea7e935,滝本技研工業株式会社,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+426,EXH-2026-0436fc7b61f51a8e,タクテックス株式会社,S1016,候補あり,AC131：CAM Assist for SolidCAM,AC131,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=2TVzwvOqLxI
+427,EXH-2026-772ea44d0e95dba2,匠技研工業株式会社,S3011,候補あり,FC062：匠フォース：業務AIエージェント,FC062,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258
+428,EXH-2026-eb5b2bc71582f7b7,株式会社田倉工具製作所,WA011,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Gwa0volfthk
+429,EXH-2026-9de18b9d04bab6f2,竹内精工株式会社,W2034,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+430,EXH-2026-1f77f7e0c8bd4a6a,株式会社武田機械,E3018,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=AupeaKhrED8
+431,EXH-2026-081de7433f10d228,株式会社たけびし,S3015,候補あり,FC024：OPC UA情報モデルとエージェント連携,FC024,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw
+432,EXH-2026-45218b175e60551c,タックス株式会社,W4034,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+433,EXH-2026-4b3b4ebfb96921ac,有限会社辰野目立加工所,W1026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VJ8eW2-x0KM
+434,EXH-2026-39d3f2fb1e789272,株式会社タテノ,WA012,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+435,EXH-2026-30a65cec46d1f0a4,田中インポートグループ株式会社,WA003,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Rjf40-Z2n88
+436,EXH-2026-270a50909fb834f4,株式会社TANIGAWA,S1037,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+437,EXH-2026-34c594274d99099d,株式会社谷テック,W3075,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=D74mPrcjSQo
+438,EXH-2026-55a7cdc4cc2402ab,株式会社田野井製作所,W1066,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+439,EXH-2026-b1217429663a31e7,株式会社タンガロイ,W1090,候補あり,AC132：MATRIX360 工具管理,AC132,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=VUyVyFPIn2Q
+440,EXH-2026-8c128db2f8b660bd,株式会社端保機工,E1062,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=94762qdKRm0
+441,EXH-2026-c187ee9769dcb716,株式会社チップトン,W4040,候補あり,AC133：バレル研磨→洗浄→乾燥ライン,AC133,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=nBcJqlTC_OU
+442,EXH-2026-90789af0a80f88c0,中央精機株式会社,E7016,候補あり,N0441：PAFC-1 ポイントオートフォーカス,N0441,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=eXkb-zUpHP0
+443,EXH-2026-b5ec199fd954c2c4,株式会社中京,W1042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=-4sTEEEg2ss
+444,EXH-2026-7b9e75a5fbf145a4,中部クリーン株式会社,S4041,候補あり,AC134：FKM クーラント自動供給,AC134,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=R-pw3NRfUvI
+445,EXH-2026-0442bd78067d8759,一般社団法人中部部品加工協会,W3042,対象外（既存判定照合）,加工会社の検索・連携サービス。AI・DX・自動化の具体展示は記述不足。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=aebevwGKTyE
+446,EXH-2026-60cc5798ad8b1276,チロリット・ジャパン株式会社,W4044,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=HswlPgPjzB4
+447,EXH-2026-d383a51fea03ae6e,有限会社ツールディスカバリー,W1069,候補あり,AC136：切削条件AI計算ツール,AC136,AI,True,https://www.jimtof.org/search/jp/ESdetails?e=2N7pXq5Aehs
+448,EXH-2026-fa987a1ed1bcec86,ツールドインターナショナル株式会社,W1101,候補あり,AC137：工具・ノズル自動化,AC137,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=UcTucUP9Fb4
+449,EXH-2026-3828f130cd66f8e7,ZOLLER Japan株式会社,S1002,候補あり,AC138：genius／venturion 工具自動計測,AC138,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=jOy4EwAr6xI
+450,EXH-2026-32c10384bbcaec00,株式会社ツガミ,S1004,候補あり,AC139：TMA8F／VA3S 自動供給・計測,AC139,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=fKOIqkxqaBI
+451,EXH-2026-d2a941b3c53a5d69,筑波エンジニアリング株式会社,S3098,候補あり,AC140：ロボット用自動ドア開閉・後付け連携,AC140,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=2n2W_oYqO3w
+452,EXH-2026-a5adb522f7d7861d,津田駒工業株式会社,W2035,候補あり,AC141：AWC スカラロボット供給,AC141,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=U6GMfQNeW4w
+453,EXH-2026-696cffed108dac88,津根精機株式会社,E1051,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5jQ0DlhlPKY
+454,EXH-2026-1a731955902aa035,椿本メイフラン株式会社,S3036,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+455,EXH-2026-4e1242f487583af0,ツボサン株式会社,W3047,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Zg6I-cVk87Y
+456,EXH-2026-934bc72e8ad89131,TACC株式会社,E7086,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=M8VXs8FzPeI
+457,EXH-2026-3ff8a9f4ec9f1c07,DMG森精機株式会社,E8005,候補あり,FC001：AMR 1000／FC002：MATRIS WPH 210／FC003：工作機械へのAIエージェント実装（名称・担当不明）／FC004：Condition Agent／FT-D01：my DMG MORI サービスエージェント／FT-D02：GX Flex 工具・チャック爪・ワーク交換／FT-D03：AMR 2000 工具搬送 新版では総称FC003を具体機能に統合。,FC004 / FT-D01 / FT-D02 / FC001 / FC002 / FT-D03,AI / 自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs
+458,EXH-2026-ecc1c0770408b6c4,DMG MORI Precision Boring株式会社,E8006,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Tzu_8tfPmy4
+459,EXH-2026-28a178bcabc90b86,株式会社TMW,S1024,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+460,EXH-2026-5dd10125cb115ecf,TKE株式会社,W1077,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3bD83OKs4Dg
+461,EXH-2026-2abb55f0fe6d3716,DKSHマーケットエクスパンションサービスジャパン株式会社,W3054,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=a8vEP9DGP48
+462,EXH-2026-ee8a724a21d57a77,DTR JAPAN株式会社,W3118,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+463,EXH-2026-8baabeaaaa69de49,TPR大阪精密機械株式会社,E7033,候補あり,AC142：DDSF 協働ロボット搬送,AC142,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=IUcHIycMLaI
+464,EXH-2026-45c22ca4a91150f4,THK株式会社,W2018,候補あり,AC143：NEXTAGE 双腕ロボット,AC143,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=z-lVfqtvgVM
+465,EXH-2026-187bf826142104fb,株式会社テイケン,W4048,対象外（既存判定照合）,砥石と研削相談の説明。自動化相談の語だけで自動システムと扱わない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2TAtYiabJ40
+466,EXH-2026-c1cda7eeb6cb4ba2,帝国チャック株式会社,W2036,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=OgubGeea_Pg
+467,EXH-2026-822219e646b1678d,株式会社データ・デザイン,S3070,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+468,EXH-2026-670300ff3c6adb61,株式会社テクノア,S3009,候補あり,FC061：TECHS系：スマホ実績・購買API,FC061,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=sSRmH-KuV8U
+469,EXH-2026-134e77bb80459c02,テクノコート株式会社,E1028,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8ZeuspFs3Bw
+470,EXH-2026-a3c227d239c59cb9,テクノダイナミックス株式会社,W3036,対象外（機能未特定）,減速機の用途にフィジカルAIを掲げるが、部品自体に知覚・判断・動作生成機能はない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2X8A1y5c4A8
+471,EXH-2026-ca225b2f3e1ce764,株式会社テクロック,E7022,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+472,EXH-2026-6038639a0dc791d4,テッシュジャパン株式会社,W4065,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=YRTw8XJWi9g
+473,EXH-2026-8d1ee8fb352f3a6a,Tebiki株式会社,E7024,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+474,EXH-2026-c9f3df91b8488aae,有限会社デュブリン・ジャパン・リミテッド,WA024,候補あり,AC145：流体検知シール機構,AC145,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=PjO1_W-zmqI
+475,EXH-2026-4b3a92368d6e1b84,テラスレーザー株式会社,S1019,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=rwNtSHuoBEA
+476,EXH-2026-e9d29fed1afa3d5f,テラル株式会社,E2023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+477,EXH-2026-b563f1193214aee4,天龍製鋸株式会社,W4024,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3sFUQAs6GkE
+478,EXH-2026-83e5fa0f0d6064c0,東海バネ工業株式会社,S4044,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=IEkaqwch5ys
+479,EXH-2026-8c08de1ffed47316,東京エレクトロンデバイス株式会社,E7073,候補あり,AC146：3Dスキャン→面取り経路生成,AC146,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=c4cChQniAm8
+480,EXH-2026-4ee42cdf899ad649,株式会社東京エンジニアリング,E7073,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=IKZMFHky7MQ
+481,EXH-2026-1c7513723fc17b1b,東京オイルアナリスト株式会社,W4061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+482,EXH-2026-edcab6087d6d4277,東京オートマック株式会社,E1054,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+483,EXH-2026-c1a305eff74813a5,株式会社東京精機工作所,E7081,対象外（既存判定照合）,砥石・チャック寸法の最適化等の機械仕様。AI・DXの最適化ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3QIyVEg479A
+484,EXH-2026-36918b468fbc355f,株式会社東京精密,E7044,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+485,EXH-2026-37e84f0040e22b3e,東京精密発條株式会社,E1035,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VXBwL5542l4
+486,EXH-2026-65fba7348cde92e6,東京タッピングマシン株式会社,E7062,候補あり,N0485：S-3 DEMO 自動ナットねじ立て盤,N0485,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=FJ-MJbV0ous
+487,EXH-2026-122ee74b7397b512,株式会社東京テクニカル,W4079,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+488,EXH-2026-d7b599b5d3045611,東京貿易テクノシステム株式会社,E7038,候補あり,AC148：Absolute Arm＋Cobot／RBY紹介,AC148,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=q65eJorv2LU
+489,EXH-2026-fb72b1392a3fb9ad,株式会社東鋼,W1083,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=83TWdCJO538
+490,EXH-2026-990d4d4c729ff139,株式会社東振テクニカル,E7037,候補あり,AC149：長尺ワーク研削自動化,AC149,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=GFSwCXSxe9o
+491,EXH-2026-5c213bbb079bdea8,トウプラスエンジニアリング株式会社,S3073,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+492,EXH-2026-d574b9f572e9b78f,株式会社東陽(長野県),W1029,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=uq_RQ8doa8c
+493,EXH-2026-3a8078c51f45a046,株式会社東陽,S2016,候補あり,AC150：加工・クーラント周辺自動化,AC150,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=E_004g97THo
+494,EXH-2026-87d519015a556611,東洋研磨材工業株式会社,S1017,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Qx-yvs1rapU
+495,EXH-2026-9d53319e10ba6a7a,東洋スクリーン工業株式会社,S3040,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+496,EXH-2026-0edd272934baf18c,東洋精機工業株式会社,E3019,候補あり,AC151：治具交換→洗浄→計測セル,AC151,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=4IGD6jExai0
+497,EXH-2026-7c039eb4731a7ea8,株式会社東陽テクニカ,S4023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+498,EXH-2026-126c462cc1b4166b,株式会社東洋鐵工所,W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+499,EXH-2026-e551d307a6d1bc51,ドゥリマイテック株式会社,WA025,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=a9M-sgDonvw
+500,EXH-2026-3d5d12d2cca2e48e,株式会社トーカロイ,W1025,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+501,EXH-2026-f38414a11a6afb7b,トーチョーマーキングシステムズ株式会社,W1036,候補あり,AC152：MarkinBOX 自動マーキング,AC152,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=QF9JlOzN9Gk
+502,EXH-2026-bcc9173d97e5998d,トーヨーエイテック株式会社,E7045,候補あり,AC153：TACS／Smart Doctor,AC153,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Rs5bSq_a5Nk
+503,EXH-2026-8262cc430c5f7698,TOWA株式会社,WA002,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=giFAK3eILCA
+504,EXH-2026-37712cd6655b2be8,株式会社戸田精機,WA010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+505,EXH-2026-20a8d3222020ce04,株式会社トミタ,W2060,候補あり,AC154：AIカメラ・製造自動化提案,AC154,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=C6Hx1wzP4fA
+506,EXH-2026-51b8dba910167054,トライエンジニアリング株式会社,W1069,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+507,EXH-2026-7d4cf088451b04c9,トライオプティクス・ジャパン株式会社,S3080,候補あり,AC155：光学角度測定の自動化,AC155,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=lV077Duzq6g
+508,EXH-2026-4edbbc0f7c2dcbea,トランザーフィルター日本株式会社,S2015,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+509,EXH-2026-0d2d55c6aaceb186,トリオ株式会社,WA009,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8ZGmcDv-yQo
+510,EXH-2026-9ac636024f0ccab5,トリプルアール株式会社,W4061,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=dxXDZmI9FwY
+511,EXH-2026-ca756dd841625079,株式会社トルネックス,S3064,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+512,EXH-2026-e520f1cac56a6424,トルンプ株式会社,E1044,候補あり,AC156：TruTops・板金工程自動化,AC156,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=P89ltew0qg0
+513,EXH-2026-195b1ad4d6d893ed,株式会社ナーゲル・アオバプレシジョン,E7080,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Od5bzOjgTlQ
+514,EXH-2026-5d78774fc27ca17a,株式会社ナイルズ・マシン,S1014,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+515,EXH-2026-25fb0e1c3edee864,株式会社永井ゲージ製作所,E7021,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=wPgUwj9BBw0
+516,EXH-2026-a62f374d694b276f,長島精工株式会社,S2013,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=qcDcJW2VG2A
+517,EXH-2026-90444842e0518afa,株式会社ナガセインテグレックス,E7097,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=sGhVw1xc6Z0
+518,EXH-2026-f581dfe8b4cd67f4,株式会社ナカニシ,W2045,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=wBCJfxjpMoI
+519,EXH-2026-444d9f1caa8b49cd,中日本炉工業株式会社,S4018,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=dvLySDmZm0A
+520,EXH-2026-7d229e327d4dea5d,株式会社長浜製作所,E7057,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+521,EXH-2026-01bcfbccfa404500,中原化成品工業株式会社,W2052,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ugjll97RX0I
+522,EXH-2026-766bab1eb44bf5d9,株式会社中村製作所,E7036,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=aokH1qewRBc
+523,EXH-2026-68d6123fc6036ee4,中村留精密工業株式会社,E2027,候補あり,FC048：RoboSync：移設後の位置復旧,FC048,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=C7A_2ZTDXNw
+524,EXH-2026-61db8cf14790435c,株式会社ナチツールエンジニア,W1091,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+525,EXH-2026-61405564bca38054,ナトコ株式会社,S4046,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+526,EXH-2026-a4df5e61126619bb,ナニワトイシ株式会社,W4037,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=km_aJ_TKaSM
+527,EXH-2026-5c2eb38f86114993,株式会社ナベヤ,W2053,候補あり,AC157：ロボット用治具交換・固定,AC157,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=MNGSajJO4pQ
+528,EXH-2026-18f3d6af15ce3d5c,鍋屋バイテック会社,W2068,候補あり,AC158：グリッパ・把持用部品,AC158,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=oAJf-RFYInA
+529,EXH-2026-87b7a21b4cef9d01,株式会社ナベル,W2041,候補あり,AC159：TM AI Cobot,AC159,AI / フィジカルAI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=6wciaKIuYB8
+530,EXH-2026-87d81bbdb5e75826,南海モルディ株式会社,S3005,候補あり,AC160：ロボット粉体肉盛り,AC160,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=DzEQo0I9qrQ
+531,EXH-2026-2b75e9d2eed6633f,株式会社ナンゴー,S3091,対象外（既存判定照合）,見積は加工受託の受付窓口。AI見積システムではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=IGGIrUV0lYU
+532,EXH-2026-d0e930b11ed6e2f2,新潟精機株式会社,E7039,候補あり,AC162：自動栓ゲージ測定,AC162,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=cCEJdVT7Sxk
+533,EXH-2026-b669e6d6d1dc5657,株式会社ニイガタマシンテクノ,E3026,候補あり,AC163：工作機械・ロボット自動ライン,AC163,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=JgNgvfg06ag
+534,EXH-2026-ee5e848e55efb09e,新潟理研測範株式会社,S3075,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+535,EXH-2026-abd670ce862fb4f9,株式会社ニートレックス,W4026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=UY8l8WmalhQ
+536,EXH-2026-192111d6d827de31,株式会社ニクニ,W4099,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+537,EXH-2026-14dacc540e4ddb57,株式会社ニコン,E7001,候補あり,FC057：NEXIV・CT・ロボットビジョン等,FC057,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=lmqsWTyiVAY
+538,EXH-2026-7b53b042c1720b17,ニシキ産業株式会社,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+539,EXH-2026-3f157feb25f0c4df,西島株式会社,S1055,候補あり,AC164：専用機・ロボット搬送,AC164,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Al_kYRBXQb0
+540,EXH-2026-53652bbe40ff066e,西日本貿易株式会社,W3061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+541,EXH-2026-9b4ae7f3a3c04194,株式会社日刊工業新聞社,S3028,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+542,EXH-2026-ca26c6f341cebfa1,日機株式会社,W2079,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=t6NkT4KmBfk
+543,EXH-2026-1afd1df5c219afb2,株式会社日研工作所,W2039,候補あり,AC165：3軸オートプリセット／TOOL-FLOW,AC165,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=efMi0oAzay8
+544,EXH-2026-168a87e45c0ac34c,日工機材株式会社,S4036,対象外（機能未特定）,焦点確認・CAD位置合わせの操作支援。自動測定・自動補正の記載は未確認。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=JaGZphpJixc
+545,EXH-2026-817aeef5e6365986,日鋼YPK商事株式会社,W2017,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+546,EXH-2026-47f52a7ad32d82cf,日章機械株式会社,S1021,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+547,EXH-2026-3b5fdb6bc44f563c,株式会社日進機械製作所,E7082,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=NeepEyvsS_4
+548,EXH-2026-ef62341fb844864d,日進工具株式会社,W1093,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=W0mOR20blcE
+549,EXH-2026-434b1ee92cad6bf5,株式会社日進ProSOL,E7070,候補あり,AC167：ProSOL ホーニング自動化,AC167,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Odvw9koeMx8
+550,EXH-2026-c3ddb256e8eb1f0b,株式会社ニッセイ,W3031,対象外（機能未特定）,ロボット用減速機。利用先がロボットであることだけでは四タグの機能としない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=E6552CzYMDI
+551,EXH-2026-21553e90028cfc5e,日東工器株式会社,W4049,候補あり,AC169：自動ねじ締め・洗浄,AC169,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=q1qxgLFfjjo
+552,EXH-2026-4d3e480ca2011665,日東工業株式会社,S4020,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+553,EXH-2026-2972a72fbb425425,日東商事株式会社,S1031,候補あり,FC037：HACARUS Check：協働ロボット多面検査,FC037,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=GozGZRxlviw
+554,EXH-2026-c1d919f8942e67c7,日藤ポリゴン株式会社,S2006,候補あり,AC170：NR1600NCF 自動穴加工,AC170,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=CnCZJeqDIuw
+555,EXH-2026-511e8d06792f6777,日本アイ・ティ・エフ株式会社,W1034,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=I4mSRSaMTqI
+556,EXH-2026-62cab8e20b370ad9,日本精工株式会社,W2048,候補あり,FC052：振動診断AI・遠隔監視,FC052,AI,True,https://www.jimtof.org/search/jp/ESdetails?e=hzAGGAi5wL4
+557,EXH-2026-038d3ef996b7ce25,日本タッパー株式会社,S1063,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=CdWU6WTeVyg
+558,EXH-2026-9ddc49f5b9df5f0b,日本トムソン株式会社,W2056,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+559,EXH-2026-4db359ccda43fbe1,日本ベアリング株式会社,W2023,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Jq9NYfWjfWE
+560,EXH-2026-3211cafa924b2f84,ニデックオーケーケー株式会社,E3012,候補あり,AC171：VBX650／GC53RII 自動化,AC171,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=cIGcLA71ub0
+561,EXH-2026-d31a435d31c2b6eb,ニデックマシンツール株式会社,E3011,候補あり,AC172：NC Twin 仮想加工検証,AC172,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=oS1WYTzqdvg
+562,EXH-2026-8acf71c38e5c79cf,株式会社日本アルシス,S3025,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=coHqGCjVn0c
+563,EXH-2026-af5f7d436920f421,日本ヴィジョン・エンジニアリング株式会社,E7020,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=9r6IPeYmy_I
+564,EXH-2026-5d9bce36b179df04,日本エスケイエフ株式会社,S3031,候補あり,FC053：Adaptive Lubrication／主軸監視,FC053,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=h22pEjdpmdU
+565,EXH-2026-6e7223502c4d3ca8,日本オイルポンプ株式会社,W2046,候補あり,AC173：TNC クーラントろ過,AC173,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=fHAxXsO-42I
+566,EXH-2026-720ee83a35850033,日本オートマチックマシン株式会社,W2009,候補あり,AC174：サーボプレス・自動面取り,AC174,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=sGohRmZeceo
+567,EXH-2026-e0340858cb52d52f,日本キスラー合同会社,S4031,候補あり,AC175：9171B／Piezo Tool System,AC175,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=7Gt1ylw_a8s
+568,EXH-2026-3e3331b260b91e83,日本金鷺硬質合金株式会社,W1079,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=a526EKd-LQQ
+569,EXH-2026-82bcb51c7721351f,株式会社日本クラビス,W3033,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+570,EXH-2026-fcc72e415a9d406e,日本クリンゲルンベルグ株式会社,E1006,候補あり,AC176：歯車計測・加工フィードバック,AC176,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=K8FKaawJkn0
+571,EXH-2026-2646eef1dc0ec166,日本ゲージ株式会社,E7031,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=95Yl5dQv2vI
+572,EXH-2026-5a8f8a7069838fe8,日本工業出版株式会社,S3029,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=eaHwRLq_WxI
+573,EXH-2026-ff0ab08935a61470,日本工作機械販売協会,S3032,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=FpXJxguqVdk
+574,EXH-2026-f5620d166961c280,日本ジャバラ株式会社,W2020,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2Sih_yRLN3w
+575,EXH-2026-254dd3c2e6030d56,日本新金属株式会社,W1065,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+576,EXH-2026-89d5c82f4efcbe2c,日本スピードショア株式会社,E1065,候補あり,AC177：AEROLAP・レーザ＋協働ロボット,AC177,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=MoNymoTMXc4
+577,EXH-2026-3e32007d339c5ff7,日本3Dプリンター株式会社,S2014,候補あり,AC178：Raise3D T450 AIカメラ監視,AC178,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ohBDcqo2rI8
+578,EXH-2026-af7c31125478630f,一般社団法人日本３Dプリンティング産業技術協会,S4053,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=boL22d8Emqc
+579,EXH-2026-e68d8c12e3395528,日本精機株式会社,E7092,候補あり,AC179：LSG20 ロボットローダ,AC179,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Qva663phrKY
+580,EXH-2026-b2cbd78210538a04,日本精密機械工作株式会社,WA013,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+581,EXH-2026-a56e77a90fbb5674,日本精密測定機器工業会,E7021,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+582,EXH-2026-e2e3c9aa855acc16,株式会社日本切断研究所,S1027,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QxjP_vm5D78
+583,EXH-2026-1ac1c05e2ae31da4,日本ダイヤモンド株式会社,W4019,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Dl9ua3W17WE
+584,EXH-2026-0c92a1e1f2d8fda4,日本ツクリダス株式会社,S4012,対象外（機能未特定）,生産管理・コンサルティング。今回の四タグの具体的機能を特定できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=_nI6m1Y6VMA
+585,EXH-2026-ab406c98531ba3d3,日本電子株式会社,E3016,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+586,EXH-2026-8c1ced2bca0b809a,日本電子工業株式会社,E1031,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ZXUmRJbtGMk
+587,EXH-2026-fb2087642da415c6,日本電鍍工業株式会社,S3004,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+588,EXH-2026-d09916de9910b673,日本特殊合金株式会社,W1054,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=En8zTAQyVOw
+589,EXH-2026-8b865f54d477687c,株式会社日本ピスコ,W4076,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=wSJAGCfdapo
+590,EXH-2026-60a49451c12c0223,日本メカケミカル株式会社,S3065,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=hVVx-sUB2kM
+591,EXH-2026-156f9964d902d95e,株式会社ニュースダイジェスト社,S3030,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=c23Ug2kphk0
+592,EXH-2026-09c1e913333747d0,株式会社ニューストロング,W2022,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=e5NF96Dr8t0
+593,EXH-2026-66d65480e2017d11,ニューレジストン株式会社,W4039,候補あり,AC181：ロボット研削・バリ取り工具,AC181,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=IUHezG5Z4xQ
+594,EXH-2026-d327f36a3839d89a,二和ダイヤモンド株式会社,W4014,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QDDol2uE6oE
+595,EXH-2026-7e162011f9184cc6,株式会社ネオフレックス,S3039,対象外（機能未特定）,ケーブル・保護管。ロボット向けの用途説明のみ。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=CQ20cW795qg
+596,EXH-2026-02dc49c05edd99c0,株式会社ネクスタ,S4010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+597,EXH-2026-7c35d2102f041a84,株式会社ノア,W1096,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+598,EXH-2026-e9571b3c16458d4d,ノガ・ウォーターズ株式会社,W1032,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=x5qyFu-kuHM
+599,EXH-2026-5d329cbd3ad14c63,株式会社ノトアロイ,W1021,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=WkDz6PHP-Ns
+600,EXH-2026-a21bc0f40ff134b6,株式会社野村製作所,W2017,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+601,EXH-2026-b2ca43b7a5899e08,野村DS株式会社,S1005,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+602,EXH-2026-5a7b07725d6cb21a,ノリタケ株式会社,W4021,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=gu-Bf9cZXn4
+603,EXH-2026-e6aaba2a1925fe93,ハース・ファクトリー・アウトレット・ジャパン,E3015,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+604,EXH-2026-4db5ac1907970575,株式会社パーツサプライセンター,S3023,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=qCdT6SJmyzs
+605,EXH-2026-af31f3db6da43220,ハイウィン株式会社,W2072,候補あり,AC183：i4.0 状態監視／ロボット軸,AC183,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=t1osgdfU2Dk
+606,EXH-2026-d5be9e37dc3c50aa,パイオニア貿易株式会社,W2004,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=HV_SdA2C6hY
+607,EXH-2026-862b71dccfc5810b,株式会社ハイダック,W4077,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+608,EXH-2026-34a393c5512352bc,ハイデンハイン株式会社,E7043,候補あり,FC038：VT122＋VTC 6.0,FC038,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA
+609,EXH-2026-7b15f2aab16a4871,ハイマージャパン株式会社,E1005,候補あり,N0608：UNO automatic drive,N0608,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=hjSCtjFksB0
+610,EXH-2026-4d2afbc1f254e0f7,ハインブッフ・ジャパン株式会社,S2018,候補あり,AC184：ロボット式コレット交換,AC184,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=zOoraplih0o
+611,EXH-2026-9f03016f633961ce,HAWEジャパン株式会社,E3005,候補あり,AC185：省エネ油圧・電子制御システム,AC185,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=uvRSrTznX5g
+612,EXH-2026-9705ee2e4555e787,株式会社ＨＡＣＡＲＵＳ,S1031,候補あり,FC036：HACARUS Check ZERO,FC036,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=oatArsOZ-Wc
+613,EXH-2026-d8a50e23a9101b11,株式会社白山機工,E2007,候補あり,AC186：AMR 切り屑自動回収,AC186,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=FNFR7REQOl4
+614,EXH-2026-4d77c4708ad24bda,株式会社橋本クロス,S3088,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+615,EXH-2026-56d3111fc27b5344,パスカル株式会社,W2047,候補あり,AC187：センサ付きクランプ・パレットグリッパ,AC187,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=e-bUm2EYnJU
+616,EXH-2026-0644cbd70172b54f,有限会社長谷川加工所,W1069,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+617,EXH-2026-e84a14f7dc6094b9,株式会社長谷川機械製作所,E7051,候補あり,AC188：加工機＋自動化セル,AC188,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=gRk0brhHn-M
+618,EXH-2026-e73069bc80a68783,株式会社初田製作所,S3083,候補あり,AC189：KZ2 自動消火装置,AC189,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Y8Hglfxxl6U
+619,EXH-2026-ee8e6430f8e4b608,株式会社パトライト,W3101,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=rDP5iKYiA2o
+620,EXH-2026-97b572819459a34c,パナソニックプロダクションエンジニアリング株式会社,W3086,候補あり,FC031：X-Area Remote,FC031,AI / 自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=5mrMofo3nN8
+621,EXH-2026-80fcbc3c4cab3d99,浜井産業株式会社,E3010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+622,EXH-2026-41509546c3362072,浜田工機株式会社,W4057,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3Pga8FUX5oQ
+623,EXH-2026-faed6936e3ee164a,株式会社速水マシンツール,S3084,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+624,EXH-2026-8550e99361de2f5b,株式会社原製作所,S4037,候補あり,AC190：PolyScan V,AC190,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=LRuS5p7XpwI
+625,EXH-2026-96b88a67a922ac2b,株式会社パル,S3106,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=GlCT1_HpJfQ
+626,EXH-2026-e3f2bb3aa9c7f905,パルステック工業株式会社,S4039,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+627,EXH-2026-720f7cd47d285420,バンドー・I・C・S株式会社,W2024,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+628,EXH-2026-697994530644f84d,株式会社ビーアンドケイ,S4045,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=R2p4_fxFQQY
+629,EXH-2026-3c127bc743db5bb8,ピーアンドシー株式会社,S4024,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=kIVEbkBq__Y
+630,EXH-2026-67bd28163d2b29c7,株式会社ビーシーテック,W2028,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=eCkrZJ7obRI
+631,EXH-2026-ac77ccc23c97eddf,ビーティーティー株式会社,W1023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+632,EXH-2026-f0469de1e9ae21c0,光商工株式会社,S1025,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=lt4bX12yI9k
+633,EXH-2026-8759ac5a11e42898,株式会社ビック・ツール,W3074,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+634,EXH-2026-85b5faf8f6b2498f,株式会社広築,E1016,候補あり,AC191：NITRONAVI 雰囲気制御,AC191,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=tTqTOqglEMs
+635,EXH-2026-e4150112aeeac886,株式会社ファーステック,W2073,候補あり,AC192：自動ワーク保持システム,AC192,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=IkO-nLPn17Y
+636,EXH-2026-c6b62421f514a00b,株式会社ファースト技研,S1006,候補あり,AC193：AWC ワーク自動交換,AC193,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=EE3GcaODxGA
+637,EXH-2026-ae1a6fcc911ca14b,株式会社フアクト,S3013,候補あり,AC194：Fusion／FeatureCAM／ENCY 小間相違：元一覧S3013、企業告知S3017。元の小間欄は保存。,AC194,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=taaGM0brdn8
+638,EXH-2026-3b6a1de81c17dfee,株式会社Fact Base,S3017,候補あり,AC195：ズメーン AI・OCR登録,AC195,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=hZaNogHdQM4
+639,EXH-2026-29a5d6085a560230,ファゴール・オートメーション・ジャパン株式会社,S3078,対象外（既存判定照合）,エンコーダの光学測定技術改良。最適化の語だけでAI・DXに分類しない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=iFfGVH0vPS8
+640,EXH-2026-40a56e23f52ed1c4,ファナック株式会社,S2001,候補あり,FC005：生成AIによるロボット駆動／FC006：フィジカルAI CNC／FC007：FANUC Smart Digital Twin／FT-F01：AI溶接エージェント／FT-F02：AIエージェント・マスタレス認識によるキッティング／FT-F03：AI追従ねじ締め／FT-F04：VLA模倣学習・双腕柔軟物操作,FC006 / FT-F01 / FT-F02 / FT-F04 / FC005 / FC007 / FT-F03,AI / フィジカルAI / 自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ
+641,EXH-2026-87bb6f9386bd970a,株式会社ファブエース,E1041,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=LO2KMH0I5po
+642,EXH-2026-8b7d25949e279629,有限会社フィールド,W2060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+643,EXH-2026-0e9e7f75636b3c61,PHYSICAL PHOTON株式会社,S1035,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+644,EXH-2026-6576f621a99075b6,株式会社フィジックステクノロジー,S3074,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=J38ngOYAk5Y
+645,EXH-2026-3412d5ff537b2169,株式会社Phoxter,S4028,候補あり,FT-P01：StellaDeepVision Studio／StellaController2.0／FT-P02：StellaDrive＋保守AIチャットボット,FT-P01 / FT-P02,AI / 自律化 / 自動化,False,
+646,EXH-2026-7f8b2de5917f117e,フォルマー・ジャパン株式会社,E2010,候補あり,AC197：VHybrid／VGrind 自動交換,AC197,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=WUN4zdX-bpQ
+647,EXH-2026-42a6dff88a5b13b1,福田交易株式会社,S2020,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+648,EXH-2026-c0de70c161714618,株式会社FUJI,E3021,候補あり,AC198：VN40／TN400II／ACUFLEX,AC198,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=xJlXi-VNzio
+649,EXH-2026-dfd6e029520a8dd8,株式会社富士機工,E1043,候補あり,AC199：NCベータ 自動位置決め,AC199,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=krDglZoYKFc
+650,EXH-2026-af9ff9d9951ae7ad,藤工業株式会社,W4003,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+651,EXH-2026-8fa6c961b1759518,株式会社不二越,W1092,対象外（既存判定照合）,切削工具・加工法の最適化提案。個別のAI・DX・自動化装置は未特定。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=JeNYZRnaefg
+652,EXH-2026-61efe82e93d1d334,株式会社不二越,E3009,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+653,EXH-2026-75fee0ccf5e26616,フジ産業株式会社,E1056,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=b9P-4jnfVgg
+654,EXH-2026-60ce989c04f949c1,富士精工株式会社,W1062,候補あり,AC201：工具自動交換・バリ取り,AC201,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=4V4-l4rKNxY
+655,EXH-2026-6abdc3fd07084841,株式会社不二製作所,S1032,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=BaQWeJkVd-8
+656,EXH-2026-39fc37853d48018e,冨士ダイス株式会社,W1030,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=oOtYvDkKqwI
+657,EXH-2026-023b4ac060f6f22c,フジツール株式会社,E7009,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=w48GtU3iPuU
+658,EXH-2026-cb6259858ab230ef,富士電子工業株式会社,E1003,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+659,EXH-2026-0bf4adf59b20b1d7,フジBC技研株式会社,W1067,対象外（既存判定照合）,ロボットマシニングは切削油剤の採用用途。ロボットシステム展示ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=35tDpmqLSDQ
+660,EXH-2026-c2ec0d3dce026b0f,富士ホーニング工業株式会社,E7077,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=I-eyjnwde84
+661,EXH-2026-ed70b75cd189756d,藤本油化株式会社,S3099,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=enTr6Bf1UmI
+662,EXH-2026-844b4a1cdc4230bb,扶桑精工株式会社,S3001,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+663,EXH-2026-7693cee9e530081d,二村機器株式会社,W2080,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RVv4M6_8NyQ
+664,EXH-2026-c848a7e906d3428b,フックスジャパン株式会社,E8009,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=g4iZOPWT3fA
+665,EXH-2026-b44a0acee866f53a,フナソー株式会社,S1027,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=TlXExH4qW0M
+666,EXH-2026-26c87c8e4b04ffaa,株式会社プライオリティ,E7046,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=sGJzijYPlBQ
+667,EXH-2026-7c64bb299949a0cc,株式会社フラクタル,W1062,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+668,EXH-2026-f418171804483971,ブラザー工業株式会社,E1055,候補あり,N0667：PC-1 オートパレットチェンジャー,N0667,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=lOXEEpvlXpM
+669,EXH-2026-003aadc3474c949e,ブラザー・スイスルーブ・ジャパン株式会社,S1069,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=dR5THdK2GY8
+670,EXH-2026-49e534ed3b5d5192,株式会社フリーベアコーポレーション,E1008,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+671,EXH-2026-69c2d824f043f816,ブリンクマン・ポンプ・ジャパン株式会社,W4091,対象外（機能未特定）,クーラントポンプ・モータ。自動化に貢献するとの総論に対し個別の自動機能が不明。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=DtPO9o9IY_4
+672,EXH-2026-8ceba714e3916f31,株式会社ブルー・スターR&D,E1029,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+673,EXH-2026-30d3fc8503eab132,ブルーム-ノボテスト株式会社,E7084,候補あり,FC034：FormControl X／DIGILOG,FC034,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=_njqMb9vBpc
+674,EXH-2026-aec8b857e3c78abc,古川精機株式会社,WA008,候補あり,N0673：ワークストッカー,N0673,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=-yJSNi0i_xE
+675,EXH-2026-e49e81bd08626004,ブレス株式会社,S1041,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+676,EXH-2026-e8c452e606906ac6,株式会社フロージャパン,S1022,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xMnR2U01Swk
+677,EXH-2026-8014e235f82da6ea,株式会社ブロードリーフ,S3068,候補あり,AC204：OTRS＋AI 作業動画分析,AC204,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Dt_yEexTCZo
+678,EXH-2026-aeb6112fc1f9b4b4,株式会社プロスト,W1053,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+679,EXH-2026-d6357ea96adb5e8e,有限会社プロテクノ堺,W1005,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=SiZMI-OH8_k
+680,EXH-2026-5453132e0eec20bd,株式会社ブンリ,W4086,候補あり,AC205：自動清掃フィルタ,AC205,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=r-Kxnh9Ctzg
+681,EXH-2026-c64be4dda778747c,株式会社平安コーポレーション,E3017,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+682,EXH-2026-041396a7977666fb,平和テクニカ株式会社,E7064,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=lerGbjhqnOU
+683,EXH-2026-6aee6ba316afc22c,Hexagon Manufacturing Intelligence株式会社,E7035,候補あり,FC018：ESPRIT EDGE ProPlanAI／FC019：MAESTRO／PRESTO／品質ソフト群,FC018 / FC019,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=oUyVPjxvy-U
+684,EXH-2026-e1fe7485b53ef3a9,Hexagon Manufacturing Intelligence株式会社,E2013,候補あり,FC018：ESPRIT EDGE ProPlanAI／FC019：MAESTRO／PRESTO／品質ソフト群,FC018 / FC019,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4
+685,EXH-2026-051461fc275e164d,ベクトリックス株式会社,E7029,候補あり,AC206：QC-PRO 検査記録・判定,AC206,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=P5HLZf3n2dk
+686,EXH-2026-674c605ed0bd261d,ベクトル株式会社,W3116,候補あり,AC207：VM-M1 マーキング,AC207,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=IPepQI4Pn3c
+687,EXH-2026-13da9e5ad5605d11,ベッコフオートメーション株式会社,E2028,候補あり,FC011：TwinCAT CoAgent for Engineering：PLC／FC012：TwinCAT CoAgent for Engineering：I/O・HMI／FC013：TwinCAT CoAgent for Operations／FC014：TwinCAT Machine Learning Creator／FC015：TwinCAT CNC：切削信号の解析・独自制御,FC011 / FC012 / FC013 / FC014 / FC015,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08
+688,EXH-2026-44c1aaf26222e854,株式会社ベッセル,W1006,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+689,EXH-2026-f3b51be1ab943cb7,株式会社ペトロプラン,S3097,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+690,EXH-2026-61c5e32e01981e4b,ヘラマンタイトン株式会社,S3063,対象外（機能未特定）,配線の結束・保護材。展示品に自動結束装置の記載は確認できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xEXdOEK7Vpc
+691,EXH-2026-819e33b88287b4b7,株式会社ベルブルー,W1058,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=nc7XPFmhtVI
+692,EXH-2026-5066c09263217bc9,株式会社ポイントナイン,E7068,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+693,EXH-2026-9de21088647a1793,豊和工業株式会社,E3022,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+694,EXH-2026-3801dfcfc6bc5284,ホーコス株式会社,E2001,候補あり,N0693：チップイーター,N0693,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=80U3ESiqNWQ
+695,EXH-2026-2e29197c18da111f,株式会社HORIKOSHI,W2012,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+696,EXH-2026-d6963130f41645b7,株式会社ホリテック,E1026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=nElFHymcSxU
+697,EXH-2026-3cc58a5dd21764ee,株式会社盆木製作所,W2017,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=PZcmUbyWkDg
+698,EXH-2026-011370d91d6ec7e5,本多プラス株式会社,W1040,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+699,EXH-2026-33ddd6d985bee017,株式会社本間製作所,E1018,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=JagPFSrOQw8
+700,EXH-2026-f8f9701c1858fd1a,マーポス株式会社,E7087,候補あり,FC035：ARTIS／BLU／VTS,FC035,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=tThKOA-gm8s
+701,EXH-2026-ed79b47dfccbdfb9,MAIDA JAPAN株式会社,W1033,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+702,EXH-2026-ce77e444124619e8,株式会社マイツール長野,W2042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ap1BCPbxb5k
+703,EXH-2026-80dde0ebf81cae2a,MYDO株式会社,W1098,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+704,EXH-2026-9eb5454c4f93e288,株式会社前田シェルサービス,W4093,候補あり,N0703：オートマチックドレン排出バルブ,N0703,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=tvCG3p0xThA
+705,EXH-2026-af50ed68aa1f0241,株式会社牧製作所,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+706,EXH-2026-41a8f9ad241e4c0e,牧野フライス精機株式会社,E7090,候補あり,AC209：SG10EX＋monocam2,AC209,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=jlC7OSSk2O4
+707,EXH-2026-4da41646b2511bcf,株式会社牧野フライス製作所,E1024,候補あり,FC046：パレット自動化／MAS・ラインエンジニアリング,FC046,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=M5OL10ECBTE
+708,EXH-2026-4ae93ad92f9a2f2d,株式会社マグネスケール,E7003,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=f5o9WkD1a8U
+709,EXH-2026-57f4a98dc1098522,株式会社マザーツール,S4038,候補あり,AC210：AIカメラ 安全監視,AC210,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=BoITLU2Wxfk
+710,EXH-2026-c8322aa501c4ccac,株式会社マシンソル,S4006,候補あり,AC211：生産スケジューラ／Elector Scale,AC211,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=5mtGGNcGld4
+711,EXH-2026-d6d5c21a94f5a131,株式会社松浦機械製作所,E3030,候補あり,FC047：5軸＋マルチパレット／MiOS,FC047,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=K_X61J2xV_w
+712,EXH-2026-e4b758599db76c14,株式会社松岡カッター製作所,W1039,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0znDfGLD-WE
+713,EXH-2026-5f15eb41deee7937,マックスキニック精密株式会社,W4027,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=w_PSekHHHSU
+714,EXH-2026-5b194844c6be3f53,マツザワマシナリー株式会社,S1065,候補あり,AC212：全自動研削盤,AC212,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=z-dR3pMeEyA
+715,EXH-2026-e2e80e5332a44129,株式会社松田精機,E7056,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+716,EXH-2026-bacd8437326ccedb,マツモト機械株式会社,S1064,候補あり,AC213：固定管自動溶接,AC213,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=yVcAwif6HR0
+717,EXH-2026-0daa587f8abf6076,松本機械工業株式会社,W2070,候補あり,AC214：Smart Terrace Advance,AC214,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=bhpEIIjKNb4
+718,EXH-2026-a8ea48cd7d79695d,マパール株式会社,E3015,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+719,EXH-2026-09f549fe2bd69bab,丸一切削工具株式会社,WA016,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=1W95aZddMoI
+720,EXH-2026-33e95c5574805b2d,丸紅エレネクスト株式会社,E1011,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ZJSo43WHLMY
+721,EXH-2026-724ec4dafc442c95,丸紅情報システムズ株式会社,S3081,候補あり,AC215：ATOS Q スキャン・補修加工連携,AC215,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=CYlrKSmBqPU
+722,EXH-2026-94815521cf5b998f,マンヨーツール株式会社,W1058,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=oORdiBonyDk
+723,EXH-2026-230c17a9733ffc87,三木プーリ株式会社,W2077,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QyvOhymB_Yg
+724,EXH-2026-432b642c2d8d119a,ミクロン精密株式会社,E7083,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=llp9NQ2Y7ps
+725,EXH-2026-efb750bc31b25c16,株式会社ミズホ,W4051,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=rMnHbjaWmnQ
+726,EXH-2026-d204a0c6fa211bd0,瑞穂工業株式会社,W1051,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QU3kW2B75LU
+727,EXH-2026-df2de585aa6fd08a,株式会社ミスミ,W3099,候補あり,AC216：MISUMI floow,AC216,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=h6ienur8wVM
+728,EXH-2026-e80bcf8092a2c421,株式会社ミスミ,W1085,候補あり,AC216：MISUMI floow,AC216,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=LcjgLguZjr4
+729,EXH-2026-076c9523ffcd57c6,三鷹光器株式会社,E7019,候補あり,AC218：MLP 刃先・形状自動計測,AC218,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=5ypc5wYKnUk
+730,EXH-2026-f45b4e6655489bba,株式会社三鷹精工,E7021,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=N-BAWBjLVA8
+731,EXH-2026-36fee11c9fd85e91,有限会社三井刻印,WA020,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=l1gS87C6kZU
+732,EXH-2026-7fc72cdc86a3c989,三井精機工業株式会社,E3029,候補あり,AC219：HPX63系・パレット自動化,AC219,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Nzaw4M44lcw
+733,EXH-2026-8278ec058d2d2947,株式会社三井ハイテック,E7071,候補あり,AC220：研削＋搬送・工程内測定,AC220,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=qoCbIK0OzT4
+734,EXH-2026-0d235ed0c87ec5dc,三井物産マシンテック株式会社,S1071,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+735,EXH-2026-1232fea08643b011,ミツテック株式会社,W2060,候補あり,AC221：MAR3500 多面外観検査,AC221,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=kOA339rt0Co
+736,EXH-2026-d6b0b9a2e4e63d34,株式会社ミツトヨ,E3008,候補あり,FC032：自動測定／MiCAT Planner・MiBOT系,FC032,自動化,False,
+737,EXH-2026-a9bb55df60fab4d5,株式会社ミツトヨ,E7085,候補あり,FC032：自動測定／MiCAT Planner・MiBOT系,FC032,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=a7y3JtW8DXM
+738,EXH-2026-4c444661529ef745,株式会社光畑製作所,S1060,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=69QmPj39qcI
+739,EXH-2026-f6a4140c0a9739fe,三菱商事テクノス株式会社,S3100,候補あり,FC067：ロボット＋AMRの工程間連携デモ,FC067,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M
+740,EXH-2026-eb6827bac06bfe00,三菱電機株式会社,S2003,候補あり,FC064：NC MachiningAID（2024）／2026 CNC省人化／FC065：放電加工の新開発スケジューラ,FC064 / FC065,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU
+741,EXH-2026-2c71c115d4fbbf68,三菱マテリアル株式会社,W1065,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8cRbffPwDP4
+742,EXH-2026-45f17db328a38fd7,三菱マテリアルハードメタル株式会社,W1065,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+743,EXH-2026-0320fe767520d04e,三星工業株式会社,W2075,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=P7-7hufmZYA
+744,EXH-2026-b2b922d0263b3c5d,有限会社三矢工業,S4042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=XaZo4BNgwGo
+745,EXH-2026-4e0dd52bc1649ee1,ミニター株式会社,WA017,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+746,EXH-2026-fb52066b04681c9c,ミネベアミツミ株式会社,W2029,候補あり,AC222：HBモータ・6軸力覚センサ,AC222,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=-h838KuejOA
+747,EXH-2026-b03fd1184ef0d840,ミネベアリニアモーション株式会社,W2026,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+748,EXH-2026-baba4a7b656a4454,宮川工業株式会社,WA023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+749,EXH-2026-d409e69c78ad3d97,ミロク機械株式会社,E2016,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=hoDwRR48-C4
+750,EXH-2026-edb749152f11c762,株式会社ミロクリエ,E2016,候補あり,FC058：ミロクルAI保全ナビ／分析レポート／FC059：ミロクルAIメーター読み取り,FC058 / FC059,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=IQhLnLagU5I
+751,EXH-2026-2f9afa9947d91429,株式会社ムラキ,W1061,候補あり,AC223：ロボットバリ取り・AWC,AC223,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=qIDqZhLSNgg
+752,EXH-2026-8add052d1108d4ea,村田機械株式会社,E3031,候補あり,AC224：重量ワーク自動搬送・加工,AC224,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Jc5GYaUqS1I
+753,EXH-2026-308c5194f12fe009,ムラテックＣＣＳ株式会社,E3031,候補あり,AC225：プライマリドクタサービス,AC225,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Z_SbvK_hxBY
+754,EXH-2026-c113a1b2b62c98df,ムラテックフロンティア株式会社,E3031,候補あり,AC226：Growing MIS 生産管理,AC226,自動化,False,
+755,EXH-2026-859260bbab50e467,ムラテックフロンティア株式会社,S3012,候補あり,AC226：Growing MIS 生産管理,AC226,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=YWmIOEUq2KQ
+756,EXH-2026-51b2c580cd5b0f07,有限会社名南機械製作所,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+757,EXH-2026-058d2b5dc2e82970,株式会社メクトロン,E7050,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+758,EXH-2026-d1b2346e07cb38c8,株式会社メトロール,S4022,候補あり,AC227：エアミクロンセンサ,AC227,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=wCfQP1f4Amo
+759,EXH-2026-626ee6029048e61c,株式会社メトロテック,E7040,候補あり,N0758：SENMATION 測定ヘッド自動交換,N0758,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=4QJyvHEi-Bw
+760,EXH-2026-d241e6d6ecb5d3ae,株式会社モアソンジャパン,E2022,候補あり,AC228：Geomagic Control X等・検査報告自動化,AC228,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=BA-QSlPL32I
+761,EXH-2026-3ae4caf4066b88b1,株式会社モトユキ,W3053,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=W9UfaBETnjI
+762,EXH-2026-0d20b8d359caaf68,ものレボ株式会社,W3042,候補あり,FC027：MonoRevo：工程計画・スケジューリング／FC028：MonoRevo：類似図面検索・自動見積,FC027 / FC028,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=sccKfxE4bYo
+763,EXH-2026-fa86a6a592392b7e,モバック株式会社,S2004,候補あり,AC229：スカラロボット式CNC高圧洗浄,AC229,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=o9Igifyx28Y
+764,EXH-2026-8b8dcc6ea119b5c6,株式会社森歯車製作所,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+765,EXH-2026-68c359877b3aafb6,モリマシナリー株式会社,S3048,候補あり,FC039：ツールコラージュ／FC040：ツールコラージュアナライザー／FC041：ツールソムリエ,FC039 / FC040 / FC041,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM
+766,EXH-2026-c2b3b6debe5302c4,株式会社MOLDINO,W1064,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=WWmY33cdpB0
+767,EXH-2026-24aa2f8cf7c688b3,安田工業株式会社,E1057,候補あり,N0766：323本工具・33面パレットプール加工機,N0766,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=fQIZuGa3hGk
+768,EXH-2026-2c9090a62c406e00,柳瀬株式会社,W4041,候補あり,AC230：FERROBOTICS 定圧研磨,AC230,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=VB1iAf4ngXo
+769,EXH-2026-5170cf8e7feb2fcf,矢野金属株式会社,W1063,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+770,EXH-2026-c90f3f64b4d2ac5a,株式会社山一ハガネ,W1035,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xd6HijBGp38
+771,EXH-2026-b6977c805d302165,山口産業株式会社,E7032,候補あり,AC231：LUBExpert／Iris ai ONE,AC231,AI,True,https://www.jimtof.org/search/jp/ESdetails?e=swNETGQjKXM
+772,EXH-2026-94a4b5667d9c7c37,株式会社ヤマザキ,S2007,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=IVM0MzCLT3Y
+773,EXH-2026-b535e30abfd35f91,株式会社山崎技研,E1047,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=vm3yerTfsk0
+774,EXH-2026-67e8b88c3b5b9c06,ヤマザキマザック株式会社,E1001,候補あり,FC010：INTEGREX＋Ez LOADER 30／RPT006：Ai Thermal Shield（製品資料による比較）／FT-Z01：Smooth CAM Ai,FC010 / FT-Z01 / RPT006,AI / フィジカルAI / 自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes
+775,EXH-2026-4be1498c7e4dd9c4,株式会社山善,S1056,候補あり,AC232：SPEEDIO＋協働ロボット＋計測,AC232,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=KSoLpsGPfRQ
+776,EXH-2026-75ade464027510e9,株式会社山田製作所,W3042,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+777,EXH-2026-2f09e3e0077a91eb,株式会社山田ドビー,E1032,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=lc3z2LKJT3g
+778,EXH-2026-20191bfd1edc91e4,山田マシンツール株式会社,W2071,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ArVavfW4srQ
+779,EXH-2026-3dea185d631579fe,株式会社山本科学工具研究社,E7060,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=zFgPz9zu2WQ
+780,EXH-2026-5d6ac71d0414d187,株式会社彌満和製作所,W1071,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VqVhqG_IT0g
+781,EXH-2026-c56628752376bfc4,UEL株式会社,S1024,候補あり,FC060：BreylSimulator,FC060,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=dBv-8tktfaE
+782,EXH-2026-3df7c11bddb05292,株式会社ユーコー・コーポレーション,W4053,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+783,EXH-2026-5b12301a98d3a569,株式会社ユーテック,E3015,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+784,EXH-2026-72c29211ed4db0a5,株式会社ユーロテクノ,E7034,候補あり,N0783：光学・形状計測の自動良否判定,N0783,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=6nPrsr0N0lA
+785,EXH-2026-4a8402a527c17b99,ユキワ精工株式会社,W2015,候補あり,AC233：ワークハンドリングホルダ,AC233,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=KfyA76OQ4CE
+786,EXH-2026-1fb607fd5307c2fa,株式会社ユシロ,S3093,候補あり,AC234：ALFRED クーラント監視,AC234,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=-U1GqEJcgSM
+787,EXH-2026-54c4a3eb1080a3bb,ユナイテッドグラインディング株式会社,E8001,候補あり,AC235：ATP 工具製造工程連携,AC235,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=21UIMFf4EUI
+788,EXH-2026-0c463f125124710f,ユナイテッドマシニング株式会社,E8001,候補あり,AC236：CUT P350 等の加工自動化,AC236,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=C2YWs9rQy3U
+789,EXH-2026-2e3a53883a6c36b4,ユニオンツール株式会社,W1018,対象外（既存判定照合）,MESは微細工具測定器の製品名。製造実行システムと扱わない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=K00DRD-BngA
+790,EXH-2026-5cf0cf6af0301c68,ユニテック・ ジャパン株式会社,S1038,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RpuxynAopaY
+791,EXH-2026-b0fb8d4edb45c9ef,ユニパルス株式会社,E7058,候補あり,N0790：ユニサーボ トルクフィードバック,N0790,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=c9Bg69U4HXs
+792,EXH-2026-43847f0d8d9f485f,吉川鐵工株式会社,E7055,候補あり,AC238：FRE＋リベット供給・協働ロボット,AC238,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=HjByZxxPSok
+793,EXH-2026-abca56e39081ccaa,ヨシカワメイプル株式会社,S4008,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+794,EXH-2026-e1680cbff60fbdbc,株式会社淀川電機製作所,W3110,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+795,EXH-2026-011761bf96c8dbdf,米沢工機株式会社,E3008,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+796,EXH-2026-11d713dc1c35bf76,ライスハウァー株式会社,E8008,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=rlg9CHWXMVM
+797,EXH-2026-21085f6217047c41,株式会社ライノス,W1095,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=lAQ9vk37iMo
+798,EXH-2026-e6fa03693e4bb7c2,有限会社ランテクノロジー,S1029,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=OsUCoj6p188
+799,EXH-2026-e98a5e83a3a526b2,理研精機株式会社,W2057,対象外（既存判定照合）,手動クイックチェンジの省力化。自動爪交換・自律判断の記述なし。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=tKa_1f5evrI
+800,EXH-2026-1fb2588e25ec1925,株式会社リスモツール,E7002,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=m-a8BqyG7uY
+801,EXH-2026-ede0d52617ac3762,リタール株式会社,S1067,対象外（機能未特定）,制御盤・ITラック等の基盤。個別のAI処理・自動加工機能は未確認。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=20GFOkXi--c
+802,EXH-2026-fbf9f0b05c61b8ad,リックス株式会社,E3024,候補あり,AC241：クーラント自動混合,AC241,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ym7ttKJCHb4
+803,EXH-2026-d5ee0a2a7f614254,リューベ株式会社,W2012,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+804,EXH-2026-1f5c719008ea72e9,菱高精機株式会社,W1014,候補あり,AC242：ORION／Titan 自動ホーニング・洗浄,AC242,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=NwMMephg4LA
+805,EXH-2026-ce2bb674b248f699,株式会社リンスコネクト,E7007,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+806,EXH-2026-ffbf8fac4b65b7d9,有限会社鈴峰,W1049,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+807,EXH-2026-167512b6329af38c,レーザ技術サービス株式会社,E1038,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+808,EXH-2026-19fb2541bf0b8b5b,レクサス株式会社,W4103,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=KDX8MCG57oQ
+809,EXH-2026-4150454694692cd6,レゴフィックスジャパン株式会社,W2082,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2LYEZpS_4JY
+810,EXH-2026-c064e7a5038f1888,株式会社レヂトン,W4052,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+811,EXH-2026-0b525ce2fc2efcd9,レニショー株式会社,E7089,候補あり,FC033：Renishaw Central＋IPC,FC033,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=pYGmVz5GC1c
+812,EXH-2026-e4d55b299fa70670,ロームヘルド・ハルダー株式会社,W2003,候補あり,AC243：電動スイングクランプ,AC243,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ouI_rRePhFc
+813,EXH-2026-06412089488b96b5,碌々スマートテクノロジー株式会社,E2025,候補あり,AC244：Android III 加工補正,AC244,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=qZD6fx1n_QM
+814,EXH-2026-d26755a7bc74fe39,Rollomatic Japan株式会社,S2005,候補あり,AC245：Road to Automation,AC245,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=9af8P2FUMY8
+815,EXH-2026-28ad6ce1ddaebaa7,YKT株式会社,E2026,候補あり,AC246：工具研削・測定自動化,AC246,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=nYvFR1vpbuE
+816,EXH-2026-f58f57049f4b76aa,YG-1ジャパン株式会社,W1082,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VYjGUrtgdX4
+817,EXH-2026-891a0e945d6e08f6,株式会社和井田製作所,E7098,候補あり,AC247：APX40W 自動インサート研削,AC247,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=TQR71SThQ18
+818,EXH-2026-9a61213f25d924e8,渡辺精密工業株式会社,S3076,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+819,EXH-2026-da56602bdad5da98,ワブテック・インスペクション・テクノロジーズ・ジャパン株式会社,E7010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+820,EXH-2026-db941f4c616e5fe2,ワルタージャパン株式会社,W3042,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5vVgmDrG4w0
+821,EXH-2026-b1c0297530cf5a85,"ACCU-CUT Industrial Co, Ltd",W1022,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+822,EXH-2026-c442c269d4a993a7,"ADVANCED NANO COATING TECHNOLOGY CO.,LTD.",W3059,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+823,EXH-2026-e194a25f3d79d363,Affolter Group SA,E2026,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0La2dcPu5yQ
+824,EXH-2026-3eb1a3e98b1cfaf9,Agie Charmilles SA,E8001,候補あり,AC248：CUT P350 放電加工自動化,AC248,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=mHTLRA9SdB0
+825,EXH-2026-48a5444f92e646fb,AKKO MAKINA SANAYI VE TICARET A.S.,W1096,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=e41eDBDBnaI
+826,EXH-2026-e5d710da22c78d78,ALESA AG,W1096,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=mz3z-ZS5RpM
+827,EXH-2026-1a020a83cd6f8d6c,Alfred H. Schütte GmbH,E3014,候補あり,N0826：335linear 自動砥石交換,N0826,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=vEZxaF9VL2k
+828,EXH-2026-da720f40f4dc43ef,"Alpha Technology Development Co., Ltd",W1098,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0MRd0pNnCPQ
+829,EXH-2026-0cce19eff2de5061,"Anhui Shenyu hydraulic technology CO.,LTD",W3005,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ACbg_1eC_7U
+830,EXH-2026-97de0a903be230a6,APPLITEC MOUTIER S.A.,W1096,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=bLvQhW7XtZw
+831,EXH-2026-1798eda3c7a0fe94,Armendus Support Arm and Enclosure Systems,S3058,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=rTNiut38AGQ
+832,EXH-2026-27ee6efde1909063,"ARYUNG MACHINERY IND. CO., LTD.",W4062,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+833,EXH-2026-f5b1f07ec707cb47,ASIA PACIFIC ELITE CORP.,E1009-2,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=_o6hKgOt50A
+834,EXH-2026-a8c3c83d696b9666,"Asia Polydiamond Company, Ltd",W3079,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+835,EXH-2026-f7a0a10c23705912,"AutoCam Technology Co.,LTD",W3038,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+836,EXH-2026-b9c308c3f5d83ade,"AUTOGRIP MACHINERY CO., LTD.",W3001,候補あり,AC249：自動把持チャック,AC249,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=EeJK5dyX8Nc
+837,EXH-2026-94c6b38f3b841b9a,Automazioni Industriali srl,E3014,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+838,EXH-2026-93a897ca599fc5d9,autonomIQ,E1061,候補あり,FT-A01：simplymill／AI CAM,FT-A01,AI / 自動化,False,
+839,EXH-2026-0325e914814def16,"Baifenbai Fixture Mechanical Equipment (Guangzhou) Co.,Ltd",W2064,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Qo3FWxDc0u8
+840,EXH-2026-dcc2099fa7cbc170,"BAOTN INTELLIGENT LUBRICATION TECHNOLOGY (DONGGUAN) CO.,LTD",W4060,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3aiQrFqaoiA
+841,EXH-2026-3326b5398ffe07dc,Beiping Machine (Zhejiang) Co Ltd,S1054,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8fWJ9a_uSts
+842,EXH-2026-23611935b804015e,"BEISIT ELECTRIC TECH (HANGZHOU) CO., LTD",W3089,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+843,EXH-2026-69512e0a5522e5d6,Birla Precision Technologies Ltd,S3054,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+844,EXH-2026-50111527cf450bde,"BizLink Special Cables (Changzhou) Co., Ltd.",S1052,候補あり,AC250：統合ロボット・プログラミング,AC250,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=mONQNxkEoi8
+845,EXH-2026-39e340ba804ebaad,Blohm Jung GmbH,E8001,候補あり,AC251：平面・プロファイル研削自動化,AC251,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=dSHD282NmEc
+846,EXH-2026-b0bf3910cff639f1,botek Präzisionsbohrtechnik GmbH,W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+847,EXH-2026-b8b1648574a8c44d,Bruker Austria GmbH,E7034,候補あり,N0846：精密測定・自動良否判定,N0846,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=HPdrXeNgaEs
+848,EXH-2026-7e1cba005ed0eb87,BTB TRANSFER SPA,S2026,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=4XcP01BCnBk
+849,EXH-2026-606bae6e521953bf,BUFFOLI TRANSFER S.p.A.,E1034,候補あり,AC252：ターンキー加工ライン・AI検査提案,AC252,AI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=XR5ASqmy4zw
+850,EXH-2026-4fbf1cc479902114,"Cam Power International Precision Machinery Co.,Ltd",W3030,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RndYeZHEbFo
+851,EXH-2026-88223533e9c13bff,Carbon Drive GmbH,W2060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+852,EXH-2026-463acce32a24017c,Carmex Precision Tools LTD,W3076,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ZJTLvQ5hk1k
+853,EXH-2026-fa04308a7fa3624f,CARY SA,E2026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=9q56_9Cwbso
+854,EXH-2026-c5ab5b3cbf90140a,"CHAIN HEADWAY CO., LTD.",W1056,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0ocbrYCXICk
+855,EXH-2026-0cd75c8f7eb229e8,"Changzhou chenlin tools co.,ltd",W3084,対象外（既存判定照合）,自社のCAD/CAM利用と工具製造設備を紹介。CAD/CAM製品の展示ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=gjsmTR_o9P8
+856,EXH-2026-a2f05e40992bab14,"CHANGZHOU SHUANGYANG TOOLS CO., LTD.",W3083,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+857,EXH-2026-a49b154774608339,"Chen Ying Oil Machine Co., Ltd.",S1049,候補あり,AC254：自動給油・潤滑装置,AC254,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=bRKaw8mtvM4
+858,EXH-2026-cc50347877ba3963,"Cheng Feng Casting Factory Co., Ltd.",W4010-14,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+859,EXH-2026-f82d8eee2bb3ccea,CHENG HUI MACHINERY TOOLS FACTORY,W4010-11,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VvS6t7B88qA
+860,EXH-2026-2c42b830f3d9423c,"Chengdu Kilowood and CLT Co.,Ltd.",W2076,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+861,EXH-2026-a13ec35b3a81a317,"CHENGDU KWS PRECISION CUTTING TOOL CO., LTD",E7100,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=IAtipprWAO0
+862,EXH-2026-131a94d44644ca67,"Chengdu Metcera Advanced Materials Co.,Ltd",W3010,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=4stDaZTUE_c
+863,EXH-2026-55ca9cad92ebe2bb,"CHIA LERN CO., LTD.",S1048,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+864,EXH-2026-f63efdfb5683fa7b,"CHIEN WEI PRECISE TECHNOLOGY CO., LTD.",E1009-1,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=j1eJOYGSp0M
+865,EXH-2026-5d9ee7a3d53ed0d7,"CHIEN YIH MACHINERY CO., LTD.",E1009-4,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+866,EXH-2026-40de9ea64e2ba625,"CHIN HUNG MACHINERY CO., LTD.",S1079,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Oy9abUf2uzg
+867,EXH-2026-0d5e13ff2a0136f1,"CHN-TOP SCI AND TECH CO., LTD.",W4004,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+868,EXH-2026-3c6ff9ebb3dfe540,"CHU LUN SING CO., LTD.",W4010-15,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=gNF67vBB64I
+869,EXH-2026-7b5dc46964febb7b,"CHUNG PU LASER CO.,LTD",W2031,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+870,EXH-2026-e507a9cad1cefb2e,"CMT Co.,Ltd.",S3053,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+871,EXH-2026-9dffa88b6911ab16,"CONSTANCE TECHNOLOGY CO., LTD",E7005,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=1aUuaWjaMWk
+872,EXH-2026-e19c4267a702c499,CORTOOL MANUFACTURING GROUP,W3092,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=XDFiGrPviK4
+873,EXH-2026-365a7eae1c92c0f5,"Cosen Mechatronics Co., Ltd",S2023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+874,EXH-2026-92ed910329671606,CP GRAT-EX MFG. CO.,W3071,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+875,EXH-2026-ec9a70cb9a031eb3,Crevoisier SA,E2026,候補あり,N0874：汎用・自動研磨機,N0874,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Jmfu22IftXw
+876,EXH-2026-64afa59276a3d7cb,"CSC Bearing Co.,Ltd.",W3019,対象外（既存判定照合）,ロボットは軸受の供給先用途。認識・制御・自動化機能の実装説明なし。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=pn_k9PHhDp0
+877,EXH-2026-07d10f8caab966fe,"Dahching Electric Industrial CO., Ltd",E1020,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+878,EXH-2026-e8ce5b2d33dd638e,Dasqua Technology LTD.,W3078,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=tF4N2rIYmm4
+879,EXH-2026-505c68350e4b78a4,"DERSTRONG ENTERPRISE CO., LTD.",W3024,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+880,EXH-2026-a282b818738f01ba,deta International,W2061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+881,EXH-2026-52537283d5cdf584,"detron Machine Co., Ltd.",W2063,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+882,EXH-2026-1dba700d81292c04,"DGDY SHEET METAL MACHINERY CO.,LTD",E1019,候補あり,AC256：サーボパネルベンダー,AC256,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Rtj9rox8Zj4
+883,EXH-2026-36aba0664f3714aa,DH DAEHYUP,W1010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+884,EXH-2026-19b72c85dc9cbf2d,"DHF PRECISION TOOL., LTD.",W1052,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Ov2_NDFcCE8
+885,EXH-2026-570326d9becfff20,"DI CHUN IRON WORK CO., LTD",W3027,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=FL28zrB92XA
+886,EXH-2026-d18947f75f6af1b7,"DI KU DIAMOND ENTERPRISES CO., LTD",W4010-8,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+887,EXH-2026-f6a56aafd10f82a6,DIXI Polytool S.A.,W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+888,EXH-2026-b0f0982bff27307d,"DONG YING HYSEN WATER PROCESSING TECHNOLOGY CO.,LTD",S2029,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=7j4J_bwVAlI
+889,EXH-2026-d39b5dc8b972e1a4,Dongguan Dongfangqidu Metrology Co Ltd,E7006,候補あり,AC257：プローブ・工具オフセット補正,AC257,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=25HOX5M84N0
+890,EXH-2026-81c054a5d738a86e,"Dongguan Hualing Automation Equipment Co., Ltd.",S1083,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+891,EXH-2026-3d2bc41fd60bf29a,"Dongguan Simp Tech Co., Ltd.",S3059,候補あり,N0890：プローブ・工具オフセット自動更新,N0890,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=FhwIWDmAJB4
+892,EXH-2026-c90a8c13cda327f1,DONGGUAN XINDI MECHANICAL TOOL CO.. LTD.,W3106,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Yym6acTNJ3w
+893,EXH-2026-800530f4e74f1852,"Donghelian (Hebei) Technology Co.,Ltd",W3073,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QGdu9E-kZaM
+894,EXH-2026-bcc3a29be85a835b,Dontyne Systems Limited,E8008,対象外（機能未特定）,歯車設計・加工シミュレーション。AI・自動工程生成の具体機能は未確認。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Qdl6sEtQDEY
+895,EXH-2026-6a9f2cd5a4a42771,"DYC Co., Ltd.",W1012,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+896,EXH-2026-6d762b0384b17054,"Echaintool Precision Co., Ltd.",W1019,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=nBosAiA94gI
+897,EXH-2026-44cbd70311022802,EMAG GmbH & Co. KG,S2025,対象外（既存判定照合）,ロボット減速機部品の加工用途。ロボットによる作業とは区別。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=GKajHwj3Wyo
+898,EXH-2026-3df1630aa7abc9df,ESCO S.A.,S1025,候補あり,N0897：エスコマチック コイル自動旋盤,N0897,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=tHhXhKKXouA
+899,EXH-2026-056f8a4bb7776389,"EST TOOLS CO.,LTD",W3082,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=G91AseiGU5k
+900,EXH-2026-14eff824bf43a110,"EVERISING MACHINE CO.,",S2010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+901,EXH-2026-c05f5a2b93e95168,EWAG | Fritz Studer AG EWAG Zweigniederlassung,E8001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=zzDZUSY6-kg
+902,EXH-2026-8f3871f8d9474c98,F.Zimmermann,W2060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+903,EXH-2026-6ab54e2019f82a50,FABMAX,E1040,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=MDRGkyTY3xw
+904,EXH-2026-71042226949434d5,"FAPTECH (HANGZHOU) CO.,LTD.",E2026,候補あり,AC260：トランスファーライン,AC260,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=50efK4rQsHs
+905,EXH-2026-85407fa249b93ac0,FDX Fluid Dynamix GmbH,W2060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+906,EXH-2026-35623e4191a2f8c9,Fladder Danmark A/S,S1026,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+907,EXH-2026-dfb5e0bd09ffdcf0,Formnext,S4055,対象外（既存判定照合）,AIはセミナーの翻訳対応。製造のAI展示とは分ける。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=HAA3cTt92lk
+908,EXH-2026-9901a7b41404bcdf,Fritz Studer AG,E8001,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=kPtRFOop9j8
+909,EXH-2026-0b182e1864af8880,Fuqing Rihon Abrasives Co Ltd,W4055,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=4gAS80Eu958
+910,EXH-2026-780c0090145cf06e,"Fuqing RongMa Grinding Wheel Co.,Ltd",W4054,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5GGAPz9Yguo
+911,EXH-2026-c27f5606876ed505,"GC (Shanghai Guicheng Precision Machinery) Co., LTD.",E2026,候補あり,N0910：CNC自動成形機,N0910,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=uEAg7bCw0rI
+912,EXH-2026-08c7b99511523067,"GEMTOOL Co., LTD.",W4008,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Algnw6eNbv8
+913,EXH-2026-1f312ac356f53280,Georg Schlegel GmbH & Co.KG,E1011,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+914,EXH-2026-79203cf5002619a2,"German Tech Precision Manufacturing Co., Ltd",W4080,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+915,EXH-2026-08801fc905a3c0c2,"Gifu Enterprise Co., Ltd",W3040,候補あり,AC262：工具・部品の自動洗浄,AC262,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=KFThic8eDqA
+916,EXH-2026-45100bc3cc19ba5b,"GIZIN INTERNATIONAL CO., LTD.",W4010-3,候補あり,N0915：ATCカムボックス・交換アーム,N0915,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=4gVWzaxK6sw
+917,EXH-2026-99bab8efde42ac87,GNUTTI Transfer S.p.A.,E3014,候補あり,N0916：トランスファー機・バーローダ,N0916,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=PojWmcdFT-M
+918,EXH-2026-740c6fb9b611bd98,Grind Master Machines Pvt. Ltd,E7072,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=p_i9WuUhNRg
+919,EXH-2026-0c3a932c6aef5d30,"GRINTIMATE PRECISION INDUSTRY CO., LTD.",E1009-8,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=GaGwm-pLiwE
+920,EXH-2026-539ea18aa2390ac2,"GSA TECHNOLOGY CO., LTD",W2006,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+921,EXH-2026-48e089f08bd7580e,GUANGDONG CINCY INTELLIGENT EQUIPMENT CO LTD,W3046,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ogGilVYPFYo
+922,EXH-2026-790c3d4d06ef3690,"Guangdong Huasheng Nanotechnology Co., Ltd.",W3060,対象外（既存判定照合）,コーティング性能の最適化。データ駆動・AI方式の説明なし。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=N0RgOmmcwZw
+923,EXH-2026-9824d20d59c5b663,Guangdong Original Point Intelligent Technology Co Ltd,S1052,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+924,EXH-2026-621068f630b8583c,"Guangdong Taizheng Precision Machinery Co., Ltd.",S1085,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QCgheTg5Z6U
+925,EXH-2026-bf26ebef18f5aa41,"Guangzhou Xinzhao Zhikong Precision Manufacturing Co., Ltd.",S1084,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=-MhipwyVG8g
+926,EXH-2026-459b89c89ac94667,"GUIZHOU JINFENG PRECISION TOOLS CO.,LTD",W3093,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=4lUOnVGoQfY
+927,EXH-2026-c0b28c2ab1fca6dd,HABOR PRECISION INC.,W3052,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=MZNMjQYloJg
+928,EXH-2026-e32b5a02e3b72a43,"Hainan Chunyang Import&Export Co.,ltd",W4097,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QLWco7ONKgI
+929,EXH-2026-80097cf2130f8b5c,"HALLER (Suzhou Haller Intelligent Equipment) Co., LTD.",E2026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ZXQ13HUABQk
+930,EXH-2026-4e75820a20d26f93,"HAN JIE MACHINERY CO., LTD.",E1023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+931,EXH-2026-aa3fa826bcaf341a,Han's Laser Smart Equipment Group Co Ltd,S1053,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=VUbdSbmtakw
+932,EXH-2026-78de726efc03339a,Hangzhou Kailan Heavy Machinery CO.LTD,S1089,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=qGcm7ofO3O4
+933,EXH-2026-6582f23eec8dcb69,"Hangzhou Xinsheng Precision Machinery Co., Ltd.",E7099,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=03vj2KYdK0o
+934,EXH-2026-6921e6a24ee0748e,Hann Kuen Machinery and Hardware Co Ltd,S1078,候補あり,N0933：自動アンクランプ付きスピンドル,N0933,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=bS0wDcnnl0k
+935,EXH-2026-ec5f0d93ab461f31,"HANSUNG GT Co.,Ltd",W2050,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+936,EXH-2026-98de047bdc911af0,"Harbin Pioneer M&E Technical Development Co., Ltd",S4048,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=DJH4RhaOj-E
+937,EXH-2026-0176d2a33bc757d2,"Harbin Zhida Measurement & Control Technology Co.,LTD.",E7059,候補あり,N0936：3D走査プローブ・自動バランス機構,N0936,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=7tWtLilu7Xg
+938,EXH-2026-34d1c25ca439b773,"HENAN CA-DIAMOND MATERIAL CO.,LTD.",W3068,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+939,EXH-2026-d7c1b53479af4eb3,"HENAN XINYUAN SUPERHARD MATERIAL CO., LTD",W4031,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Js2U8bNPt30
+940,EXH-2026-c8af735f1b95c8a5,"Henan Yuxing Carbon Material Co., Ltd.",W3058,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ZVuCRnrNq0o
+941,EXH-2026-64d8e4d93d30927f,"HER BERT ENTERPRISE CO., LTD.",W4010-4,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=s-xvMhcaNSY
+942,EXH-2026-3b52ff7e182ad83f,"HG TECHNOLOGY CO., LTD.",W1053,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=AFf08M3dIs8
+943,EXH-2026-f3a10870d8eca550,"Holer Cutting Tool Co., Ltd",W3065,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+944,EXH-2026-d2a31d983acea3de,"HOMGE MACHINERY INDUSTRIAL CO., LTD.",W4010-13,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+945,EXH-2026-fb6501f62cb6fde3,Honsberg Metallsägen GmbH,W3096,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=P6slu1ImzAU
+946,EXH-2026-11f58d1fad18a874,"HONWAY MATERIALS CO., LTD.",W4002,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=3lNmwVzOe1E
+947,EXH-2026-bd6c453a623d7901,"HORN, Paul Horn GmbH",W1088,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=bfQffwpmTeE
+948,EXH-2026-7fb95af2ce326d58,"HOSEA PRECISION CO., LTD.",W3062,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+949,EXH-2026-4df0210df18bc955,HSD S.p.A.,S3057,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=W4f3_FM3r5g
+950,EXH-2026-85d4e32df412dee5,HTT Tiefbohrtechnik GmbH,S1030,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=bWuu3cnBm7s
+951,EXH-2026-b0b7cd2383bfe3cc,"Huangshan RSP Manufacturing Co., Ltd.",W3013,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=q2RfpXDAg98
+952,EXH-2026-752749d7fef51099,"HUI BAO ENTERPRISE CO., LTD.",W4010-5,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=bDJhWYSuKx8
+953,EXH-2026-3258780cadedbdc0,"HUNAN BOYUN-DONGFANG POWDER METALLURGY CO.,LTD",W3091,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+954,EXH-2026-d5addfce40db37b6,"Hymson Vision (Jiangsu) Laser Technology Co., Ltd",S2030,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5QblTtQwLKs
+955,EXH-2026-eb072dee18dc746f,"I TINE ENTERPRISE CO., LTD.",W4010-6,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+956,EXH-2026-eef48e2a9e124481,IBAG Switzerland AG,W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+957,EXH-2026-802b6b5bee1e8bbc,icotek GmbH & Co. KG,E1011,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+958,EXH-2026-26ce6892ef837486,IHI HAUZER TECHNO COATING B.V.,WA001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=KVKQFQGl1CY
+959,EXH-2026-8559ef69c5e44aae,IHI Ionbond AG,WA001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=LEKhlfBWcCk
+960,EXH-2026-2a0d9d1c8bcd518a,IL JIN TOOL TECH,W1011,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+961,EXH-2026-763f74d6ac021fe7,IMM Maschinenbau GmbH,E2026,候補あり,AC264：ブレード等の仕上げ自動化,AC264,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=p1moNnspTGg
+962,EXH-2026-50a336f6fb27482a,INCOS INC,S3006,候補あり,AC265：boxcon 工具在庫管理,AC265,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=fAg9O7WHKh0
+963,EXH-2026-cbe530cf72bb4408,IND -SPHINX PRECISION LTD. (Unit -B),W3050,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+964,EXH-2026-4ca8d352f5974951,INDEX-Werke GmbH & Co. KG Hahn & Tessky,E2026,候補あり,N0963：MS 全軸CNC多軸自動旋盤,N0963,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=FfVrSf4GIG4
+965,EXH-2026-e9c93ab0572d6335,INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE,W4010-10,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+966,EXH-2026-037c75b5850834c3,INNA Industrial Technology (Dalian)Co LTD,W3006,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=6jGD6Gp2Kp8
+967,EXH-2026-b4751b8a91a9e474,INNA International Trade (Dalian) Co LTD,W3007,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=WC0HNDUfwk0
+968,EXH-2026-83ef738770791dc6,INNGRIT INC.,W3029,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=g_mL67DRnAg
+969,EXH-2026-aad5ec46ee3c1b0c,Innovalia Metrology,S4001,候補あり,FC056：M3MH：既設機での機上計測,FC056,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=gvfw4D5z-qc
+970,EXH-2026-c45a8fa106ba1376,Irpd AG,E8001,対象外（既存判定照合）,AM造形・設計支援の総論。自動化やデータ連携の具体機能は未特定。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=s6VwpBq2IFo
+971,EXH-2026-a0fa6ba2a991e4d6,ISBE GmbH,S4002,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+972,EXH-2026-ee5c0439cf0987ce,"IWATA TOOL(THAILAND) CO., LTD.",W1069,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+973,EXH-2026-374fd481332adfa8,JETON R/D & MFG. INC,W3028,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+974,EXH-2026-61e848babe030b0c,JFLO MACHINE TOOL ACCESSORIES,W3011,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RQkXWhWkKEs
+975,EXH-2026-8883655f16efdc54,"Jia Chen Precision Industry Co., Ltd.",W3025,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=afPO1Z3iEkw
+976,EXH-2026-9a468ad8116bb6f6,"JIANGSU SHIDAI JIANGYU CUTTING TOOLS CO.,LTD.",W3108,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=tm0EZ6ClnZc
+977,EXH-2026-c070c54c5b76e26e,Jiangsu Swift Machinery Technology Co Ltd,W3008,対象外（既存判定照合）,製品最適化と社内設備の紹介。AI・DX応用の具体記述なし。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xT9vH0CMNl4
+978,EXH-2026-ba00c9407c07487b,"Jiangyin Aupu Machinery co., Ltd.",E1013,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+979,EXH-2026-4e201f89dab6f94d,"Jiaxing Shimizu Electronics Co., Ltd",S3087,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=oIRqneGv-d0
+980,EXH-2026-843c953e9b80a231,"JIN LI CHENG CUTTING TOOL CO.,LTD.",W3063,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+981,EXH-2026-994c777b8205cc1d,Jinan Bodor CNC Machine Co Ltd,S1091,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=4cD2VGc7tlU
+982,EXH-2026-e823c2a3c39f6e87,JINAN XINLEI PRECISION MACHINERY CO LTD,W3004,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=wnB2kPvDLJE
+983,EXH-2026-d5a7cfe878d1e686,JPC connectivity Inc.,E1009-7,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+984,EXH-2026-eee5f5bb1b44f5c1,"KAI HUNG MACHINERY CO., LTD.",E1009-5,候補あり,AC268：ターンキー自動加工ライン,AC268,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=8qrXuJ0N8KM
+985,EXH-2026-e949225fc6abfbec,"KAIFENG BESCO SUPERABRASIVES CO.,LTD.",W3061,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RMONVo8JDTE
+986,EXH-2026-25c570bd3300d0a7,Kellenberger Switzerland AG,E2026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=DUYBv5Utf-s
+987,EXH-2026-20f70814f8d4f16d,"KEYARROW(TAIWAN)CO.,LTD.",W2010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+988,EXH-2026-e359d232a06c35c8,"KING SHANG YUAN MACHINERY CO., LTD",E1017,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=9Zl7FgG_AwE
+989,EXH-2026-2ef82316637bdc70,"Kunshan Devotec Automation Co.,Ltd.",W3017,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=tGEwJ2nWRDA
+990,EXH-2026-4c7665a419e5ac36,"KUNSHAN OMATEI MECHANICAL AND ELECTRICAL EQUIPMENT CO., LTD",W3016,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=pGKCr94M-cw
+991,EXH-2026-d24fb0429d0b76f9,"LAIZHOU XINYUE MACHINERY CO.,LTD.",S1050,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Hmq9QCfmArM
+992,EXH-2026-9d1746727a46c574,Liebherr-Verzahntechnik GmbH,S1066,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+993,EXH-2026-fa1d7575939d057f,"Lingji Precision Technology Refrigeration Equipment Co, Ltd(Huanggang)",W3012,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5maDHvHPff8
+994,EXH-2026-bf5046367e5c9f8e,Linmac Machinery Inc.,S2028,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2IiAsFEGTow
+995,EXH-2026-ba7a51db7c150816,LNS Management SA,S4016,候補あり,AC269：棒材供給機／Turbo MH,AC269,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=MWu_r3zjcLw
+996,EXH-2026-2e793308aca21e94,"Long Sheng Precision Industrial Co., Ltd.",S1086,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+997,EXH-2026-20cb97f23fada4f8,Luoyang Hongyuan Bearing Technology Co Ltd,W3010,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+998,EXH-2026-77ebe49f3ffd385a,"LUOYANG RUNBAO SUPER ABRASIVES CO.,LTD.",W4059,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=gajIfKFbymU
+999,EXH-2026-41b7dfba7576a60d,"LV International Co., LTD.",W3049,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Trewo31oMRA
+1000,EXH-2026-de8fea5fa8f1006c,"LXMT (Zhejiang liangxiao Precision Machinery Technology) Co., Ltd",E2026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=cpv9FlvGZAA
+1001,EXH-2026-5ad091703cc8ba7c,Mägerle AG Maschinenfabrik,E2026,対象外（既存判定照合）,重研削・省力化とサンプル展示。自動システムの具体記述なし。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=d8itxGo2_dc
+1002,EXH-2026-ba2995d133955dcf,Mägerle AG Maschinenfabrik,E8001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ru3zqT_-q0c
+1003,EXH-2026-1a110213192c7deb,M.T. S.r.l.,W2043,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=vCPW_TZVR9Y
+1004,EXH-2026-19ce238d137fe275,Masterlink,E1050,候補あり,AC271：工具監視・重荷重パレタイジング,AC271,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=kygm0UxJL-M
+1005,EXH-2026-035b029e1ff29520,MATE PRECISION TECHNOLOGIES,S3055,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=qRbii6B4ZnM
+1006,EXH-2026-c4882a21138dab6c,"Matrix Precision Co., Ltd",S2019,候補あり,AC272：GVC0260 研削自動化,AC272,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=vvseLw_Wxp0
+1007,EXH-2026-0ae64d38ddbc60ba,"MicroLab Precision Technology Co., Ltd",W3026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=fto5cvRTOUs
+1008,EXH-2026-c92e6673ce74def1,"MIYANACH IND. CO., LTD.",W3048,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1009,EXH-2026-f941f68dfed136ef,ModuleWorks GmbH,S4005,候補あり,FT-M01：SmartRoughing／FeedControl／FT-M02：NGSP＋CAS＋MDES,FT-M01 / FT-M02,自動化,False,
+1010,EXH-2026-c7edfb94cf519f5d,MOTOREX AG,W1096,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=FkpIjMbgCkw
+1011,EXH-2026-175d3adb72fe070d,"MST CO.,LTD.",S3060,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=-aXLCO_e2C4
+1012,EXH-2026-601252248437cfa6,Mustafa SIMSEK Mak.Tak.San.Tic.LTD.STI,W3080,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1013,EXH-2026-be7f36be1fdc90ab,MVM S.r.l.,S1011,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1014,EXH-2026-016097f87d1914b2,"NdotLight Co., Ltd.",S4004,候補あり,AC273：TRINIX CAD／SimReady生成,AC273,AI / フィジカルAI / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=6Ds1v9hxvrY
+1015,EXH-2026-fb54c7e5c45d1ea2,Neotecman SL,S2026,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1016,EXH-2026-7768531e585db4c2,"NEW YU WEI INDUSTRIAL CO., LTD.",W3022,対象外（既存判定照合）,ロボット関節はブローチの加工対象。AIロボットの展示ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RupGxxso9io
+1017,EXH-2026-449e92204b147b24,"Nextas Co.,Ltd",W3035,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1018,EXH-2026-deb1ea15fef6e7bc,NINE9,W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1019,EXH-2026-df9fd9e3f835e55a,NINGBO BLIN MACHINERY CO LTD,S1073,候補あり,AC275：棒材・ロボット・パーツキャッチャ,AC275,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=-DLoNC4r21w
+1020,EXH-2026-7ffe520a781b50c1,"NINGBO DE-SHIN PRECISION ALLOY CO., LTD",S1018,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=IOGJH4Quq_U
+1021,EXH-2026-214982bf862de8d4,"NINGBO SANHAN ALLOY MATERIAL CO.,LTD.",W1059,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=15EOJWcvGE8
+1022,EXH-2026-aae6918bfa57ca71,"NINGBO WELL-LIH ROBOTS TECHNOLOGY CO.,LTD",S1074,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1023,EXH-2026-d9b1703ac408b9b5,Numalliance,E1010,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=JMcXlaL39qw
+1024,EXH-2026-df39dcaf22668b89,OKADA INTELLIGENCE(JIANGSU) CO LTD,S2022,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=zpnJoyyXOW4
+1025,EXH-2026-c35ca32ba2d91e57,OSBORN GmbH,W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1026,EXH-2026-002181bfbcb44afa,PALMARY MACHINERY CO LTD,S2012,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=mrZBY4-O4Ec
+1027,EXH-2026-05756f12a598c912,"PARKSON WU INDUSTRIAL CO., LTD",W3041,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1028,EXH-2026-865626b076c41c0d,PARV METAL PROCESSING CO.,S4051,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1029,EXH-2026-4eb0188e3dd3e393,PEMTec SNC,E2026,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=PZVWgBgC61o
+1030,EXH-2026-166eb1d478702025,"PERFECT MACHINE CO., LTD.",S1081,候補あり,AC276：砥石自動ドレス・補正,AC276,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=uL4EJoJ_Wco
+1031,EXH-2026-53dcfbb58fce9b75,PERON SPEED INTERNATIONAL SRL,W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1032,EXH-2026-f7c42375de4b7305,PETRONAS,S3097,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1033,EXH-2026-5da8434e4f70ea5b,Precizika Metrology UAB,S4047,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1034,EXH-2026-b35ce23f501c1830,Profiroll Technologies GmbH,S1055,候補あり,AC277：転造加工自動化,AC277,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=zGmF-52RIcs
+1035,EXH-2026-072d2f7215d2c5b5,ProGrit GmbH,E3014,候補あり,AC278：自動金型交換・ハンドリング,AC278,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=zPpO1BUr3Ws
+1036,EXH-2026-5e0b615864b81b34,"Qingdao Reckel Advanced Materials Co.,Ltd.",W4094,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=9mD3Weymglg
+1037,EXH-2026-ce095464035fb5f1,Quality Vision International Inc,E2026,候補あり,AC279：SmartScope 自動測定,AC279,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=i-C4iNMNRtM
+1038,EXH-2026-8dbb00228000aa6c,Röders GmbH,E3014,候補あり,AC280：RXP601D 自動加工セル,AC280,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=ZjA8l9ImAE8
+1039,EXH-2026-ec43e369150d114e,"RAINBOW PRECISION CO., LTD.",S1047,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1040,EXH-2026-746502401e518318,RE-AL AG,W1096,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=oFl1zrXHp4M
+1041,EXH-2026-faa3e8617eef0ff9,"RI HSIUNG PRECISION TECH CO., LTD.",W3064,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QaMQqCgkpPI
+1042,EXH-2026-356a846498846417,ROYAL PRECISION TOOLS CORPORATION,W3021,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=MPXQABbGIvI
+1043,EXH-2026-a8ff253e404bc7cd,"ROYI CNC TOOL TAIXING CITY CO.,LTD",W3087,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Rj5ok1hMwFo
+1044,EXH-2026-b73d07e2d4941757,SAFEWAY MACHINERY INDUSTRY CORPORATION,W3002,候補あり,N1043：Automation work-holding,N1043,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=HGyGS3uPPXI
+1045,EXH-2026-3865e61f3ee0f795,"SANJET INTERNATIONAL CO., LTD.",W4010-9,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1046,EXH-2026-c617a6916e4c2053,"SCANTECH (HANGZHOU)CO.,LTD",E7013,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=5YM1aAp3B-4
+1047,EXH-2026-2af4783428bbfa6a,SCHAUDT MIKROSA,E8001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0QIG6zgClvY
+1048,EXH-2026-2ddab123ec038212,Schwäbische Werkzeugmaschinen GmbH,E3027,候補あり,AC282：多軸加工機・ロボット自動化,AC282,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=kw9LLCnBLZI
+1049,EXH-2026-15930084bc482d6e,"SEA SHORE DIAMOND INDUSTRIAL CO., LTD.",W4009,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Y6FrrT-iy7U
+1050,EXH-2026-c58ecab7ab14ca70,"SEOAM MACHINERY INDUSTRY. CO.,LTD.",W4078,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=ViAJZuet5iQ
+1051,EXH-2026-a356c2c2abb74eea,"Shandong Nano Advanced Materials Technology Co., Ltd",S1080,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=G-eOfxZrmb8
+1052,EXH-2026-99aec4b377062671,"Shandong Ounuowei Numerical Control Tool Co.,Ltd",W3009,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=B5KWBHhTvfk
+1053,EXH-2026-25a9d310d19cfee0,"Shandong Shanneng Precision Machinery Co., Ltd",W3018,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=_hLrr6X1oGM
+1054,EXH-2026-8462fcba192b633d,"Shandong Shansen CNC Technology Co., Ltd.",S1012,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1055,EXH-2026-96ff9fd87ad1f810,"Shanghai ADAMAS Tools Co.,Ltd",W4012,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1056,EXH-2026-da81f3302d336c8c,Shanghai Atfast Manufacturing Group,W3095,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=I5HEizw7p-o
+1057,EXH-2026-5e52358e839b0dc8,Shanghai Hezuan Technology Co.LTD,W4013,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=lXC_BWOXC5k
+1058,EXH-2026-3d8303bcdcb8b800,SHANGHAI IKEN PRECISION TOOLS CO LTD,W3009,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=-oigO6KCgV4
+1059,EXH-2026-47e2c6f28c15a3c2,"Shanghai Nagoya Precision Tools Co., Ltd.",S1082,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=bcsDhP9ayoI
+1060,EXH-2026-112f182d6d242f48,"Shanghai Thinkhead M&E Co., Ltd.",S1076,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1061,EXH-2026-8f1a280d76b630e0,"SHANGHAI YAMADA PRECISION TOOLS CO.,LTD",W4030,対象外（既存判定照合）,工具の寿命・切粉処理の改善。認識・データ連携・自動動作は未特定。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=qHsiX-LYYY4
+1062,EXH-2026-191e4126b940de2e,"Shenzhen Danfoo Technology Co., Ltd.",S4050,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1063,EXH-2026-ef080b66b221230c,Shenzhen JPT Opto-Electronics Co Ltd,S1046,候補あり,AC284：レーザCAM 自動経路生成,AC284,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=KJTFo439UQQ
+1064,EXH-2026-5d66bd57dc7444df,"SHENZHEN YUBAO DIAMOND TOOLS CO.,LTD",W4016,対象外（既存判定照合）,自動化装置は砥石の加工対象分野。自動化システムの展示ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=6gt3alVsSgs
+1065,EXH-2026-2be0f1d6daf31cb1,"Shinseng Industrial Co.,Ltd.",W3077,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1066,EXH-2026-066ea05e9319ca9a,"SHIN-YAIN INDUSTRIAL CO., LTD.",W4010-2,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8CzTkwD2h8o
+1067,EXH-2026-16d388761198d511,"Shin-Yain Industrial Co.,Ltd.",W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1068,EXH-2026-68954ce28b788282,SICHUAN MACHINERY IMP. & EXP. CORP LTD.,W3081,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VwafAoVJEhw
+1069,EXH-2026-f0221c5b28478c8a,"Sinomach Diamond (Henan) Co., Ltd.",W4007,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=2XIXpsjeFOY
+1070,EXH-2026-b0bdc6e1ad2531dd,SISA ABRASIVES CO LTD,W4044,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=-09Q4AWJx1E
+1071,EXH-2026-f2f24b79e246196b,SL.Carborundum (Thailand),W4043,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1072,EXH-2026-6ef0325233f72130,"SOCO Machinery Co., Ltd.",E1021,候補あり,N1071：全自動サーボパイプベンダー,N1071,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=Lko701EYhhQ
+1073,EXH-2026-b723f9bd97c08837,Spatial Corp.,E1063,対象外（機能未特定）,3D SDK・形状変換基盤。今回の四タグの完成機能・AI学習機能は未確認。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=bsgsYcvbud4
+1074,EXH-2026-691e9e3408c4e53c,"SPINDLEX TECHNOLOGIES CO., LTD.",W3020,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=pyxFVrNPaeA
+1075,EXH-2026-f938b5b1bf45bed0,"SUNG-IL MACHINERY CO., LTD",S3056,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1076,EXH-2026-36f43d3b97ec2a47,"SunUs TECH CO., LTD.",W3119,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1077,EXH-2026-c2c15e5c70a89a5c,"SUPER MASTER DEVELOPING CO., LTD.",W4010-16,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=hfpeLwhnVlA
+1078,EXH-2026-ee3aa1d613b77281,"Suzhou Hannock Precision Technology Co., Ltd.",W4006,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=x7GfnUFZNMg
+1079,EXH-2026-1afc398ddfa9e5e6,System 3R International AB,E8001,候補あり,AC287：協働ロボット・AMR＋ツーリング,AC287,自律化 / 自動化,False,
+1080,EXH-2026-60afae6de145a809,System 3R International AB,W2078,候補あり,AC287：協働ロボット・AMR＋ツーリング,AC287,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=c7Q6gr0wYyY
+1081,EXH-2026-877bee2400927d0d,TaeguTec LTD.,W1017,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=62qFEkWqHjg
+1082,EXH-2026-32ff596b1cdfe1ac,"TAI CHONG CO., LTD",W3037,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1083,EXH-2026-adf311c79441b58e,TAIWAN EXTERNAL TRADE DEVELOPMENT COUNCIL (TAITRA),E1009,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=G8lcZ_xFl6M
+1084,EXH-2026-ca73afaf510b6cf4,"Tarfilm Hi-Tech Co., Ltd.",W3111,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=B8z7RW_K60E
+1085,EXH-2026-09907cdd6f56171f,"TECH WAY ADVANCED MATERIALS CO., LTD",W2059,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1086,EXH-2026-10943cc1022d88b0,"TE-SHIN Precision Technology CO., LTD.",W2005,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1087,EXH-2026-2ccbd081b97f2f28,TEZMAKSAN ROBOT VE OTOMASYON TEKNOLOJI SANAYI VE TICARET A.S.,S2027,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1088,EXH-2026-b8cf89f9a09c5a9c,"Theta Precision Co., Ltd.",W3003,候補あり,AC288：主軸監視・リアルタイム潤滑制御,AC288,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=-qpqVRprqhs
+1089,EXH-2026-dbba088b8f8b1cc9,"TIA Co.,Ltd",E2033,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1090,EXH-2026-3dab01f02525c130,"Tien Ding Industrial Co., LTD",W2030,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1091,EXH-2026-7627be9cb394f3e2,"TJR Precision Technology Co., Ltd",W2062,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=85EwhsF0gYo
+1092,EXH-2026-9531ac15dae05ee1,"TNCSHARK CO.,LTD",W1081,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1093,EXH-2026-bf72a60018da6e7c,"Tongtai Machine Tool Co., Ltd.",E1009-3,候補あり,AC289：超音波周波数自動追従,AC289,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=DIbCyaCMEL8
+1094,EXH-2026-ef917d94c87353d8,TOOL LENSE,E2026,対象外（既存判定照合）,測定顕微鏡の校正・補正。自動補正制御やAI工具診断とは別。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=16OCYSZZ1NA
+1095,EXH-2026-043db194e2f9c1bc,TOPWORK INDUSTRY Co. Ltd.,S2011,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=R79osdDQ86Y
+1096,EXH-2026-ed21a9368dea3d26,Tschorn GmbH,W1061,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1097,EXH-2026-1f5344f438fd0107,umati c/o VDW-Forschungsinstitut e.V.,E2009,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1098,EXH-2026-2dad44b1c43571a6,UNION MATERIALS CORP.,W1008,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1099,EXH-2026-66bd137625ce375b,United Machining Mill AG - MIKRON MILL,E8001,候補あり,AC291：Mikron MILL 自動化セル,AC291,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=YixMbmW6WD0
+1100,EXH-2026-10a2cd124338a45d,United Machining Mill AG - STEP TEC,E8001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=vDOs7l3WhgE
+1101,EXH-2026-b712eb699006b691,United Machining Mill AG · LIECHTI,E8001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=TV4m8rG-6WU
+1102,EXH-2026-ee348a70bf537323,United Machining Mill SA - CHARMILLES,E8001,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=RFknA09J764
+1103,EXH-2026-2109c0e318b1202c,United Machining Solutions Management AG,E8001,候補あり,AC292：ATP 工具製造の工程連携,AC292,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=_thCHqnMq9s
+1104,EXH-2026-0d7e5e3a2ed2f885,"VERNAL ENGINEERING CO.,LTD.",W4010-1,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=QOhuv2ndynU
+1105,EXH-2026-a5ce8a7a2a793dd7,VERTEX MACHINERY WORKS CO. LTD.,S3052,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1106,EXH-2026-5a27cd33da5edd5d,Visometry Gmbh,W2060,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1107,EXH-2026-faf140a72e3db9dd,"VJ Total Solution Co., Ltd",E1027,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=eHZH5XvlhUI
+1108,EXH-2026-3c2c54323cbd3dd9,Wagner Tooling Systems Baublies GmbH,E3014,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=x0k25lXBm50
+1109,EXH-2026-703ff3fd652e4672,"WALRUS PUMP Co., Ltd.",W4075,候補あり,AC293：クーラント供給ポンプ,AC293,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=WiKj9N3VZzI
+1110,EXH-2026-ef7d709570e35b5c,WALSIN LIHWA CORPORATION,W4010-12,対象外（既存判定照合）,AIサーバーはステンレス材料の供給先用途。製造AIの実装ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=s1BC0qoE2S4
+1111,EXH-2026-660584ca47c42612,Walter Maschinenbau GmbH,E8001,候補あり,FC055：ATP：工具製造の工程間搬送／SUB002：HELITRONIC TOOL STUDIO,FC055 / SUB002,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=roSu2EMRXwk
+1112,EXH-2026-5b53ca5e18455669,Werth Messtechnik GmbH,E3014,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=VY9qXF1hpuc
+1113,EXH-2026-ac5bd3427158f26c,WFL Millturn Technologies GmbH & Co. KG,S1071,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=XToUAa59_mM
+1114,EXH-2026-770ffe3fc827b720,"WIDIN CO,LTD",WA005,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8aw_1I08OkM
+1115,EXH-2026-c859e1c0f7ff481e,WIKUS-SAEGENFABRIK Wilhelm H. Kullmann GmbH & Co KG,W1057,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=mFWgprFAl9k
+1116,EXH-2026-273a55a5c027cc00,WILHELM KOENIG MTM GmbH,W3034,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1117,EXH-2026-ab8167d419f015eb,"Wintech Automation Co., Ltd",W3051,候補あり,FC054：HGM-DX：測定フィードバック研削,FC054,自律化 / 自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg
+1118,EXH-2026-4fb92ba6b82546d7,WinTool AG,E1049,候補あり,AC295：WinTool 自動購買・工具管理,AC295,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=sSFZV23clJo
+1119,EXH-2026-d04515da9837ab34,"Wuxi Rainbow Intelligent Technology Co., Ltd.",W4101,候補あり,N1118：PID風量自動調整,N1118,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=vd2rLuc9U9Y
+1120,EXH-2026-ad5517b907c17125,"WUXI SANLI ROBOT TECHNOLOGY CO.,LTD",W3014,対象外（既存判定照合）,社名のROBOTとロボット向け軸受。ロボット作業の展示と扱わない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=03Dp2TJttAY
+1121,EXH-2026-8b48ce9818506160,WYLER AG,E2026,候補あり,AC297：温度補正付き自動測定,AC297,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=skJOsZ3QJkQ
+1122,EXH-2026-a5933ea7abf7d741,"Xiamen Chiaping Diamond Industrial Co.,Ltd.",W4015,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=8XwH3mIjrH4
+1123,EXH-2026-903f33cbba08642b,Xiamen DasiAuto Technology Co Ltd,S1077,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1124,EXH-2026-fc29fa6fb7818289,"Xinxiang Sunrise CNC Bearing Equipment Co., Ltd.",S1074,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,https://www.jimtof.org/search/jp/ESdetails?e=6cQ510vcza0
+1125,EXH-2026-d605d76721d0ca62,XT LASER,S1077,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1126,EXH-2026-31294387f398e183,YANG GANG CASTING CORP.,W4010-7,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=t3IZOPpmp4c
+1127,EXH-2026-37c9ae1c0783fc94,"YANGZHOU DEVELOPPING IMP&EXP CO.,LTD",S1088,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Gordh7_6hBY
+1128,EXH-2026-6e4fdf8d0532940b,"YANGZHOU METALFORMING MACHINE TOOL CO.,LTD",S1088,候補あり,AC298：プレス自動ライン,AC298,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=IP8LxjVq_vg
+1129,EXH-2026-83d27e243e906a98,"YEONG CHIN MACHINERY INDUSTRIES CO., LTD.",E3008,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1130,EXH-2026-2691b114ee006cea,"YESTOOL Co.,Ltd.",W1096,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=_nLEFFNi4kg
+1131,EXH-2026-be550b58d6174c10,"YEU LIAN ELECTRONICS CO., LTD.",W3023,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1132,EXH-2026-0b326699e8bd71a0,"YONG JU PRECISION TECHNOLOGY CO., LTD.",E1009-6,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=MPS0CqI7d9E
+1133,EXH-2026-6d1df3d3c8af6e77,"YUAN JUN FONG CASTING CO., LTD",W3090,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=klY5hS76xiM
+1134,EXH-2026-21cf4cfb16b89986,"Yuan Jun Industry Co., Ltd .",S1075,候補あり,N1133：CNC自動バンドソー,N1133,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=fVzpmHIYves
+1135,EXH-2026-b269fb272546cae6,"YUAN YI CHANG Machinery Co.,Ltd.",W4058,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1136,EXH-2026-9c3a42b4d0e43100,"ZHEJIANG BOESION PT TECH CO., LTD",W3015,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xdOzfxdZqLU
+1137,EXH-2026-973c9a19166ddd2d,ZHEJIANG MEIRI INTELLIGENT MACHINERY CO LTD,S1087,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=Dr_yLvY-K-Y
+1138,EXH-2026-a94405f1f1775849,ZHEJIANG SAN OU MACHINERY LIMITED COMPANY,W3005,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1139,EXH-2026-59bfae02e49b5ad7,Zhejiang Taixing Intelligent Equipment Co Ltd,S1051,候補あり,N1138：自動カッター研削盤,N1138,自動化,True,https://www.jimtof.org/search/jp/ESdetails?e=X2-zYymUVS8
+1140,EXH-2026-097cb198696a6a21,"ZHENGZHOU DIAMOND PRECISION MANUFACTURING CO.,LTD.",W4081,未抽出（公開説明ベース）,用途・需要先の記載と、製品が持つAI・自動作業機能を区別。今回の公開説明から具体的な対象機能を抽出できない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=WNiUW-E-atY
+1141,EXH-2026-b8ee04d5a78a144f,"Zhengzhou Research Institute for Abrasives & Grinding Co., Ltd.",W4006,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1142,EXH-2026-7fff37430bd11cdd,"ZHENGZHOU ZZDM SUPERABRASIVES CO.,LTD",W3067,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=xf0H_X96pxg
+1143,EXH-2026-05e13ef392b465a2,"ZHII SHENG TECHOLOGY CO.,LTD.",W3066,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1144,EXH-2026-f20ac9db6628d846,"Zhongshan MOCAP Industry Co., Ltd.",W3069,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=gfuD4IWh6Pc
+1145,EXH-2026-8b17a0be206d1037,"Zhuzhou Sant Cutting Tools Co.,Ltd.",W3107,情報不足,元の公式一覧に出展紹介・主な出展物の本文がない。非該当とは判定しない。企業サイトでの個別確認が必要。,,,False,
+1146,EXH-2026-8a06946b0290f709,ZUOREN CUTTING TOOLS (SHANGHAI) CO LTD,W3088,未抽出（公開説明ベース）,今回保存された公開説明と機能語の再走査では対象機能を特定できない。企業の全製品が非該当という意味ではない。,,,True,https://www.jimtof.org/search/jp/ESdetails?e=0vdiPA6Ji_M

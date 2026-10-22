@@ -1,0 +1,204 @@
+{
+  "edition": "astra_refinement_20261023_013112",
+  "date": "2026-10-23",
+  "repository": "https://github.com/jio-n/J_research",
+  "file_count": 39,
+  "files": [
+    {
+      "path": "outputs/astra_refinement_20261023_013112/index.html",
+      "bytes": 8289,
+      "sha256": "6dc348c0720d3509df08b795a2c4a99137b1d89b183a8f78c1f5513a46fbc96e"
+    },
+    {
+      "path": "outputs/astra_refinement_20261023_013112/report.html",
+      "bytes": 62372,
+      "sha256": "6f8763a44370b91e5484bf458dad5aa0c9d741c9f303c5b828899e3742e071ec"
+    },
+    {
+      "path": "outputs/astra_refinement_20261023_013112/report.pptx",
+      "bytes": 230009,
+      "sha256": "9135e98ae6be003ede14584451aeae79fb538a1a3809f7c88c246e7bba251c54"
+    },
+    {
+      "path": "outputs/astra_refinement_20261023_013112/technology_map.html",
+      "bytes": 2255579,
+      "sha256": "07dfb6ec1055193619e90faf74854b82829c7d10ab208731109a6c52e6a7baa3"
+    },
+    {
+      "path": "outputs/astra_refinement_20261023_013112/technology_map.svg",
+      "bytes": 20210,
+      "sha256": "41d42ba6f5ae0b4dc6568395f0275b1fee04bbf777abac5300d55514b2cb61ef"
+    },
+    {
+      "path": "outputs/astra_refinement_20261023_013112/visits.html",
+      "bytes": 2262483,
+      "sha256": "8c9eb1d146ee4824d39d51c95d26beee37fa9e0e6c4d0d55f827534d9962c57b"
+    },
+    {
+      "path": "outputs/astra_refinement_20261023_013112/visit_selection.xlsx",
+      "bytes": 555807,
+      "sha256": "d63f1ffde07c4d4aae1625509f9ca87933f52508ac6654e46ba1bde1c15fb4c0"
+    },
+    {
+      "path": "outputs/astra_refinement_20261023_013112/handover.html",
+      "bytes": 14975,
+      "sha256": "587232c2d57d5f23c384b1877fdf1e3bc46d5e92af44d8a190d1effcb17dc73d"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/additional_retrieval_log.json",
+      "bytes": 6098,
+      "sha256": "66562532f512de573f37effa026050962588012ab0d8826a89cbbac1fc8b412d"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/all_exhibitor_audit.csv",
+      "bytes": 303595,
+      "sha256": "559ae183d28eb13966497e8fa6fa8af1a7e83d1c8e032b13ac6dd83f5a76cd7c"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/build_content.py",
+      "bytes": 35260,
+      "sha256": "aca366228e1673ba156c42369085b8b5bfb733040fde0a8543b567d80a06e70b"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/build_html.py",
+      "bytes": 33256,
+      "sha256": "08092857d2dbcf64a54677dfad53b728ae6e5ca68347f0a90b17dbeb4dbfe291"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/build_presentation.mjs",
+      "bytes": 7060,
+      "sha256": "37dbd38c359d04559a5ce86f37ef47b3e12f7ac7afdc73d3062b4cd9a71d5b22"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/build_refinement.py",
+      "bytes": 42227,
+      "sha256": "7aa0fcf7ed5994a3a93703982f9ca98b4e6ab87c4326019d002af6d95a586b44"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/build_workbook.mjs",
+      "bytes": 12736,
+      "sha256": "a25ea26e23305473090433edeb280c5f52c7da26fb5d9c6c9f71b99e6d56eb2b"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/candidate_items.csv",
+      "bytes": 501574,
+      "sha256": "2829e19468fca32c4b52c9e20f973f48dc02d9d0545e398b71be0de9f7979b3a"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/change_log.json",
+      "bytes": 35633,
+      "sha256": "cb6eb9dd4b2a1406c2ddc3c8b67ac8ae07f455c7a5530435db12dd055217bc84"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/evidence_review.json",
+      "bytes": 24962,
+      "sha256": "1f77404e8203bda4f8e954a4ed70795141a4315d46a457250b2eb3763b12cdb3"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/extra_urls.json",
+      "bytes": 1012,
+      "sha256": "7efc5d811fd36fce8fc611d9f2f873b87e68bd43809c0a3418332cee89a5540c"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/fetch_sources.py",
+      "bytes": 3869,
+      "sha256": "40876bce0c7c07f6bc52eaa8b83c0a5e6c1e80cbe428281aa3e8142109694da6"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/finalize_package.py",
+      "bytes": 7380,
+      "sha256": "93e6ada21e739623f03931edd05558069b4c53036b8ddfb7225a992dfa126d53"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/finalize_workbook.ps1",
+      "bytes": 4564,
+      "sha256": "9ae82c8d98a7d1a99ae8f75d6f6b1b41a56c6c1348e3cac186e14b56455168f9"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/html_verification.json",
+      "bytes": 1235,
+      "sha256": "200378a6b31d3da568aad9dbab3b8d8a96689769d29191730462a1492710a84c"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/original_quotes_reference.json",
+      "bytes": 51054,
+      "sha256": "8f7004aa93ec50bf1798e185100fd4623d89fb95d580a9c58c50e7d44926add3"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/powerpoint_native_verification.json",
+      "bytes": 164,
+      "sha256": "24d2c95f941b14ba64942ee956855b7b9d67ccd126cd057d8457b26fafd19fd3"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/prepare_builders.py",
+      "bytes": 3728,
+      "sha256": "dcac3ec2a51b25fa4d40ea5fdc2773b48aff7be42bc472136378c7e21cdd8208"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/prepare_publication.py",
+      "bytes": 1068,
+      "sha256": "ec19bf1a5355790ea705d4acc20b99cf30c3c7bcfc975dbe3db7b7552b619221"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/presentation_layout.json",
+      "bytes": 6500,
+      "sha256": "3c6ec941ab1911c5202ab239dc20b6c1ed3b90177f586538653db7daa087e89e"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/READING_GUIDE.md",
+      "bytes": 7792,
+      "sha256": "6c75a2bc0a5fc89ba6550ba26b8abb3ea168e8ce0f7c461b1acdb16e352dfd48"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/recommended_visits.csv",
+      "bytes": 53798,
+      "sha256": "8e2dfe8d38551fa84f423a96b02f1ac7e39be0e79a52c747ea1dd312525a2e74"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/report_content.json",
+      "bytes": 69027,
+      "sha256": "8b84c902e01ae83915a4920c30ad955ef653f8fb093ff8eceef0003f616cbc53"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/research.json",
+      "bytes": 2717442,
+      "sha256": "a1687a5e4586d85003c9356b84e620c6c71792df253faa37db4864d6e01c139f"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/retired_items.json",
+      "bytes": 4375,
+      "sha256": "471493b14cefde55bb231eff89b6d20486aa383c4cd3a311af16d3f7b03c8c4f"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/retrieval_log.json",
+      "bytes": 30076,
+      "sha256": "fd059dd8c708a9eace40d27c3fe1b6f190884d040370f601d0d3623f2ece3927"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/tag_reasons.csv",
+      "bytes": 330192,
+      "sha256": "63cf4d3a595d5118f1066e9c61a1e20b3362c05cecd6ce508306abbeddd37fd2"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/task_taxonomy.json",
+      "bytes": 2242,
+      "sha256": "584d15d1a6737e72acabf5756f970718c0a3e32d0bfb2c25a7f11b6bd29d10c7"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/validation_summary.json",
+      "bytes": 3735,
+      "sha256": "883fd0d44bf86aa1e4ae87d6848010a0e26ee7358dc0751f2c3e8c1986b56296"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/verify_html.mjs",
+      "bytes": 7110,
+      "sha256": "383b94dfe46e4a4aabcd6b41c7c617ae96d98b40bf5ef27001108de2adea428b"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/verify_powerpoint.ps1",
+      "bytes": 1716,
+      "sha256": "80062832e94642536af48ae379d923df095128ab38f3f717c89e7746d2b7bea0"
+    }
+  ],
+  "excluded": "_private（取得全文・プレビュー・途中版・ランタイム参照）、入力の全量ダンプ、原本ハッシュ一覧。manifest自身のハッシュは含めない。"
+}

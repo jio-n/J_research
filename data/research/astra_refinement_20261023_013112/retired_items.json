@@ -1,0 +1,94 @@
+[
+  {
+    "item": {
+      "id": "FC003",
+      "legacy_ids": [
+        "FC003"
+      ],
+      "company": "DMG森精機",
+      "listing_ids": [
+        "EXH-2026-3ff8a9f4ec9f1c07"
+      ],
+      "booths": [
+        "E8005"
+      ],
+      "item": "工作機械へのAIエージェント実装（名称・担当不明）",
+      "task": "担当タスク未特定",
+      "need": "具体的な担当タスクと対応する顧客課題は、今回確認した資料では未特定",
+      "method": "AIエージェント実装との記述のみ",
+      "input": "未記載",
+      "output": "具体的に助ける仕事は未記載",
+      "human": "助言・操作・承認の境界が不明",
+      "limits": "製品名、実装先、ユーザーの依頼例、実行する操作と承認点を実演で確認する。",
+      "exhibit_note": "JIMTOF2026公式カタログ掲載・現地未確認",
+      "stage": "2026展示予定・提供段階未確認",
+      "sources": [
+        {
+          "source_id": "EOV-V001-2024-1",
+          "publisher": "DMG森精機株式会社",
+          "title": "JIMTOF2024公式カタログ：DMG森精機株式会社 (E8001)",
+          "url": "https://www.jimtof.org/2024/search/jp/ESdetails?e=lOXEEpvlXpM",
+          "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+          "checked_date": "2026-10-16",
+          "usage": "技術・出展根拠（既存調査）"
+        },
+        {
+          "source_id": "EOV-V001-2026-1",
+          "publisher": "DMG森精機株式会社",
+          "title": "JIMTOF2026公式カタログ：DMG森精機株式会社 (E8005)",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+          "locator": "main > div.col-md-8.mb-5 の出展紹介、見出し「主な出展物」直後",
+          "checked_date": "2026-10-16",
+          "usage": "技術・出展根拠（既存調査）"
+        }
+      ],
+      "tags": {
+        "AI": {
+          "status": "呼称・用途記載",
+          "reason": "AIの利用を訴求するが、対象モデル・学習方法・判断範囲の具体化が不足。AIエージェント実装との記述のみ"
+        },
+        "フィジカルAI": {
+          "status": "—",
+          "reason": "AIの判断を物理作業の手順・動作・制御の生成または変更へ接続する説明を今回確認できない。"
+        },
+        "自律化": {
+          "status": "—",
+          "reason": "状態変化に対する判断・補正・再計画をシステム側が行う説明を今回確認できない。所定動作の自動実行とは分ける。"
+        },
+        "自動化": {
+          "status": "—",
+          "reason": "自動処理・作業の範囲を特定できない。AI支援・情報提示だけから自動実行を推定しない。"
+        }
+      },
+      "depth": "個別タスク・入出力整理",
+      "new_review": false,
+      "as_of": "2026-10-22",
+      "baseline": "出展説明・公式資料の記載比較。初発明年・実演成功・性能向上を証明するものではない。",
+      "exhibit": "出展説明に掲載",
+      "advance": "個別技術の新規性・一般化能力は未評価",
+      "check": "工作機械へのAIエージェント実装（名称・担当不明）の対象品種・変更条件は何か。担当タスク未特定で人が設定する内容、異常時の停止・復帰、他工程との接続仕様を確認する。",
+      "recommendation": "通常候補",
+      "recommend_reason": "",
+      "visit_group": "",
+      "company_sites": [
+        "https://www.dmgmori.co.jp/"
+      ],
+      "source_ids": [
+        "EOV-V001-2024-1",
+        "EOV-V001-2026-1"
+      ],
+      "source_urls": [
+        "https://www.jimtof.org/2024/search/jp/ESdetails?e=lOXEEpvlXpM",
+        "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs"
+      ],
+      "tag_names": [
+        "AI"
+      ]
+    },
+    "reason": "一般的なAIエージェント搭載という総称。独立した対象機能が特定できないため、具体機能のFC004とFT-D01へ統合。その他エージェントの存在を否定しない。",
+    "replacement_ids": [
+      "FC004",
+      "FT-D01"
+    ]
+  }
+]
