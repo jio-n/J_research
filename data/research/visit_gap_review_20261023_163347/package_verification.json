@@ -1,0 +1,29 @@
+{
+  "active_items": 387,
+  "new_items": 15,
+  "excluded_companies": 27,
+  "excluded_items": 18,
+  "base_items_retained_in_research": 390,
+  "base_tags_unchanged": true,
+  "user_decision_not_technical_exclusion": true,
+  "original_inputs_preserved_by_id": true,
+  "nagase_role_comparison_rows": 3,
+  "nagase_history_rows": 4,
+  "tag_overlap": 93,
+  "formula_cache": [
+    0,
+    387,
+    21
+  ],
+  "error_cells": [],
+  "hyperlinks": {
+    "1": 774,
+    "2": 387,
+    "3": 0,
+    "4": 711,
+    "5": 0,
+    "6": 0
+  },
+  "source_dates_typed": true,
+  "sha256": "4e8a1612cf56789cc1dba82e777feb8b65d2eea78dcc9e436d4dc8a79b51e8b5"
+}

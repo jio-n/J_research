@@ -1,0 +1,63 @@
+{
+  "engine": "Excel 16.0",
+  "sheets": [
+    {
+      "name": "訪問計画",
+      "table_rows": 387,
+      "frozen_rows": 6.0,
+      "frozen_columns": 4.0
+    },
+    {
+      "name": "技術詳細",
+      "table_rows": 6973,
+      "frozen_rows": 6.0,
+      "frozen_columns": 2.0
+    },
+    {
+      "name": "訪問除外記録",
+      "table_rows": 27,
+      "frozen_rows": 6.0,
+      "frozen_columns": 1.0
+    },
+    {
+      "name": "出典",
+      "table_rows": 711,
+      "frozen_rows": 6.0,
+      "frozen_columns": 1.0
+    },
+    {
+      "name": "抽出再点検",
+      "table_rows": 794,
+      "frozen_rows": 6.0,
+      "frozen_columns": 1.0
+    },
+    {
+      "name": "使い方",
+      "table_rows": 19,
+      "frozen_rows": 6.0,
+      "frozen_columns": 1.0
+    }
+  ],
+  "candidate_rows": 387,
+  "user_excluded_companies": 27,
+  "excluded_items_absent_from_main": true,
+  "tag_filters": {
+    "AI": 66,
+    "フィジカルAI": 15,
+    "自律化": 45,
+    "自動化": 379
+  },
+  "AI_and_PhysicalAI": 15,
+  "priority_A": 21,
+  "recalculation": "input changed and restored",
+  "input_fields": "visit state, order, own priority, personal reason, after-visit memo, related exhibit status",
+  "sort_identity": "passed and restored",
+  "dropdowns": "passed",
+  "order_zero_rejected": true,
+  "detail_and_return_links": "passed",
+  "source_links": 711,
+  "main_links": 774,
+  "maximum_height_rows": [],
+  "inputs_restored": true,
+  "verified_at": "2026-10-23T17:13:03"
+}
