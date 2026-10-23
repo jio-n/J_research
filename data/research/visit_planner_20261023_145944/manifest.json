@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "path": "data/research/visit_planner_20261023_145944/build.py",
+      "sha256": "8c34c8cc4786e359f21b5f0e795d8c32cc8b2c527c4b51347c20cdbafdd5905f"
+    },
+    {
+      "path": "data/research/visit_planner_20261023_145944/coverage_review.csv",
+      "sha256": "ed2a9c961d755b5af86002b14ca1318812e8dba670afb03b8e6e5d5487650ebf"
+    },
+    {
+      "path": "data/research/visit_planner_20261023_145944/coverage_review.json",
+      "sha256": "85e36b80e610e050ac9de10d9d72c941885768dcd1317d641ecf5aa05ac38cb9"
+    },
+    {
+      "path": "data/research/visit_planner_20261023_145944/READING_GUIDE.md",
+      "sha256": "8b0ae3ebbeaedd47f89ac5e03e92cf5dcd489511618722f23ef41f0c13d38c3c"
+    },
+    {
+      "path": "data/research/visit_planner_20261023_145944/research.json",
+      "sha256": "ac10513561c0875c56bb4c514321a110db2257ba4f49a34b61e4fda0b349a442"
+    },
+    {
+      "path": "data/research/visit_planner_20261023_145944/template.html",
+      "sha256": "c3001607656a67db59ed3053daf99ba3e1096e434312e003d4f3c3ef1b35b25d"
+    },
+    {
+      "path": "data/research/visit_planner_20261023_145944/verification.json",
+      "sha256": "709a5d72430983f2d403c399b3963e09d5437bf36600d943da7c20981496851f"
+    },
+    {
+      "path": "data/research/visit_planner_20261023_145944/verify.mjs",
+      "sha256": "f9be5756660103971e3f556f1472ade435beb34a32cad7f7baef4f5e16af0246"
+    },
+    {
+      "path": "outputs/visit_planner_20261023_145944/visits.html",
+      "sha256": "89b678e3e0322fab74e9aadf9fbd152cde374f73a8e73b7a06cd0e39854d044e"
+    }
+  ],
+  "verified_preserved_files": 305,
+  "csv_export_rows": 2,
+  "csv_fields": 24,
+  "html_checks": 29,
+  "existing_files_modified": []
+}
