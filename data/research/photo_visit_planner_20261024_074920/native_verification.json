@@ -1,0 +1,23 @@
+{
+  "metrics": [
+    {
+      "rows": 32,
+      "sheet": "AI・フィジカルAI",
+      "frozen_columns": 2,
+      "maximum_row_height": 116,
+      "frozen_rows": 1
+    },
+    {
+      "rows": 50,
+      "sheet": "自動化・自律化50社",
+      "frozen_columns": 2,
+      "maximum_row_height": 36,
+      "frozen_rows": 1
+    }
+  ],
+  "input_and_sort": "passed on disposable copy; final file unaffected",
+  "star_filter": 4,
+  "engine": "Microsoft Excel 16.0",
+  "checked_at": "2026-10-24T07:56:40",
+  "company_filter": 2
+}

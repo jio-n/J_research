@@ -1,0 +1,40 @@
+{
+  "engine": "artifact-tool, reimport of final Excel file",
+  "views": [
+    [
+      "AI・フィジカルAI",
+      "A1:E5",
+      "identity"
+    ],
+    [
+      "AI・フィジカルAI",
+      "F1:G5",
+      "comments"
+    ],
+    [
+      "AI・フィジカルAI",
+      "F19:G20",
+      "unreadable"
+    ],
+    [
+      "AI・フィジカルAI",
+      "D26:G26",
+      "long_questions"
+    ],
+    [
+      "AI・フィジカルAI",
+      "A30:G33",
+      "last_items"
+    ],
+    [
+      "自動化・自律化50社",
+      "A1:G7",
+      "automation"
+    ],
+    [
+      "自動化・自律化50社",
+      "A46:G51",
+      "automation_last"
+    ]
+  ]
+}

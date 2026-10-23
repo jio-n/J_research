@@ -1,0 +1,102 @@
+{
+  "edition": "photo_visit_planner_20261024_074920",
+  "created": "2026-10-24",
+  "scope": "Two new directories only. Existing research and outputs unchanged.",
+  "files": [
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/ai_physical_ai.csv",
+      "sha256": "83cfac4d6ce5955aadbccdf61d9724fb198138041f37448b65c98423e3645564",
+      "bytes": 16135
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/automation_50.csv",
+      "sha256": "de5b89e07d94807937da87ed2dfbb3d05a7b2d98c1a91f6d46b811b87de0c533",
+      "bytes": 2286
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/build_workbook.mjs",
+      "sha256": "6ffded417f3e0427a26fbfec369b28df4e8a1adc51e486df2b55a5ef4e5bbd48",
+      "bytes": 1988
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/finalize_and_verify.ps1",
+      "sha256": "4595303370e50c958697633106498e519962d5385a119275d0eb441bf9b72de5",
+      "bytes": 3260
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/inspect_images.py",
+      "sha256": "ce11cc05da5e7929d57062a2c4de140376f702055b174793f7885f9f899b28d3",
+      "bytes": 593
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/native_verification.json",
+      "sha256": "73ed5dc44404a68cf4e2d2bc488b029767f8af46b2be45d705250ca2839409a3",
+      "bytes": 548
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/package_verification.json",
+      "sha256": "d68b20acffa598ec66f2762eacc6789a01c1900786e1355bbe265f0e4ececf12",
+      "bytes": 212
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/preservation_verification.json",
+      "sha256": "b9471a044d5a2dfe52cfa96e030506f69025f085ac855a91ca78cd3f90aa58da",
+      "bytes": 61
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/publish_package.py",
+      "sha256": "0e8ebe86fd78c6de26a90e7cbeeed55633b74e190c2ba3d736c01865d50a9bf0",
+      "bytes": 1239
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/READING_GUIDE.md",
+      "sha256": "035648953db0df3d0373dfd017719b7283ff6297cc9b839ebb4178a22dd4365d",
+      "bytes": 1755
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/render_saved.mjs",
+      "sha256": "abe6484aeff97d4e5db0e6dd51fa72d0b52e453a7fb59338e92c522863b0c17e",
+      "bytes": 1252
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/render_verification.json",
+      "sha256": "beaf879d25e4a0a42094a3fc0d4b7d80fa385a989a0fd73f64202ba8b41bdffe",
+      "bytes": 652
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/transcribe.py",
+      "sha256": "124661cc3ec7039aab46b58dc15c7d57f6b1845aebfacdc0d7e49973eee091c3",
+      "bytes": 21042
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/transcription.json",
+      "sha256": "0c715c246b721451b375b5fa43d38d381429d425cb86b6d95638c9a7d2520210",
+      "bytes": 35649
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/unreadable.json",
+      "sha256": "9a0afc500e04f705d43489acd6f0ec470b17c50ae96bd2090ac6cba42ebb6d86",
+      "bytes": 1738
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/verify_package.py",
+      "sha256": "d32ecc1526b7655afd59ece2bed5d26fbd746adcdc97c13158bf5c2b033e08c0",
+      "bytes": 1696
+    },
+    {
+      "path": "data/research/photo_visit_planner_20261024_074920/verify_preservation.py",
+      "sha256": "e3f1d2435b5602f6bdf2dbe909f8cabcad42f6631c8e32a2886ca19228d69afb",
+      "bytes": 1192
+    },
+    {
+      "path": "outputs/photo_visit_planner_20261024_074920/JIMTOF2026_ユーザー選定_調査企業一覧.xlsx",
+      "sha256": "ce7a37ad2672d4d735d13dfeec21c33897b176e7b5548056a0b3364b702a336b",
+      "bytes": 22293
+    },
+    {
+      "path": "outputs/photo_visit_planner_20261024_074920/読み方.txt",
+      "sha256": "9de13d998a3d0d7a33e289d318665ed7e35253d539b71842b93b2d67b51235a4",
+      "bytes": 2073
+    }
+  ]
+}
