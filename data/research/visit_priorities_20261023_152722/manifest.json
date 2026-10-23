@@ -1,0 +1,92 @@
+{
+  "edition": "visit_priorities_20261023_152722",
+  "created": "2026-10-23",
+  "scope": "Two new directories only. Existing research and outputs unchanged.",
+  "files": [
+    {
+      "path": "data/research/visit_priorities_20261023_152722/build_analysis.py",
+      "sha256": "b6f68f10c70e4fe9b3c24a35b4ce4eb5cdde3701114b2f83361c959fd1b17d6f",
+      "bytes": 65772
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/build_workbook.mjs",
+      "sha256": "b416ac95a1bd0613c8b3a249a236a75b18d485c82acfcacd7db392fcd8ad653b",
+      "bytes": 15059
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/finalize_and_verify.ps1",
+      "sha256": "474066008bafeadd6c62efef3feb862eacc7ea56a04ae4498497da6d87827354",
+      "bytes": 7377
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/native_verification.json",
+      "sha256": "f1560e25adee04d89c17ab1b565b8517a67c1b9bccb280810bb93e30061c21f3",
+      "bytes": 1180
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/package_verification.json",
+      "sha256": "9a6a49fd45e80b5d521b3fd2e42a04178ceb893cdafbd328c6cf73b333d395fa",
+      "bytes": 594
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/preservation_verification.json",
+      "sha256": "49f4788befbcc2382638c670951137e26ceb77171fd94d6d2629a9d6b9982042",
+      "bytes": 61
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/primary_review.json",
+      "sha256": "5bed671dc9a3677503a92e3d763dbce79e9c0cef61c19f69df53d082199fe0eb",
+      "bytes": 10957
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/publish_package.py",
+      "sha256": "e3b1160ae892c23fc7e92611415b88c27ce9253ddbbfbacd220e64d43078e4ee",
+      "bytes": 1239
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/READING_GUIDE.md",
+      "sha256": "4bd22cce21b1f99f56abe450aef41a488963542526b09660f7f572c1667b5bb0",
+      "bytes": 6530
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/render_saved.mjs",
+      "sha256": "90daf09cea619c36d0fb4a8ae68fd55c574c6549ab97caa894d61ee28afd751c",
+      "bytes": 1062
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/research.json",
+      "sha256": "6e66a4a6377f805e4cc3c2a547144a29cc0203250c5b9d53f3ff4d76deefb241",
+      "bytes": 3655546
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/verify_package.py",
+      "sha256": "85f8af9897b3f23197aaee4a6286f821d767f9050bbfcecb03b0f307c20d39f1",
+      "bytes": 3425
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/verify_preservation.py",
+      "sha256": "e3f1d2435b5602f6bdf2dbe909f8cabcad42f6631c8e32a2886ca19228d69afb",
+      "bytes": 1192
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/visit_priorities.csv",
+      "sha256": "6a6c1d999b15b4deacbd3fa28fe6b5bcf90261b735866d028a308ca8e856c818",
+      "bytes": 580900
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/visual_verification.json",
+      "sha256": "6ba2b195f01f21cfc323c9701de773e0516d93e080e6d86b7a633ceee4cec35a",
+      "bytes": 1140
+    },
+    {
+      "path": "data/research/visit_priorities_20261023_152722/workbook_layout.json",
+      "sha256": "ea07f46df62495435478d6901941c0fd5693dab3a25152ca8ff5827e36b5986a",
+      "bytes": 8560
+    },
+    {
+      "path": "outputs/visit_priorities_20261023_152722/JIMTOF2026_関心テーマ別_訪問計画.xlsx",
+      "sha256": "31fcf7f1b132a49d5faf02c4a590f4b51d4836e4a32830ad500a62ec8e450b7c",
+      "bytes": 553728
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "reviewed": [
+    {
+      "id": "VP-R01",
+      "items": [
+        "FC006"
+      ],
+      "publisher": "ファナック",
+      "url": "https://www.fanuc.co.jp/ja/product/cnc/physical-ai-cnc/",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "CONCEPT／MCPサーバ／デジタルツイン連携",
+      "context_summary": "生成AIとCNC・ツインを接続。仮想検証後にオペレータが承認して実機へ適用する。",
+      "not_established": "機械学習と生成AIの高速制御内での役割、失敗復帰、性能は未確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R02",
+      "items": [
+        "FT-F01"
+      ],
+      "publisher": "ファナック",
+      "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260911.html",
+      "checked_date": "2026-10-23",
+      "published_date": "2026-09-11",
+      "locator": "2026-09-11、AI溶接エージェントの特長",
+      "context_summary": "図面解釈から溶接条件・動作生成。人はそのまま実行または調整可能。国際ウエルディングショー実演告知、12月末出荷予定。",
+      "not_established": "JIMTOFでの個別実演、品質の閉ループ補正は未確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R03",
+      "items": [
+        "FC006",
+        "FT-F01",
+        "FT-F02",
+        "FT-F03",
+        "FT-F04",
+        "FC005"
+      ],
+      "publisher": "ファナック",
+      "url": "https://www.fanuc.co.jp/ja/JIMTOF2026/",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "FA、ロボットの出展内容",
+      "context_summary": "CNCと生成AIロボット駆動のアプリ事例を告知。南2 S2001。",
+      "not_established": "各ロボット事例の名称を個別に特定していない。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R04",
+      "items": [
+        "FT-Z01"
+      ],
+      "publisher": "ヤマザキマザック",
+      "url": "https://www.mazak.com/jp-ja/technology/productivity/",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "SOLID MAZATROL、VIRTUAL MACHINING、CUTTING ADVISER、SETUP GUIDE",
+      "context_summary": "過去プログラムの加工パターン学習。仮想加工・条件分析・段取り指示が接続する。",
+      "not_established": "学習方式、今回の個別実演、無承認の実行は未確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R05",
+      "items": [
+        "FC018"
+      ],
+      "publisher": "Hexagon",
+      "url": "https://hexagon.com/products/esprit-edge/release-highlights",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "2026.1 ProPlanAI、2026.2 Dynamic cutting optimisation等",
+      "context_summary": "履歴学習による工程予測と旋削等への適用拡張を確認。2026.2には荒加工条件と機械上限に応じた送り調整の説明がある。",
+      "not_established": "2026.2の条件調整をすべてProPlanAI・学習AIの担当としない。JIMTOF実演版は未確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R06",
+      "items": [
+        "FC020"
+      ],
+      "publisher": "CloudNC",
+      "url": "https://www.cloudnc.com/ja/mastercam",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "Mastercam向けCAM Assistの仕組み、ステップ1〜4",
+      "context_summary": "工具等を設定し、生成戦略を人が確認・調整、CAMへ送りポスト処理する。",
+      "not_established": "宣伝上の時間削減率を一般性能としない。実機実行の承認と各対象部品の制約は要確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R07",
+      "items": [
+        "FT-P02"
+      ],
+      "publisher": "Phoxter",
+      "url": "https://www.phoxter.co.jp/automated-logistics/products/stelladrive",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "FEATURE、AI CHATBOT",
+      "context_summary": "LiDAR等の走行機能と、復旧手順を提示する生成AIチャット（オプション）を分離して確認。",
+      "not_established": "生成AIが走行軌道・配車を生成する説明ではない。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R08",
+      "items": [
+        "RPT007"
+      ],
+      "publisher": "オークマ",
+      "url": "https://www.okuma.co.jp/solution_technology/process/",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "加工ナビ M-i／M-gⅡ",
+      "context_summary": "M-iは振動測定から主軸速度の算出・変更を自動化。M-gⅡは候補を表示し人が変更する。",
+      "not_established": "2026新規技術、学習AI採用、今回の当該展示を認定しない。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R09",
+      "items": [
+        "FC013"
+      ],
+      "publisher": "Beckhoff",
+      "url": "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "Properties／Product status",
+      "context_summary": "ライブデータ・顧客文書に基づく診断とチャットからのコマンド。製品発表・投入時期要問合せ。",
+      "not_established": "許可するコマンド、毎回承認、復帰条件は未公開。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R10",
+      "items": [
+        "FT-SI01"
+      ],
+      "publisher": "Siemens",
+      "url": "https://www.siemens.com/en-us/company/insights/industrial-ai-changes-automation-engineers-work/",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "10 waysの1〜6",
+      "context_summary": "プロジェクト文脈・ECADを使うPLC/HMI生成、試験・コンパイルエラー修正、構成生成。",
+      "not_established": "実機安全検証・書込み権限、JIMTOF展示は未確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R11",
+      "items": [
+        "FT-F02"
+      ],
+      "publisher": "ファナック",
+      "url": "https://www.fanuc.co.jp/ja/product/robot/academia/case_study/ai-agent-robot-kitting-system.html",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "AIエージェント対応／マスタレス認識",
+      "context_summary": "自然言語指示と注文票、部品名による認識をキッティングへ接続。",
+      "not_established": "未知部品の範囲、失敗復帰、個別展示は未確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R12",
+      "items": [
+        "FT-F04"
+      ],
+      "publisher": "ファナック",
+      "url": "https://www.fanuc.co.jp/ja/product/robot/academia/case_study/imitation-learning-ai-robot.html",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "遠隔操作データ収集／模倣学習／自律動作",
+      "context_summary": "画像・動作と言語ラベルでVLAを学習し、変形するTシャツの双腕動作を生成。",
+      "not_established": "加工品への移行、成功率、個別展示は未確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R13",
+      "items": [
+        "FT-M01",
+        "FT-M02"
+      ],
+      "publisher": "ModuleWorks",
+      "url": "https://www.moduleworks.com/see-you-at-jimtof-2026/",
+      "checked_date": "2026-10-23",
+      "published_date": "2026-10-15",
+      "locator": "2026-10-15、Digital workflow／Machining Physics",
+      "context_summary": "NGSP・ツイン・カメラ確認・CASをMDESで接続。力・負荷等の物理制約による条件最適化を紹介。南4 S4005。",
+      "not_established": "全工場最適化・機械学習採用を認定しない。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R14",
+      "items": [
+        "FT-J01",
+        "FT-J02",
+        "FT-J03"
+      ],
+      "publisher": "ジェイテクト",
+      "url": "https://toyoda.jtekt.co.jp/jimtof2026/",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "工場マネジメント／自動化プロセス／ブース案内",
+      "context_summary": "Mill-Plan、誤差計測による教示補正、AI初動提案と人の遠隔支援。東8 E8003/E8004。",
+      "not_established": "AIモデル方式、最適化目的、完全な自動復旧は未確認。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    },
+    {
+      "id": "VP-R15",
+      "items": [
+        "FC011",
+        "FC012"
+      ],
+      "publisher": "Beckhoff",
+      "url": "https://www.beckhoff.com/en-en/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+      "checked_date": "2026-10-23",
+      "published_date": "掲載日未記載／製品ページ",
+      "locator": "Features／Product status",
+      "context_summary": "プロジェクトを参照したコード・I/O・HMI案。製品発表段階。",
+      "not_established": "コンパイル・書込み・制御開始まで自動としない。",
+      "kind": "原典の文脈要約（短い引用なし）"
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://www.beckhoff.com/en-gb/company/news/from-chatbot-to-intelligent-agent.html",
+      "result": "404。製品公式ページは別途本文確認"
+    },
+    {
+      "url": "https://www.inrevium.com/news-event/event/p7331/",
+      "result": "メンテナンスページへ転送。既存確認を継承"
+    },
+    {
+      "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261016_jimtof2026.html",
+      "result": "502。既存確認を継承"
+    }
+  ]
+}

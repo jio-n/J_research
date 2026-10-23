@@ -1,0 +1,29 @@
+{
+  "candidate_items": 390,
+  "independent_four_tags_unchanged": true,
+  "overlapping_tag_items": 90,
+  "priority_counts": {
+    "A": 19,
+    "B": 54,
+    "C": 133,
+    "D": 184
+  },
+  "curated_items": 73,
+  "fresh_sources": 15,
+  "fresh_items": 20,
+  "input_cells_blank_and_defaults_restored": true,
+  "native_formula_cache": [
+    0,
+    390,
+    19
+  ],
+  "source_date_typed": true,
+  "hyperlinks": {
+    "1": 780,
+    "2": 390,
+    "3": 680,
+    "4": 0
+  },
+  "formula_errors": [],
+  "sha256": "31fcf7f1b132a49d5faf02c4a590f4b51d4836e4a32830ad500a62ec8e450b7c"
+}
