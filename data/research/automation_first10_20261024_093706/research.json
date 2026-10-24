@@ -1,0 +1,803 @@
+{
+  "edition": "automation_first10_20261024_093706",
+  "checked_date": "2026-10-24",
+  "scope": "ユーザー指定順の最初の10社。コメント前の技術調査。Excelは変更しない。",
+  "items": [
+    {
+      "id": "A01-1",
+      "company_order": 1,
+      "company": "YKT株式会社",
+      "booth": "E2026",
+      "item": "Smart Grasper／Smart 250TRS／Multi-X",
+      "task": "工程間搬送・測定セルへの供給",
+      "mechanism": "SMARTシリーズは搬送物別のモジュール構成と設備・ERP/MES連携に対応。Multi-Xは公式出展欄で自動化セル、説明で自動測定セルと表記。",
+      "human": "搬送先・接続設備・ハンドと安全条件の設計、初期設定が必要。具体的な設定範囲は未確認。",
+      "limits": "Multi-Xの機器構成、走行の自己位置推定方式、位置ずれ補正、測定値の加工機返送は未確認。",
+      "exhibit_status": "実機出展と明記",
+      "sources": [
+        "E01",
+        "S01"
+      ],
+      "researcher_questions": [
+        "Multi-Xは測定結果をどの機械の何の補正値へ返すか",
+        "Smart Grasperの停止位置ずれを誰が補正し、把持失敗時に再試行するか"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（搬送。判断範囲要確認）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A01-2",
+      "company_order": 1,
+      "company": "YKT株式会社",
+      "booth": "E2026",
+      "item": "OGP SmartScope／EVOLVE Suite",
+      "task": "寸法測定・幾何公差評価・工程改善",
+      "mechanism": "測定と3D設計公差を結び付ける。EVOLVE Manufacturingは加工工程・工具・位置合わせごとに形状をグループ化し、位置・姿勢・サイズ・形状の誤差を分離、補正案の影響をwhat-ifで評価。",
+      "human": "測定条件・加工座標系・工程と形状の対応設定、改善策の採否。",
+      "limits": "Suiteのどのモジュールを会場で扱うか、NCへの補正値自動書込みは未確認。解析支援を自動補正とは扱わない。",
+      "exhibit_status": "SmartScope・EVOLVE Suiteを実機出展欄に明記",
+      "sources": [
+        "E01",
+        "S03",
+        "S04"
+      ],
+      "researcher_questions": [
+        "加工基準と設計基準の違いをどこまで自動変換するか",
+        "補正案は提案止まりかNCへ直接書き込むか"
+      ],
+      "tags": [
+        "自動化（測定・解析）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A01-3",
+      "company_order": 1,
+      "company": "YKT株式会社",
+      "booth": "E2026",
+      "item": "AUTO24／nFIXTURE",
+      "task": "切削工具の表面仕上げ・コーティング前後の段取り",
+      "mechanism": "AUTO24は弾性メディアによる刃先処理・ドロップレット除去・バリ取りをカセットで自動処理。nFIXTUREはコーティング工具の自動段取り装置として出展。",
+      "human": "工具別のカセット・処理条件、nFIXTUREの交換条件の準備範囲は要確認。",
+      "limits": "表面状態を測って処理時間を調整する能力は確認できず。nFIXTUREの機構詳細は未確認。",
+      "exhibit_status": "実機出展と明記",
+      "sources": [
+        "E01",
+        "S02"
+      ],
+      "researcher_questions": [
+        "工具別処理条件は手入力か自動選定か",
+        "処理後測定から再処理へ戻せるか"
+      ],
+      "tags": [
+        "自動化"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A02-1",
+      "company_order": 2,
+      "company": "DMG森精機株式会社",
+      "booth": "E8005",
+      "item": "DMC 65 monoBLOCK＋MATRIS WPH 210／GearProduction+",
+      "task": "ワーク・パレット供給→5軸ギヤ加工→機上計測",
+      "mechanism": "1システムでワークとパレットを扱い、ベベルギヤ加工と機上計測まで接続する実演を案内。",
+      "human": "ワーク保持、加工プログラム、測定基準と許容値の準備。補正承認の有無は未確認。",
+      "limits": "機上計測結果による同一ワーク再加工・次ワーク補正・自動承認範囲は未確認。",
+      "exhibit_status": "展示・実演を企業公式で明記",
+      "sources": [
+        "E02",
+        "S05"
+      ],
+      "researcher_questions": [
+        "歯面誤差をどの加工パラメータへ変換するか",
+        "測定後は自動補正・再加工まで実演するか"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（計測判断・補正の範囲要確認）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A02-2",
+      "company_order": 2,
+      "company": "DMG森精機株式会社",
+      "booth": "E8005",
+      "item": "GX Flex／AMR 1000・2000／Automation Cube ONE",
+      "task": "ワーク・爪・工具交換、切粉と工具の工程間搬送",
+      "mechanism": "GX Flexはワークだけでなく工具・チャック爪交換を紹介。AMRはチップバケットと工具の搬送。Automation Cube ONEは工具自動着脱・測定セル。",
+      "human": "ワーク別段取り・把持・経路等の条件設定、工具とバケットの補給。",
+      "limits": "AMR障害時再計画、工具測定値の返送形式、複数セルの統合スケジューラは要確認。",
+      "exhibit_status": "公式出展品。Cubeの運転デモ範囲は未確認",
+      "sources": [
+        "E02",
+        "S05"
+      ],
+      "researcher_questions": [
+        "寸法の異なるワークや爪交換で人に残る準備は何か",
+        "工具測定値はTMSとCNCへ自動反映するか"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（AMR）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A02-3",
+      "company_order": 2,
+      "company": "DMG森精機株式会社",
+      "booth": "E8005",
+      "item": "CELOS DYNAMICpost／関連：ツールビジュアライザー",
+      "task": "加工前のNC生成・干渉検証・切削条件最適化／工具計測補正",
+      "mechanism": "DYNAMICpostはCAM工具経路を機械向けNCへ変換し、シミュレーションで切削負荷を評価して加工条件を最適化。ツールビジュアライザーは機内で工具形状を計測・補正する既存製品。",
+      "human": "モデル・工具・材料・加工条件の準備とプログラム採用判断。",
+      "limits": "DYNAMICpostは事前最適化であり実測を使う加工中の適応制御とは別。ビジュアライザーの今回展示は未確認。",
+      "exhibit_status": "DYNAMICpostは公式出展欄に明記。関連計測製品は展示未確認",
+      "sources": [
+        "E02",
+        "S06",
+        "S07"
+      ],
+      "researcher_questions": [
+        "実測負荷とモデル予測を照合・更新するか",
+        "機内工具計測後の補正・欠損判定・工具交換をどこまで自動接続するか"
+      ],
+      "tags": [
+        "自動化"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A03-1",
+      "company_order": 3,
+      "company": "三和ロボティクス株式会社",
+      "booth": "E7069",
+      "item": "NEXSRT J30 F",
+      "task": "既存マシニングセンタのパレット交換",
+      "mechanism": "16枚ストックとロボット交換、機械とのDI/O連携で加工完了後に次パレットを供給。着脱ステーションで人のワーク段取りとロボット動作を並行できる。",
+      "human": "ワークの治具固定、NCプログラム、ロボット教示・接続設定。遠隔診断は人の支援。",
+      "limits": "J30 Fは公式でMZ70F・51kg。旧J30カタログのMZ35S・18.5kgと混同しない。工具・加工品質の自動補正は確認できず。",
+      "exhibit_status": "公式出展品",
+      "sources": [
+        "E03",
+        "S08"
+      ],
+      "researcher_questions": [
+        "パレット着座異常・切粉噛み・把持失敗を検知し再試行するか",
+        "工具寿命・計測NGで次の加工順を変更できるか"
+      ],
+      "tags": [
+        "自動化"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A04-1",
+      "company_order": 4,
+      "company": "株式会社松浦機械製作所",
+      "booth": "E3030",
+      "item": "MX-520T PC7／MX-850T PC4／MiOS 4",
+      "task": "工程集約・パレット運転・工具とスケジュール管理",
+      "mechanism": "5軸と旋削をワンチャッキングに集約。PC4/PC7と120本マガジンを使い、MiOS 4が段取り漏れ検知・加工時間予測・スケジュール運転を支援。工具管理は加工前の寿命・状態確認を説明。",
+      "human": "パレットへの固定、NC・工具・寿命情報の登録と補給。",
+      "limits": "寿命が時間・回数管理か実測推定か、予備工具への自動切替条件、欠損後再開や寸法自動補正は今回資料で未確認。",
+      "exhibit_status": "展示・MiOSシミュレータ体験を明記",
+      "sources": [
+        "E04",
+        "S09",
+        "S10"
+      ],
+      "researcher_questions": [
+        "加工途中で寿命不足となる工具を事前判定し予備工具へ切り替えるか",
+        "寿命判定は実測摩耗・負荷か登録時間か",
+        "計測NG時は補正・再加工・別パレットへの切替をどう行うか"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（条件判定の範囲要確認）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A05-1",
+      "company_order": 5,
+      "company": "三菱商事テクノス株式会社",
+      "booth": "S3100",
+      "item": "工程連携ロボットデモ／参加型フィジカルAI体験",
+      "task": "工程間のワーク受渡しとロボット運用",
+      "mechanism": "最新公式は工程を止めずにつなぐ自動化デモと参加型体験を記載。関連取扱のSCADAは設備データ取得と工程の監視・連携の候補。",
+      "human": "デモ構成・AIへの指示、動作の事前教示、異常時介入は未公表。",
+      "limits": "最新ページは以前のAMR連携明記から変更。自然言語ティーチング／豆蔵の具体名・今回の実演構成は再確認できず。SCADAは関連技術で展示未確認。",
+      "exhibit_status": "工程連携デモと体験展示のみ公式確認",
+      "sources": [
+        "E05",
+        "S11"
+      ],
+      "researcher_questions": [
+        "実演はどのメーカーの何の製品か",
+        "AIが変えるのは教示プログラムか把持点か運転順か",
+        "ワーク位置変化や工程遅延に再計画するか"
+      ],
+      "tags": [
+        "自動化",
+        "AI（体験の機能未確認）",
+        "フィジカルAI（メーカー呼称・能力要確認）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A06-1",
+      "company_order": 6,
+      "company": "松本機械工業株式会社",
+      "booth": "W2070",
+      "item": "Smart Terrace Adv／AIO＋HQJC／CAPTO交換／ケレ交換",
+      "task": "旋削・研削の段取りとワーク交換",
+      "mechanism": "ロボットに加え爪・工具・ケレという段取り要素を交換。Advは寸法パラメータ入力によるセンサレス自動ティーチングを説明。",
+      "human": "ワーク寸法、爪・工具・ストッカーの準備。未知ワークを自動理解する機能とは別。",
+      "limits": "交換後の着座・把持・振れ確認と異常復帰範囲は要確認。",
+      "exhibit_status": "各製品とケレ交換実演を公式明記",
+      "sources": [
+        "E06",
+        "S12"
+      ],
+      "researcher_questions": [
+        "爪交換後の芯ずれ・切粉噛みを検知するか",
+        "寸法入力で対応できるワーク範囲と追加教示の条件は何か"
+      ],
+      "tags": [
+        "自動化"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A06-2",
+      "company_order": 6,
+      "company": "松本機械工業株式会社",
+      "booth": "W2070",
+      "item": "関連：円筒研削盤向けロボットハンド計測装置",
+      "task": "加工後の径計測→NC OFFSET補正",
+      "mechanism": "直線スケールを内蔵し、ワークの複数径を直接測定。メーカーはNC OFFSETへのデータ入力まで対応を説明。移載兼用ハンドは搬送時と計測時で把持力を切り替える。",
+      "human": "測定位置・補正対応のプログラム、初期設定と測定の適用条件確認。",
+      "limits": "0.5μmはスケール分解能で測定精度保証値ではない。今回の主な出展物には計測ハンドの明記なし。",
+      "exhibit_status": "関連製品・今回展示未確認",
+      "sources": [
+        "E06",
+        "S13"
+      ],
+      "researcher_questions": [
+        "各測定径とNC補正番号をどう対応させるか",
+        "同一ワーク再研削か次ワーク補正か",
+        "温度・保持変形・真円度の影響と異常補正の上限は何か"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（限定タスクの計測補正）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A07-1",
+      "company_order": 7,
+      "company": "株式会社SANMATSU",
+      "booth": "S3102",
+      "item": "GentleGaiant＋iRAYPE／力覚×3Dビジョンのジェンガ",
+      "task": "移動型パレタイジング・視覚と接触情報による操作",
+      "mechanism": "30kg可搬パレタイザにAMRを組み合わせ、ロボットを移動させ複数箇所で作業する実演。品種と積付パターンをタッチパネルで設定。ジェンガは力覚と3Dビジョンの組合せを記載。",
+      "human": "品種・パターン登録と教示。移動後位置合わせ・ジェンガの選択判断方式は未公表。",
+      "limits": "iRAYPE/GentleGaiantは公式の綴り。企業FAサイトはiRAYPLE/Gentle Giant。学習やAIの利用、力覚閉ループの制御周期は未確認。資料はフォーム登録が必要で未取得。",
+      "exhibit_status": "移動型パレタイズとジェンガを公式明記",
+      "sources": [
+        "E07",
+        "S14"
+      ],
+      "researcher_questions": [
+        "移動後の据付誤差をビジョン・力覚で自動補正するか",
+        "ジェンガの抜取り対象と押す力はどう決めるか",
+        "加工機への供給や複数工程への適用例はあるか"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（移動・操作の範囲要確認）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A08-1",
+      "company_order": 8,
+      "company": "東洋精機工業株式会社",
+      "booth": "E3019",
+      "item": "TVT332S無人化セル＋TWW-250＋ワーク測定器",
+      "task": "治具・ハンド段取り替え→多面加工→洗浄→精度測定",
+      "mechanism": "60本マガジンと交換式多面治具で2種類のワークをロボットで切替。加工後は自社洗浄機・測定器へつなぐ構成。",
+      "human": "2種類の治具・ハンドと加工・測定条件の準備。未知品種の工程自動生成は確認できず。",
+      "limits": "測定値から工具補正を自動計算・返送するかは公式説明にない。機械配置の全体図・測定方式・異常再開も未確認。",
+      "exhibit_status": "セル一式を公式出展欄に明記",
+      "sources": [
+        "E08",
+        "S15"
+      ],
+      "researcher_questions": [
+        "測定結果は合否判定のみか、CNCの補正値へ返すか",
+        "同一ワーク再加工と次ワーク補正をどう使い分けるか",
+        "工具摩耗・熱変位・治具ずれを区別して補正するか"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（測定後の判断は未確認）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A09-1",
+      "company_order": 9,
+      "company": "伊藤忠マシンテクノス株式会社",
+      "booth": "E1002",
+      "item": "Fastems FMS／MMS",
+      "task": "多品種生産の投入順・資源準備・工程実行",
+      "mechanism": "注文・納期と設備・NC・工具・材料・治具を照合し生産スケジュールを自動作成。急ぎ注文や状況変化で更新し、工作機械と周辺工程の実行を連携。",
+      "human": "加工工程・NC・工具・治具の事前定義、注文データ、ワーク固定・取外し等。",
+      "limits": "形状から加工工程を一から決める工程設計とは別。MMSの展示版・連携対象・実演有無は未確認。",
+      "exhibit_status": "Fastems FMSを商社公式で明記。MMSはメーカー機能として深掘り",
+      "sources": [
+        "E09",
+        "S16",
+        "S17"
+      ],
+      "researcher_questions": [
+        "検査NG・工具欠損・機械故障で代替工程へ自動再計画するか",
+        "工程制約と検査条件はどのデータで定義するか"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（生産スケジューリング）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A09-2",
+      "company_order": 9,
+      "company": "伊藤忠マシンテクノス株式会社",
+      "booth": "E1002",
+      "item": "HATS／Fuzzy Studio",
+      "task": "異種ロボット・設備連携／ロボットセル設計と軌道生成",
+      "mechanism": "HATSは異種ロボットを統合しWMS/MES・設備と接続。Fuzzy StudioはCAD等のセル構成に対するノーコード軌道生成・干渉確認とRTOS連携を説明。",
+      "human": "工程シナリオ・セルとワーク・ハンドの準備、接続SI。遠隔支援が残る場面は確認が必要。",
+      "limits": "統合制御基盤と動作知能は別。VLA・生成AIで未知条件に適応する能力は確認できず。",
+      "exhibit_status": "商社公式の出展品として具体名確認",
+      "sources": [
+        "E09",
+        "S16",
+        "S18",
+        "S19"
+      ],
+      "researcher_questions": [
+        "HATSとFuzzy Studioは接続実演するか別商材か",
+        "実ワーク位置変化から軌道を再生成する範囲はどこか",
+        "人の遠隔操作・承認の介入率はどれくらいか"
+      ],
+      "tags": [
+        "自動化",
+        "自律化（制御・軌道の範囲要確認）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A09-3",
+      "company_order": 9,
+      "company": "伊藤忠マシンテクノス株式会社",
+      "booth": "E1002",
+      "item": "Process Navigator／関連：NTのDPU・計測補正",
+      "task": "工具摩耗・欠損・びびり監視、関連する寸法補正",
+      "mechanism": "Process Navigatorの出展を商社が明記。メーカーの関連DPU-D1NはCNCの主軸・Z軸トルクとXY軸サーボ変動から工具摩耗・欠損を監視。別製品GR-1は計測とドライブユニットを組み合わせNCで径補正。",
+      "human": "監視条件・閾値と基準データ、補正条件・限界の設定。",
+      "limits": "Process NavigatorとDPUの同一性や世代関係は未確認。DPUの監視を自動送り制御と同一視しない。径補正製品の今回展示は未確認。",
+      "exhibit_status": "Process Navigatorは出展確認。DPU・GR-1は関連技術",
+      "sources": [
+        "E09",
+        "S16",
+        "S20",
+        "S21"
+      ],
+      "researcher_questions": [
+        "Process Navigatorはどの装置・型式で何を測るか",
+        "アラーム後は停止だけか、条件変更・工具交換までつなぐか",
+        "折損前の検知時間と誤検知、加工変動の切り分け実績は何か"
+      ],
+      "tags": [
+        "自動化（監視）",
+        "自律化（制御接続は未確認）"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    },
+    {
+      "id": "A10-1",
+      "company_order": 10,
+      "company": "株式会社ジーベックテクノロジー",
+      "booth": "WA006",
+      "item": "XEBEC CPSオートホルダー＋バリ取りロボット",
+      "task": "ブラシ摩耗に伴う突出し調整の自動化",
+      "mechanism": "回転・停止を検知して加工終了を判定し、停止後に電子制御でブラシを突出す。一定・一次直線・指数・累乗の4モデルを設定し残長に応じた突出し量を使い分ける。",
+      "human": "加工条件・モデル・工具原点・寿命等をアプリで設定しブラシを交換。",
+      "limits": "公開説明からはモデルに基づく補償と読める。摩耗量実測、バリ残り・面粗さ測定からの閉ループ補正は確認できず。AI利用の記載なし。",
+      "exhibit_status": "φ40〜100正式発売、φ15/25参考出品、ギヤバリ取り実演と公式明記",
+      "sources": [
+        "E10",
+        "S22",
+        "S23"
+      ],
+      "researcher_questions": [
+        "突出し量は摩耗実測か加工回数と設定モデルか",
+        "材質・バリ量の変化にモデルをどう再同定するか",
+        "バリ残り測定から突出し・切込み・経路を補正できるか"
+      ],
+      "tags": [
+        "自動化"
+      ],
+      "user_focus": null,
+      "user_priority": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "E01",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "YKT株式会社 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=nYvFR1vpbuE",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E02",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "DMG森精機株式会社 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E03",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "三和ロボティクス株式会社 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=SnqZSY1MFMk",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E04",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "株式会社松浦機械製作所 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K_X61J2xV_w",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E05",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "三菱商事テクノス株式会社 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E06",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "松本機械工業株式会社 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=bhpEIIjKNb4",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E07",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "株式会社SANMATSU 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=ox2LGS2B2t4",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E08",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "東洋精機工業株式会社 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=4IGD6jExai0",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E09",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "伊藤忠マシンテクノス株式会社 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=7ypX6WR51KU",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "E10",
+      "publisher": "JIMTOF公式・出展者掲載内容",
+      "title": "株式会社ジーベックテクノロジー 出展ページ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=jbu03Ik4s00",
+      "locator": "会社説明／主な出展物",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S01",
+      "publisher": "YKT",
+      "title": "NAVIEDGE SMARTシリーズ",
+      "url": "https://www.ykt.co.jp/product/4289/",
+      "locator": "主な特長・ERP/MESとの連携",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S02",
+      "publisher": "YKT",
+      "title": "AUTO24",
+      "url": "https://www.ykt.co.jp/product/3738/",
+      "locator": "主な特長：弾性メディア・カセット",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S03",
+      "publisher": "OGP",
+      "title": "EVOLVE Manufacturing",
+      "url": "https://www.ogpnet.com/products/software/evolve-software/evolve-manufacturing/",
+      "locator": "Grouping of Features／Error Components／Corrective Action Analysis",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S04",
+      "publisher": "OGP",
+      "title": "EVOLVE Software",
+      "url": "https://www.ogpnet.com/products/software/evolve-software/",
+      "locator": "Design／SPC／SmartProfile",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S05",
+      "publisher": "DMG森精機",
+      "title": "JIMTOF2026出展",
+      "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261016_jimtof2026.html",
+      "locator": "見どころ：GX Flex／DMC 65／DXエリア",
+      "published_date": "2026-10-16",
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S06",
+      "publisher": "DMG森精機",
+      "title": "CELOS DYNAMICpost",
+      "url": "https://www.dmgmori.co.jp/corporate/news/pdf/20220601_celosdp.pdf",
+      "locator": "1頁：ポスト処理・シミュレーション・切削力最適化",
+      "published_date": "2022-06-01",
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S07",
+      "publisher": "DMG森精機",
+      "title": "ツールビジュアライザー",
+      "url": "https://www.dmgmori.co.jp/corporate/news/pdf/20210621_tool.pdf",
+      "locator": "1頁：加工前後の工具計測・補正",
+      "published_date": "2021-06-21",
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S08",
+      "publisher": "三和ロボティクス",
+      "title": "NEXSRT J30カタログ",
+      "url": "https://sanwa-robotics.co.jp/pdf/NEXSRT-J30.pdf",
+      "locator": "仕様表：J30（J30 Fと異なる型式）／遠隔ラダーモニター",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S09",
+      "publisher": "松浦機械製作所",
+      "title": "JIMTOF2026特設",
+      "url": "https://exhibition-matsuura.com/entrance/",
+      "locator": "無人運転／MiOS 4／段取り漏れ・加工時間予測",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S10",
+      "publisher": "松浦機械製作所",
+      "title": "工具管理機能と無人運転",
+      "url": "https://www.matsuura.co.jp/japan/oshiete/kougu",
+      "locator": "MiOS 4：加工開始前の工具寿命・状態確認",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S11",
+      "publisher": "三菱商事テクノス",
+      "title": "SCADAを活用した総合的自動化",
+      "url": "https://www.mmts.co.jp/pickup/2022/content.html",
+      "locator": "サガネ係長のSMART FACTORY（関連取扱技術、今回展示未確認）",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S12",
+      "publisher": "松本機械工業",
+      "title": "Smart Terrace Adv",
+      "url": "https://mmkchuck.com/product/7218/",
+      "locator": "7つの革新／ワーク計測（NC補正）／パラメータ入力",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S13",
+      "publisher": "松本機械工業",
+      "title": "円筒研削盤向けロボットハンド計測装置",
+      "url": "https://mmkchuck.com/product/5203/",
+      "locator": "計測方法／NC OFFSET／多点計測／温度影響",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S14",
+      "publisher": "SANMATSU",
+      "title": "FAサービスサイト",
+      "url": "https://sanmatsu.jp/",
+      "locator": "iRAYPLE／Gentle Giantの資料案内。詳細資料はフォーム登録が必要なため未取得。",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S15",
+      "publisher": "東洋精機工業",
+      "title": "展示会情報",
+      "url": "https://www.toyosk.com/machine/exhibition/exhibition_now_j.htm",
+      "locator": "過去展示TVT332S。現在の自動補正の方式説明は確認できず。",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S16",
+      "publisher": "伊藤忠マシンテクノス",
+      "title": "展示会情報",
+      "url": "https://www.itcmt.co.jp/news/exhibition/",
+      "locator": "JIMTOF2026出展内容：Fastems／HATS／Fuzzy Studio／Process Navigator",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S17",
+      "publisher": "Fastems",
+      "title": "MMS",
+      "url": "https://www.fastems.com/offering/mms/",
+      "locator": "Production Planning／Resource Check／Production Execution",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S18",
+      "publisher": "リンケージ",
+      "title": "Fuzzy Studio",
+      "url": "https://www.linkage-japan.co.jp/simulator",
+      "locator": "軌道生成・干渉確認／Fuzzy RTOS連携",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S19",
+      "publisher": "キビテク（自社発表）",
+      "title": "HATSラインナップ刷新",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000065626.html",
+      "locator": "製品表／特長／導入の流れ",
+      "published_date": "2026-09-14",
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S20",
+      "publisher": "エヌティーエンジニアリング",
+      "title": "DPU-D1N",
+      "url": "https://www.nteg.co.jp/product/vibration/entry-174.html",
+      "locator": "主軸・Z軸TCMD／XY軸サーボ／FOCAS",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S21",
+      "publisher": "エヌティーエンジニアリング",
+      "title": "工具補正装置・計測装置",
+      "url": "https://www.nteg.co.jp/product/correction/",
+      "locator": "GR-1 ver.2：計測・ドライブユニットを組み合わせたNCプログラムによる補正",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S22",
+      "publisher": "ジーベックテクノロジー",
+      "title": "CPSオートホルダー",
+      "url": "https://xebec-tech.com/products_category/cps/",
+      "locator": "4つの突出しモデル／FAQ8：回転後停止で突出し",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    },
+    {
+      "id": "S23",
+      "publisher": "ジーベックテクノロジー",
+      "title": "CPS取扱説明書・詳細設定",
+      "url": "https://www.xebec-tech.com/instruction_manual/cps/20260526_JN_XEBEC%20CPS%20AUTO_Instruction%20Manual/content/329548040.html",
+      "locator": "最小突出し量／突出し補正／回転検知",
+      "published_date": null,
+      "checked_date": "2026-10-24",
+      "usage": "本文の該当説明を確認。能力はメーカー説明であり現地実証未確認。"
+    }
+  ],
+  "source_baseline": "data/exhibitors_2026_with_details.csv; current official pages retrieved and read on 2026-10-24",
+  "caveats": [
+    "各タグは調査用の仮分類。自律化候補は能力確認済みと同義ではない。",
+    "未確認は機能がないという意味ではない。",
+    "メーカー説明と調査者の整理・現地質問案を区別。質問はユーザーの着眼点として転記しない。",
+    "YKTのHALLER・LXMTは旧CSVでは実機だったが最新公式はサンプル出展。",
+    "三菱商事テクノスは最新公式のAMR明記が消えている。旧記述を今回展示の確証にしない。",
+    "SANMATSUの資料請求フォームへの送信は実施していない。",
+    "既存Excel・調査成果物を変更していない。"
+  ]
+}
