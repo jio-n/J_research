@@ -1,0 +1,10 @@
+{
+  "hyperlinks": 178,
+  "company_links": 82,
+  "technical_links": 96,
+  "unique_targets": 88,
+  "all_targets_http_200": true,
+  "source_workbook_unchanged": true,
+  "frozen_header_and_company_booth_columns": true,
+  "automation_C_to_G_blank": true
+}

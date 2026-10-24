@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';import path from 'node:path';import{fileURLToPath}from'node:url';
+import{SpreadsheetFile,FileBlob}from'./_private/node_modules/@oai/artifact-tool/dist/artifact_tool.mjs';
+const D=path.dirname(fileURLToPath(import.meta.url)),R=path.resolve(D,'../../..');
+const p=JSON.parse(await fs.readFile(path.join(D,'link_plan.json'),'utf8'));
+const wb=await SpreadsheetFile.importXlsx(await FileBlob.load(path.join(R,p.source_workbook)));
+wb.worksheets.getItem('AI・フィジカルAI').getRange('A33').values=[['株式会社ナベル']];
+for(const l of p.links)wb.worksheets.getItem(l.sheet).getRange(l.cell).format.font={name:'Yu Gothic UI',size:11,color:'#0563C1',underline:'single'};
+wb.recalculate();
+const checks=await wb.inspect({kind:'table',range:'AI・フィジカルAI!A30:G33',include:'values,formulas',tableMaxRows:4,tableMaxCols:7,maxChars:1400});
+await fs.writeFile(path.join(D,'_private/artifact_inspection.ndjson'),checks.ndjson);
+await(await SpreadsheetFile.exportXlsx(wb)).save(path.join(R,'outputs',path.basename(D),'JIMTOF2026_ユーザー選定_調査企業一覧_リンク付き.xlsx'));
+console.log('Edited values and link formatting; native hyperlinks added next.');process.exit(0);
