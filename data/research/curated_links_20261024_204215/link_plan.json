@@ -1,0 +1,2733 @@
+{
+  "source_workbook": "outputs/linked_visit_planner_20261024_150004/JIMTOF2026_ユーザー選定_調査企業一覧_リンク付き.xlsx",
+  "headers": [
+    "企業名",
+    "ブース",
+    "優先",
+    "注目アイテム",
+    "タグ",
+    "着眼点",
+    "補足：当日聞くこと",
+    "追加技術資料"
+  ],
+  "ai": [
+    {
+      "id": "P01",
+      "values": [
+        "ファナック株式会社",
+        "S2001",
+        null,
+        "AI溶接エージェント ※展示有無未確認",
+        "AI／フィジカルAI／自動化",
+        "・フィジカルAIの代表例として有力\n・図面読取→プログラム生成→溶接までAIで一貫している点\n・図面読取の精度と、使っている技術",
+        "①対応できる図面・表記の範囲\n②人の確認・修正が残る範囲\n③「ゼロ設定・ゼロ教示」の成立条件\n④今回展示されるか",
+        null
+      ],
+      "photos": [
+        1
+      ]
+    },
+    {
+      "id": "P02",
+      "values": [
+        "ファナック株式会社",
+        "S2001",
+        null,
+        "日立×ファナック フィジカルAI ※関連構想",
+        "AI／フィジカルAI／自律化",
+        "・フィジカルAIの捉え方と課題認識\n・デジタルツインでは足りない部分\n・現場ならではで有効な部分\n・FIELD systemを学習に使うか",
+        "①現場で学習・適応する内容\n②共通モデルと現場ごとの学習の切り分け\n③目指す自律化の範囲（作業単位か、ライン・工場単位か）",
+        null
+      ],
+      "photos": [
+        1
+      ]
+    },
+    {
+      "id": "P03",
+      "values": [
+        "Ndotlight Co., Ltd.",
+        "S4004",
+        null,
+        "TRINIX",
+        "AI／フィジカルAI基盤",
+        "・実物のモデル化からシミュレーションまでの一気通貫化\n・従来必要だったモデル定義がどこまで不要になるか\n・テキスト・画像からの取り込みの実態",
+        "①寸法情報のない画像の扱い\n②従来のSimReady化から削減される作業\n③物理属性（質量・摩擦・関節）の推定と検証方法",
+        "SimReady：アセット検証と実行時検証の分担"
+      ],
+      "photos": [
+        1
+      ]
+    },
+    {
+      "id": "P04",
+      "values": [
+        "伊藤忠マシンテクノス株式会社",
+        "E1002",
+        null,
+        "加工最適化／AIデータ解析／Physical AI開発・統合システム",
+        "AI／フィジカルAI／自動化・自律化（候補）",
+        "・公式に具体的な説明がないため、現地で中身を確認\n・有力なものがあれば追加",
+        "①Physical AI統合で何を認識・判断・動作させるか\n②加工最適化の入力データと対象\n③ティーチングレスで何を認識して軌道を決めるか\n④従来のロボット自動化との違い",
+        "Fuzzy Studio：軌道生成・干渉確認と実機制御"
+      ],
+      "photos": [
+        1
+      ]
+    },
+    {
+      "id": "P05",
+      "values": [
+        "株式会社シマダマシンツール",
+        "E2018",
+        null,
+        "HS4200＋フィジカルAI搭載レール走行ロボット",
+        "AI／フィジカルAI（候補）／自動化",
+        "・4主軸2NC旋盤とフィジカルAIロボットの組み合わせの中身\n・使っている技術",
+        "①段取り替えでAIが認識・判断する対象\n②「誰でも簡単に」なった作業と、残る人の作業\n③AIは自社開発か外部機能か\n④2024年からの変化",
+        "HS4200：4主軸の並列加工・着脱と走行ロボット"
+      ],
+      "photos": [
+        1
+      ]
+    },
+    {
+      "id": "P06",
+      "values": [
+        "株式会社シマダマシンツール",
+        "E2018",
+        null,
+        "SHIMADA AUTOMATION MODULE",
+        "自動化／自律化（候補）",
+        "・「工程間連携」の実際の範囲と水準",
+        "①計測結果を工具補正へ自動で返す範囲\n②他の機械・前後工程との接続\n③品種切替時の段取り工数",
+        null
+      ],
+      "photos": [
+        1
+      ]
+    },
+    {
+      "id": "P07",
+      "values": [
+        "株式会社ソフィックス",
+        "E1067",
+        null,
+        "工場自律化システム（ミニ工場展示）",
+        "AI／自動化／自律化（候補）",
+        "・「人の判断や指示に依存せず止まらない工場」を本当に実演しているか\n・どんな技術で成り立っているか",
+        "①AIで判断する箇所とルールで動く箇所の区別\n②異常予兆の検知後、搬送・生産の切替まで人を介さず動くか\n③「止まらない」の中身（事前対応か、停止後の自動復旧か）\n④導入事例の有無",
+        null
+      ],
+      "photos": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "P08",
+      "values": [
+        "株式会社ソフィックス",
+        "E1067",
+        null,
+        "SOFIXCAN AI Forecast",
+        "AI",
+        "・機械学習ライブラリとしての新しさ\n・異常予兆、画像の輪郭抽出・特徴量解析の",
+        "①予兆検知の時系列データと手法\n②画像解析の用途と従来の画像処理との差\n③顧客ごとのモデル開発のデータ量・期間\n④2024年の熱変位補正AIとの関係",
+        null
+      ],
+      "photos": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "P09",
+      "values": [
+        "三菱商事テクノス株式会社",
+        "S3100",
+        null,
+        "豆蔵 AIロボットティーチング支援",
+        "AI／自動化",
+        "・自然言語の指示からAIがロボットの動作プログラムを作る点が新しい\n・その技術の中身",
+        "①使っているAIと出力の形式（ロボット言語かGコードか）\n②言葉で指示できる範囲\n③生成プログラムの安全確認\n④対応するロボットメーカー",
+        "画像による教示位置補正（自然言語教示との比較）"
+      ],
+      "photos": [
+        2
+      ]
+    },
+    {
+      "id": "P10",
+      "values": [
+        "三菱商事テクノス株式会社",
+        "S3100",
+        null,
+        "自動仕分けソリューション ※開発中",
+        "AI（候補）／自動化",
+        "・ピッキング位置の自動確認とロボット仕分けで「止まらないライン」\n・新しさがあるか",
+        "①ピッキング位置確認へのAI・画像認識の使い方\n②板金機メーカーの既存仕分け装置との違い\n③後付け時の既存加工機との連携範囲\n④仕分け失敗時の検知と復旧",
+        null
+      ],
+      "photos": [
+        2
+      ]
+    },
+    {
+      "id": "P11",
+      "values": [
+        "ベッコフオートメーション株式会社",
+        "E2028",
+        null,
+        "TwinCAT CNC（オープンなPCベースCNC）",
+        "自動化／自律化基盤／AI実装基盤",
+        "・自作の制御やAIモジュールをCNCに組み込める自由度\n・センサ監視→解析→制御フィードバックが1つの基盤で\n・ユーザー側でどこまで独自機能を作れるか",
+        "①外部センサ取得からCNC補正まで、周期・範囲\n②AIモデルのCNC制御への組込み方法と安全・品質保証\n③後付けか新規機組込みか\n④切削状態の監視から自動補正までの実績",
+        "TwinCAT CNC：独自モジュールとオンライン補正"
+      ],
+      "photos": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "P12",
+      "values": [
+        "ベッコフオートメーション株式会社",
+        "E2028",
+        null,
+        "TwinCAT CoAgent",
+        "AI／開発・保全支援",
+        "・一般的な生成AI支援との差を確認する程度\n・TwinCAT CNCの補助として見る",
+        "①TwinCAT固有の構造をどこまで理解して提案できるか\n②アラーム診断のデータ\n③生成結果の検証・承認を人がどこで行うか",
+        "CoAgent Operations：稼働データによる故障解析"
+      ],
+      "photos": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "P13",
+      "values": [
+        "株式会社TAKISAWA",
+        "E3013",
+        null,
+        "台車型ロボットシステム「TR-20W」※フィジカルAI搭載・参考出品",
+        "AI／フィジカルAI／自動化／自律化（候補）",
+        "・切粉除去のフィジカルAIが、どんな技術なのか",
+        "①切粉の検知・認識のセンサとAI\n②絡まりの位置・形状から除去方法・軌道をどう決めるか\n③除去失敗時の再試行・人への引き継ぎ\n④対象の切粉・機械・加工条件の範囲\n⑤従来の画像認識＋登録動作との違い",
+        null
+      ],
+      "photos": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "P14",
+      "values": [
+        "DMG森精機株式会社",
+        "E8005",
+        null,
+        "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり",
+        "AI",
+        "・「AIエージェントの工作機械への実装」の中身",
+        "①JIMTOFの「AIエージェントの実装」はサービスエージェントか、機械側の別機能か\n②稼働データを使ったアラーム時の自動診断はいつ・どこまで実現するか",
+        null
+      ],
+      "photos": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "P15",
+      "values": [
+        "DMG森精機株式会社",
+        "E8005",
+        null,
+        "Condition Agent（主軸・送り軸の予兆診断）",
+        "自動化（診断）／AI（要確認）",
+        "・保全系の仕組みの実態",
+        "①AIか規則ベースか\n②2024年以前から何が変わったか\n③診断結果が部品手配・保全計画・加工条件変更へ自動でつながるか",
+        null
+      ],
+      "photos": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "P16",
+      "values": [
+        "DMG森精機株式会社",
+        "E8005",
+        null,
+        "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認",
+        "AI／フィジカルAI（構想）／自律化（構想）",
+        "・DMGが考えるフィジカルAIの姿を聞きたい",
+        "①「物理と言語を組み合わせたモデル」とは具体的に何か、VLMを使わない理由\n②1kHzのデータで捉えたい現象\n③セル全体の品質判断でAIが何を決め、AMRや計測機をどう動かすか\n④データ提供企業への還元",
+        null
+      ],
+      "photos": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "P17",
+      "values": [
+        "匠技研工業株式会社",
+        "S3011",
+        null,
+        "匠フォース AIエージェント（見積作成）※会場で実演あり",
+        "AI／自動化",
+        "・製造業特化のAIスタートアップで、とがったことをしていそう\n・「AIが自律的に進め、人は承認と判断」の",
+        "①見積でAIが決める範囲（図面読取、工程推定、加工時間、単価）と人の承認点\n②人の修正から何を学習するか\n③見積の工程推定を工程設計へ渡す構想",
+        null
+      ],
+      "photos": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "P18",
+      "values": [
+        "匠技研工業株式会社",
+        "S3011",
+        null,
+        "AI類似図面検索",
+        "AI",
+        "・社内（読めない：部署名・エンス）にニーズあり\n・DA研がハードルが高いとした案件で、どんな技術か",
+        "①形状類似度の判定方法と、形状・文字情報の組合せ\n②寸法線・注記・三面図の配置の違いの扱い\n③2D→3D、3D→2Dの検索\n④精度の目安、必要な図面枚数、学習期間、顧客ごとの再学習\n⑤クラウドのみかオンプレ可か",
+        null
+      ],
+      "photos": [
+        4
+      ]
+    },
+    {
+      "id": "P19",
+      "values": [
+        "三菱電機株式会社",
+        "S2003",
+        "★",
+        "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標",
+        "AI／フィジカルAI／自動化／自律化",
+        "・最近の潮流をとらえた代表的な技術で、絶対に見る\n・エージェント、自律化、ヒューマノイド、フィジカルAIとCNC連携が1つにまとまっている",
+        "①CNCのフィジカルAIが何を判断するか（言葉→Gコード・PLC動作か、状況報告まで担うか）\n②ヒューマノイドの動作はロボット側AIか教示か\n③登録外の作業・トラブル対応\n④「機種に依存しない」ためのロボット側の前提\n⑤2030年までの構想（読めない：写真で文字が切れている）",
+        null
+      ],
+      "photos": [
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "P20",
+      "values": [
+        "Wintech Automation Co., Ltd（WTA）",
+        "W3051",
+        null,
+        "HGM-DX 自動両面研削システム",
+        "自動化／自律化（候補）",
+        "・超硬インサート（工具）の両面研削で、厚みと刃先高さを測って研削機へ自動フィード\n・補正は1次元で単純な部類。使う技術が気になる",
+        "①補正計算は規則か学習か\n②厚み以外の項目への拡張\n③補正しても公差外の場合の扱い\n④画像処理検査機の技術",
+        null
+      ],
+      "photos": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": "P21",
+      "values": [
+        "株式会社東振テクニカル",
+        "E7037",
+        null,
+        "長尺研削高精度自動化システム（センタレス）リング形状ワークの無人運転（事例）",
+        "自動化",
+        "・センタレスで外径を研削。事例では測定は外径に加え端面振れ・粗さも評価\n・補正に戻しているかは未確認",
+        "①リング研削の無人運転システムは今回の展示にあるか\n②端面振れ・粗さの結果を補正に戻しているか\n③補正は規則か学習か",
+        null
+      ],
+      "photos": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": "P22",
+      "values": [
+        "日本クリンゲルンベルグ株式会社",
+        "E1006",
+        null,
+        "Closed Loop（歯車の測定→補正値の自動生成）、DDQM、Smart Factory",
+        "自動化／自律化（候補）",
+        "・歯面の形状ズレを機械の補正値に変換する点が高度\n・対象は歯車だが、測定→補正の考え方の参考",
+        "①補正を人が承認するか完全自動か\n②計算が式ベースか学習か\n③公差に入らない場合の扱い\n④補正データの活用範囲\n⑤Smart Factory・DDQMでAIが担う内容",
+        "歯車のClosed Loop・DDQM・工程データ連携"
+      ],
+      "photos": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": "P23",
+      "values": [
+        "オークマ株式会社",
+        "E3028",
+        "★",
+        "OSP-AI（AI機械診断・AI加工診断）",
+        "AI／自律化（候補）",
+        "・昔から出している機能。前回（2024年）との差分があるかという目線で見る",
+        "①2024年のOSP-AIから、診断対象・精度・搭載機種が増えたか\n②AI加工診断はドリル以外にも広がったか\n③「異常レベル」の算出に使う制御情報とAIの手法\n④異常検出後は退避のみか、再スタートや条件変更まで自動か\n⑤「一部特別仕様」の範囲",
+        null
+      ],
+      "photos": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "P24",
+      "values": [
+        "オークマ株式会社",
+        "E3028",
+        "★",
+        "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）",
+        "自動化",
+        "・昔から出している製品。AI周りの機能に前回との差があるかを見る",
+        "①OSP-P500でAI機能が追加されたか（ページには記載なし）\n②「加工工程を自動で決める」機能は、ルールベースかAIか\n③デジタルツインの結果を加工条件の変更や自動補正につなげているか",
+        "関連制御技術：加工ナビM-iの振動測定→回転数補正"
+      ],
+      "photos": [
+        6
+      ]
+    },
+    {
+      "id": "P25",
+      "values": [
+        "モリマシナリー株式会社",
+        "S3048",
+        "★",
+        "ツールスコーププラス＋アナライザー ※読めない（名称後の注記）",
+        "AI／自動化／自律化（候補）",
+        "・AIで摩耗を判定する技術で、どんなタスクまで解けるか\n・岡山大の児玉先生の技術を使っていそうなので、詳しく見る",
+        "①判定できるのは欠け・摩耗の有無か、種類・原因まで\n②寿命予測は摩耗幅の推移だけか、加工条件・電流も使うか\n③2024年から判定の対象や精度は何が変わったか\n④旋削用チップ（逃げ面）は対象か。φ2mm以上は目安か\n⑤判定の根拠を画面に示せるか\n⑥利用者ごとの学習で判断基準が社内に残るか、データの置き場所\n⑦読めない（写真下端に続きらしい文字があるが判読できない）",
+        null
+      ],
+      "photos": [
+        6
+      ]
+    },
+    {
+      "id": "P26",
+      "values": [
+        "株式会社サイバーRC",
+        "E7074（E7072の表記もあり）",
+        "△",
+        "GH5（AI搭載の自動刃先ホーニング機）※特許出願中",
+        "AI／自動化／自律化（候補）",
+        "・見に行けたら行く程度の優先度\n・「ホーニング加工をAIで自動調整」がどんな技術か確認",
+        "①AIの役割（画像の測定か、補正量の決定か）と手法\n②再測定の結果を見て補正する方式は規則か学習か\n③圧力検知の役割\n④工具の種類や径が変わった時の準備\n⑤ホーニング幅・角度のばらつきの実績",
+        null
+      ],
+      "photos": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "P27",
+      "values": [
+        "日東商事株式会社（HACARUS Check）",
+        "S1031",
+        "△",
+        "HACARUS Check",
+        "AI／自動化",
+        "・画像の異常検知で、PCテーマと関連するのでベンチマーク対象\n・技術的には旧来のものに見える。優先度は高くない",
+        "①良品学習の異常度は何で出しているか（スパースモデリングの具体的な方式）\n②工具・加工面など切削加工の対象に使った実績\n③判定の根拠（ヒートマップ）を人がどこまで読み取れるか\n④人が付けた印から判断基準がどう更新されるか",
+        null
+      ],
+      "photos": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "P28",
+      "values": [
+        "興和オプトロニクス株式会社",
+        "S3104",
+        "☆",
+        "Rotary Wiperシリーズ×ビジョンプロセッサ（AIによる刃先欠損・切粉巻き付き検知）※特許出願中",
+        "AI／自動化（候補）",
+        "・工具の欠損検知の技術で、あまり新しくないかもしれないが、技術の中身を見たい\n・クーラントがかかっても見える点が売り",
+        "①刃先欠損の検知は良品学習か、不良画像も学習か。必要な枚数\n②検知後に機械を止める連携の実績\n③誤検知の頻度と原因\n④欠損の検知だけか、摩耗の程度まで見られるか\n⑤判定の根拠の見せ方、精度の指標\n⑥「特許出願中」の対象は回転ガラスの構造か、AIの検知方法か",
+        null
+      ],
+      "photos": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "P29",
+      "values": [
+        "Hexagon Manufacturing Intelligence株式会社",
+        "E2013",
+        null,
+        "ESPRIT EDGE ProPlanAI（AI搭載CAM）",
+        "AI／自動化",
+        "・CNCプログラミングを加速する技術がどんなものか\n・過去知見を使うので、形式知化の一つになりそう",
+        "①学習に必要な過去データの量と前処理\n②人が修正した結果は再学習されるか、誤った手順を学習しない確認方法\n③提案するのは工具経路か、工程順・段取りまでか\n④「機械を意識したAI（デジタルツイン）」で何を判断できるか",
+        null
+      ],
+      "photos": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "P30",
+      "values": [
+        "Hexagon Manufacturing Intelligence株式会社",
+        "E2013",
+        null,
+        "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認",
+        "AI",
+        "・シミュレーションの高速化",
+        "①加工（切削）シミュレーションに使った例の有無\n②予測モデルを作るのに必要なデータ量と学習時間\n③予測の誤差の目安",
+        null
+      ],
+      "photos": [
+        10
+      ]
+    },
+    {
+      "id": "P31",
+      "values": [
+        "Hexagon Manufacturing Intelligence株式会社",
+        "E2013",
+        null,
+        "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認",
+        "AI",
+        "・材料データセットの効率化。",
+        "①現在は樹脂が対象。金属材料への対応の予定はあるか\n②足りない条件を補う方法（物理モデルか機械学習か）と誤差の示し方\n③補強したデータと実測データの区別の仕方",
+        "Materials Enrich：短繊維樹脂の疲労曲線予測例"
+      ],
+      "photos": [
+        10
+      ]
+    },
+    {
+      "id": "P32",
+      "values": [
+        "株式会社ナベル",
+        "W2041",
+        "△",
+        "TM AI Cobot（Techman製）",
+        "自動化（フィジカルAIの線引きは微妙）",
+        "・AI搭載の協働ロボットで、フィジカルAIと言えるかの線引きになりそう\n・一応、あることだけ覚えておく",
+        "①「AI」とは、ビジョンの位置補正のことか、動作を学習・生成する機能か\n②Techman製の他に、ベルとしての独自の組合せ・提案はあるか",
+        "Techman AI Vision：画像認識・位置決めとモデル学習"
+      ],
+      "photos": [
+        10
+      ]
+    }
+  ],
+  "automation": [
+    {
+      "id": "A01",
+      "values": [
+        "YKT株式会社",
+        "E2026",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A02",
+      "values": [
+        "DMG森精機株式会社",
+        "E8005",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A03",
+      "values": [
+        "三和ロボティクス株式会社",
+        "E7069",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A04",
+      "values": [
+        "株式会社松浦機械製作所",
+        "E3030",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A05",
+      "values": [
+        "三菱商事テクノス株式会社",
+        "S3100",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A06",
+      "values": [
+        "松本機械工業株式会社",
+        "W2070",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A07",
+      "values": [
+        "株式会社SANMATSU",
+        "S3102",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A08",
+      "values": [
+        "東洋精機工業株式会社",
+        "E3019",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A09",
+      "values": [
+        "伊藤忠マシンテクノス株式会社",
+        "E1002",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A10",
+      "values": [
+        "株式会社ジーベックテクノロジー",
+        "WA006",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 1
+    },
+    {
+      "id": "A11",
+      "values": [
+        "パスカル株式会社",
+        "W2047",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A12",
+      "values": [
+        "三菱電機株式会社",
+        "S2003",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A13",
+      "values": [
+        "Walter Maschinenbau GmbH（*）",
+        "E8001",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A14",
+      "values": [
+        "Wintech Automation Co., Ltd",
+        "W3051",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A15",
+      "values": [
+        "オークマ株式会社",
+        "E3028",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A16",
+      "values": [
+        "TPR大阪精密機械株式会社",
+        "E7033",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A17",
+      "values": [
+        "株式会社ツガミ",
+        "S1004",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A18",
+      "values": [
+        "株式会社エグロ",
+        "E1045",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A19",
+      "values": [
+        "BUFFOLI TRANSFER S.p.A.（**）",
+        "E1034",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A20",
+      "values": [
+        "エヌティーツール株式会社",
+        "W2019",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 2
+    },
+    {
+      "id": "A21",
+      "values": [
+        "株式会社シマダマシンツール",
+        "E2018",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A22",
+      "values": [
+        "シュンク・ジャパン株式会社",
+        "S2024",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A23",
+      "values": [
+        "Innovalia Metrology",
+        "S4001",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A24",
+      "values": [
+        "愛知産業株式会社",
+        "E2024",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A25",
+      "values": [
+        "株式会社サイバーRC",
+        "E7074",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A26",
+      "values": [
+        "トーチョーマーキングシステムズ株式会社",
+        "W1036",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A27",
+      "values": [
+        "株式会社イマオコーポレーション",
+        "W2001",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A28",
+      "values": [
+        "株式会社ソフィックス",
+        "E1067",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A29",
+      "values": [
+        "モリマシナリー株式会社",
+        "S3048",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A30",
+      "values": [
+        "INCOS INC",
+        "S3006",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 3
+    },
+    {
+      "id": "A31",
+      "values": [
+        "村田機械株式会社",
+        "E3031",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A32",
+      "values": [
+        "有限会社デュブリン・ジャパン・リミテッド",
+        "WA024",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A33",
+      "values": [
+        "興和オプトロニクス株式会社",
+        "S3104",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A34",
+      "values": [
+        "コマツNTC株式会社",
+        "E1058",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A35",
+      "values": [
+        "ハイウィン株式会社",
+        "W2072",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A36",
+      "values": [
+        "宇治電化学工業株式会社",
+        "W4025",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A37",
+      "values": [
+        "株式会社山善",
+        "S1056",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A38",
+      "values": [
+        "ニデックオーケーケー株式会社",
+        "E3012",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A39",
+      "values": [
+        "IDEC株式会社",
+        "W4090",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A40",
+      "values": [
+        "株式会社日研工作所",
+        "W2039",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 4
+    },
+    {
+      "id": "A41",
+      "values": [
+        "株式会社ニイガタマシンテクノ",
+        "E3026",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A42",
+      "values": [
+        "安藤株式会社",
+        "S3034",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A43",
+      "values": [
+        "柳瀬株式会社",
+        "W4041",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A44",
+      "values": [
+        "株式会社太陽工機",
+        "E8007",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A45",
+      "values": [
+        "西島株式会社",
+        "S1055",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A46",
+      "values": [
+        "Hexagon Manufacturing Intelligence株式会社",
+        "E7035",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A47",
+      "values": [
+        "吉川鐵工株式会社",
+        "E7055",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A48",
+      "values": [
+        "株式会社エス・ティ・シー",
+        "E1069",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A49",
+      "values": [
+        "株式会社牧野フライス製作所",
+        "E1024",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    },
+    {
+      "id": "A50",
+      "values": [
+        "エスエムダブリューオートブロック株式会社",
+        "W2074",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "photo": 5
+    }
+  ],
+  "links": [
+    {
+      "id": "P01",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A2",
+      "text": "ファナック株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "ファナック株式会社",
+      "match_booth": "S2001",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P02",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A3",
+      "text": "ファナック株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "ファナック株式会社",
+      "match_booth": "S2001",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P03",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A4",
+      "text": "Ndotlight Co., Ltd.",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=6Ds1v9hxvrY",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "NdotLight Co., Ltd.",
+      "match_booth": "S4004",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P04",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A5",
+      "text": "伊藤忠マシンテクノス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=7ypX6WR51KU",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "伊藤忠マシンテクノス株式会社",
+      "match_booth": "E1002",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P05",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A6",
+      "text": "株式会社シマダマシンツール",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社シマダマシンツール",
+      "match_booth": "E2018",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P06",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A7",
+      "text": "株式会社シマダマシンツール",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社シマダマシンツール",
+      "match_booth": "E2018",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P07",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A8",
+      "text": "株式会社ソフィックス",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社ソフィックス",
+      "match_booth": "E1067",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P08",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A9",
+      "text": "株式会社ソフィックス",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社ソフィックス",
+      "match_booth": "E1067",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P09",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A10",
+      "text": "三菱商事テクノス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "三菱商事テクノス株式会社",
+      "match_booth": "S3100",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P10",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A11",
+      "text": "三菱商事テクノス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "三菱商事テクノス株式会社",
+      "match_booth": "S3100",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P11",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A12",
+      "text": "ベッコフオートメーション株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "ベッコフオートメーション株式会社",
+      "match_booth": "E2028",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P12",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A13",
+      "text": "ベッコフオートメーション株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "ベッコフオートメーション株式会社",
+      "match_booth": "E2028",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P13",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A14",
+      "text": "株式会社TAKISAWA",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社TAKISAWA",
+      "match_booth": "E3013",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P14",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A15",
+      "text": "DMG森精機株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "DMG森精機株式会社",
+      "match_booth": "E8005",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P15",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A16",
+      "text": "DMG森精機株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "DMG森精機株式会社",
+      "match_booth": "E8005",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P16",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A17",
+      "text": "DMG森精機株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "DMG森精機株式会社",
+      "match_booth": "E8005",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P17",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A18",
+      "text": "匠技研工業株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "匠技研工業株式会社",
+      "match_booth": "S3011",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P18",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A19",
+      "text": "匠技研工業株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "匠技研工業株式会社",
+      "match_booth": "S3011",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P19",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A20",
+      "text": "三菱電機株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "三菱電機株式会社",
+      "match_booth": "S2003",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P20",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A21",
+      "text": "Wintech Automation Co., Ltd（WTA）",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "Wintech Automation Co., Ltd",
+      "match_booth": "W3051",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P21",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A22",
+      "text": "株式会社東振テクニカル",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=GFSwCXSxe9o",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社東振テクニカル",
+      "match_booth": "E7037",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P22",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A23",
+      "text": "日本クリンゲルンベルグ株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K8FKaawJkn0",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "日本クリンゲルンベルグ株式会社",
+      "match_booth": "E1006",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P23",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A24",
+      "text": "オークマ株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "オークマ株式会社",
+      "match_booth": "E3028",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P24",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A25",
+      "text": "オークマ株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "オークマ株式会社",
+      "match_booth": "E3028",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P25",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A26",
+      "text": "モリマシナリー株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "モリマシナリー株式会社",
+      "match_booth": "S3048",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P26",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A27",
+      "text": "株式会社サイバーRC",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社サイバーRC",
+      "match_booth": "E7074",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P27",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A28",
+      "text": "日東商事株式会社（HACARUS Check）",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=GozGZRxlviw",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "日東商事株式会社",
+      "match_booth": "S1031",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P28",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A29",
+      "text": "興和オプトロニクス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "興和オプトロニクス株式会社",
+      "match_booth": "S3104",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P29",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A30",
+      "text": "Hexagon Manufacturing Intelligence株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "Hexagon Manufacturing Intelligence株式会社",
+      "match_booth": "E2013",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P30",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A31",
+      "text": "Hexagon Manufacturing Intelligence株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "Hexagon Manufacturing Intelligence株式会社",
+      "match_booth": "E2013",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P31",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A32",
+      "text": "Hexagon Manufacturing Intelligence株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "Hexagon Manufacturing Intelligence株式会社",
+      "match_booth": "E2013",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P32",
+      "sheet": "AI・フィジカルAI",
+      "cell": "A33",
+      "text": "株式会社ナベル",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=6wciaKIuYB8",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社ナベル",
+      "match_booth": "W2041",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A01",
+      "sheet": "自動化・自律化50社",
+      "cell": "A2",
+      "text": "YKT株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=nYvFR1vpbuE",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "YKT株式会社",
+      "match_booth": "E2026",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A02",
+      "sheet": "自動化・自律化50社",
+      "cell": "A3",
+      "text": "DMG森精機株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "DMG森精機株式会社",
+      "match_booth": "E8005",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A03",
+      "sheet": "自動化・自律化50社",
+      "cell": "A4",
+      "text": "三和ロボティクス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=SnqZSY1MFMk",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "三和ロボティクス株式会社",
+      "match_booth": "E7069",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A04",
+      "sheet": "自動化・自律化50社",
+      "cell": "A5",
+      "text": "株式会社松浦機械製作所",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K_X61J2xV_w",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社松浦機械製作所",
+      "match_booth": "E3030",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A05",
+      "sheet": "自動化・自律化50社",
+      "cell": "A6",
+      "text": "三菱商事テクノス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "三菱商事テクノス株式会社",
+      "match_booth": "S3100",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A06",
+      "sheet": "自動化・自律化50社",
+      "cell": "A7",
+      "text": "松本機械工業株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=bhpEIIjKNb4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "松本機械工業株式会社",
+      "match_booth": "W2070",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A07",
+      "sheet": "自動化・自律化50社",
+      "cell": "A8",
+      "text": "株式会社SANMATSU",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=ox2LGS2B2t4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社SANMATSU",
+      "match_booth": "S3102",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A08",
+      "sheet": "自動化・自律化50社",
+      "cell": "A9",
+      "text": "東洋精機工業株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=4IGD6jExai0",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "東洋精機工業株式会社",
+      "match_booth": "E3019",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A09",
+      "sheet": "自動化・自律化50社",
+      "cell": "A10",
+      "text": "伊藤忠マシンテクノス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=7ypX6WR51KU",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "伊藤忠マシンテクノス株式会社",
+      "match_booth": "E1002",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A10",
+      "sheet": "自動化・自律化50社",
+      "cell": "A11",
+      "text": "株式会社ジーベックテクノロジー",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=jbu03Ik4s00",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社ジーベックテクノロジー",
+      "match_booth": "WA006",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A11",
+      "sheet": "自動化・自律化50社",
+      "cell": "A12",
+      "text": "パスカル株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=e-bUm2EYnJU",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "パスカル株式会社",
+      "match_booth": "W2047",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A12",
+      "sheet": "自動化・自律化50社",
+      "cell": "A13",
+      "text": "三菱電機株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "三菱電機株式会社",
+      "match_booth": "S2003",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A13",
+      "sheet": "自動化・自律化50社",
+      "cell": "A14",
+      "text": "Walter Maschinenbau GmbH（*）",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=roSu2EMRXwk",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "Walter Maschinenbau GmbH",
+      "match_booth": "E8001",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A14",
+      "sheet": "自動化・自律化50社",
+      "cell": "A15",
+      "text": "Wintech Automation Co., Ltd",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "Wintech Automation Co., Ltd",
+      "match_booth": "W3051",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A15",
+      "sheet": "自動化・自律化50社",
+      "cell": "A16",
+      "text": "オークマ株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "オークマ株式会社",
+      "match_booth": "E3028",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A16",
+      "sheet": "自動化・自律化50社",
+      "cell": "A17",
+      "text": "TPR大阪精密機械株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=IUcHIycMLaI",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "TPR大阪精密機械株式会社",
+      "match_booth": "E7033",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A17",
+      "sheet": "自動化・自律化50社",
+      "cell": "A18",
+      "text": "株式会社ツガミ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=fKOIqkxqaBI",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社ツガミ",
+      "match_booth": "S1004",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A18",
+      "sheet": "自動化・自律化50社",
+      "cell": "A19",
+      "text": "株式会社エグロ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=jYjN83ZMZpQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社エグロ",
+      "match_booth": "E1045",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A19",
+      "sheet": "自動化・自律化50社",
+      "cell": "A20",
+      "text": "BUFFOLI TRANSFER S.p.A.（**）",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=XR5ASqmy4zw",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "BUFFOLI TRANSFER S.p.A.",
+      "match_booth": "E1034",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A20",
+      "sheet": "自動化・自律化50社",
+      "cell": "A21",
+      "text": "エヌティーツール株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=iW3vesxy4DU",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "エヌティーツール株式会社",
+      "match_booth": "W2019",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A21",
+      "sheet": "自動化・自律化50社",
+      "cell": "A22",
+      "text": "株式会社シマダマシンツール",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社シマダマシンツール",
+      "match_booth": "E2018",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A22",
+      "sheet": "自動化・自律化50社",
+      "cell": "A23",
+      "text": "シュンク・ジャパン株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=2D3NykNxU4o",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "シュンク・ジャパン株式会社",
+      "match_booth": "S2024",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A23",
+      "sheet": "自動化・自律化50社",
+      "cell": "A24",
+      "text": "Innovalia Metrology",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=gvfw4D5z-qc",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "Innovalia Metrology",
+      "match_booth": "S4001",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A24",
+      "sheet": "自動化・自律化50社",
+      "cell": "A25",
+      "text": "愛知産業株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=Yl0biW0wGYQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "愛知産業株式会社",
+      "match_booth": "E2024",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A25",
+      "sheet": "自動化・自律化50社",
+      "cell": "A26",
+      "text": "株式会社サイバーRC",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社サイバーRC",
+      "match_booth": "E7074",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A26",
+      "sheet": "自動化・自律化50社",
+      "cell": "A27",
+      "text": "トーチョーマーキングシステムズ株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=QF9JlOzN9Gk",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "トーチョーマーキングシステムズ株式会社",
+      "match_booth": "W1036",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A27",
+      "sheet": "自動化・自律化50社",
+      "cell": "A28",
+      "text": "株式会社イマオコーポレーション",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=shuDpJLDn-A",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社イマオコーポレーション",
+      "match_booth": "W2001",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A28",
+      "sheet": "自動化・自律化50社",
+      "cell": "A29",
+      "text": "株式会社ソフィックス",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社ソフィックス",
+      "match_booth": "E1067",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A29",
+      "sheet": "自動化・自律化50社",
+      "cell": "A30",
+      "text": "モリマシナリー株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "モリマシナリー株式会社",
+      "match_booth": "S3048",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A30",
+      "sheet": "自動化・自律化50社",
+      "cell": "A31",
+      "text": "INCOS INC",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=fAg9O7WHKh0",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "INCOS INC",
+      "match_booth": "S3006",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A31",
+      "sheet": "自動化・自律化50社",
+      "cell": "A32",
+      "text": "村田機械株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=Jc5GYaUqS1I",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "村田機械株式会社",
+      "match_booth": "E3031",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A32",
+      "sheet": "自動化・自律化50社",
+      "cell": "A33",
+      "text": "有限会社デュブリン・ジャパン・リミテッド",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=PjO1_W-zmqI",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "有限会社デュブリン・ジャパン・リミテッド",
+      "match_booth": "WA024",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A33",
+      "sheet": "自動化・自律化50社",
+      "cell": "A34",
+      "text": "興和オプトロニクス株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "興和オプトロニクス株式会社",
+      "match_booth": "S3104",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A34",
+      "sheet": "自動化・自律化50社",
+      "cell": "A35",
+      "text": "コマツNTC株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=juRUHcsXGOk",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "コマツNTC株式会社",
+      "match_booth": "E1058",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A35",
+      "sheet": "自動化・自律化50社",
+      "cell": "A36",
+      "text": "ハイウィン株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=t1osgdfU2Dk",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "ハイウィン株式会社",
+      "match_booth": "W2072",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A36",
+      "sheet": "自動化・自律化50社",
+      "cell": "A37",
+      "text": "宇治電化学工業株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=nxFvaTiEEvg",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "宇治電化学工業株式会社",
+      "match_booth": "W4025",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A37",
+      "sheet": "自動化・自律化50社",
+      "cell": "A38",
+      "text": "株式会社山善",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=KSoLpsGPfRQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社山善",
+      "match_booth": "S1056",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A38",
+      "sheet": "自動化・自律化50社",
+      "cell": "A39",
+      "text": "ニデックオーケーケー株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=cIGcLA71ub0",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "ニデックオーケーケー株式会社",
+      "match_booth": "E3012",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A39",
+      "sheet": "自動化・自律化50社",
+      "cell": "A40",
+      "text": "IDEC株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=26-u-N6DHfQ",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "IDEC株式会社",
+      "match_booth": "W4090",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A40",
+      "sheet": "自動化・自律化50社",
+      "cell": "A41",
+      "text": "株式会社日研工作所",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=efMi0oAzay8",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社日研工作所",
+      "match_booth": "W2039",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A41",
+      "sheet": "自動化・自律化50社",
+      "cell": "A42",
+      "text": "株式会社ニイガタマシンテクノ",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=JgNgvfg06ag",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社ニイガタマシンテクノ",
+      "match_booth": "E3026",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A42",
+      "sheet": "自動化・自律化50社",
+      "cell": "A43",
+      "text": "安藤株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=E-sJ8QNrgW0",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "安藤株式会社",
+      "match_booth": "S3034",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A43",
+      "sheet": "自動化・自律化50社",
+      "cell": "A44",
+      "text": "柳瀬株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=VB1iAf4ngXo",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "柳瀬株式会社",
+      "match_booth": "W4041",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A44",
+      "sheet": "自動化・自律化50社",
+      "cell": "A45",
+      "text": "株式会社太陽工機",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=p0lGaSOw5EY",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社太陽工機",
+      "match_booth": "E8007",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A45",
+      "sheet": "自動化・自律化50社",
+      "cell": "A46",
+      "text": "西島株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=Al_kYRBXQb0",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "西島株式会社",
+      "match_booth": "S1055",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A46",
+      "sheet": "自動化・自律化50社",
+      "cell": "A47",
+      "text": "Hexagon Manufacturing Intelligence株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=oUyVPjxvy-U",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "Hexagon Manufacturing Intelligence株式会社",
+      "match_booth": "E7035",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A47",
+      "sheet": "自動化・自律化50社",
+      "cell": "A48",
+      "text": "吉川鐵工株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=HjByZxxPSok",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "吉川鐵工株式会社",
+      "match_booth": "E7055",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A48",
+      "sheet": "自動化・自律化50社",
+      "cell": "A49",
+      "text": "株式会社エス・ティ・シー",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=KczqG602kSE",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社エス・ティ・シー",
+      "match_booth": "E1069",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A49",
+      "sheet": "自動化・自律化50社",
+      "cell": "A50",
+      "text": "株式会社牧野フライス製作所",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=M5OL10ECBTE",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "株式会社牧野フライス製作所",
+      "match_booth": "E1024",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "A50",
+      "sheet": "自動化・自律化50社",
+      "cell": "A51",
+      "text": "エスエムダブリューオートブロック株式会社",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=AKC0LsfHQI4",
+      "kind": "JIMTOF公式出展者ページ",
+      "match_company": "エスエムダブリューオートブロック株式会社",
+      "match_booth": "W2074",
+      "locator": "企業名／小間番号／主な出展物"
+    },
+    {
+      "id": "P01",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D2",
+      "text": "AI溶接エージェント ※展示有無未確認",
+      "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260911.html",
+      "kind": "技術詳細",
+      "locator": "図面読取／溶接条件・動作生成"
+    },
+    {
+      "id": "P02",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D3",
+      "text": "日立×ファナック フィジカルAI ※関連構想",
+      "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260930.html",
+      "kind": "技術詳細",
+      "locator": "日立との戦略的パートナーシップ／実証計画"
+    },
+    {
+      "id": "P03",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D4",
+      "text": "TRINIX",
+      "url": "https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix",
+      "kind": "技術詳細",
+      "locator": "TRINIX／SimReady"
+    },
+    {
+      "id": "P04",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D5",
+      "text": "加工最適化／AIデータ解析／Physical AI開発・統合システム",
+      "url": "https://www.itcmt.co.jp/news/exhibition/",
+      "kind": "技術詳細",
+      "locator": "JIMTOF2026／HATS／Fuzzy Studio／加工監視"
+    },
+    {
+      "id": "P05",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D6",
+      "text": "HS4200＋フィジカルAI搭載レール走行ロボット",
+      "url": "https://smd.co.jp/news/jimtof2026/",
+      "kind": "技術詳細",
+      "locator": "HS4200／自動化ソリューション"
+    },
+    {
+      "id": "P06",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D7",
+      "text": "SHIMADA AUTOMATION MODULE",
+      "url": "https://smd.co.jp/lineup/shimada_automation_module/",
+      "kind": "技術詳細",
+      "locator": "SHIMADA AUTOMATION MODULE"
+    },
+    {
+      "id": "P07",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D8",
+      "text": "工場自律化システム（ミニ工場展示）",
+      "url": "https://www.sofix.co.jp/products/sofixcan_fleeter/",
+      "kind": "技術詳細",
+      "locator": "SOFIXCAN Fleeter／工場自律化"
+    },
+    {
+      "id": "P08",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D9",
+      "text": "SOFIXCAN AI Forecast",
+      "url": "https://www.sofix.co.jp/products/sofixcan_ai_forecast/",
+      "kind": "技術詳細",
+      "locator": "SOFIXCAN AI Forecast"
+    },
+    {
+      "id": "P09",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D10",
+      "text": "豆蔵 AIロボットティーチング支援",
+      "url": "https://www.mamezou.com/news/press-release/20250805",
+      "kind": "技術詳細",
+      "locator": "関連研究：自然言語によるティーチング。今回展示を証明するリンクではない"
+    },
+    {
+      "id": "P10",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D11",
+      "text": "自動仕分けソリューション ※開発中",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M",
+      "kind": "公式出展説明",
+      "locator": "主な出展物・技術説明。個別の追加製品資料は今回確定できず"
+    },
+    {
+      "id": "P11",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D12",
+      "text": "TwinCAT CNC（オープンなPCベースCNC）",
+      "url": "https://infosys.beckhoff.com/content/1033/tcinfosys3/7666870155.html",
+      "kind": "技術詳細",
+      "locator": "TwinCAT CNC／外部補正・HLI・リアルタイム機能"
+    },
+    {
+      "id": "P12",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D13",
+      "text": "TwinCAT CoAgent",
+      "url": "https://www.beckhoff.com/en-en/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+      "kind": "技術詳細",
+      "locator": "TwinCAT CoAgent for Engineering"
+    },
+    {
+      "id": "P13",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D14",
+      "text": "台車型ロボットシステム「TR-20W」※フィジカルAI搭載・参考出品",
+      "url": "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+      "kind": "技術詳細",
+      "locator": "TAKISAWA／TR-20W／参考出品"
+    },
+    {
+      "id": "P14",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D15",
+      "text": "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり",
+      "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+      "kind": "技術詳細",
+      "locator": "my DMG MORI サービスエージェント"
+    },
+    {
+      "id": "P15",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D16",
+      "text": "Condition Agent（主軸・送り軸の予兆診断）",
+      "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_conditionagent.html",
+      "kind": "技術詳細",
+      "locator": "Condition Agent"
+    },
+    {
+      "id": "P16",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D17",
+      "text": "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認",
+      "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_geniac.html",
+      "kind": "技術詳細",
+      "locator": "GENIAC／製造フィジカルAI構想"
+    },
+    {
+      "id": "P17",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D18",
+      "text": "匠フォース AIエージェント（見積作成）※会場で実演あり",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000057137.html",
+      "kind": "技術詳細",
+      "locator": "匠技研工業自社発表／見積AIエージェント"
+    },
+    {
+      "id": "P18",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D19",
+      "text": "AI類似図面検索",
+      "url": "https://takumi-force.jp/",
+      "kind": "技術詳細",
+      "locator": "匠フォース／図面検索・見積の製品説明"
+    },
+    {
+      "id": "P19",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D20",
+      "text": "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標",
+      "url": "https://www.mitsubishielectric.co.jp/ja/pr/2026/1021_rd/",
+      "kind": "技術詳細",
+      "locator": "ヒューマノイドとCNC工作機械の連携／AI加工タスクプランナー"
+    },
+    {
+      "id": "P20",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D21",
+      "text": "HGM-DX 自動両面研削システム",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg",
+      "kind": "公式出展説明",
+      "locator": "主な出展物・技術説明。個別の追加製品資料は今回確定できず"
+    },
+    {
+      "id": "P21",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D22",
+      "text": "長尺研削高精度自動化システム（センタレス）リング形状ワークの無人運転（事例）",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=GFSwCXSxe9o",
+      "kind": "公式出展説明",
+      "locator": "主な出展物・技術説明。個別の追加製品資料は今回確定できず"
+    },
+    {
+      "id": "P22",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D23",
+      "text": "Closed Loop（歯車の測定→補正値の自動生成）、DDQM、Smart Factory",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=K8FKaawJkn0",
+      "kind": "公式出展説明",
+      "locator": "主な出展物・技術説明。個別の追加製品資料は今回確定できず"
+    },
+    {
+      "id": "P23",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D24",
+      "text": "OSP-AI（AI機械診断・AI加工診断）",
+      "url": "https://www.okuma.co.jp/smart-factory/osp-suite/osp-ai.php",
+      "kind": "技術詳細",
+      "locator": "OSP-AI／機械診断・加工診断"
+    },
+    {
+      "id": "P24",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D25",
+      "text": "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）",
+      "url": "https://www.okuma.co.jp/english/product/it-products/osp-p500.php",
+      "kind": "技術詳細",
+      "locator": "OSP-P500／デジタルツイン・操作支援"
+    },
+    {
+      "id": "P25",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D26",
+      "text": "ツールスコーププラス＋アナライザー ※読めない（名称後の注記）",
+      "url": "https://mori-machinery.com/wp-content/uploads/2023/06/%E7%86%9F%E7%B7%B4%E8%80%85%E3%81%AE%E7%B5%8C%E9%A8%93%E7%9F%A5%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E5%88%87%E5%89%8A%E5%B7%A5%E5%85%B7%E3%81%AE%E6%AC%A0%E3%81%91%E3%83%BB%E6%91%A9%E8%80%97%E3%83%BB%E5%AF%BF%E5%91%BD%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8BAI%E3%82%92%E9%96%8B%E7%99%BA.pdf",
+      "kind": "技術詳細",
+      "locator": "メーカーのAI工具摩耗・欠損推定技術資料。写真の製品名表記は保持"
+    },
+    {
+      "id": "P26",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D27",
+      "text": "GH5（AI搭載の自動刃先ホーニング機）※特許出願中",
+      "url": "https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o",
+      "kind": "公式出展説明",
+      "locator": "主な出展物・技術説明。個別の追加製品資料は今回確定できず"
+    },
+    {
+      "id": "P27",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D28",
+      "text": "HACARUS Check",
+      "url": "https://check.hacarus.com/ja/aisoftware/",
+      "kind": "技術詳細",
+      "locator": "HACARUS Check／AI検査ソフトウェア"
+    },
+    {
+      "id": "P28",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D29",
+      "text": "Rotary Wiperシリーズ×ビジョンプロセッサ（AIによる刃先欠損・切粉巻き付き検知）※特許出願中",
+      "url": "https://optical.kowa-opt.co.jp/camera-rw/",
+      "kind": "技術詳細",
+      "locator": "Rotary Wiper／刃先欠損・切粉巻付き・AI異常検知"
+    },
+    {
+      "id": "P29",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D30",
+      "text": "ESPRIT EDGE ProPlanAI（AI搭載CAM）",
+      "url": "https://nexus.hexagon.com/documentationcenter/en-US/bundle/espritedge-2025.4-onlinehelp/page/concepts/ProPlanAI.html",
+      "kind": "技術詳細",
+      "locator": "ProPlanAI公式技術マニュアル／学習データ・特徴・工程計画"
+    },
+    {
+      "id": "P30",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D31",
+      "text": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認",
+      "url": "https://nexus.hexagon.com/home/product/odyssee/",
+      "kind": "技術詳細",
+      "locator": "ODYSSEE／機械学習・縮約モデル・予測"
+    },
+    {
+      "id": "P31",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D32",
+      "text": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認",
+      "url": "https://nexus.hexagon.com/home/product/nexus-materials-enrich/",
+      "kind": "技術詳細",
+      "locator": "Nexus Materials Enrich／物理モデル・機械学習・FAQ"
+    },
+    {
+      "id": "P32",
+      "sheet": "AI・フィジカルAI",
+      "cell": "D33",
+      "text": "TM AI Cobot（Techman製）",
+      "url": "https://www.bellows.co.jp/products/tm-robot",
+      "kind": "技術詳細",
+      "locator": "ナベル／TM AI Cobot"
+    },
+    {
+      "id": "P03",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H4",
+      "text": "SimReady：アセット検証と実行時検証の分担",
+      "url": "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+      "kind": "追加技術資料",
+      "publisher": "NVIDIA",
+      "locator": "How Do I Validate My Composed Scene…／Would Schemas Allow…",
+      "reviewed_summary": "個別アセットの構造・属性等を静的検証し、組合せたシーンの接続や挙動はシミュレータ実行で確認する。",
+      "scope_note": "TRINIXの生成物を検証する際の比較基準。TRINIXが全項目を自動生成・検証できる証拠ではない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P04",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H5",
+      "text": "Fuzzy Studio：軌道生成・干渉確認と実機制御",
+      "url": "https://www.linkage-japan.co.jp/simulator",
+      "kind": "追加技術資料",
+      "publisher": "リンケージ",
+      "locator": "Fuzzy Studioの特徴／Fuzzy RTOS",
+      "reviewed_summary": "ノーコードでセル設計・軌道生成・リーチと衝突の確認。Fuzzy RTOSによる実機制御と周辺機器連携を説明。",
+      "scope_note": "関連する製品の仕組み。統合システム全体のAI担当範囲や当日の組合せは未確定。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P05",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H6",
+      "text": "HS4200：4主軸の並列加工・着脱と走行ロボット",
+      "url": "https://smd.co.jp/lineup/hs4200/",
+      "kind": "追加技術資料",
+      "publisher": "シマダマシンツール",
+      "locator": "4主軸2NC／ローディングロボット",
+      "reviewed_summary": "加工中に別主軸で着脱できる構成と、機械上部のレールを走行するローディングロボットを説明。",
+      "scope_note": "ハード構成の説明。フィジカルAIが何を認識・判断するかはこのページだけでは確認できない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P09",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H10",
+      "text": "画像による教示位置補正（自然言語教示との比較）",
+      "url": "https://www.mamezou.com/services/embedded/pdc_teachcorrection",
+      "kind": "追加技術資料",
+      "publisher": "豆蔵",
+      "locator": "ロボットのティーチング自動補正／補正の方法",
+      "reviewed_summary": "基準画像との位置差を検出し教示位置を補正。Z方向、XY方向の補正や、補正と溶接を繰り返す方法を説明。",
+      "scope_note": "従来型の画像補正を比較する参考資料。同じAIティーチング製品や今回展示の実装方式と断定しない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P11",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H12",
+      "text": "TwinCAT CNC：独自モジュールとオンライン補正",
+      "url": "https://www.beckhoff.com/de-de/unternehmen/presse/twincat-3-cnc-mit-neuen-funktionen-und-technologiepaketen-2024-09.html",
+      "kind": "追加技術資料",
+      "publisher": "Beckhoff",
+      "locator": "TF5262 CNC Online Adaption／2024-09-10",
+      "reviewed_summary": "TcCOMで独自の補間処理を組込み可能。工具変形に応じた経路補正、工具径補正、送り補正を説明。",
+      "scope_note": "独語資料。オンライン補正の開放性の根拠であり、生成AIや学習制御を標準搭載する証拠ではない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P12",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H13",
+      "text": "CoAgent Operations：稼働データによる故障解析",
+      "url": "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+      "kind": "追加技術資料",
+      "publisher": "Beckhoff",
+      "locator": "TF1700 TwinCAT 3 CoAgent Operations／Product status",
+      "reviewed_summary": "機械・工程の現在データ、ログ、システムメッセージから診断を支援。独自文書の追加やTwinCATコマンド操作も説明。",
+      "scope_note": "D列のEngineering用TE1700とは別の運用向けTF1700。製品発表段階で発売時期は問い合わせ。展示未確認。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P22",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H23",
+      "text": "歯車のClosed Loop・DDQM・工程データ連携",
+      "url": "https://klingelnberg.com/jp/ニュース/見本市/イベント情報/jimtof-2026",
+      "kind": "追加技術資料",
+      "publisher": "Klingelnberg",
+      "locator": "QBG／DDQM／Smart Tracing／Smart Factory／JIMTOF 2026でお会いしましょう",
+      "reviewed_summary": "測定値の加工へのフィードバック、工程横断の品質データ利用、サーボトレース解析を説明。",
+      "scope_note": "メーカーの展示特設。バーチャルマシン・シミュレーションによる紹介と明記。各機能が実機で連続実演されるとは限らない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P24",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H25",
+      "text": "関連制御技術：加工ナビM-iの振動測定→回転数補正",
+      "url": "https://www.okuma.co.jp/solution_technology/process/",
+      "kind": "追加技術資料",
+      "publisher": "オークマ",
+      "locator": "ミーリング加工用加工条件探索機能／加工ナビM-i",
+      "reviewed_summary": "内蔵センサでびびり振動を測定し、適切な主軸回転速度を算出して指令を自動変更。M-g系は候補提示後のワンタッチ変更。",
+      "scope_note": "OSP-P500と併せて質問する関連制御技術。P500全機種の標準装備や今回の展示を示すものではない。AI利用もこの資料だけでは不明。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P31",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H32",
+      "text": "Materials Enrich：短繊維樹脂の疲労曲線予測例",
+      "url": "https://nexus.hexagon.com/community/public/nexus-materials-connect-enrich/b/nexus-materials-news-announcements/posts/can-i-predict-fatigue-curves-for-short-fiber-reinforced-plastics-absolutely",
+      "kind": "追加技術資料",
+      "publisher": "Hexagon／Bernard Alsteens",
+      "locator": "Can I predict fatigue curves for short fiber reinforced plastics? Absolutely!／2025-07-29",
+      "reviewed_summary": "引張曲線と1本のS-N曲線を基に、温度・繊維含有率・荷重角度等を変えた疲労曲線を予測しCAEへ渡す例。",
+      "scope_note": "短繊維強化樹脂の事例。金属材料への適用やあらゆる条件での精度保証を示さない。展示未確認。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P32",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H33",
+      "text": "Techman AI Vision：画像認識・位置決めとモデル学習",
+      "url": "https://www.tm-robot.com/ja/product/ai-vision",
+      "kind": "追加技術資料",
+      "publisher": "Techman Robot",
+      "locator": "AI Vision／AI+ Trainer／AI+ AOI Edge",
+      "reviewed_summary": "画像による位置決め・寸法・外観検査、TMflowとの統合、モデルの学習・配備を説明。",
+      "scope_note": "ナベルが扱う協働ロボットの技術資料。VLAや動作生成の搭載を示すものではない。今回の構成は現地確認。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    }
+  ],
+  "changes": [
+    {
+      "change": "F・G列のリンク64件を削除し、黒文字・下線なしに変更。本文・質問は保持。"
+    },
+    {
+      "change": "H列追加技術資料を両シートに追加。本文精読済みの別資料10件のみ採用。自動化50社のH列は空欄。"
+    }
+  ],
+  "policy": "既存2シート・行順・A:Gの値・優先・着眼点・質問を保持。A/Dのリンク114件は変更しない。HはDとURL重複なしの追加資料に限定。関連方式・比較資料・開発段階はリンクの説明に注記。",
+  "source_sha256": "60f467c4320a38aa8264295ae88de3f4c359fa202ecb3ad7bcac5c8abbcdcf28",
+  "additional_sources": [
+    {
+      "id": "P03",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H4",
+      "text": "SimReady：アセット検証と実行時検証の分担",
+      "url": "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+      "kind": "追加技術資料",
+      "publisher": "NVIDIA",
+      "locator": "How Do I Validate My Composed Scene…／Would Schemas Allow…",
+      "reviewed_summary": "個別アセットの構造・属性等を静的検証し、組合せたシーンの接続や挙動はシミュレータ実行で確認する。",
+      "scope_note": "TRINIXの生成物を検証する際の比較基準。TRINIXが全項目を自動生成・検証できる証拠ではない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P04",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H5",
+      "text": "Fuzzy Studio：軌道生成・干渉確認と実機制御",
+      "url": "https://www.linkage-japan.co.jp/simulator",
+      "kind": "追加技術資料",
+      "publisher": "リンケージ",
+      "locator": "Fuzzy Studioの特徴／Fuzzy RTOS",
+      "reviewed_summary": "ノーコードでセル設計・軌道生成・リーチと衝突の確認。Fuzzy RTOSによる実機制御と周辺機器連携を説明。",
+      "scope_note": "関連する製品の仕組み。統合システム全体のAI担当範囲や当日の組合せは未確定。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P05",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H6",
+      "text": "HS4200：4主軸の並列加工・着脱と走行ロボット",
+      "url": "https://smd.co.jp/lineup/hs4200/",
+      "kind": "追加技術資料",
+      "publisher": "シマダマシンツール",
+      "locator": "4主軸2NC／ローディングロボット",
+      "reviewed_summary": "加工中に別主軸で着脱できる構成と、機械上部のレールを走行するローディングロボットを説明。",
+      "scope_note": "ハード構成の説明。フィジカルAIが何を認識・判断するかはこのページだけでは確認できない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P09",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H10",
+      "text": "画像による教示位置補正（自然言語教示との比較）",
+      "url": "https://www.mamezou.com/services/embedded/pdc_teachcorrection",
+      "kind": "追加技術資料",
+      "publisher": "豆蔵",
+      "locator": "ロボットのティーチング自動補正／補正の方法",
+      "reviewed_summary": "基準画像との位置差を検出し教示位置を補正。Z方向、XY方向の補正や、補正と溶接を繰り返す方法を説明。",
+      "scope_note": "従来型の画像補正を比較する参考資料。同じAIティーチング製品や今回展示の実装方式と断定しない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P11",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H12",
+      "text": "TwinCAT CNC：独自モジュールとオンライン補正",
+      "url": "https://www.beckhoff.com/de-de/unternehmen/presse/twincat-3-cnc-mit-neuen-funktionen-und-technologiepaketen-2024-09.html",
+      "kind": "追加技術資料",
+      "publisher": "Beckhoff",
+      "locator": "TF5262 CNC Online Adaption／2024-09-10",
+      "reviewed_summary": "TcCOMで独自の補間処理を組込み可能。工具変形に応じた経路補正、工具径補正、送り補正を説明。",
+      "scope_note": "独語資料。オンライン補正の開放性の根拠であり、生成AIや学習制御を標準搭載する証拠ではない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P12",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H13",
+      "text": "CoAgent Operations：稼働データによる故障解析",
+      "url": "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+      "kind": "追加技術資料",
+      "publisher": "Beckhoff",
+      "locator": "TF1700 TwinCAT 3 CoAgent Operations／Product status",
+      "reviewed_summary": "機械・工程の現在データ、ログ、システムメッセージから診断を支援。独自文書の追加やTwinCATコマンド操作も説明。",
+      "scope_note": "D列のEngineering用TE1700とは別の運用向けTF1700。製品発表段階で発売時期は問い合わせ。展示未確認。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P22",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H23",
+      "text": "歯車のClosed Loop・DDQM・工程データ連携",
+      "url": "https://klingelnberg.com/jp/ニュース/見本市/イベント情報/jimtof-2026",
+      "kind": "追加技術資料",
+      "publisher": "Klingelnberg",
+      "locator": "QBG／DDQM／Smart Tracing／Smart Factory／JIMTOF 2026でお会いしましょう",
+      "reviewed_summary": "測定値の加工へのフィードバック、工程横断の品質データ利用、サーボトレース解析を説明。",
+      "scope_note": "メーカーの展示特設。バーチャルマシン・シミュレーションによる紹介と明記。各機能が実機で連続実演されるとは限らない。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P24",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H25",
+      "text": "関連制御技術：加工ナビM-iの振動測定→回転数補正",
+      "url": "https://www.okuma.co.jp/solution_technology/process/",
+      "kind": "追加技術資料",
+      "publisher": "オークマ",
+      "locator": "ミーリング加工用加工条件探索機能／加工ナビM-i",
+      "reviewed_summary": "内蔵センサでびびり振動を測定し、適切な主軸回転速度を算出して指令を自動変更。M-g系は候補提示後のワンタッチ変更。",
+      "scope_note": "OSP-P500と併せて質問する関連制御技術。P500全機種の標準装備や今回の展示を示すものではない。AI利用もこの資料だけでは不明。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P31",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H32",
+      "text": "Materials Enrich：短繊維樹脂の疲労曲線予測例",
+      "url": "https://nexus.hexagon.com/community/public/nexus-materials-connect-enrich/b/nexus-materials-news-announcements/posts/can-i-predict-fatigue-curves-for-short-fiber-reinforced-plastics-absolutely",
+      "kind": "追加技術資料",
+      "publisher": "Hexagon／Bernard Alsteens",
+      "locator": "Can I predict fatigue curves for short fiber reinforced plastics? Absolutely!／2025-07-29",
+      "reviewed_summary": "引張曲線と1本のS-N曲線を基に、温度・繊維含有率・荷重角度等を変えた疲労曲線を予測しCAEへ渡す例。",
+      "scope_note": "短繊維強化樹脂の事例。金属材料への適用やあらゆる条件での精度保証を示さない。展示未確認。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    },
+    {
+      "id": "P32",
+      "sheet": "AI・フィジカルAI",
+      "cell": "H33",
+      "text": "Techman AI Vision：画像認識・位置決めとモデル学習",
+      "url": "https://www.tm-robot.com/ja/product/ai-vision",
+      "kind": "追加技術資料",
+      "publisher": "Techman Robot",
+      "locator": "AI Vision／AI+ Trainer／AI+ AOI Edge",
+      "reviewed_summary": "画像による位置決め・寸法・外観検査、TMflowとの統合、モデルの学習・配備を説明。",
+      "scope_note": "ナベルが扱う協働ロボットの技術資料。VLAや動作生成の搭載を示すものではない。今回の構成は現地確認。",
+      "checked_date": "2026-10-24",
+      "evidence_type": "原典本文の要約（原文引用ではない）"
+    }
+  ]
+}

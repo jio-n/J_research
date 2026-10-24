@@ -1,0 +1,82 @@
+[
+  {
+    "cell": "H4",
+    "label": "SimReady：アセット検証と実行時検証の分担",
+    "url": "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+    "status": 200,
+    "final_url": "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+    "page_title": "SimReady FAQ — Omniverse SimReady / SimReady FAQ#"
+  },
+  {
+    "cell": "H5",
+    "label": "Fuzzy Studio：軌道生成・干渉確認と実機制御",
+    "url": "https://www.linkage-japan.co.jp/simulator",
+    "status": 200,
+    "final_url": "https://www.linkage-japan.co.jp/simulator",
+    "page_title": "Fuzzy Studio ロボットシミュレータ | リンケージ株式会社 / Fuzzy Studioロボットシミュレータ"
+  },
+  {
+    "cell": "H6",
+    "label": "HS4200：4主軸の並列加工・着脱と走行ロボット",
+    "url": "https://smd.co.jp/lineup/hs4200/",
+    "status": 200,
+    "final_url": "https://smd.co.jp/lineup/hs4200/",
+    "page_title": "工作機械- HS4200 -多主軸NC旋盤 / HS4200"
+  },
+  {
+    "cell": "H10",
+    "label": "画像による教示位置補正（自然言語教示との比較）",
+    "url": "https://www.mamezou.com/services/embedded/pdc_teachcorrection",
+    "status": 200,
+    "final_url": "https://www.mamezou.com/services/embedded/pdc_teachcorrection",
+    "page_title": "自動ティーチング補正 | 株式会社豆蔵 サービス・製品・技術情報 / 自動ティーチング補正"
+  },
+  {
+    "cell": "H12",
+    "label": "TwinCAT CNC：独自モジュールとオンライン補正",
+    "url": "https://www.beckhoff.com/de-de/unternehmen/presse/twincat-3-cnc-mit-neuen-funktionen-und-technologiepaketen-2024-09.html",
+    "status": 200,
+    "final_url": "https://www.beckhoff.com/de-de/unternehmen/presse/twincat-3-cnc-mit-neuen-funktionen-und-technologiepaketen-2024-09.html",
+    "page_title": "Einfach zu leistungsfähigen CNC-Lösungen für EDM und Additive Manufacturing | Beckhoff Deutschland / Einfach zu leistungsfähigen  CNC-Lösungen für EDM und Additive Manufacturing"
+  },
+  {
+    "cell": "H13",
+    "label": "CoAgent Operations：稼働データによる故障解析",
+    "url": "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+    "status": 200,
+    "final_url": "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+    "page_title": "TF1700 | TwinCAT 3 CoAgent for Operations | Beckhoff Worldwide / TF1700 | TwinCAT 3 CoAgent for OperationsNew"
+  },
+  {
+    "cell": "H23",
+    "label": "歯車のClosed Loop・DDQM・工程データ連携",
+    "url": "https://klingelnberg.com/jp/ニュース/見本市/イベント情報/jimtof-2026",
+    "status": 200,
+    "final_url": "https://klingelnberg.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E8%A6%8B%E6%9C%AC%E5%B8%82/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%83%85%E5%A0%B1/jimtof-2026",
+    "page_title": "Klingelnberg Group: JIMTOF 2026"
+  },
+  {
+    "cell": "H25",
+    "label": "関連制御技術：加工ナビM-iの振動測定→回転数補正",
+    "url": "https://www.okuma.co.jp/solution_technology/process/",
+    "status": 200,
+    "final_url": "https://www.okuma.co.jp/solution_technology/process/",
+    "page_title": "加工ナビ | ソリューション&テクノロジー 精度安定支援 | オークマ株式会社 /  / "
+  },
+  {
+    "cell": "H32",
+    "label": "Materials Enrich：短繊維樹脂の疲労曲線予測例",
+    "url": "https://nexus.hexagon.com/community/public/nexus-materials-connect-enrich/b/nexus-materials-news-announcements/posts/can-i-predict-fatigue-curves-for-short-fiber-reinforced-plastics-absolutely",
+    "status": 200,
+    "final_url": "https://nexus.hexagon.com/community/public/nexus-materials-connect-enrich/b/nexus-materials-news-announcements/posts/can-i-predict-fatigue-curves-for-short-fiber-reinforced-plastics-absolutely",
+    "page_title": "Can I Predict Fatigue Curves for Short Fiber Reinforced Plastics? Absolutely. - Nexus Materials News & Announcements - Nexus Materials (Connect & Enrich) - Nexus Community / Can I Predict Fatigue Curves for Short Fiber Reinforced Plastics? Absolutely."
+  },
+  {
+    "cell": "H33",
+    "label": "Techman AI Vision：画像認識・位置決めとモデル学習",
+    "url": "https://www.tm-robot.com/ja/product/ai-vision",
+    "status": 200,
+    "final_url": "https://www.tm-robot.com/ja/product/ai-vision",
+    "page_title": "AIビジョン | ネイティブAIエンジン + ロボットアーム + ビジョンシステム / AIビジョン"
+  }
+]
