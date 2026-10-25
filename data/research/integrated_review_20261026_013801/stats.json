@@ -1,0 +1,16 @@
+{
+  "current_companies": 59,
+  "current_AI_rows": 32,
+  "current_automation_rows": 59,
+  "commented_companies": 17,
+  "changed_rows": 18,
+  "source_union_items": 406,
+  "outside_items": 317,
+  "additional_active_items": 301,
+  "additional_active_companies": 283,
+  "excluded_items": 16,
+  "past_excluded_companies": 25,
+  "priority_items": 9,
+  "fresh_sources": 19,
+  "original_file_sha256": "3254564cf19d7aec87c10c062c0850c758ada117a94fcfef35d8e4a63e6beed1"
+}

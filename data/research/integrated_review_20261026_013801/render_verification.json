@@ -1,0 +1,64 @@
+{
+  "representative_saved_workbook_ranges": [
+    {
+      "sheet": "AI・フィジカルAI",
+      "range": "A1:F4",
+      "file": "visit-1.png"
+    },
+    {
+      "sheet": "自動化・自律化50社",
+      "range": "A1:F4",
+      "file": "visit-2.png"
+    },
+    {
+      "sheet": "閲覧_AI・フィジカルAI",
+      "range": "A1:F4",
+      "file": "visit-3.png"
+    },
+    {
+      "sheet": "閲覧_自動化・自律化",
+      "range": "A1:F6",
+      "file": "visit-4.png"
+    },
+    {
+      "sheet": "読み方",
+      "range": "A1:B5",
+      "file": "visit-5.png"
+    },
+    {
+      "sheet": "自動化・自律化50社",
+      "range": "D21:I21",
+      "file": "TPR-detail.png"
+    },
+    {
+      "sheet": "未掲載候補",
+      "range": "A1:H4",
+      "file": "extra-1.png"
+    },
+    {
+      "sheet": "技術詳細",
+      "range": "C1:H3",
+      "file": "extra-2.png"
+    },
+    {
+      "sheet": "過去の対象外",
+      "range": "A1:F4",
+      "file": "extra-3.png"
+    },
+    {
+      "sheet": "照合記録",
+      "range": "A1:F4",
+      "file": "extra-4.png"
+    },
+    {
+      "sheet": "根拠台帳",
+      "range": "A1:F4",
+      "file": "extra-5.png"
+    },
+    {
+      "sheet": "読み方",
+      "range": "A1:B5",
+      "file": "extra-6.png"
+    }
+  ]
+}

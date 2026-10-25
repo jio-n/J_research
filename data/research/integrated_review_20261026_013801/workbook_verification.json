@@ -1,0 +1,138 @@
+{
+  "xml_value_link_merge_filter_pane_checks": [
+    {
+      "file": "JIMTOF2026_訪問先一覧_コメント統合・企業別閲覧.xlsx",
+      "sheets": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "data_rows": 32,
+          "value_cells_checked": 297,
+          "merges": 0,
+          "links": 75,
+          "panes_verified": true,
+          "table_filter": true
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "data_rows": 59,
+          "value_cells_checked": 540,
+          "merges": 0,
+          "links": 106,
+          "panes_verified": true,
+          "table_filter": true
+        },
+        {
+          "sheet": "閲覧_AI・フィジカルAI",
+          "data_rows": 32,
+          "value_cells_checked": 297,
+          "merges": 18,
+          "links": 64,
+          "panes_verified": true,
+          "table_filter": false
+        },
+        {
+          "sheet": "閲覧_自動化・自律化",
+          "data_rows": 59,
+          "value_cells_checked": 540,
+          "merges": 12,
+          "links": 98,
+          "panes_verified": true,
+          "table_filter": false
+        },
+        {
+          "sheet": "読み方",
+          "data_rows": 9,
+          "value_cells_checked": 20,
+          "merges": 0,
+          "links": 0,
+          "panes_verified": true,
+          "table_filter": false
+        }
+      ]
+    },
+    {
+      "file": "JIMTOF2026_未掲載候補一覧_別冊.xlsx",
+      "sheets": [
+        {
+          "sheet": "未掲載候補",
+          "data_rows": 301,
+          "value_cells_checked": 6342,
+          "merges": 0,
+          "links": 617,
+          "panes_verified": true,
+          "table_filter": true
+        },
+        {
+          "sheet": "技術詳細",
+          "data_rows": 301,
+          "value_cells_checked": 4530,
+          "merges": 0,
+          "links": 0,
+          "panes_verified": true,
+          "table_filter": true
+        },
+        {
+          "sheet": "過去の対象外",
+          "data_rows": 25,
+          "value_cells_checked": 156,
+          "merges": 0,
+          "links": 0,
+          "panes_verified": true,
+          "table_filter": true
+        },
+        {
+          "sheet": "照合記録",
+          "data_rows": 406,
+          "value_cells_checked": 2849,
+          "merges": 0,
+          "links": 0,
+          "panes_verified": true,
+          "table_filter": true
+        },
+        {
+          "sheet": "根拠台帳",
+          "data_rows": 557,
+          "value_cells_checked": 4464,
+          "merges": 0,
+          "links": 557,
+          "panes_verified": true,
+          "table_filter": true
+        },
+        {
+          "sheet": "読み方",
+          "data_rows": 10,
+          "value_cells_checked": 22,
+          "merges": 0,
+          "links": 0,
+          "panes_verified": true,
+          "table_filter": false
+        }
+      ]
+    }
+  ],
+  "source_unchanged": true,
+  "candidate_counts_verified": true,
+  "input_columns_initially_blank": true,
+  "native_trailing_whitespace_normalization": [
+    {
+      "sheet": "AI・フィジカルAI",
+      "cell": "E26",
+      "change": "Excel保存時の末尾空白正規化"
+    },
+    {
+      "sheet": "自動化・自律化50社",
+      "cell": "E36",
+      "change": "Excel保存時の末尾空白正規化"
+    },
+    {
+      "sheet": "閲覧_AI・フィジカルAI",
+      "cell": "E26",
+      "change": "Excel保存時の末尾空白正規化"
+    },
+    {
+      "sheet": "閲覧_自動化・自律化",
+      "cell": "E36",
+      "change": "Excel保存時の末尾空白正規化"
+    }
+  ]
+}

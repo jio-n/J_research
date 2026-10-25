@@ -1,0 +1,407 @@
+﻿ID,企業名,ブース,技術アイテム,今回の照合結果,元台帳,公式掲載ID
+GR-N01,株式会社ナガセインテグレックス,E7097,GRIDE EYE・生成AI画像変換＋CNN砥面解析,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-90444842e0518afa
+GR-C01,株式会社CAMSUPS,E1053,ENCY 3.0 Cam Agent（Beta）,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6e1367bfcf2402d3
+FC006,ファナック,S2001,フィジカルAI CNC,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-40a56e23f52ed1c4
+FT-F01,ファナック株式会社,S2001,AI溶接エージェント,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-40a56e23f52ed1c4
+FT-F04,ファナック株式会社,S2001,VLA模倣学習・双腕柔軟物操作,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-40a56e23f52ed1c4
+FT-F02,ファナック株式会社,S2001,AIエージェント・マスタレス認識によるキッティング,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-40a56e23f52ed1c4
+FC018,Hexagon Manufacturing Intelligence,E2013,ESPRIT EDGE ProPlanAI,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-e1fe7485b53ef3a9／EXH-2026-6aee6ba316afc22c
+FT-Z01,ヤマザキマザック株式会社,E1001,MAZATROL DX／SOLID MAZATROL,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-67e8b88c3b5b9c06
+FC020,ジェービーエムエンジニアリング,E2002,Mastercam＋CAMAssist,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-8e1cb5ee900beda8
+FT-SI01,シーメンス株式会社,E3006,Eigen Engineering Agent,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9b991dd8132f51dc
+FC011,ベッコフオートメーション,E2028,TwinCAT CoAgent for Engineering：PLC,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-13da9e5ad5605d11
+FC013,ベッコフオートメーション,E2028,TwinCAT CoAgent for Operations,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-13da9e5ad5605d11
+FT-M02,ModuleWorks GmbH,S4005,NGSP＋CAS＋MDES,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-f941f68dfed136ef
+FT-M01,ModuleWorks GmbH,S4005,SmartRoughing／FeedControl,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-f941f68dfed136ef
+RPT007,オークマ,E3028,加工ナビM-i／M-gⅡ（製品資料による比較）,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-83dac2656a4ec28c
+AC085,株式会社サイバーRC,E7074,GH5 AI補正ホーニング,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-a0cbad27ea34d7c4
+FC033,レニショー,E7089,Renishaw Central＋IPC,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-0b525ce2fc2efcd9
+FC030,ソフィックス,E1067,SOFIXCAN Fleeter＋AI Forecast：ミニ工場,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-5045517fca4eabf6
+FT-D03,ＤＭＧ森精機株式会社,E8005,AMR 2000 工具搬送,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-3ff8a9f4ec9f1c07
+FT-P02,株式会社Phoxter,S4028,StellaDrive＋保守AIチャットボット,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-3412d5ff537b2169
+FT-J01,株式会社ジェイテクト,E8003,Mill-Plan,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-18d08a3e4d8ab906
+AC026,株式会社インプローブ,S3008,サクスマ 自律型スケジューラ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-dc0db149daeb6803／EXH-2026-2703960c6bc2e1d3
+AC109,シンクビジョン株式会社,S3022,cycleon 生産スケジューラ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-618e70ffccfa3638
+AR-C03,コマツNTC株式会社,E1058,KOM-Scheduler,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-8970f2d69919d770
+FC040,モリマシナリー,S3048,ツールコラージュアナライザー,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-68c359877b3aafb6
+AC095,株式会社C＆Gシステムズ,E2008,CAM-TOOL AI切削条件算出,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-8d7ad5c62f3412a9
+RPT006,ヤマザキマザック,E1001,Ai Thermal Shield（製品資料による比較）,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-67e8b88c3b5b9c06
+FC054,Wintech Automation,W3051,HGM-DX：測定フィードバック研削,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-ab8167d419f015eb
+FC049,TAKISAWA,E3013,TR-20W：主軸の切粉除去,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-8ac76ba19b2d4f41
+FC051,シマダマシンツール,E2018,HS4200：フィジカルAI自動段取り替え,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-f1923bd974b0a68e
+AC146,東京エレクトロンデバイス株式会社,E7073,3Dスキャン→面取り経路生成,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8c08de1ffed47316
+FT-F03,ファナック株式会社,S2001,AI追従ねじ締め,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-40a56e23f52ed1c4
+FC024,たけびし,S3015,OPC UA情報モデルとエージェント連携,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-081de7433f10d228
+FC014,ベッコフオートメーション,E2028,TwinCAT Machine Learning Creator,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-13da9e5ad5605d11
+AC273,"NdotLight Co., Ltd.",S4004,TRINIX CAD／SimReady生成,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-016097f87d1914b2
+FT-D01,ＤＭＧ森精機株式会社,E8005,my DMG MORI サービスエージェント,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-3ff8a9f4ec9f1c07
+FC004,DMG森精機,E8005,Condition Agent,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-3ff8a9f4ec9f1c07
+FC012,ベッコフオートメーション,E2028,TwinCAT CoAgent for Engineering：I/O・HMI,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-13da9e5ad5605d11
+FT-J02,株式会社ジェイテクト,E8003,ファインティーチレスツール,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-18d08a3e4d8ab906
+FT-D02,ＤＭＧ森精機株式会社,E8005,GX Flex 工具・チャック爪・ワーク交換,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-3ff8a9f4ec9f1c07
+FC001,DMG森精機,E8005,AMR 1000,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-3ff8a9f4ec9f1c07
+AC041,エンシュウ株式会社,E3027,Mobile Robot＋JE50S,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-0e942b9436bf5d6c
+AC186,株式会社白山機工,E2007,AMR 切り屑自動回収,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d8a50e23a9101b11
+AC039,FNS株式会社,E2034,TM-2800,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9022dcaec2b02dde
+FC046,牧野フライス製作所,E1024,パレット自動化／MAS・ラインエンジニアリング,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-4da41646b2511bcf
+FC047,松浦機械製作所,E3030,5軸＋マルチパレット／MiOS,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-d6d5c21a94f5a131
+AC230,柳瀬株式会社,W4041,FERROBOTICS 定圧研磨,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-2c9090a62c406e00
+FC048,中村留精密工業,E2027,RoboSync：移設後の位置復旧,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-68d6123fc6036ee4
+FT-P01,株式会社Phoxter,S4028,StellaDeepVision Studio／StellaController2.0,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-3412d5ff537b2169
+FC036,HACARUS,S1031,HACARUS Check ZERO,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9705ee2e4555e787
+FT-G01,株式会社GAZIRU,E3008,GAZIRU.eye 良品学習AI検査,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-96f654a6ea503735
+FC038,ハイデンハイン,E7043,VT122＋VTC 6.0,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-34a393c5512352bc
+AR-C02,コマツNTC株式会社,E1058,KOMTAS 異常判定しきい値の自動設定,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-8970f2d69919d770
+AR-C01,コマツNTC株式会社,E1058,KOM-MICS AI予知保全（切りくず検知）,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-8970f2d69919d770
+AC077,コマツNTC株式会社,E1058,CX500＋パレット／Gate Keeper,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-8970f2d69919d770
+FT-J03,株式会社ジェイテクト,E8003,mJM AI相談室365／Remote Care,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-18d08a3e4d8ab906
+FC058,ミロクリエ,E2016,ミロクルAI保全ナビ／分析レポート,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-edb749152f11c762
+VP001,株式会社Smart Craft,S3002,Smart Craft MES／実績データ活用・AI機能,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e04c5180b870cfec
+FT-G02,株式会社GAZIRU,E3008,GAZIRU.z V5 タグレス個体識別,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-96f654a6ea503735
+AC159,株式会社ナベル,W2041,TM AI Cobot,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-87b7a21b4cef9d01
+FC034,ブルーム-ノボテスト,E7084,FormControl X／DIGILOG,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-30d3fc8503eab132
+AC176,日本クリンゲルンベルグ株式会社,E1006,歯車計測・加工フィードバック,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-fcc72e415a9d406e
+AC136,有限会社ツールディスカバリー,W1069,切削条件AI計算ツール,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-d383a51fea03ae6e
+AC287,System 3R International AB,W2078,協働ロボット・AMR＋ツーリング,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-60afae6de145a809／EXH-2026-1afc398ddfa9e5e6
+AC090,株式会社SANMATSU,S3102,GentleGiant＋iRAYPE,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-b00bbfd6ce23a97e
+AC209,牧野フライス精機株式会社,E7090,SG10EX＋monocam2,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-41a8f9ad241e4c0e
+FT-A01,autonomIQ,E1061,simplymill／AI CAM,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-93a897ca599fc5d9
+FT-O01,オークマ株式会社,E3028,OSP-AI 機械診断／加工診断,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-83dac2656a4ec28c
+RPT002,西部商工,S3020,ACM,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-107042c6cf64ba96
+FC064,三菱電機,S2003,NC MachiningAID（2024）／2026 CNC省人化,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-eb6827bac06bfe00
+FC025,シーイーシー,E2006,Facteye／Resolana,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-a4e5abed33d00e30
+FC062,匠技研工業,S3011,匠フォース：業務AIエージェント,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-772ea44d0e95dba2
+AC289,"Tongtai Machine Tool Co., Ltd.",E1009-3,超音波周波数自動追従,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-bf72a60018da6e7c
+GR-A01,ANCA Machine Tools Japan株式会社,E1066,MX7 ULTRA：LaserUltra・MTC・振れ補正,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-02e7070b98e7ee0b
+GR-T01,株式会社東京精密,E7044,DuraMax＋TARNAR：多品種自動計測（技術照会対象）,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-36918b468fbc355f
+GR-K01,株式会社キーエンス,S4021,VSシリーズ：良品・不良品学習AI＋ルール検査,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8ec273f6a72aae0c
+GR-I01,ifm efector株式会社,S3061,moneo SmartLimitWatcher：動的しきい値監視,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2a48937f4eb5e220
+GR-I02,ifm efector株式会社,S3061,moneo Assistant：生成AIによるIIoT操作支援,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2a48937f4eb5e220
+GR-E01,株式会社エロワ日本,S1068,JMS 4.0 ProductionLine／MoldLine,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f70ca2797c588894
+GR-O01,株式会社オプトン,E1007,GWベンダー＋RF-1000：3D計測フィードバック,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ffc1733aea366804
+GR-Q01,クオリカ株式会社,E1058,KOM-MICS：切削負荷可視化・NC最適化支援,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-50d8c951f736be82
+GR-CI01,シチズンマシナリー株式会社,S2002,見積支援／図面管理ツール（アルカプリ）,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-02147c6f37a0a824
+AC252,BUFFOLI TRANSFER S.p.A.,E1034,ターンキー加工ライン・AI検査提案,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-606bae6e521953bf
+AC250,"BizLink Special Cables (Changzhou) Co., Ltd.",S1052,統合ロボット・プログラミング,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-50111527cf450bde
+AC257,Dongguan Dongfangqidu Metrology Co Ltd,E7006,プローブ・工具オフセット補正,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d39b5dc8b972e1a4
+N0890,"Dongguan Simp Tech Co., Ltd.",S3059,プローブ・工具オフセット自動更新,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3d2bc41fd60bf29a
+AC260,"FAPTECH (HANGZHOU) CO.,LTD.",E2026,トランスファーライン,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-71042226949434d5
+N0916,GNUTTI Transfer S.p.A.,E3014,トランスファー機・バーローダ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-99bab8efde42ac87
+AC069,GROB Japan株式会社,S1059,加工ライン自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c73d489b393f8bc8
+AC265,INCOS INC,S3006,boxcon 工具在庫管理,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-50a336f6fb27482a
+AC268,"KAI HUNG MACHINERY CO., LTD.",E1009-5,ターンキー自動加工ライン,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-eee5f5bb1b44f5c1
+AC275,NINGBO BLIN MACHINERY CO LTD,S1073,棒材・ロボット・パーツキャッチャ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-df9fd9e3f835e55a
+AC276,"PERFECT MACHINE CO., LTD.",S1081,砥石自動ドレス・補正,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-166eb1d478702025
+AC277,Profiroll Technologies GmbH,S1055,転造加工自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-b35ce23f501c1830
+AC279,Quality Vision International Inc,E2026,SmartScope 自動測定,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ce095464035fb5f1
+AC280,Röders GmbH,E3014,RXP601D 自動加工セル,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8dbb00228000aa6c
+AC282,Schwäbische Werkzeugmaschinen GmbH,E3027,多軸加工機・ロボット自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2ddab123ec038212
+AC284,Shenzhen JPT Opto-Electronics Co Ltd,S1046,レーザCAM 自動経路生成,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ef080b66b221230c
+AC143,THK株式会社,W2018,NEXTAGE 双腕ロボット,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-45c22ca4a91150f4
+AC291,United Machining Mill AG - MIKRON MILL,E8001,Mikron MILL 自動化セル,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-66bd137625ce375b
+AC295,WinTool AG,E1049,WinTool 自動購買・工具管理,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-4fb92ba6b82546d7
+AC298,"YANGZHOU METALFORMING MACHINE TOOL CO.,LTD",S1088,プレス自動ライン,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6e4fdf8d0532940b
+N1133,"Yuan Jun Industry Co., Ltd .",S1075,CNC自動バンドソー,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-21cf4cfb16b89986
+AC038,エバ工業株式会社,E7065,VTS 工具ストッカー,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-82c1d23abea2ae6d
+AC042,オーエスジー株式会社,W1070,MONOlith BOX 工具管理,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-89ee86275a54f434
+FC023,オートデスク,S3019,Fusion／FeatureCAM／PLM連携,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d680c617bfdb1dc2
+AC047,オープン・マインド・テクノロジーズ・ジャパン株式会社,S4007,hyperMILL 自動プログラミング,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f3eec5560e813e09
+AC050,カトウ工機株式会社,W2038,ロボット・MC用バリ取りツーリング,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-024be58bd1c7d46f
+AC051,カネテック株式会社,W2013,AI・2Dカメラ＋マグネットピンセット,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-30b70a74241de123
+AC055,キステム株式会社,S4014,Opt1 6軸加工補正,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2c1bff525e1eb40c
+AC058,キタムラ機械株式会社,E2030,SUPERCELL-400Ga,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8dc74bc2bb78626e
+AC061,キャムタス株式会社,S3067,Speedy mill／Cimatron,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-27ca2522afe8413a
+AC072,コアーテック株式会社,E7018,ロボポール 電動伸縮アクチュエータ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-01761b7d0056c58f
+AC076,コダマコーポレーション株式会社,S3066,TopSolid CAM／SwissTurn,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d7ec640627a22b17
+N0270,コマツ産機株式会社,E1058,位置・荷重フィードバック制御プレス,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-aac3acc29ee983af
+AC111,シンプルテック株式会社,E2022,NCVIEW 自動検証支援,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-7bf0d464b165a8be
+AC098,シーメンス株式会社,E3006,デジタルツイン／人型ロボット紹介,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9b991dd8132f51dc
+AC112,スター精密株式会社,S1003,SC系・自動旋盤の連続加工,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-0a5e5a2628606f5f
+AC127,ダイナミックツール株式会社,S2009,磁気搬送・ロボットバリ取り,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d32daa7543b852bd
+AC156,トルンプ株式会社,E1044,TruTops・板金工程自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e520f1cac56a6424
+AC153,トーヨーエイテック株式会社,E7045,TACS／Smart Doctor,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-bcc9173d97e5998d
+AC172,ニデックマシンツール株式会社,E3011,NC Twin 仮想加工検証,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d31a435d31c2b6eb
+AC181,ニューレジストン株式会社,W4039,ロボット研削・バリ取り工具,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-66d65480e2017d11
+FC031,パナソニックプロダクションエンジニアリング,W3086,X-Area Remote,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-97b572819459a34c
+FC005,ファナック,S2001,生成AIによるロボット駆動,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-40a56e23f52ed1c4
+N0667,ブラザー工業株式会社,E1055,PC-1 オートパレットチェンジャー,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f418171804483971
+FC059,ミロクリエ,E2016,ミロクルAIメーター読み取り,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-edb749152f11c762
+AC226,ムラテックフロンティア株式会社,S3012,Growing MIS 生産管理,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-859260bbab50e467／EXH-2026-c113a1b2b62c98df
+AC225,ムラテックＣＣＳ株式会社,E3031,プライマリドクタサービス,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-308c5194f12fe009
+FC039,モリマシナリー,S3048,ツールコラージュ,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-68c359877b3aafb6
+AC219,三井精機工業株式会社,E3029,HPX63系・パレット自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-7fc72cdc86a3c989
+AC094,三和ロボティクス株式会社,E7069,NEXSRT J30F,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-26cebfacb64ec6c3
+FC067,三菱商事テクノス,S3100,ロボット＋AMRの工程間連携デモ,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-f6a4140c0a9739fe
+FC065,三菱電機,S2003,放電加工の新開発スケジューラ,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-eb6827bac06bfe00
+AC215,丸紅情報システムズ株式会社,S3081,ATOS Q スキャン・補修加工連携,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-724ec4dafc442c95
+AC019,伊藤忠マシンテクノス株式会社,E1002,フィジカルAI向け二次開発・統合提案,現在の一覧に収録済み,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-41dc1e5513fe9737
+AC122,双和化成株式会社,W4050,ロボット用セラミックバリ取り工具,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f4c953df9f4aea17
+N0673,古川精機株式会社,WA008,ワークストッカー,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-aec8b857e3c78abc
+AC238,吉川鐵工株式会社,E7055,FRE＋リベット供給・協働ロボット,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-43847f0d8d9f485f
+AC083,埼玉精機株式会社,W1002,ロボット用エアツール,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-08030dcd82b4b70e
+N0766,安田工業株式会社,E1057,323本工具・33面パレットプール加工機,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-24aa2f8cf7c688b3
+AC013,安藤株式会社,S3034,FAIRINOロボット・溶接／供給システム,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-af594372ce986f00
+AC091,山陽マシン株式会社,S1072,加工＋ロボット搬送デモ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-98823a900a697909
+AC001,愛知産業株式会社,E2024,C12 GEN2＋RS05-2,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-48e2386f5fc453a1
+AC110,新日本工機株式会社,E3001,大型工作機械の自動化提案,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f1ea599a0042bc55
+AC174,日本オートマチックマシン株式会社,W2009,サーボプレス・自動面取り,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-720ee83a35850033
+AC177,日本スピードショア株式会社,E1065,AEROLAP・レーザ＋協働ロボット,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-89d5c82f4efcbe2c
+FC052,日本精工,W2048,振動診断AI・遠隔監視,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-62cab8e20b370ad9
+AC179,日本精機株式会社,E7092,LSG20 ロボットローダ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e68d8c12e3395528
+FC037,日東商事,S1031,HACARUS Check：協働ロボット多面検査,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-2972a72fbb425425
+AC124,有限会社曽根田工業,W1050,DXキャビネット 工具・物品管理,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6c09024686b35965
+AC224,村田機械株式会社,E3031,重量ワーク自動搬送・加工,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-8add052d1108d4ea
+AC031,株式会社Aiソリューションズ,S4011,hyperMILL／Mastercam,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9109f51b0514db5c
+AC036,株式会社Any Design,S4033,AdjustMan／CalibMan,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6059dd307931eaee
+AC198,株式会社FUJI,E3021,VN40／TN400II／ACUFLEX,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c0de70c161714618
+AC195,株式会社Fact Base,S3017,ズメーン AI・OCR登録,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3b6a1de81c17dfee
+AC006,株式会社アステック,S1023,A33CNC7 ロボット搭載放電加工ヘッド,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-b6d1434bfe8ae571
+AC009,株式会社アビコ技術研究所,S2008,AL-1 ロボットストッカー,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ad740d16e5bf8aeb
+AC010,株式会社アマダ,E2012,SDEW8010i III＋ALFAS-03KR,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-650d9d144d109d53
+AC011,株式会社アマダプレスシステム,E2012,SDEW8010i III＋ALFAS-03KR,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6029a59fb8aad4a7
+AC012,株式会社アルプスツール,E7047,CELSUS32／ASRX-04A,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-aa4cb9abd8dccbec／EXH-2026-bc03b4dc43a21c8d
+N0067,株式会社イノテック,W2076,スマートキャビネット,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ba823dc0e6bbb8bf
+AC022,株式会社イワタツール,W1069,ロボット加工・AI協業提案,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-30fa7d4bf3eb94b2
+AC024,株式会社インテグラ技術研究所,S3069,CAMWorks／SOLIDWORKS CAM,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-10a39d4f417e3976
+AC025,株式会社インプローブ,W3042,サクスマ 生産管理・スケジューリング,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2703960c6bc2e1d3／EXH-2026-dc0db149daeb6803
+AC034,株式会社エス・ティ・シー,E1069,複合加工機の自動化提案,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-521637b4c962ce6d
+N0179,株式会社カワタテック,W2066,SP3950G パレットチェンジャ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c6befe088d12af2f
+AC060,株式会社キャプテンインダストリーズ,E3003,PC-DMIS NC 機上計測,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c8de4ae2c9076f2f
+AC066,株式会社クロイツ,E3025,フローティング式ロボットバリ取り,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-65a684118b48bdf2
+AC073,株式会社ゴーショー,E3014,Schütte 335linear＋ロボット,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-274028d500af35a8
+AC074,株式会社ゴードーソリューション,S4009,NAZCA5 CAM／LINKA3,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-a64bab179251039a
+AC089,株式会社サンシン,E7041,ロボット研磨システム,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-510e9c3efc641c9f
+AC101,株式会社シギヤ精機製作所,E7094,S3 Pro 対話型研削プログラム,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ec6cc41bae704f0d
+AC100,株式会社ジェイテクト,E8003,加工・研削自動化／工程設計支援,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-18d08a3e4d8ab906
+FT-SM01,株式会社スマートモア,E3008,AIデスクトップ外観検査,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-a08070c4a14079e9
+AC117,株式会社セイロジャパン,S3010,GO2cam／Cimatron,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-7c65eb7290ab9d16
+AC119,株式会社ゼネテック,E2022,スキャン→CAD/CAM→加工機連携,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3578da576a0d1e12
+AC123,株式会社ソディック,E2017,ロボット放電加工セル,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f434da28b26d8f26
+AC132,株式会社タンガロイ,W1090,MATRIX360 工具管理,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-b1217429663a31e7
+AC154,株式会社トミタ,W2060,AIカメラ・製造自動化提案,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-20a8d3222020ce04
+AC163,株式会社ニイガタマシンテクノ,E3026,工作機械・ロボット自動ライン,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-b669e6d6d1dc5657
+AC194,株式会社フアクト,S3017,Fusion／ポスト・NCGO・CAM導入支援,未掲載候補へ抽出,astra_refinement_20261023_013112＋gap訪問分析,EXH-2026-ae1a6fcc911ca14b
+AC204,株式会社ブロードリーフ,S3068,OTRS＋AI 作業動画分析,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8014e235f82da6ea
+AC211,株式会社マシンソル,S4006,生産スケジューラ／Elector Scale,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c8322aa501c4ccac
+AC216,株式会社ミスミ,W3099／W1085,MISUMI floow,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-df2de585aa6fd08a／EXH-2026-e80bcf8092a2c421
+AC223,株式会社ムラキ,W1061,ロボットバリ取り・AWC,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2f9afa9947d91429
+AC052,株式会社兼松ケージーケイ,S2017,JDHGT600THMG 計測・研削補正,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8c94cb18f4807b4e
+AC059,株式会社北村製作所,E7054,研削加工の自動化ユニット,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-99a305a4fe6032c4
+AC048,株式会社大宮マシナリー,E7049,センタレス研削自動ライン,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6703fc63c6ab91c5
+AC129,株式会社太陽工機,E8007,TKV85＋PH Cell500,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-68590f09050a3b5c
+AC086,株式会社桜井製作所,E2005,SAKU270F ロボット加工,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-84b51f9f321194ba
+AC015,株式会社池貝,E3002,Neo VM II／HPSB II 自動化構成,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-b13a1cbd634179d5
+AC054,株式会社神崎高級工機製作所,E1071,FD100 自動歯合わせ／加工条件最適化開発,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-91aa8dd094a4a7b2
+N0213,株式会社紀和マシナリー,E2004,2面パレット・両面同時5軸加工機,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-38d951d64d0b7a18
+N0361,株式会社進興製作所,E7067,NC全自動定寸研削,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e10062b724bfbd5e
+AC188,株式会社長谷川機械製作所,E7051,加工機＋自動化セル,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e84a14f7dc6094b9
+AC030,永興電機工業株式会社,W3057,EFORCE ロボット用スピンドル,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6ef0e5bdfc35158c
+AC141,津田駒工業株式会社,W2035,AWC スカラロボット供給,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-a5adb522f7d7861d
+AC118,清和ジーテック株式会社,E3007,歯車加工自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-1046494d602d0d79
+AC140,筑波エンジニアリング株式会社,S3098,ロボット用自動ドア開閉・後付け連携,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d2a941b3c53a5d69
+N0054,育良精機株式会社,E7093,自動棒材供給機,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-35689b80a4d071e3
+FC063,興和オプトロニクス,S3104,RW耐環境ビジョンユニット,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-d8cb2091f35c6af8
+AC164,西島株式会社,S1055,専用機・ロボット搬送,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-3f157feb25f0c4df
+AC116,西部電機株式会社,E2015,M35LP QRコード連携スケジューラ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-80abc40ff2c32d3f
+AC108,進桜電機株式会社,S3049,ロボットバリ取り・研磨,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-90247bcf7f6d80c5
+AC130,高島産業株式会社,S1010,MULTIPRO6 ロボット加工システム,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-51b26370956d2831
+GR-V01,株式会社CGTech,S3014,Vericut Assistant／Intelligence：操作・知識支援,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-5bd703fc37f6b69e
+GR-ST01,スター精密株式会社,S1003,SMOOSS-i：監視・計画表示・遠隔操作,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-0a5e5a2628606f5f
+GR-NX01,株式会社ネクスタ,S4010,スマートF：AI OCR受注登録・PLC連携,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-02dc49c05edd99c0
+GR-NA01,株式会社不二越,E3009,COPARO MZS05：近接検知・停止再開（技術照会対象）,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-61efe82e93d1d334
+N0044,ALPHA LASER JAPAN株式会社,S1009,3D自動レーザ肉盛り,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-98b6ed24a022a7f1
+AC249,"AUTOGRIP MACHINERY CO., LTD.",W3001,自動把持チャック,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-b9c308c3f5d83ade
+AC248,Agie Charmilles SA,E8001,CUT P350 放電加工自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3eb1a3e98b1cfaf9
+N0826,Alfred H. Schütte GmbH,E3014,335linear 自動砥石交換,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-1a020a83cd6f8d6c
+AC251,Blohm Jung GmbH,E8001,平面・プロファイル研削自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-39e340ba804ebaad
+N0846,Bruker Austria GmbH,E7034,精密測定・自動良否判定,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-b8b1648574a8c44d
+FC021,CGTech,S3014,Vericut：Gコード検証,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-5bd703fc37f6b69e
+FC022,CGTech,S3014,Vericut Force／Optimizer,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-5bd703fc37f6b69e
+AC254,"Chen Ying Oil Machine Co., Ltd.",S1049,自動給油・潤滑装置,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-a49b154774608339
+N0874,Crevoisier SA,E2026,汎用・自動研磨機,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ec9a70cb9a031eb3
+AC256,"DGDY SHEET METAL MACHINERY CO.,LTD",E1019,サーボパネルベンダー,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-1dba700d81292c04
+FC002,DMG森精機,E8005,MATRIS WPH 210,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-3ff8a9f4ec9f1c07
+N0897,ESCO S.A.,S1025,エスコマチック コイル自動旋盤,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3df1630aa7abc9df
+N0910,"GC (Shanghai Guicheng Precision Machinery) Co., LTD.",E2026,CNC自動成形機,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c27f5606876ed505
+N0915,"GIZIN INTERNATIONAL CO., LTD.",W4010-3,ATCカムボックス・交換アーム,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-45100bc3cc19ba5b
+AC262,"Gifu Enterprise Co., Ltd",W3040,工具・部品の自動洗浄,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-08801fc905a3c0c2
+AC185,HAWEジャパン株式会社,E3005,省エネ油圧・電子制御システム,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9f03016f633961ce
+N0933,Hann Kuen Machinery and Hardware Co Ltd,S1078,自動アンクランプ付きスピンドル,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6921e6a24ee0748e
+N0936,"Harbin Zhida Measurement & Control Technology Co.,LTD.",E7059,3D走査プローブ・自動バランス機構,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-0176d2a33bc757d2
+FC019,Hexagon Manufacturing Intelligence,E7035,MAESTRO／PRESTO／品質ソフト群,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-6aee6ba316afc22c／EXH-2026-e1fe7485b53ef3a9
+AC002,IDEC株式会社,W4090,安全センサ・ガードロック,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-7d2e05044c8b6788
+AC264,IMM Maschinenbau GmbH,E2026,ブレード等の仕上げ自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-763f74d6ac021fe7
+N0963,INDEX-Werke GmbH & Co. KG Hahn & Tessky,E2026,MS 全軸CNC多軸自動旋盤,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-4ca8d352f5974951
+FC056,Innovalia Metrology,S4001,M3MH：既設機での機上計測,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-aad5ec46ee3c1b0c
+N0127,LKメトロロジー株式会社,S4035,H120 レーザスキャナ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8a1672c9a725f179
+AC271,Masterlink,E1050,工具監視・重荷重パレタイジング,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-19ce238d137fe275
+AC272,"Matrix Precision Co., Ltd",S2019,GVC0260 研削自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c4882a21138dab6c
+AC037,NKワークス株式会社,E3015,自動開閉バイス・グリッパ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9ac2eb87d29b1692
+AC046,Orbray株式会社,E7023,自動アライメント・多方向計測,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ba1fb022d9f4e67c
+AC278,ProGrit GmbH,E3014,自動金型交換・ハンドリング,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-072d2f7215d2c5b5
+AC064,Quod6株式会社,W4017,Pin Power PP-S PLUS,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-7b1312c50474d3b9
+AC245,Rollomatic Japan株式会社,S2005,Road to Automation,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d26755a7bc74fe39
+N1071,"SOCO Machinery Co., Ltd.",E1021,全自動サーボパイプベンダー,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6ef0325233f72130
+AC142,TPR大阪精密機械株式会社,E7033,DDSF 協働ロボット搬送,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-8baabeaaaa69de49
+AC288,"Theta Precision Co., Ltd.",W3003,主軸監視・リアルタイム潤滑制御,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-b8cf89f9a09c5a9c
+RPT001,Third Wave Systems Japan,E1064,Production Module／AdvantEdge,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3f24aaee60d77db1
+FC060,UEL,S1024,BreylSimulator,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c56628752376bfc4
+AC292,United Machining Solutions Management AG,E8001,ATP 工具製造の工程連携,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2109c0e318b1202c
+AC293,"WALRUS PUMP Co., Ltd.",W4075,クーラント供給ポンプ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-703ff3fd652e4672
+AC297,WYLER AG,E2026,温度補正付き自動測定,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8b48ce9818506160
+FC055,Walter Maschinenbau,E8001,ATP：工具製造の工程間搬送,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-660584ca47c42612
+SUB002,Walter Maschinenbau,E8001,HELITRONIC TOOL STUDIO,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-660584ca47c42612
+N1118,"Wuxi Rainbow Intelligent Technology Co., Ltd.",W4101,PID風量自動調整,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d04515da9837ab34
+AC246,YKT株式会社,E2026,工具研削・測定自動化,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-28ad6ce1ddaebaa7
+AC138,ZOLLER Japan株式会社,S1002,genius／venturion 工具自動計測,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3828f130cd66f8e7
+N1138,Zhejiang Taixing Intelligent Equipment Co Ltd,S1051,自動カッター研削盤,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-59bfae02e49b5ad7
+AC007,アズビルTACO株式会社,W4070,QM30VT3・安全制御機器,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2c48cf1373cedc75
+RPT003,アズビル（TACO共同出展）,W4070,U4DM01 NC旋盤予兆検知,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2c48cf1373cedc75
+AC014,イグス株式会社,E3004,smart plastics 状態監視,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d7f06610e0cfe3de
+FC042,イマオコーポレーション,W2001,ナットランナー治具,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-99234148cbcc9c85
+FC043,イマオコーポレーション,W2001,メカ式フィンガー交換,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-99234148cbcc9c85
+AC033,エスエムダブリューオートブロック株式会社,W2074,KNCS-N等・自動ワーク保持,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-d32f9a2c2a12af7a
+FC044,エヌティーツール,W2019,マテハンホルダ,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-e3e0ddff337c4b17
+FC045,エヌティーツール,W2019,BoostMaster,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-e3e0ddff337c4b17
+FC008,オークマ,E3028,ARMROID／OMR20,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-83dac2656a4ec28c
+FC009,オークマ,E3028,熱変位制御（AI利用未確認）,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-83dac2656a4ec28c
+AC056,キソー株式会社,S3092,自動洗浄装置,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-4064c0e9220721ee
+N0216,クール・テック株式会社,S3096,Aqua Blend Pro,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f7001e23342231ac
+AC088,サンゲン株式会社,S4032,New Vista／Ovit 画像検査,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-5c08ccfcdfa12bac
+AC093,サンワ産業株式会社,W3100,SM200＋ 自動傾斜,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-888a1f50fa3f30c8
+AC102,シチズンマシナリー株式会社,S2002,LFV・ATC・計測連携自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-02147c6f37a0a824
+FC050,シマダマシンツール,E2018,HS4200＋レール走行ロボット,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-f1923bd974b0a68e
+AC105,シュンク・ジャパン株式会社,S2024,自動把持・ジョー／パレット交換,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-a1b1c81b9862bd22
+SUB003,シーメンス株式会社,E3006,NX CAM／NX CMM,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9b991dd8132f51dc
+AC114,セイコーインスツル株式会社,E7078,SG1-IB 全自動研削,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-a0fa658c78f270cd
+FC029,ソフィックス,E1067,SOFIXCAN Ω Eye,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-5045517fca4eabf6
+AC137,ツールドインターナショナル株式会社,W1101,工具・ノズル自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-fa987a1ed1bcec86
+FC061,テクノア,S3009,TECHS系：スマホ実績・購買API,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-670300ff3c6adb61
+AC155,トライオプティクス・ジャパン株式会社,S3080,光学角度測定の自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-7d4cf088451b04c9
+AC152,トーチョーマーキングシステムズ株式会社,W1036,MarkinBOX 自動マーキング,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-f38414a11a6afb7b
+FC057,ニコン,E7001,NEXIV・CT・ロボットビジョン等,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-14dacc540e4ddb57
+AC171,ニデックオーケーケー株式会社,E3012,VBX650／GC53RII 自動化,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-3211cafa924b2f84
+AC183,ハイウィン株式会社,W2072,i4.0 状態監視／ロボット軸,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-af31f3db6da43220
+AC184,ハインブッフ・ジャパン株式会社,S2018,ロボット式コレット交換,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-4d2afbc1f254e0f7
+AC187,パスカル株式会社,W2047,センサ付きクランプ・パレットグリッパ,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-56d3111fc27b5344
+FC007,ファナック,S2001,FANUC Smart Digital Twin,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-40a56e23f52ed1c4
+AC197,フォルマー・ジャパン株式会社,E2010,VHybrid／VGrind 自動交換,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-7f8b2de5917f117e
+AC206,ベクトリックス株式会社,E7029,QC-PRO 検査記録・判定,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-051461fc275e164d
+AC207,ベクトル株式会社,W3116,VM-M1 マーキング,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-674c605ed0bd261d
+FC015,ベッコフオートメーション,E2028,TwinCAT CNC：切削信号の解析・独自制御,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-13da9e5ad5605d11
+N0693,ホーコス株式会社,E2001,チップイーター,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3801dfcfc6bc5284
+AC212,マツザワマシナリー株式会社,S1065,全自動研削盤,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-5b194844c6be3f53
+AC213,マツモト機械株式会社,S1064,固定管自動溶接,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-bacd8437326ccedb
+FC035,マーポス,E7087,ARTIS／BLU／VTS,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f8f9701c1858fd1a
+AC221,ミツテック株式会社,W2060,MAR3500 多面外観検査,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-1232fea08643b011
+FC032,ミツトヨ,E7085,自動測定／MiCAT Planner・MiBOT系,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-a9bb55df60fab4d5／EXH-2026-d6b0b9a2e4e63d34
+AC222,ミネベアミツミ株式会社,W2029,HBモータ・6軸力覚センサ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-fb52066b04681c9c
+AC229,モバック株式会社,S2004,スカラロボット式CNC高圧洗浄,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-fa86a6a592392b7e
+FC041,モリマシナリー,S3048,ツールソムリエ,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-68c359877b3aafb6
+FC010,ヤマザキマザック,E1001,INTEGREX＋Ez LOADER 30,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-67e8b88c3b5b9c06
+AC233,ユキワ精工株式会社,W2015,ワークハンドリングホルダ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-4a8402a527c17b99
+AC235,ユナイテッドグラインディング株式会社,E8001,ATP 工具製造工程連携,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-54c4a3eb1080a3bb
+AC236,ユナイテッドマシニング株式会社,E8001,CUT P350 等の加工自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-0c463f125124710f
+N0790,ユニパルス株式会社,E7058,ユニサーボ トルクフィードバック,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-b0fb8d4edb45c9ef
+AC241,リックス株式会社,E3024,クーラント自動混合,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-fbf9f0b05c61b8ad
+AC243,ロームヘルド・ハルダー株式会社,W2003,電動スイングクランプ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e4d55b299fa70670
+AC218,三鷹光器株式会社,E7019,MLP 刃先・形状自動計測,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-076c9523ffcd57c6
+N0441,中央精機株式会社,E7016,PAFC-1 ポイントオートフォーカス,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-90789af0a80f88c0
+AC134,中部クリーン株式会社,S4041,FKM クーラント自動供給,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-7b9e75a5fbf145a4
+AC062,京セラ株式会社,W1046,VIMOA 工具・加工監視,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-916418fd838030de
+AC113,住友精密工業株式会社,E2021,サーボ制御クーラントポンプ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-a155e7aeaf9b66f3
+AC120,先生精機株式会社,S1033,prochamfer 自動位相合わせ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c5ea9a742076c7a1
+AC021,入野機工株式会社,E7048,IIG15HE 内面研削自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e688a71f11c19f74
+AC063,共立精機株式会社,W2025,HP6040VFA・インサート自動交換,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-1c8938d47b63e4bb
+N0176,加茂精工株式会社,W3109,TLS 自動潤滑供給,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c082674ade91e382
+AC160,南海モルディ株式会社,S3005,ロボット粉体肉盛り,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-87d81bbdb5e75826
+AC126,大同興業株式会社,S1007,UNIバリ取り／AXXAIR溶接,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6ffc5e37fa7b33e5
+N0408,大生工業株式会社,W4069,ADF型オートドライブフィルタ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-05d3ea4624d6d0d5
+AC045,大野精工株式会社,E7075,HG400 自動結線,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-426a2f9fe17c70e9／EXH-2026-d9f7c60e51a8c248
+AC028,宇治電化学工業株式会社,W4025,協働ロボット研磨・検査,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-f82101935c4b9830
+AC201,富士精工株式会社,W1062,工具自動交換・バリ取り,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-60ce989c04f949c1
+AC023,岩本工業株式会社,S4043,ICS3200 クーラント希釈・供給,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f1109e3463dd2ac3
+N0180,川田鉄工株式会社,W2065,EPS 自動スクロールチャック,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f470574efb9f0ae4
+N0252,広和エムテック株式会社,W4088,ミニコン／オートミックスⅡ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-11bd6fefc792ea06
+AC162,新潟精機株式会社,E7039,自動栓ゲージ測定,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d0e930b11ed6e2f2
+FC053,日本エスケイエフ,S3031,Adaptive Lubrication／主軸監視,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-5d9bce36b179df04
+AC173,日本オイルポンプ株式会社,W2046,TNC クーラントろ過,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6e7223502c4d3ca8
+AC175,日本キスラー合同会社,S4031,9171B／Piezo Tool System,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e0340858cb52d52f
+AC169,日東工器株式会社,W4049,自動ねじ締め・洗浄,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-21553e90028cfc5e
+AC170,日藤ポリゴン株式会社,S2006,NR1600NCF 自動穴加工,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c1d919f8942e67c7
+AC145,有限会社デュブリン・ジャパン・リミテッド,WA024,流体検知シール機構,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-c9f3df91b8488aae
+N0485,東京タッピングマシン株式会社,E7062,S-3 DEMO 自動ナットねじ立て盤,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-65fba7348cde92e6
+AC148,東京貿易テクノシステム株式会社,E7038,Absolute Arm＋Cobot／RBY紹介,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d7b599b5d3045611
+AC151,東洋精機工業株式会社,E3019,治具交換→洗浄→計測セル,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-0edd272934baf18c
+AC078,株式会社Cominix,W1094,Automix 油剤ミキシング装置,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-63e31a243d5f56e1
+AC016,株式会社IZUSHI,W1087,FORMHAND／IDECK1,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-dcc361015ad89157
+AC040,株式会社MSTコーポレーション,W2011,吊下げロボットストッカー／HSKクランプ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-f74dba1a90bb7c60
+AC017,株式会社イズミコーポレーション,WA007,AMV エアクランピングバイス,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-681d5ad2651a63b2
+AC032,株式会社エグロ,E1045,E32v ロボットセル／E15SK ATC,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-8b33ed02caa981c7
+N0099,株式会社エスアンドエフ,E1034,自動調整機構付き特殊チャック,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8dce061dd8de00db
+AC043,株式会社オーエム製作所,E2019,VTLex1100M 自動化構成,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-75e6c92f1fdf0cb3
+N0225,株式会社クリエイトエンジニアリング,E1022,自動切粉破砕圧縮機,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ad21e1d250ae4595
+N0227,株式会社クレオ,W3102,通い箱・容器洗浄機,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3c328ef443098e27
+AC067,株式会社グローバル・パーツ,S3045,ATCマガジン・APC機構,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-52c126c6f3c4371e
+AC075,株式会社コスメック,W2033,ロボットハンドチェンジャ・クランプ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-0376f488fb693c45
+AC096,株式会社シーケービー,E2035,Flexmill等・加工／測定自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-22d80dbe4c402896
+N0325,株式会社ジェイテクトマシンシステム,W2027,90度自動インデックス機構,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9b9b88b33e990b6b／EXH-2026-9826f39f53f0e6b2
+AC133,株式会社チップトン,W4040,バレル研磨→洗浄→乾燥ライン,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c187ee9769dcb716
+AC139,株式会社ツガミ,S1004,TMA8F／VA3S 自動供給・計測,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-32c10384bbcaec00
+AC157,株式会社ナベヤ,W2053,ロボット用治具交換・固定,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-5c2eb38f86114993
+AC192,株式会社ファーステック,W2073,自動ワーク保持システム,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e4150112aeeac886
+AC193,株式会社ファースト技研,S1006,AWC ワーク自動交換,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-c6b62421f514a00b
+AC205,株式会社ブンリ,W4086,自動清掃フィルタ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-5453132e0eec20bd
+N0758,株式会社メトロテック,E7040,SENMATION 測定ヘッド自動交換,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-626ee6029048e61c
+AC227,株式会社メトロール,S4022,エアミクロンセンサ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d1b2346e07cb38c8
+AC228,株式会社モアソンジャパン,E2022,Geomagic Control X等・検査報告自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d241e6d6ecb5d3ae
+AC234,株式会社ユシロ,S3093,ALFRED クーラント監視,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-1fb607fd5307c2fa
+N0783,株式会社ユーロテクノ,E7034,光学・形状計測の自動良否判定,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-72c29211ed4db0a5
+AC027,株式会社ヴィクストリン,W4098,QuickStop／工具自動交換,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3884a355dc068f08
+AC220,株式会社三井ハイテック,E7071,研削＋搬送・工程内測定,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8278ec058d2d2947
+AC189,株式会社初田製作所,S3083,KZ2 自動消火装置,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e73069bc80a68783
+N0703,株式会社前田シェルサービス,W4093,オートマチックドレン排出バルブ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-9eb5454c4f93e288
+AC057,株式会社北川鉄工所,W2016,ロボットグリッパ・自動交換チャック,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-4e495b7a38654a48
+AC190,株式会社原製作所,S4037,PolyScan V,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-8550e99361de2f5b
+AC247,株式会社和井田製作所,E7098,APX40W 自動インサート研削,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-891a0e945d6e08f6
+AC029,株式会社宇都宮製作所,W1001,TGR032 工具研削自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-cf22d85686acc029
+AC199,株式会社富士機工,E1043,NCベータ 自動位置決め,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-dfd6e029520a8dd8
+AC232,株式会社山善,S1056,SPEEDIO＋協働ロボット＋計測,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-4be1498c7e4dd9c4
+AC049,株式会社岡本工作機械製作所,E7095,研削盤の自動化ソリューション,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6c8f6fc8882f6c9c
+AC191,株式会社広築,E1016,NITRONAVI 雰囲気制御,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-85b5faf8f6b2498f
+AC165,株式会社日研工作所,W2039,3軸オートプリセット／TOOL-FLOW,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-1afd1df5c219afb2
+AC167,株式会社日進ProSOL,E7070,ProSOL ホーニング自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-434b1ee92cad6bf5
+AC005,株式会社旭商工社,W3043,ロボットシステム提案,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-907ef152949f6105
+AC149,株式会社東振テクニカル,E7037,長尺ワーク研削自動化,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-990d4d4c729ff139
+AC150,株式会社東陽,S2016,加工・クーラント周辺自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-3a8078c51f45a046
+AC125,株式会社第一測範製作所,E7004,ISSOKU 自動計測,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-6a2286521c8a84e7
+N0385,株式会社西部ハイテック,S1058,汎用旋盤テーパ自動送り,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-db033f1a12544286
+AC003,株式会社赤松電機製作所,W2032,SMX逆洗ユニット・目詰まりセンサ,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-e01dca63e90b3edc
+AC081,株式会社近藤製作所,E7096,CRX用カメラ・複式チャックハンド,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-ff39ef77fc84bf6f
+N0336,株式会社静岡鐵工所,E1046,ATC搭載CNC立フライス盤,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-701393f130ab8911
+AC244,碌々スマートテクノロジー株式会社,E2025,Android III 加工補正,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-06412089488b96b5
+RPT004,神崎高級工機,E1071,FD100 ギヤチェッカー,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-91aa8dd094a4a7b2
+AC103,芝浦機械株式会社,E2031,工作機械DX・稼働監視,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-2d71c6ed52b9c1a3
+AC242,菱高精機株式会社,W1014,ORION／Titan 自動ホーニング・洗浄,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-1f5c719008ea72e9
+AC158,鍋屋バイテック会社,W2068,グリッパ・把持用部品,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-18f3d6af15ce3d5c
+AC068,黒田精工株式会社,E7091,歯車計測・研削自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-d1c4b808057b7341
+FT-C01,ＣＫＤ株式会社,W4064,FSH／FSB／QREC・組立自動化,未掲載候補へ抽出,visit_gap_review_20261023_163347,EXH-2026-7208c6a57b73beea
+AC107,株式会社松楽産業,S3105,AI画像カウント,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-652d399463a4c9e2
+FC068,ケーメックス・オートメーション,S3024,産業用IPC／VARIO-X・分散I/O,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-d66aeebae0c97d51
+AC178,日本3Dプリンター株式会社,S2014,Raise3D T450 AIカメラ監視,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-3e32007d339c5ff7
+AC079,株式会社小森安全機研究所,E1039,KAGAI 人検知安全システム,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-7dc74545d7cf35a3
+AC269,LNS Management SA,S4016,棒材供給機／Turbo MH,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-ba7a51db7c150816
+AC214,松本機械工業株式会社,W2070,Smart Terrace Advance,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-0daa587f8abf6076
+AC231,山口産業株式会社,E7032,LUBExpert／Iris ai ONE,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-b6977c805d302165
+AC131,タクテックス株式会社,S1016,CAM Assist for SolidCAM,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-0436fc7b61f51a8e
+FC017,EPLAN,S1067,Eplan Copilot,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-0855541afdd2d828
+FC016,EPLAN,S1067,Eplan P8／Pro Panel,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-0855541afdd2d828
+N1043,SAFEWAY MACHINERY INDUSTRY CORPORATION,W3002,Automation work-holding,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-b73d07e2d4941757
+AC210,株式会社マザーツール,S4038,AIカメラ 安全監視,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-57f4a98dc1098522
+N0304,株式会社三輪鉱油,S1039,カム式自動旋盤,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-e0d6414196392d46
+FC027,ものレボ,W3042,MonoRevo：工程計画・スケジューリング,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-0d20b8d359caaf68
+FC028,ものレボ,W3042,MonoRevo：類似図面検索・自動見積,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-0d20b8d359caaf68
+AC008,アナログ・デバイセズ株式会社,S3003,産業用Ethernet・エッジAI制御基盤,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-5fe4f7b65e7b1d1b
+N0608,ハイマージャパン株式会社,E1005,UNO automatic drive,過去のユーザー対象外,visit_gap_review_20261023_163347,EXH-2026-7b15f2aab16a4871
+AC097,株式会社ジーベックテクノロジー,WA006,CPS ブラシ突出し自動調整,現在の一覧に収録済み,visit_gap_review_20261023_163347,EXH-2026-ba283a239e52d644
+IR-MAZAK-AGENT,ヤマザキマザック株式会社,E1001,ABEJA共同開発：工程設計・生産計画AIエージェント＋ロボット学習環境,未掲載候補へ抽出,今回追加,
