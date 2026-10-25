@@ -1,0 +1,23 @@
+{
+  "engine": "Microsoft Excel 16.0",
+  "shared_companies": 12,
+  "source_records_unchanged": true,
+  "columns": 9,
+  "copied_AI_records": 20,
+  "pending_Wintech_comment_not_integrated": true,
+  "verified_at": "2026-10-25T17:51:18",
+  "overlap_filters": [
+    {
+      "overlap_rows": 20.0,
+      "sheet": "AI・フィジカルAI",
+      "records": 32
+    },
+    {
+      "overlap_rows": 21.0,
+      "sheet": "自動化・自律化50社",
+      "records": 59
+    }
+  ],
+  "hyperlink_count_verified": 158,
+  "record_cells_values_verified": 728
+}
