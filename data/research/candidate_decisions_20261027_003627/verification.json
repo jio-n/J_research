@@ -1,0 +1,33 @@
+{
+  "engine": "156.0.4314.42",
+  "checks": [
+    "213 candidates retained",
+    "Legacy selected migrated to go",
+    "Legacy unchecked not mapped to no",
+    "Legacy memo retained",
+    "Go to no is mutually exclusive",
+    "Decision checkbox does not open details",
+    "Uncheck resets pending",
+    "Both decisions persist after reload",
+    "Filter selected 1",
+    "Filter rejected 1",
+    "Filter undecided 211",
+    "Filter remaining 212",
+    "Filter all 213",
+    "Fits mobile width320",
+    "Fits mobile width390",
+    "Fits mobile width430",
+    "Elimination JSON excludes no",
+    "Pending not labelled go in JSON",
+    "JSON scope explicit",
+    "Remaining HTML212",
+    "Remaining HTML decisions restored",
+    "No-only export1",
+    "No decision retains old memo",
+    "Go-only export remains compatible",
+    "Full backup213",
+    "Backup restores both go and no",
+    "No browser errors"
+  ],
+  "errors": []
+}
