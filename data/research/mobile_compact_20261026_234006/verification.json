@@ -1,0 +1,29 @@
+{
+  "engine": "156.0.4314.42",
+  "visible_rows_390x844": 13,
+  "checks": [
+    "All 34 company rows",
+    "Details collapsed initially",
+    "Compact row <=54px",
+    "At least10 rows within390x844 viewport",
+    "No horizontal overflow 320",
+    "No horizontal overflow 390",
+    "No horizontal overflow 430",
+    "Memo indicator restored",
+    "Visited flag restored",
+    "Memo survives reload",
+    "Yellow filter11",
+    "Memo-only filter",
+    "Search FANUC",
+    "Original question text retained",
+    "Original user focus retained",
+    "HTML export escapes note markup",
+    "CSV includes memo",
+    "Exported HTML restores memo in fresh browser",
+    "Exported HTML restores visited",
+    "Storage failure surfaced",
+    "HTML export works without localStorage",
+    "No page script errors"
+  ],
+  "errors": []
+}
