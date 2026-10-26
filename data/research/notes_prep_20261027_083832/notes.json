@@ -1,0 +1,874 @@
+{
+  "source": "data\\research\\mobile_compact_20261026_234006\\app_data.json",
+  "scope": "現在の訪問予定34社。追加候補ページの端末内判断は未取込み。",
+  "notes": [
+    {
+      "id": "E1001-ef5434f28e",
+      "company": "ヤマザキマザック株式会社",
+      "shortName": "ヤマザキマザック",
+      "booth": "E1001",
+      "area": "A",
+      "priority": "黄色",
+      "text": "ヤマザキマザック株式会社｜E1001｜黄（最優先）\n東1ホール／1F\n\n見る展示：\n・ABEJA共同開発：工程設計・生産計画AIエージェント＋ロボット学習環境 ※構想・展示未確認\n・MAZATROL DX／SOLID MAZATROL ※展示有無未確認\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "ABEJA共同開発：工程設計・生産計画AIエージェント＋ロボット学習環境 ※構想・展示未確認",
+          "tags": "AI／フィジカルAI／自律化／自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://www.abejainc.com/news/20261016/2",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes"
+        },
+        {
+          "name": "MAZATROL DX／SOLID MAZATROL ※展示有無未確認",
+          "tags": "AI／自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://www.mazak.com/jp-ja/technology/productivity/",
+          "extraLabel": "JIMTOF2026 特設サイト",
+          "extraUrl": "https://www.mazak.com/discover/jp-ja/jimtof2026/",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=PJEgqNYlWes"
+        }
+      ]
+    },
+    {
+      "id": "E1002-e7b2e76d79",
+      "company": "伊藤忠マシンテクノス株式会社",
+      "shortName": "伊藤忠マシンテクノス",
+      "booth": "E1002",
+      "area": "A",
+      "priority": "緑",
+      "text": "伊藤忠マシンテクノス株式会社｜E1002｜緑（次優先）\n東1ホール／1F\n\n見る展示：\n・加工最適化／AIデータ解析／Physical AI開発・統合システム\n\n着眼点：\n・公式に具体的な説明がないため、現地で中身を確認\n・有力なものがあれば追加\n\n確かめたいこと：\n①Physical AI統合で何を認識・判断・動作させるか\n②加工最適化の入力データと対象\n③ティーチングレスで何を認識して軌道を決めるか\n④従来のロボット自動化との違い\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "加工最適化／AIデータ解析／Physical AI開発・統合システム",
+          "tags": "AI／フィジカルAI／自動化・自律化（候補）",
+          "focus": "・公式に具体的な説明がないため、現地で中身を確認\n・有力なものがあれば追加",
+          "questions": "①Physical AI統合で何を認識・判断・動作させるか\n②加工最適化の入力データと対象\n③ティーチングレスで何を認識して軌道を決めるか\n④従来のロボット自動化との違い",
+          "url": "https://www.itcmt.co.jp/news/exhibition/",
+          "extraLabel": "Fuzzy Studio：軌道生成・干渉確認と実機制御",
+          "extraUrl": "https://www.linkage-japan.co.jp/simulator",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=7ypX6WR51KU"
+        }
+      ]
+    },
+    {
+      "id": "E1006-27f95934ca",
+      "company": "日本クリンゲルンベルグ株式会社",
+      "shortName": "日本クリンゲルンベルグ",
+      "booth": "E1006",
+      "area": "A",
+      "priority": "緑",
+      "text": "日本クリンゲルンベルグ株式会社｜E1006｜緑（次優先）\n東1ホール／1F\n\n見る展示：\n・Closed Loop（歯車の測定→補正値の自動生成）、DDQM、Smart Factory\n\n着眼点：\n・歯面の形状ズレを機械の補正値に変換する点が高度\n・対象は歯車だが、測定→補正の考え方の参考\n\n確かめたいこと：\n①補正を人が承認するか完全自動か\n②計算が式ベースか学習か\n③公差に入らない場合の扱い\n④補正データの活用範囲\n⑤Smart Factory・DDQMでAIが担う内容\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "Closed Loop（歯車の測定→補正値の自動生成）、DDQM、Smart Factory",
+          "tags": "自動化／自律化（候補）",
+          "focus": "・歯面の形状ズレを機械の補正値に変換する点が高度\n・対象は歯車だが、測定→補正の考え方の参考",
+          "questions": "①補正を人が承認するか完全自動か\n②計算が式ベースか学習か\n③公差に入らない場合の扱い\n④補正データの活用範囲\n⑤Smart Factory・DDQMでAIが担う内容",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=K8FKaawJkn0",
+          "extraLabel": "歯車のClosed Loop・DDQM・工程データ連携",
+          "extraUrl": "https://klingelnberg.com/jp/ニュース/見本市/イベント情報/jimtof-2026",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=K8FKaawJkn0"
+        }
+      ]
+    },
+    {
+      "id": "E1034-c28621767a",
+      "company": "BUFFOLI TRANSFER S.p.A.",
+      "shortName": "BUFFOLI TRANSFER S.p.A.",
+      "booth": "E1034",
+      "area": "A",
+      "priority": "青系",
+      "text": "BUFFOLI TRANSFER S.p.A.｜E1034｜青（行けたら）\n東1ホール／1F\n\n見る展示：\n・トランスファーマシン／AI品質検査・予知保全\n\n着眼点：\nAI品質検査や予知保全、Industry 4.0／5.0への対応という記載はあるが、詳細はまだ確認できていない。時間があれば訪問。\n\n確かめたいこと：\nAIの入力・判定対象・方式は何か。検査結果や異常予兆を加工条件変更へ接続しているか。\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "トランスファーマシン／AI品質検査・予知保全",
+          "tags": "AI（詳細未確認）／自動化",
+          "focus": "AI品質検査や予知保全、Industry 4.0／5.0への対応という記載はあるが、詳細はまだ確認できていない。時間があれば訪問。",
+          "questions": "AIの入力・判定対象・方式は何か。検査結果や異常予兆を加工条件変更へ接続しているか。",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=XR5ASqmy4zw",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=XR5ASqmy4zw"
+        }
+      ]
+    },
+    {
+      "id": "E1067-cc89eff129",
+      "company": "株式会社ソフィックス",
+      "shortName": "ソフィックス",
+      "booth": "E1067",
+      "area": "A",
+      "priority": "緑",
+      "text": "株式会社ソフィックス｜E1067｜緑（次優先）\n東1ホール／1F\n\n見る展示：\n・工場自律化システム（ミニ工場展示）\n・SOFIXCAN AI Forecast\n\n着眼点：\n［工場自律化システム（ミニ工場展示）］\n・「人の判断や指示に依存せず止まらない工場」を本当に実演しているか\n・どんな技術で成り立っているか\n［SOFIXCAN AI Forecast］\n・機械学習ライブラリとしての新しさ\n・異常予兆、画像の輪郭抽出・特徴量解析の\n\n確かめたいこと：\n［工場自律化システム（ミニ工場展示）］\n①AIで判断する箇所とルールで動く箇所の区別\n②異常予兆の検知後、搬送・生産の切替まで人を介さず動くか\n③「止まらない」の中身（事前対応か、停止後の自動復旧か）\n④導入事例の有無\n［SOFIXCAN AI Forecast］\n①予兆検知の時系列データと手法\n②画像解析の用途と従来の画像処理との差\n③顧客ごとのモデル開発のデータ量・期間\n④2024年の熱変位補正AIとの関係\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "工場自律化システム（ミニ工場展示）",
+          "tags": "AI／自動化／自律化（候補）",
+          "focus": "・「人の判断や指示に依存せず止まらない工場」を本当に実演しているか\n・どんな技術で成り立っているか",
+          "questions": "①AIで判断する箇所とルールで動く箇所の区別\n②異常予兆の検知後、搬送・生産の切替まで人を介さず動くか\n③「止まらない」の中身（事前対応か、停止後の自動復旧か）\n④導入事例の有無",
+          "url": "https://www.sofix.co.jp/products/sofixcan_fleeter/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ"
+        },
+        {
+          "name": "SOFIXCAN AI Forecast",
+          "tags": "AI",
+          "focus": "・機械学習ライブラリとしての新しさ\n・異常予兆、画像の輪郭抽出・特徴量解析の",
+          "questions": "①予兆検知の時系列データと手法\n②画像解析の用途と従来の画像処理との差\n③顧客ごとのモデル開発のデータ量・期間\n④2024年の熱変位補正AIとの関係",
+          "url": "https://www.sofix.co.jp/products/sofixcan_ai_forecast/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=rYRhOM0muPQ"
+        }
+      ]
+    },
+    {
+      "id": "E1053-d960a28123",
+      "company": "株式会社CAMSUPS",
+      "shortName": "CAMSUPS",
+      "booth": "E1053",
+      "area": "A",
+      "priority": "黄色",
+      "text": "株式会社CAMSUPS｜E1053｜黄（最優先）\n東1ホール／1F\n\n見る展示：\n・ENCY 3.0 Cam Agent（Beta）※Agent個別の実演は未確認\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "ENCY 3.0 Cam Agent（Beta）※Agent個別の実演は未確認",
+          "tags": "AI／自律化／自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://encycam.com/ency-3-0/",
+          "extraLabel": "ENCY at JIMTOF2026",
+          "extraUrl": "https://encycam.com/events/ency-at-jimtof-2026-japan/",
+          "companyUrl": "https://www.jimtof.org/map/jp/e1-3_booth/e1-3.html?no=E1053"
+        }
+      ]
+    },
+    {
+      "id": "E1024-db23eb8561",
+      "company": "株式会社牧野フライス製作所",
+      "shortName": "牧野フライス製作所",
+      "booth": "E1024",
+      "area": "A",
+      "priority": "緑",
+      "text": "株式会社牧野フライス製作所｜E1024｜緑（次優先）\n東1ホール／1F\n\n見る展示：\n・注目アイテム未指定\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "注目アイテム未指定",
+          "tags": "",
+          "focus": "",
+          "questions": "",
+          "url": "",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=M5OL10ECBTE"
+        }
+      ]
+    },
+    {
+      "id": "E2013-467e123f0e",
+      "company": "Hexagon Manufacturing Intelligence株式会社",
+      "shortName": "Hexagon Manufacturing Intelligence",
+      "booth": "E2013",
+      "area": "A",
+      "priority": "緑",
+      "text": "Hexagon Manufacturing Intelligence株式会社｜E2013｜緑（次優先）\n東2ホール／1F\n\n見る展示：\n・ESPRIT EDGE ProPlanAI（AI搭載CAM）\n・ODYSSEE（リアルタイム予測・最適化）※展示有無未確認\n・Nexus Materials Enrich（材料データセットの強化）※展示有無未確認\n\n着眼点：\n［ESPRIT EDGE ProPlanAI（AI搭載CAM）］\n・CNCプログラミングを加速する技術がどんなものか\n・過去知見を使うので、形式知化の一つになりそう\n［ODYSSEE（リアルタイム予測・最適化）※展示有無未確認］\n・シミュレーションの高速化\n［Nexus Materials Enrich（材料データセットの強化）※展示有無未確認］\n・材料データセットの効率化。\n\n確かめたいこと：\n［ESPRIT EDGE ProPlanAI（AI搭載CAM）］\n①学習に必要な過去データの量と前処理\n②人が修正した結果は再学習されるか、誤った手順を学習しない確認方法\n③提案するのは工具経路か、工程順・段取りまでか\n④「機械を意識したAI（デジタルツイン）」で何を判断できるか\n［ODYSSEE（リアルタイム予測・最適化）※展示有無未確認］\n①加工（切削）シミュレーションに使った例の有無\n②予測モデルを作るのに必要なデータ量と学習時間\n③予測の誤差の目安\n［Nexus Materials Enrich（材料データセットの強化）※展示有無未確認］\n①現在は樹脂が対象。金属材料への対応の予定はあるか\n②足りない条件を補う方法（物理モデルか機械学習か）と誤差の示し方\n③補強したデータと実測データの区別の仕方\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "ESPRIT EDGE ProPlanAI（AI搭載CAM）",
+          "tags": "AI／自動化",
+          "focus": "・CNCプログラミングを加速する技術がどんなものか\n・過去知見を使うので、形式知化の一つになりそう",
+          "questions": "①学習に必要な過去データの量と前処理\n②人が修正した結果は再学習されるか、誤った手順を学習しない確認方法\n③提案するのは工具経路か、工程順・段取りまでか\n④「機械を意識したAI（デジタルツイン）」で何を判断できるか",
+          "url": "https://nexus.hexagon.com/documentationcenter/en-US/bundle/espritedge-2025.4-onlinehelp/page/concepts/ProPlanAI.html",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4"
+        },
+        {
+          "name": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認",
+          "tags": "AI",
+          "focus": "・シミュレーションの高速化",
+          "questions": "①加工（切削）シミュレーションに使った例の有無\n②予測モデルを作るのに必要なデータ量と学習時間\n③予測の誤差の目安",
+          "url": "https://nexus.hexagon.com/home/product/odyssee/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4"
+        },
+        {
+          "name": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認",
+          "tags": "AI",
+          "focus": "・材料データセットの効率化。",
+          "questions": "①現在は樹脂が対象。金属材料への対応の予定はあるか\n②足りない条件を補う方法（物理モデルか機械学習か）と誤差の示し方\n③補強したデータと実測データの区別の仕方",
+          "url": "https://nexus.hexagon.com/home/product/nexus-materials-enrich/",
+          "extraLabel": "Materials Enrich：短繊維樹脂の疲労曲線予測例",
+          "extraUrl": "https://nexus.hexagon.com/community/public/nexus-materials-connect-enrich/b/nexus-materials-news-announcements/posts/can-i-predict-fatigue-curves-for-short-fiber-reinforced-plastics-absolutely",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=6l20Qo0pjl4"
+        }
+      ]
+    },
+    {
+      "id": "E2018-1206a60d7f",
+      "company": "株式会社シマダマシンツール",
+      "shortName": "シマダマシンツール",
+      "booth": "E2018",
+      "area": "A",
+      "priority": "緑",
+      "text": "株式会社シマダマシンツール｜E2018｜緑（次優先）\n東2ホール／1F\n\n見る展示：\n・HS4200＋フィジカルAI搭載レール走行ロボット\n・SHIMADA AUTOMATION MODULE\n\n着眼点：\n［HS4200＋フィジカルAI搭載レール走行ロボット］\n・4主軸2NC旋盤とフィジカルAIロボットの組み合わせの中身\n・使っている技術\n［SHIMADA AUTOMATION MODULE］\n・「工程間連携」の実際の範囲と水準\n\n確かめたいこと：\n［HS4200＋フィジカルAI搭載レール走行ロボット］\n①段取り替えでAIが認識・判断する対象\n②「誰でも簡単に」なった作業と、残る人の作業\n③AIは自社開発か外部機能か\n④2024年からの変化\n［SHIMADA AUTOMATION MODULE］\n①計測結果を工具補正へ自動で返す範囲\n②他の機械・前後工程との接続\n③品種切替時の段取り工数\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "HS4200＋フィジカルAI搭載レール走行ロボット",
+          "tags": "AI／フィジカルAI（候補）／自動化",
+          "focus": "・4主軸2NC旋盤とフィジカルAIロボットの組み合わせの中身\n・使っている技術",
+          "questions": "①段取り替えでAIが認識・判断する対象\n②「誰でも簡単に」なった作業と、残る人の作業\n③AIは自社開発か外部機能か\n④2024年からの変化",
+          "url": "https://smd.co.jp/news/jimtof2026/",
+          "extraLabel": "HS4200：4主軸の並列加工・着脱と走行ロボット",
+          "extraUrl": "https://smd.co.jp/lineup/hs4200/",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4"
+        },
+        {
+          "name": "SHIMADA AUTOMATION MODULE",
+          "tags": "自動化／自律化（候補）",
+          "focus": "・「工程間連携」の実際の範囲と水準",
+          "questions": "①計測結果を工具補正へ自動で返す範囲\n②他の機械・前後工程との接続\n③品種切替時の段取り工数",
+          "url": "https://smd.co.jp/lineup/shimada_automation_module/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=xntdeqgs_F4"
+        }
+      ]
+    },
+    {
+      "id": "E2028-6453d6a1c5",
+      "company": "ベッコフオートメーション株式会社",
+      "shortName": "ベッコフオートメーション",
+      "booth": "E2028",
+      "area": "A",
+      "priority": "緑",
+      "text": "ベッコフオートメーション株式会社｜E2028｜緑（次優先）\n東2ホール／1F\n\n見る展示：\n・TwinCAT CNC（オープンなPCベースCNC）\n・TwinCAT CoAgent\n\n着眼点：\n［TwinCAT CNC（オープンなPCベースCNC）］\n・自作の制御やAIモジュールをCNCに組み込める自由度\n・センサ監視→解析→制御フィードバックが1つの基盤で\n・ユーザー側でどこまで独自機能を作れるか\n［TwinCAT CoAgent］\n・一般的な生成AI支援との差を確認する程度\n・TwinCAT CNCの補助として見る\n\n確かめたいこと：\n［TwinCAT CNC（オープンなPCベースCNC）］\n①外部センサ取得からCNC補正まで、周期・範囲\n②AIモデルのCNC制御への組込み方法と安全・品質保証\n③後付けか新規機組込みか\n④切削状態の監視から自動補正までの実績\n［TwinCAT CoAgent］\n①TwinCAT固有の構造をどこまで理解して提案できるか\n②アラーム診断のデータ\n③生成結果の検証・承認を人がどこで行うか\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "TwinCAT CNC（オープンなPCベースCNC）",
+          "tags": "自動化／自律化基盤／AI実装基盤",
+          "focus": "・自作の制御やAIモジュールをCNCに組み込める自由度\n・センサ監視→解析→制御フィードバックが1つの基盤で\n・ユーザー側でどこまで独自機能を作れるか",
+          "questions": "①外部センサ取得からCNC補正まで、周期・範囲\n②AIモデルのCNC制御への組込み方法と安全・品質保証\n③後付けか新規機組込みか\n④切削状態の監視から自動補正までの実績",
+          "url": "https://infosys.beckhoff.com/content/1033/tcinfosys3/7666870155.html",
+          "extraLabel": "TwinCAT CNC：独自モジュールとオンライン補正",
+          "extraUrl": "https://www.beckhoff.com/de-de/unternehmen/presse/twincat-3-cnc-mit-neuen-funktionen-und-technologiepaketen-2024-09.html",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08"
+        },
+        {
+          "name": "TwinCAT CoAgent",
+          "tags": "AI／開発・保全支援",
+          "focus": "・一般的な生成AI支援との差を確認する程度\n・TwinCAT CNCの補助として見る",
+          "questions": "①TwinCAT固有の構造をどこまで理解して提案できるか\n②アラーム診断のデータ\n③生成結果の検証・承認を人がどこで行うか",
+          "url": "https://www.beckhoff.com/en-en/products/automation/twincat/texxxx-twincat-3-engineering/te1700.html",
+          "extraLabel": "CoAgent Operations：稼働データによる故障解析",
+          "extraUrl": "https://www.beckhoff.com/en-en/products/automation/twincat/tfxxxx-twincat-3-functions/tf1xxx-system/tf1700.html",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=K7DqahO2h08"
+        }
+      ]
+    },
+    {
+      "id": "E2026-973fb829ff",
+      "company": "YKT株式会社",
+      "shortName": "YKT",
+      "booth": "E2026",
+      "area": "A",
+      "priority": "青系",
+      "text": "YKT株式会社｜E2026｜青（行けたら）\n東2ホール／1F\n\n見る展示：\n・注目アイテム未指定\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "注目アイテム未指定",
+          "tags": "",
+          "focus": "",
+          "questions": "",
+          "url": "",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=nYvFR1vpbuE"
+        }
+      ]
+    },
+    {
+      "id": "E3006-319dc0d98f",
+      "company": "シーメンス株式会社",
+      "shortName": "シーメンス",
+      "booth": "E3006",
+      "area": "A",
+      "priority": "黄色",
+      "text": "シーメンス株式会社｜E3006｜黄（最優先）\n東3ホール／1F\n\n見る展示：\n・Eigen Engineering Agent ※展示未確認\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "Eigen Engineering Agent ※展示未確認",
+          "tags": "AI／自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://www.siemens.com/en-us/company/insights/industrial-ai-changes-automation-engineers-work/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=EBIotJu7lrg"
+        }
+      ]
+    },
+    {
+      "id": "E3013-78c4ed1658",
+      "company": "株式会社TAKISAWA",
+      "shortName": "TAKISAWA",
+      "booth": "E3013",
+      "area": "A",
+      "priority": "青系",
+      "text": "株式会社TAKISAWA｜E3013｜青（行けたら）\n東3ホール／1F\n\n見る展示：\n・台車型ロボットシステム「TR-20W」※フィジカルAI搭載・参考出品\n\n着眼点：\n・切粉除去のフィジカルAIが、どんな技術なのか\n\n確かめたいこと：\n①切粉の検知・認識のセンサとAI\n②絡まりの位置・形状から除去方法・軌道をどう決めるか\n③除去失敗時の再試行・人への引き継ぎ\n④対象の切粉・機械・加工条件の範囲\n⑤従来の画像認識＋登録動作との違い\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "台車型ロボットシステム「TR-20W」※フィジカルAI搭載・参考出品",
+          "tags": "AI／フィジカルAI／自動化／自律化（候補）",
+          "focus": "・切粉除去のフィジカルAIが、どんな技術なのか",
+          "questions": "①切粉の検知・認識のセンサとAI\n②絡まりの位置・形状から除去方法・軌道をどう決めるか\n③除去失敗時の再試行・人への引き継ぎ\n④対象の切粉・機械・加工条件の範囲\n⑤従来の画像認識＋登録動作との違い",
+          "url": "https://www.nidec.com/jp/products/machine-tools/contents/machine-tool-jimtof2026/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=3dTDRAMwZpM"
+        }
+      ]
+    },
+    {
+      "id": "E3028-5d525196cc",
+      "company": "オークマ株式会社",
+      "shortName": "オークマ",
+      "booth": "E3028",
+      "area": "A",
+      "priority": "黄色",
+      "text": "オークマ株式会社｜E3028｜黄（最優先）\n東3ホール／1F\n\n見る展示：\n・OSP-AI（AI機械診断・AI加工診断）\n・新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）\n\n着眼点：\n［OSP-AI（AI機械診断・AI加工診断）］\n・昔から出している機能。前回（2024年）との差分があるかという目線で見る\n［新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）］\n・昔から出している製品。AI周りの機能に前回との差があるかを見る\n\n確かめたいこと：\n［OSP-AI（AI機械診断・AI加工診断）］\n①2024年のOSP-AIから、診断対象・精度・搭載機種が増えたか\n②AI加工診断はドリル以外にも広がったか\n③「異常レベル」の算出に使う制御情報とAIの手法\n④異常検出後は退避のみか、再スタートや条件変更まで自動か\n⑤「一部特別仕様」の範囲\n［新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）］\n①OSP-P500でAI機能が追加されたか（ページには記載なし）\n②「加工工程を自動で決める」機能は、ルールベースかAIか\n③デジタルツインの結果を加工条件の変更や自動補正につなげているか\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "OSP-AI（AI機械診断・AI加工診断）",
+          "tags": "AI／自律化（候補）",
+          "focus": "・昔から出している機能。前回（2024年）との差分があるかという目線で見る",
+          "questions": "①2024年のOSP-AIから、診断対象・精度・搭載機種が増えたか\n②AI加工診断はドリル以外にも広がったか\n③「異常レベル」の算出に使う制御情報とAIの手法\n④異常検出後は退避のみか、再スタートや条件変更まで自動か\n⑤「一部特別仕様」の範囲",
+          "url": "https://www.okuma.co.jp/smart-factory/osp-suite/osp-ai.php",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI"
+        },
+        {
+          "name": "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）",
+          "tags": "自動化",
+          "focus": "・昔から出している製品。AI周りの機能に前回との差があるかを見る",
+          "questions": "①OSP-P500でAI機能が追加されたか（ページには記載なし）\n②「加工工程を自動で決める」機能は、ルールベースかAIか\n③デジタルツインの結果を加工条件の変更や自動補正につなげているか",
+          "url": "https://www.okuma.co.jp/english/product/it-products/osp-p500.php",
+          "extraLabel": "関連制御技術：加工ナビM-iの振動測定→回転数補正",
+          "extraUrl": "https://www.okuma.co.jp/solution_technology/process/",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=30li0vWcseI"
+        }
+      ]
+    },
+    {
+      "id": "E8005-43bfaea9f5",
+      "company": "DMG森精機株式会社",
+      "shortName": "DMG森精機",
+      "booth": "E8005",
+      "area": "B",
+      "priority": "黄色",
+      "text": "DMG森精機株式会社｜E8005｜黄（最優先）\n東8ホール／1F\n\n見る展示：\n・サービスエージェント（生成AIによる不具合対応支援）※会場デモあり\n・Condition Agent（主軸・送り軸の予兆診断）\n・GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認\n\n着眼点：\n［サービスエージェント（生成AIによる不具合対応支援）※会場デモあり］\n・「AIエージェントの工作機械への実装」の中身\n［Condition Agent（主軸・送り軸の予兆診断）］\n・保全系の仕組みの実態\n［GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認］\n・DMGが考えるフィジカルAIの姿を聞きたい\n\n確かめたいこと：\n［サービスエージェント（生成AIによる不具合対応支援）※会場デモあり］\n①JIMTOFの「AIエージェントの実装」はサービスエージェントか、機械側の別機能か\n②稼働データを使ったアラーム時の自動診断はいつ・どこまで実現するか\n［Condition Agent（主軸・送り軸の予兆診断）］\n①AIか規則ベースか\n②2024年以前から何が変わったか\n③診断結果が部品手配・保全計画・加工条件変更へ自動でつながるか\n［GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認］\n①「物理と言語を組み合わせたモデル」とは具体的に何か、VLMを使わない理由\n②1kHzのデータで捉えたい現象\n③セル全体の品質判断でAIが何を決め、AMRや計測機をどう動かすか\n④データ提供企業への還元\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり",
+          "tags": "AI",
+          "focus": "・「AIエージェントの工作機械への実装」の中身",
+          "questions": "①JIMTOFの「AIエージェントの実装」はサービスエージェントか、機械側の別機能か\n②稼働データを使ったアラーム時の自動診断はいつ・どこまで実現するか",
+          "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs"
+        },
+        {
+          "name": "Condition Agent（主軸・送り軸の予兆診断）",
+          "tags": "自動化（診断）／AI（要確認）",
+          "focus": "・保全系の仕組みの実態",
+          "questions": "①AIか規則ベースか\n②2024年以前から何が変わったか\n③診断結果が部品手配・保全計画・加工条件変更へ自動でつながるか",
+          "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_conditionagent.html",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs"
+        },
+        {
+          "name": "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認",
+          "tags": "AI／フィジカルAI（構想）／自律化（構想）",
+          "focus": "・DMGが考えるフィジカルAIの姿を聞きたい",
+          "questions": "①「物理と言語を組み合わせたモデル」とは具体的に何か、VLMを使わない理由\n②1kHzのデータで捉えたい現象\n③セル全体の品質判断でAIが何を決め、AMRや計測機をどう動かすか\n④データ提供企業への還元",
+          "url": "https://www.dmgmori.co.jp/corporate/news/2026/20260706_geniac.html",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=zcqDj1lSkGs"
+        }
+      ]
+    },
+    {
+      "id": "E7073-3f759ee8bd",
+      "company": "東京エレクトロンデバイス株式会社",
+      "shortName": "東京エレクトロンデバイス",
+      "booth": "E7073",
+      "area": "B",
+      "priority": "緑",
+      "text": "東京エレクトロンデバイス株式会社｜E7073｜緑（次優先）\n東7ホール／1F\n\n見る展示：\n・3Dスキャン→面取り経路生成 ※東京エンジニアリングE7073内で展示予定\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "3Dスキャン→面取り経路生成 ※東京エンジニアリングE7073内で展示予定",
+          "tags": "自律化／自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=c4cChQniAm8",
+          "extraLabel": "企業公式の展示告知",
+          "extraUrl": "https://www.inrevium.com/news-event/event/p7331/",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=c4cChQniAm8"
+        }
+      ]
+    },
+    {
+      "id": "E7033-f2c4105fcb",
+      "company": "TPR大阪精密機械株式会社",
+      "shortName": "TPR大阪精密機械",
+      "booth": "E7033",
+      "area": "B",
+      "priority": "緑",
+      "text": "TPR大阪精密機械株式会社｜E7033｜緑（次優先）\n東7ホール／1F\n\n見る展示：\n・クローズドループ対応：歯車測定→加工機へのフィードバック\n\n着眼点：\n測定結果を加工機へ自動フィードバックし、自動補正する技術に関心がある。具体的な方式を確認するため、訪問する可能性あり。\n\n確かめたいこと：\n①何を測定し、加工機のどのパラメータを補正するか\n②補正量の算出方法と、人の承認の有無\n③補正後の再測定と収束・打切り条件\n④GDE等で返す情報と対応CNC・機械仕様\n⑤今回の会場で自動補正まで確認できるか\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "クローズドループ対応：歯車測定→加工機へのフィードバック",
+          "tags": "自動化／自律化（補正範囲要確認）",
+          "focus": "測定結果を加工機へ自動フィードバックし、自動補正する技術に関心がある。具体的な方式を確認するため、訪問する可能性あり。",
+          "questions": "①何を測定し、加工機のどのパラメータを補正するか\n②補正量の算出方法と、人の承認の有無\n③補正後の再測定と収束・打切り条件\n④GDE等で返す情報と対応CNC・機械仕様\n⑤今回の会場で自動補正まで確認できるか",
+          "url": "https://tpr-osk.com/product/new_technology/",
+          "extraLabel": "今回の出展案内：E7033（閉ループ実演は要確認）",
+          "extraUrl": "https://tpr-osk.com/news/jimtof2026-展示会ご案内/",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=IUcHIycMLaI"
+        }
+      ]
+    },
+    {
+      "id": "E7074-b17f7b7df1",
+      "company": "株式会社サイバーRC",
+      "shortName": "サイバーRC",
+      "booth": "E7074（E7072の表記もあり）",
+      "area": "B",
+      "priority": "緑",
+      "text": "株式会社サイバーRC｜E7074（E7072の表記もあり）｜緑（次優先）\n東7ホール／1F\n\n見る展示：\n・GH5（AI搭載の自動刃先ホーニング機）※特許出願中\n\n着眼点：\n・見に行けたら行く程度の優先度\n・「ホーニング加工をAIで自動調整」がどんな技術か確認\n\n確かめたいこと：\n①AIの役割（画像の測定か、補正量の決定か）と手法\n②再測定の結果を見て補正する方式は規則か学習か\n③圧力検知の役割\n④工具の種類や径が変わった時の準備\n⑤ホーニング幅・角度のばらつきの実績\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "GH5（AI搭載の自動刃先ホーニング機）※特許出願中",
+          "tags": "AI／自動化／自律化（候補）",
+          "focus": "・見に行けたら行く程度の優先度\n・「ホーニング加工をAIで自動調整」がどんな技術か確認",
+          "questions": "①AIの役割（画像の測定か、補正量の決定か）と手法\n②再測定の結果を見て補正する方式は規則か学習か\n③圧力検知の役割\n④工具の種類や径が変わった時の準備\n⑤ホーニング幅・角度のばらつきの実績",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=8ealehgmk8o"
+        }
+      ]
+    },
+    {
+      "id": "E7043-b7518a6ca6",
+      "company": "ハイデンハイン株式会社",
+      "shortName": "ハイデンハイン",
+      "booth": "E7043",
+      "area": "B",
+      "priority": "黄色",
+      "text": "ハイデンハイン株式会社｜E7043｜黄（最優先）\n東7ホール／1F\n\n見る展示：\n・VT122＋VTC 6.0（AI摩耗診断・工具異常検出）※現地未確認\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "VT122＋VTC 6.0（AI摩耗診断・工具異常検出）※現地未確認",
+          "tags": "AI／自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA",
+          "extraLabel": "JIMTOF2024公式カタログ：ハイデンハイン株式会社 (E7123)",
+          "extraUrl": "https://www.jimtof.org/2024/search/jp/ESdetails?e=GFSwCXSxe9o",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=iohDR5yR9VA"
+        }
+      ]
+    },
+    {
+      "id": "E7097-e371040ee3",
+      "company": "株式会社ナガセインテグレックス",
+      "shortName": "ナガセインテグレックス",
+      "booth": "E7097",
+      "area": "B",
+      "priority": "黄色",
+      "text": "株式会社ナガセインテグレックス｜E7097｜黄（最優先）\n東7ホール／1F\n\n見る展示：\n・GRIDE EYE（生成AI画像変換＋CNN砥面解析）※個別展示未確認\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "GRIDE EYE（生成AI画像変換＋CNN砥面解析）※個別展示未確認",
+          "tags": "AI／自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://nagase-i.jp/product/product_33.html",
+          "extraLabel": "IMEC2026 オーラルセッション",
+          "extraUrl": "https://www.jmtba-imec.jp/",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=sGhVw1xc6Z0"
+        }
+      ]
+    },
+    {
+      "id": "E7037-b08428f8fd",
+      "company": "株式会社東振テクニカル",
+      "shortName": "東振テクニカル",
+      "booth": "E7037",
+      "area": "B",
+      "priority": "青系",
+      "text": "株式会社東振テクニカル｜E7037｜青（行けたら）\n東7ホール／1F\n\n見る展示：\n・長尺研削高精度自動化システム（センタレス）リング形状ワークの無人運転（事例）\n\n着眼点：\n・センタレスで外径を研削。事例では測定は外径に加え端面振れ・粗さも評価\n・補正に戻しているかは未確認\n\n確かめたいこと：\n①リング研削の無人運転システムは今回の展示にあるか\n②端面振れ・粗さの結果を補正に戻しているか\n③補正は規則か学習か\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "長尺研削高精度自動化システム（センタレス）リング形状ワークの無人運転（事例）",
+          "tags": "自動化",
+          "focus": "・センタレスで外径を研削。事例では測定は外径に加え端面振れ・粗さも評価\n・補正に戻しているかは未確認",
+          "questions": "①リング研削の無人運転システムは今回の展示にあるか\n②端面振れ・粗さの結果を補正に戻しているか\n③補正は規則か学習か",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=GFSwCXSxe9o",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=GFSwCXSxe9o"
+        }
+      ]
+    },
+    {
+      "id": "S2001-51a6cb4d7b",
+      "company": "ファナック株式会社",
+      "shortName": "ファナック",
+      "booth": "S2001",
+      "area": "C",
+      "priority": "黄色",
+      "text": "ファナック株式会社｜S2001｜黄（最優先）\n南2ホール／1F\n\n見る展示：\n・AI溶接エージェント ※展示有無未確認\n・日立×ファナック フィジカルAI ※関連構想\n\n着眼点：\n［AI溶接エージェント ※展示有無未確認］\n・フィジカルAIの代表例として有力\n・図面読取→プログラム生成→溶接までAIで一貫している点\n・図面読取の精度と、使っている技術\n［日立×ファナック フィジカルAI ※関連構想］\n・フィジカルAIの捉え方と課題認識\n・デジタルツインでは足りない部分\n・現場ならではで有効な部分\n・FIELD systemを学習に使うか\n\n確かめたいこと：\n［AI溶接エージェント ※展示有無未確認］\n①対応できる図面・表記の範囲\n②人の確認・修正が残る範囲\n③「ゼロ設定・ゼロ教示」の成立条件\n④今回展示されるか\n［日立×ファナック フィジカルAI ※関連構想］\n①現場で学習・適応する内容\n②共通モデルと現場ごとの学習の切り分け\n③目指す自律化の範囲（作業単位か、ライン・工場単位か）\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "AI溶接エージェント ※展示有無未確認",
+          "tags": "AI／フィジカルAI／自動化",
+          "focus": "・フィジカルAIの代表例として有力\n・図面読取→プログラム生成→溶接までAIで一貫している点\n・図面読取の精度と、使っている技術",
+          "questions": "①対応できる図面・表記の範囲\n②人の確認・修正が残る範囲\n③「ゼロ設定・ゼロ教示」の成立条件\n④今回展示されるか",
+          "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260911.html",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ"
+        },
+        {
+          "name": "日立×ファナック フィジカルAI ※関連構想",
+          "tags": "AI／フィジカルAI／自律化",
+          "focus": "・フィジカルAIの捉え方と課題認識\n・デジタルツインでは足りない部分\n・現場ならではで有効な部分\n・FIELD systemを学習に使うか",
+          "questions": "①現場で学習・適応する内容\n②共通モデルと現場ごとの学習の切り分け\n③目指す自律化の範囲（作業単位か、ライン・工場単位か）",
+          "url": "https://www.fanuc.co.jp/ja/profile/pr/newsrelease/2026/news20260930.html",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=q0OrZBKM3uQ"
+        }
+      ]
+    },
+    {
+      "id": "S2003-99b5b32a18",
+      "company": "三菱電機株式会社",
+      "shortName": "三菱電機",
+      "booth": "S2003",
+      "area": "C",
+      "priority": "黄色",
+      "text": "三菱電機株式会社｜S2003｜黄（最優先）\n南2ホール／1F\n\n見る展示：\n・ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標\n\n着眼点：\n・最近の潮流をとらえた代表的な技術で、絶対に見る\n・エージェント、自律化、ヒューマノイド、フィジカルAIとCNC連携が1つにまとまっている\n\n確かめたいこと：\n①CNCのフィジカルAIが何を判断するか（言葉→Gコード・PLC動作か、状況報告まで担うか）\n②ヒューマノイドの動作はロボット側AIか教示か\n③登録外の作業・トラブル対応\n④「機種に依存しない」ためのロボット側の前提\n⑤2030年までの構想（読めない：写真で文字が切れている）\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標",
+          "tags": "AI／フィジカルAI／自動化／自律化",
+          "focus": "・最近の潮流をとらえた代表的な技術で、絶対に見る\n・エージェント、自律化、ヒューマノイド、フィジカルAIとCNC連携が1つにまとまっている",
+          "questions": "①CNCのフィジカルAIが何を判断するか（言葉→Gコード・PLC動作か、状況報告まで担うか）\n②ヒューマノイドの動作はロボット側AIか教示か\n③登録外の作業・トラブル対応\n④「機種に依存しない」ためのロボット側の前提\n⑤2030年までの構想（読めない：写真で文字が切れている）",
+          "url": "https://www.mitsubishielectric.co.jp/ja/pr/2026/1021_rd/",
+          "extraLabel": "関連研究：CNC上のエッジDTで加工誤差を実時間補正（展示未確認）",
+          "extraUrl": "https://www.mitsubishielectric.co.jp/ja/pr/2026/0325/",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=AjLnzm01WWU"
+        }
+      ]
+    },
+    {
+      "id": "S1024-35214d62a3",
+      "company": "UEL株式会社",
+      "shortName": "UEL",
+      "booth": "S1024",
+      "area": "C",
+      "priority": "青系",
+      "text": "UEL株式会社｜S1024｜青（行けたら）\n南1ホール／1F\n\n見る展示：\n・BreylSimulator（治具設計）※現地未確認\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "BreylSimulator（治具設計）※現地未確認",
+          "tags": "自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=dBv-8tktfaE",
+          "extraLabel": "JIMTOF2024公式カタログ：UEL株式会社 (E2036)",
+          "extraUrl": "https://www.jimtof.org/2024/search/jp/ESdetails?e=uIeoIsq5v7g",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=dBv-8tktfaE"
+        }
+      ]
+    },
+    {
+      "id": "S1031-eb3e10e410",
+      "company": "日東商事株式会社（HACARUS Check）",
+      "shortName": "日東商事（HACARUS Check）",
+      "booth": "S1031",
+      "area": "C",
+      "priority": "青系",
+      "text": "日東商事株式会社（HACARUS Check）｜S1031｜青（行けたら）\n南1ホール／1F\n\n見る展示：\n・HACARUS Check\n\n着眼点：\n・画像の異常検知で、PCテーマと関連するのでベンチマーク対象\n・技術的には旧来のものに見える。優先度は高くない\n\n確かめたいこと：\n①良品学習の異常度は何で出しているか（スパースモデリングの具体的な方式）\n②工具・加工面など切削加工の対象に使った実績\n③判定の根拠（ヒートマップ）を人がどこまで読み取れるか\n④人が付けた印から判断基準がどう更新されるか\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "HACARUS Check",
+          "tags": "AI／自動化",
+          "focus": "・画像の異常検知で、PCテーマと関連するのでベンチマーク対象\n・技術的には旧来のものに見える。優先度は高くない",
+          "questions": "①良品学習の異常度は何で出しているか（スパースモデリングの具体的な方式）\n②工具・加工面など切削加工の対象に使った実績\n③判定の根拠（ヒートマップ）を人がどこまで読み取れるか\n④人が付けた印から判断基準がどう更新されるか",
+          "url": "https://check.hacarus.com/ja/aisoftware/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=GozGZRxlviw"
+        }
+      ]
+    },
+    {
+      "id": "S3015-e333140aa7",
+      "company": "株式会社たけびし",
+      "shortName": "たけびし",
+      "booth": "S3015",
+      "area": "D",
+      "priority": "黄色",
+      "text": "株式会社たけびし｜S3015｜黄（最優先）\n南3ホール／4F\n\n見る展示：\n・設備データをAIエージェントに渡す接続基盤（MCP Adapter）\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "設備データをAIエージェントに渡す接続基盤（MCP Adapter）",
+          "tags": "AI／自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw",
+          "extraLabel": "JIMTOF2024公式カタログ：株式会社たけびし (E7053)",
+          "extraUrl": "https://www.jimtof.org/2024/search/jp/ESdetails?e=SiZMI-OH8_k",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=Qh27DAtEkbw"
+        }
+      ]
+    },
+    {
+      "id": "S3100-5c8b0412fa",
+      "company": "三菱商事テクノス株式会社",
+      "shortName": "三菱商事テクノス",
+      "booth": "S3100",
+      "area": "D",
+      "priority": "緑",
+      "text": "三菱商事テクノス株式会社｜S3100｜緑（次優先）\n南3ホール／4F\n\n見る展示：\n・豆蔵 AIロボットティーチング支援\n・自動仕分けソリューション ※開発中\n\n着眼点：\n［豆蔵 AIロボットティーチング支援］\n・自然言語の指示からAIがロボットの動作プログラムを作る点が新しい\n・その技術の中身\n［自動仕分けソリューション ※開発中］\n・ピッキング位置の自動確認とロボット仕分けで「止まらないライン」\n・新しさがあるか\n\n確かめたいこと：\n［豆蔵 AIロボットティーチング支援］\n①使っているAIと出力の形式（ロボット言語かGコードか）\n②言葉で指示できる範囲\n③生成プログラムの安全確認\n④対応するロボットメーカー\n［自動仕分けソリューション ※開発中］\n①ピッキング位置確認へのAI・画像認識の使い方\n②板金機メーカーの既存仕分け装置との違い\n③後付け時の既存加工機との連携範囲\n④仕分け失敗時の検知と復旧\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "豆蔵 AIロボットティーチング支援",
+          "tags": "AI／自動化",
+          "focus": "・自然言語の指示からAIがロボットの動作プログラムを作る点が新しい\n・その技術の中身",
+          "questions": "①使っているAIと出力の形式（ロボット言語かGコードか）\n②言葉で指示できる範囲\n③生成プログラムの安全確認\n④対応するロボットメーカー",
+          "url": "https://www.mamezou.com/news/press-release/20250805",
+          "extraLabel": "画像による教示位置補正（自然言語教示との比較）",
+          "extraUrl": "https://www.mamezou.com/services/embedded/pdc_teachcorrection",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M"
+        },
+        {
+          "name": "自動仕分けソリューション ※開発中",
+          "tags": "AI（候補）／自動化",
+          "focus": "・ピッキング位置の自動確認とロボット仕分けで「止まらないライン」\n・新しさがあるか",
+          "questions": "①ピッキング位置確認へのAI・画像認識の使い方\n②板金機メーカーの既存仕分け装置との違い\n③後付け時の既存加工機との連携範囲\n④仕分け失敗時の検知と復旧",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=YIwM2AR4N4M"
+        }
+      ]
+    },
+    {
+      "id": "S3011-c512257462",
+      "company": "匠技研工業株式会社",
+      "shortName": "匠技研工業",
+      "booth": "S3011",
+      "area": "D",
+      "priority": "緑",
+      "text": "匠技研工業株式会社｜S3011｜緑（次優先）\n南3ホール／4F\n\n見る展示：\n・匠フォース AIエージェント（見積作成）※会場で実演あり\n・AI類似図面検索\n\n着眼点：\n［匠フォース AIエージェント（見積作成）※会場で実演あり］\n・製造業特化のAIスタートアップで、とがったことをしていそう\n・「AIが自律的に進め、人は承認と判断」の\n［AI類似図面検索］\n・社内（読めない：部署名・エンス）にニーズあり\n・DA研がハードルが高いとした案件で、どんな技術か\n\n確かめたいこと：\n［匠フォース AIエージェント（見積作成）※会場で実演あり］\n①見積でAIが決める範囲（図面読取、工程推定、加工時間、単価）と人の承認点\n②人の修正から何を学習するか\n③見積の工程推定を工程設計へ渡す構想\n［AI類似図面検索］\n①形状類似度の判定方法と、形状・文字情報の組合せ\n②寸法線・注記・三面図の配置の違いの扱い\n③2D→3D、3D→2Dの検索\n④精度の目安、必要な図面枚数、学習期間、顧客ごとの再学習\n⑤クラウドのみかオンプレ可か\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "匠フォース AIエージェント（見積作成）※会場で実演あり",
+          "tags": "AI／自動化",
+          "focus": "・製造業特化のAIスタートアップで、とがったことをしていそう\n・「AIが自律的に進め、人は承認と判断」の",
+          "questions": "①見積でAIが決める範囲（図面読取、工程推定、加工時間、単価）と人の承認点\n②人の修正から何を学習するか\n③見積の工程推定を工程設計へ渡す構想",
+          "url": "https://prtimes.jp/main/html/rd/p/000000031.000057137.html",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258"
+        },
+        {
+          "name": "AI類似図面検索",
+          "tags": "AI",
+          "focus": "・社内（読めない：部署名・エンス）にニーズあり\n・DA研がハードルが高いとした案件で、どんな技術か",
+          "questions": "①形状類似度の判定方法と、形状・文字情報の組合せ\n②寸法線・注記・三面図の配置の違いの扱い\n③2D→3D、3D→2Dの検索\n④精度の目安、必要な図面枚数、学習期間、顧客ごとの再学習\n⑤クラウドのみかオンプレ可か",
+          "url": "https://takumi-force.jp/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=i_4zCxJP258"
+        }
+      ]
+    },
+    {
+      "id": "S3104-369680379d",
+      "company": "興和オプトロニクス株式会社",
+      "shortName": "興和オプトロニクス",
+      "booth": "S3104",
+      "area": "D",
+      "priority": "緑",
+      "text": "興和オプトロニクス株式会社｜S3104｜緑（次優先）\n南3ホール／4F\n\n見る展示：\n・Rotary Wiperシリーズ×ビジョンプロセッサ（AIによる刃先欠損・切粉巻き付き検知）※特許出願中\n\n着眼点：\n・工具の欠損検知の技術で、あまり新しくないかもしれないが、技術の中身を見たい\n・クーラントがかかっても見える点が売り\n\n確かめたいこと：\n①刃先欠損の検知は良品学習か、不良画像も学習か。必要な枚数\n②検知後に機械を止める連携の実績\n③誤検知の頻度と原因\n④欠損の検知だけか、摩耗の程度まで見られるか\n⑤判定の根拠の見せ方、精度の指標\n⑥「特許出願中」の対象は回転ガラスの構造か、AIの検知方法か\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "Rotary Wiperシリーズ×ビジョンプロセッサ（AIによる刃先欠損・切粉巻き付き検知）※特許出願中",
+          "tags": "AI／自動化（候補）",
+          "focus": "・工具の欠損検知の技術で、あまり新しくないかもしれないが、技術の中身を見たい\n・クーラントがかかっても見える点が売り",
+          "questions": "①刃先欠損の検知は良品学習か、不良画像も学習か。必要な枚数\n②検知後に機械を止める連携の実績\n③誤検知の頻度と原因\n④欠損の検知だけか、摩耗の程度まで見られるか\n⑤判定の根拠の見せ方、精度の指標\n⑥「特許出願中」の対象は回転ガラスの構造か、AIの検知方法か",
+          "url": "https://optical.kowa-opt.co.jp/camera-rw/",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=v6nw4APC-vQ"
+        }
+      ]
+    },
+    {
+      "id": "S3048-fabe8c62a4",
+      "company": "モリマシナリー株式会社",
+      "shortName": "モリマシナリー",
+      "booth": "S3048",
+      "area": "D",
+      "priority": "黄色",
+      "text": "モリマシナリー株式会社｜S3048｜黄（最優先）\n南3ホール／4F\n\n見る展示：\n・ツールスコーププラス＋アナライザー\n\n着眼点：\n・AIで摩耗を判定する技術で、どんなタスクまで解けるか\n・岡山大の児玉先生の技術を使っていそうなので、詳しく見る\n\n確かめたいこと：\n①判定できるのは欠け・摩耗の有無か、種類・原因まで\n②寿命予測は摩耗幅の推移だけか、加工条件・電流も使うか\n③2024年から判定の対象や精度は何が変わったか\n④旋削用チップ（逃げ面）は対象か。φ2mm以上は目安か\n⑤判定の根拠を画面に示せるか\n⑥利用者ごとの学習で判断基準が社内に残るか、データの置き場所\n⑦読めない（写真下端に続きらしい文字があるが判読できない）\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "ツールスコーププラス＋アナライザー",
+          "tags": "AI／自動化／自律化（候補）",
+          "focus": "・AIで摩耗を判定する技術で、どんなタスクまで解けるか\n・岡山大の児玉先生の技術を使っていそうなので、詳しく見る",
+          "questions": "①判定できるのは欠け・摩耗の有無か、種類・原因まで\n②寿命予測は摩耗幅の推移だけか、加工条件・電流も使うか\n③2024年から判定の対象や精度は何が変わったか\n④旋削用チップ（逃げ面）は対象か。φ2mm以上は目安か\n⑤判定の根拠を画面に示せるか\n⑥利用者ごとの学習で判断基準が社内に残るか、データの置き場所\n⑦読めない（写真下端に続きらしい文字があるが判読できない）",
+          "url": "https://mori-machinery.com/wp-content/uploads/2023/06/%E7%86%9F%E7%B7%B4%E8%80%85%E3%81%AE%E7%B5%8C%E9%A8%93%E7%9F%A5%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E5%88%87%E5%89%8A%E5%B7%A5%E5%85%B7%E3%81%AE%E6%AC%A0%E3%81%91%E3%83%BB%E6%91%A9%E8%80%97%E3%83%BB%E5%AF%BF%E5%91%BD%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8BAI%E3%82%92%E9%96%8B%E7%99%BA.pdf",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=ZvT3Lci-hnM"
+        }
+      ]
+    },
+    {
+      "id": "S4004-733c18f29d",
+      "company": "Ndotlight Co., Ltd.",
+      "shortName": "Ndotlight Co., Ltd.",
+      "booth": "S4004",
+      "area": "D",
+      "priority": "緑",
+      "text": "Ndotlight Co., Ltd.｜S4004｜緑（次優先）\n南4ホール／4F\n\n見る展示：\n・TRINIX\n\n着眼点：\n・実物のモデル化からシミュレーションまでの一気通貫化\n・従来必要だったモデル定義がどこまで不要になるか\n・テキスト・画像からの取り込みの実態\n\n確かめたいこと：\n①寸法情報のない画像の扱い\n②従来のSimReady化から削減される作業\n③物理属性（質量・摩擦・関節）の推定と検証方法\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "TRINIX",
+          "tags": "AI／フィジカルAI基盤",
+          "focus": "・実物のモデル化からシミュレーションまでの一気通貫化\n・従来必要だったモデル定義がどこまで不要になるか\n・テキスト・画像からの取り込みの実態",
+          "questions": "①寸法情報のない画像の扱い\n②従来のSimReady化から削減される作業\n③物理属性（質量・摩擦・関節）の推定と検証方法",
+          "url": "https://ndotlight.com/newsroom/ndotlight-proposes-a-new-3d-data-standard-for-the-physical-ai-era-with-trinix",
+          "extraLabel": "SimReady：アセット検証と実行時検証の分担",
+          "extraUrl": "https://docs.omniverse.nvidia.com/simready/latest/simready-faq.html",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=6Ds1v9hxvrY"
+        }
+      ]
+    },
+    {
+      "id": "W2018-3bdc1041b4",
+      "company": "THK株式会社",
+      "shortName": "THK",
+      "booth": "W2018",
+      "area": "E",
+      "priority": "青系",
+      "text": "THK株式会社｜W2018｜青（行けたら）\n西2ホール／1F\n\n見る展示：\n・NEXTAGE 双腕ロボット ※現地未確認\n\n確かめたいこと：\n未記入\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": false,
+      "items": [
+        {
+          "name": "NEXTAGE 双腕ロボット ※現地未確認",
+          "tags": "自動化",
+          "focus": "",
+          "questions": "",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=z-lVfqtvgVM",
+          "extraLabel": "JIMTOF2024公式出展説明：THK株式会社 (W2017)",
+          "extraUrl": "https://www.jimtof.org/2024/search/jp/ESdetails?e=25HOX5M84N0",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=z-lVfqtvgVM"
+        }
+      ]
+    },
+    {
+      "id": "W2041-2b9965b706",
+      "company": "株式会社ナベル",
+      "shortName": "ナベル",
+      "booth": "W2041",
+      "area": "E",
+      "priority": "青系",
+      "text": "株式会社ナベル｜W2041｜青（行けたら）\n西2ホール／1F\n\n見る展示：\n・TM AI Cobot（Techman製）\n\n着眼点：\n・AI搭載の協働ロボットで、フィジカルAIと言えるかの線引きになりそう\n・一応、あることだけ覚えておく\n\n確かめたいこと：\n①「AI」とは、ビジョンの位置補正のことか、動作を学習・生成する機能か\n②Techman製の他に、ベルとしての独自の組合せ・提案はあるか\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "TM AI Cobot（Techman製）",
+          "tags": "自動化（フィジカルAIの線引きは微妙）",
+          "focus": "・AI搭載の協働ロボットで、フィジカルAIと言えるかの線引きになりそう\n・一応、あることだけ覚えておく",
+          "questions": "①「AI」とは、ビジョンの位置補正のことか、動作を学習・生成する機能か\n②Techman製の他に、ベルとしての独自の組合せ・提案はあるか",
+          "url": "https://www.bellows.co.jp/products/tm-robot",
+          "extraLabel": "Techman AI Vision：画像認識・位置決めとモデル学習",
+          "extraUrl": "https://www.tm-robot.com/ja/product/ai-vision",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=6wciaKIuYB8"
+        }
+      ]
+    },
+    {
+      "id": "W3051-c0c4432f44",
+      "company": "Wintech Automation Co., Ltd",
+      "shortName": "Wintech Automation Co., Ltd",
+      "booth": "W3051",
+      "area": "E",
+      "priority": "青系",
+      "text": "Wintech Automation Co., Ltd｜W3051｜AI側：緑／自動化側：青（保留）\n西3ホール／4F\n\n見る展示：\n・HGM-DX 自動両面研削システム\n\n着眼点：\n加工対象は工具であり、直接ワークを加工する自律制御への関心を優先したい。厚み・刃先高さの測定に基づく補正は比較的単純な印象。より高度な加工制御を行う候補があれば、そちらを優先する。\n\n確かめたいこと：\n厚み・刃先高さの補正以外に、加工状態に応じて条件を変更する制御はあるか。\n\n――当日の音声メモ――\n\n",
+      "hasQuestions": true,
+      "items": [
+        {
+          "name": "HGM-DX 自動両面研削システム",
+          "tags": "自動化／自律化（候補）",
+          "focus": "加工対象は工具であり、直接ワークを加工する自律制御への関心を優先したい。厚み・刃先高さの測定に基づく補正は比較的単純な印象。より高度な加工制御を行う候補があれば、そちらを優先する。",
+          "questions": "厚み・刃先高さの補正以外に、加工状態に応じて条件を変更する制御はあるか。",
+          "url": "https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg",
+          "extraLabel": "",
+          "extraUrl": "",
+          "companyUrl": "https://www.jimtof.org/search/jp/ESdetails?e=lMk3zNvQJbg"
+        }
+      ]
+    }
+  ]
+}

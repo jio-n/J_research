@@ -1,0 +1,9 @@
+import pathlib,json,subprocess,os,urllib.request
+D=pathlib.Path(__file__).resolve().parent;R=D.parents[2];O=R/'outputs'/D.name;repo='jio-n/J_research';branch='codex/jimtof-mobile-site'
+r=subprocess.run(['git','credential','fill'],input='protocol=https\nhost=github.com\n\n',text=True,capture_output=True,env=dict(os.environ,GIT_TERMINAL_PROMPT='0'),timeout=30);token=dict(x.split('=',1) for x in r.stdout.splitlines() if '=' in x).get('password');assert token
+def api(path,method='GET',body=None):
+ req=urllib.request.Request('https://api.github.com/repos/'+repo+path,method=method,data=None if body is None else json.dumps(body).encode(),headers={'Authorization':'Bearer '+token,'Accept':'application/vnd.github+json','Content-Type':'application/json','User-Agent':'JIMTOF-notes-preparation'})
+ with urllib.request.urlopen(req,timeout=45) as response:return json.load(response)
+pages=api('/pages');assert pages['source']['branch']==branch;parent=api('/git/ref/heads/'+branch)['object']['sha'];old=api('/git/commits/'+parent)
+tree=[{'path':'notes.html','mode':'100644','type':'blob','content':(O/'notes.html').read_text(encoding='utf8')},{'path':'notes.txt','mode':'100644','type':'blob','content':(O/'JIMTOF2026_訪問予定34社_メモ貼付用.txt').read_text(encoding='utf-8-sig')}]
+t=api('/git/trees','POST',{'base_tree':old['tree']['sha'],'tree':tree});c=api('/git/commits','POST',{'message':'Add copy-ready notes for34 planned visit companies','tree':t['sha'],'parents':[parent]});api('/git/refs/heads/'+branch,'PATCH',{'sha':c['sha'],'force':False});result={'url':pages['html_url']+'notes.html','text_url':pages['html_url']+'notes.txt','commit':c['sha'],'scope':'現在の訪問予定34社。端末内の追加候補判断は未取込み。','existing_pages_unchanged':True};(D/'publication.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf8');print(json.dumps(result,ensure_ascii=False))
