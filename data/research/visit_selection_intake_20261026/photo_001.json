@@ -1,0 +1,459 @@
+{
+  "batch": 1,
+  "status": "受付継続中・Excel未生成",
+  "source_photo": "C:/Users/paulr/.codex/codex-remote-attachments/01a16758-475a-7f73-add3-8ae91c534e09/6B1A2067-1AA2-4719-8083-BE758A6B676B/1-写真1.jpg",
+  "baseline_data": "data/research/integrated_review_20261026_013801/visit_plan.json",
+  "baseline_workbook": "outputs/integrated_review_20261026_013801/JIMTOF2026_訪問先一覧_コメント統合・企業別閲覧.xlsx",
+  "rules": {
+    "priority_colors": {
+      "黄色": "最優先",
+      "緑": "次の優先度",
+      "青系": "行けたら訪問"
+    },
+    "preserve_existing": "既存のその他カラム、既存優先欄の注記、リンクを保持する。今回の色・優先度は受付情報として別管理。",
+    "new_company": "既存2シートの企業集合にない企業だけ新規追加候補とする。既存企業への新アイテム追加は企業新規と区別。",
+    "export_trigger": "ユーザーが全件の受渡し完了とExcel生成を指示するまでExcelは生成しない。"
+  },
+  "companies": [
+    {
+      "order": 1,
+      "company": "ファナック株式会社",
+      "booth": "S2001",
+      "color": "黄色",
+      "item_refs": [
+        "AI溶接エージェント",
+        "日立×ファナック フィジカルAI"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 2,
+          "company": "ファナック株式会社",
+          "booth": "S2001",
+          "item": "AI溶接エージェント ※展示有無未確認"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 3,
+          "company": "ファナック株式会社",
+          "booth": "S2001",
+          "item": "日立×ファナック フィジカルAI ※関連構想"
+        }
+      ],
+      "new_company": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 2,
+      "company": "Ndotlight Co., Ltd.",
+      "booth": "S4004",
+      "color": "緑",
+      "item_refs": [
+        "TRINIX"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 4,
+          "company": "Ndotlight Co., Ltd.",
+          "booth": "S4004",
+          "item": "TRINIX"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 3,
+      "company": "伊藤忠マシンテクノス株式会社",
+      "booth": "E1002",
+      "color": "緑",
+      "item_refs": [
+        "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 5,
+          "company": "伊藤忠マシンテクノス株式会社",
+          "booth": "E1002",
+          "item": "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 13,
+          "company": "伊藤忠マシンテクノス株式会社",
+          "booth": "E1002",
+          "item": "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 4,
+      "company": "株式会社シマダマシンツール",
+      "booth": "E2018",
+      "color": "緑",
+      "item_refs": [
+        "HS4200＋フィジカルAI搭載ノーティーチロボット",
+        "SHIMADA AUTOMATION MODULE"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 6,
+          "company": "株式会社シマダマシンツール",
+          "booth": "E2018",
+          "item": "HS4200＋フィジカルAI搭載レール走行ロボット"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 7,
+          "company": "株式会社シマダマシンツール",
+          "booth": "E2018",
+          "item": "SHIMADA AUTOMATION MODULE"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 26,
+          "company": "株式会社シマダマシンツール",
+          "booth": "E2018",
+          "item": "HS4200＋フィジカルAI搭載レール走行ロボット"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 27,
+          "company": "株式会社シマダマシンツール",
+          "booth": "E2018",
+          "item": "SHIMADA AUTOMATION MODULE"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 5,
+      "company": "株式会社ソフィックス",
+      "booth": "E1067",
+      "color": "緑",
+      "item_refs": [
+        "工場自律化システム（ミニ工場展示）",
+        "SOFIXCAN AI Forecast"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 8,
+          "company": "株式会社ソフィックス",
+          "booth": "E1067",
+          "item": "工場自律化システム（ミニ工場展示）"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 9,
+          "company": "株式会社ソフィックス",
+          "booth": "E1067",
+          "item": "SOFIXCAN AI Forecast"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 34,
+          "company": "株式会社ソフィックス",
+          "booth": "E1067",
+          "item": "工場自律化システム（ミニ工場展示）"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 35,
+          "company": "株式会社ソフィックス",
+          "booth": "E1067",
+          "item": "SOFIXCAN AI Forecast"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 6,
+      "company": "三菱商事テクノス株式会社",
+      "booth": "S3100",
+      "color": "緑",
+      "item_refs": [
+        "音声 AIロボットティーチング支援",
+        "自動仕分けソリューション"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 10,
+          "company": "三菱商事テクノス株式会社",
+          "booth": "S3100",
+          "item": "豆蔵 AIロボットティーチング支援"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 11,
+          "company": "三菱商事テクノス株式会社",
+          "booth": "S3100",
+          "item": "自動仕分けソリューション ※開発中"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 8,
+          "company": "三菱商事テクノス株式会社",
+          "booth": "S3100",
+          "item": "豆蔵 AIロボットティーチング支援"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 9,
+          "company": "三菱商事テクノス株式会社",
+          "booth": "S3100",
+          "item": "自動仕分けソリューション ※開発中"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 7,
+      "company": "ベッコフオートメーション株式会社",
+      "booth": "E2028",
+      "color": "緑",
+      "item_refs": [
+        "TwinCAT CNC",
+        "TwinCAT CoAgent"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 12,
+          "company": "ベッコフオートメーション株式会社",
+          "booth": "E2028",
+          "item": "TwinCAT CNC（オープンなPCベースCNC）"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 13,
+          "company": "ベッコフオートメーション株式会社",
+          "booth": "E2028",
+          "item": "TwinCAT CoAgent"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 8,
+      "company": "株式会社TAKISAWA",
+      "booth": "E3013",
+      "color": "青系",
+      "item_refs": [
+        "台車型ロボットシステム TR-20W"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 14,
+          "company": "株式会社TAKISAWA",
+          "booth": "E3013",
+          "item": "台車型ロボットシステム「TR-20W」※フィジカルAI搭載・参考出品"
+        }
+      ],
+      "new_company": false,
+      "priority": "行けたら訪問"
+    },
+    {
+      "order": 9,
+      "company": "DMG森精機株式会社",
+      "booth": "E8005",
+      "color": "黄色",
+      "item_refs": [
+        "サービスエージェント",
+        "Condition Agent",
+        "GENIAC 製造フィジカルAI構想"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 15,
+          "company": "DMG森精機株式会社",
+          "booth": "E8005",
+          "item": "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 16,
+          "company": "DMG森精機株式会社",
+          "booth": "E8005",
+          "item": "Condition Agent（主軸・送り軸の予兆診断）"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 17,
+          "company": "DMG森精機株式会社",
+          "booth": "E8005",
+          "item": "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 3,
+          "company": "DMG森精機株式会社",
+          "booth": "E8005",
+          "item": "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 4,
+          "company": "DMG森精機株式会社",
+          "booth": "E8005",
+          "item": "Condition Agent（主軸・送り軸の予兆診断）"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 5,
+          "company": "DMG森精機株式会社",
+          "booth": "E8005",
+          "item": "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認"
+        }
+      ],
+      "new_company": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 10,
+      "company": "匠技研工業株式会社",
+      "booth": "S3011",
+      "color": "緑",
+      "item_refs": [
+        "匠フォース AIエージェント（見積作成）",
+        "AI類似図面検索"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 18,
+          "company": "匠技研工業株式会社",
+          "booth": "S3011",
+          "item": "匠フォース AIエージェント（見積作成）※会場で実演あり"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 19,
+          "company": "匠技研工業株式会社",
+          "booth": "S3011",
+          "item": "AI類似図面検索"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 11,
+      "company": "三菱電機株式会社",
+      "booth": "S2003",
+      "color": "黄色",
+      "item_refs": [
+        "ヒューマノイド×CNC連携"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 20,
+          "company": "三菱電機株式会社",
+          "booth": "S2003",
+          "item": "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 16,
+          "company": "三菱電機株式会社",
+          "booth": "S2003",
+          "item": "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標"
+        }
+      ],
+      "new_company": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 12,
+      "company": "Wintech Automation Co., Ltd",
+      "booth": "W3051",
+      "color": "緑",
+      "item_refs": [
+        "HGM-DX 自動両面研削システム"
+      ],
+      "note": "写真の既存優先欄『相対的に低め。他候補との比較後に決定』も保持。今回の緑色と区別する。",
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 21,
+          "company": "Wintech Automation Co., Ltd（WTA）",
+          "booth": "W3051",
+          "item": "HGM-DX 自動両面研削システム"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 18,
+          "company": "Wintech Automation Co., Ltd（WTA）",
+          "booth": "W3051",
+          "item": "HGM-DX 自動両面研削システム"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 13,
+      "company": "株式会社東振テクニカル",
+      "booth": "E7037",
+      "color": "青系",
+      "item_refs": [
+        "長尺研削高精度自動化システム（センタレス）／リング形状ワークの無人運転（事例）"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 22,
+          "company": "株式会社東振テクニカル",
+          "booth": "E7037",
+          "item": "長尺研削高精度自動化システム（センタレス）リング形状ワークの無人運転（事例）"
+        }
+      ],
+      "new_company": false,
+      "priority": "行けたら訪問"
+    },
+    {
+      "order": 14,
+      "company": "日本クリンゲルンベルグ株式会社",
+      "booth": "E1006",
+      "color": "緑",
+      "item_refs": [
+        "Closed Loop（歯車の測定→補正値の自動生成）／DDQM／Smart Factory"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 23,
+          "company": "日本クリンゲルンベルグ株式会社",
+          "booth": "E1006",
+          "item": "Closed Loop（歯車の測定→補正値の自動生成）、DDQM、Smart Factory"
+        }
+      ],
+      "new_company": false,
+      "priority": "次の優先度"
+    }
+  ],
+  "summary": {
+    "companies": 14,
+    "existing_companies": 14,
+    "new_companies": [],
+    "color_counts": {
+      "黄色": 3,
+      "緑": 9,
+      "青系": 2
+    },
+    "existing_ai_item_rows": 22
+  }
+}

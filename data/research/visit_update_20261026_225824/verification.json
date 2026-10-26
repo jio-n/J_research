@@ -1,0 +1,67 @@
+{
+  "sheets": [
+    {
+      "sheet": "AI・フィジカルAI",
+      "rows": 39,
+      "links": 94,
+      "merges": 0,
+      "colors_verified": 39
+    },
+    {
+      "sheet": "自動化・自律化50社",
+      "rows": 28,
+      "links": 63,
+      "merges": 0,
+      "colors_verified": 28
+    },
+    {
+      "sheet": "閲覧_AI・フィジカルAI",
+      "rows": 39,
+      "links": 82,
+      "merges": 20,
+      "colors_verified": 39
+    },
+    {
+      "sheet": "閲覧_自動化・自律化",
+      "rows": 28,
+      "links": 55,
+      "merges": 12,
+      "colors_verified": 28
+    },
+    {
+      "sheet": "エリア別巡回順",
+      "rows": 34,
+      "links": 34,
+      "merges": 0,
+      "colors_verified": 34
+    },
+    {
+      "sheet": "訪問しない_履歴",
+      "rows": 15,
+      "links": 30,
+      "merges": 0,
+      "colors_verified": 0
+    },
+    {
+      "sheet": "未精査_元一覧",
+      "rows": 20,
+      "links": 23,
+      "merges": 0,
+      "colors_verified": 0
+    },
+    {
+      "sheet": "読み方",
+      "rows": 15,
+      "links": 0,
+      "merges": 0,
+      "colors_verified": 0
+    }
+  ],
+  "source_unchanged": true,
+  "visit_companies": 34,
+  "new_companies": 9,
+  "new_items": 10,
+  "yellow_companies": 11,
+  "route_covers_all_visits": true,
+  "trailing_whitespace_normalization": []
+}

@@ -1,0 +1,212 @@
+{
+  "batch": 4,
+  "status": "手持ち写真の受付完了・未掲載候補の精査は未完・Excel未生成",
+  "source_photo": "C:/Users/paulr/.codex/codex-remote-attachments/01a16758-475a-7f73-add3-8ae91c534e09/7E5C044A-98B1-4652-96F2-C4ED06C1404E/1-写真1.jpg",
+  "source_sheet": "自動化・自律化50社と追加候補",
+  "baseline_data": "data/research/integrated_review_20261026_013801/visit_plan.json",
+  "companies": [
+    {
+      "order": 1,
+      "company": "Hexagon Manufacturing Intelligence株式会社",
+      "booth": "E2013",
+      "color": "緑",
+      "item_refs": [
+        "ESPRIT EDGE ProPlanAI（AI搭載CAM）",
+        "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認",
+        "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 30,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "ESPRIT EDGE ProPlanAI（AI搭載CAM）"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 31,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 32,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 53,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E7035",
+          "item": null
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 54,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "ESPRIT EDGE ProPlanAI（AI搭載CAM）"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 55,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 56,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+        }
+      ],
+      "new_company": false,
+      "already_received": true,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 2,
+      "company": "吉川鐵工株式会社",
+      "booth": "E7055",
+      "color": "色なし",
+      "item_refs": [],
+      "existing_matches": [
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 57,
+          "company": "吉川鐵工株式会社",
+          "booth": "E7055",
+          "item": null
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "未指定"
+    },
+    {
+      "order": 3,
+      "company": "株式会社エス・ティ・シー",
+      "booth": "E1069",
+      "color": "色なし",
+      "item_refs": [],
+      "existing_matches": [
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 58,
+          "company": "株式会社エス・ティ・シー",
+          "booth": "E1069",
+          "item": null
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "未指定"
+    },
+    {
+      "order": 4,
+      "company": "株式会社牧野フライス製作所",
+      "booth": "E1024",
+      "color": "緑",
+      "item_refs": [],
+      "existing_matches": [
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 59,
+          "company": "株式会社牧野フライス製作所",
+          "booth": "E1024",
+          "item": null
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 5,
+      "company": "エスエムダブリューオートブロック株式会社",
+      "booth": "W2074",
+      "color": "色なし",
+      "item_refs": [],
+      "existing_matches": [
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 60,
+          "company": "エスエムダブリューオートブロック株式会社",
+          "booth": "W2074",
+          "item": null
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "未指定"
+    },
+    {
+      "order": 6,
+      "company": "東京エレクトロンデバイス株式会社",
+      "booth": "E7073",
+      "color": "緑",
+      "item_refs": [
+        "3Dスキャン→面取り経路生成 ※東京エンジニアリングE7073内で展示予定"
+      ],
+      "source_candidate_ids": [
+        "AC146"
+      ],
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 7,
+      "company": "UEL株式会社",
+      "booth": "S1024",
+      "color": "青系",
+      "item_refs": [
+        "BreylSimulator（治具設計）※現地未確認"
+      ],
+      "source_candidate_ids": [
+        "FC060"
+      ],
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "行けたら訪問"
+    },
+    {
+      "order": 8,
+      "company": "THK株式会社",
+      "booth": "W2018",
+      "color": "青系",
+      "item_refs": [
+        "NEXTAGE 双腕ロボット ※現地未確認"
+      ],
+      "source_candidate_ids": [
+        "AC143"
+      ],
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "行けたら訪問"
+    }
+  ],
+  "summary": {
+    "companies": 8,
+    "existing_companies": 5,
+    "new_companies": [
+      "東京エレクトロンデバイス株式会社",
+      "UEL株式会社",
+      "THK株式会社"
+    ],
+    "color_counts": {
+      "緑": 3,
+      "色なし": 3,
+      "青系": 2
+    }
+  }
+}

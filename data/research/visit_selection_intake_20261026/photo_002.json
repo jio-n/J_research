@@ -1,0 +1,378 @@
+{
+  "batch": 2,
+  "status": "受付継続中・Excel未生成",
+  "source_photo": "C:/Users/paulr/.codex/codex-remote-attachments/01a16758-475a-7f73-add3-8ae91c534e09/8EEF9F90-7D8E-4E88-902D-B91F71FB12BD/1-写真1.jpg",
+  "baseline_data": "data/research/integrated_review_20261026_013801/visit_plan.json",
+  "companies": [
+    {
+      "order": 1,
+      "company": "オークマ株式会社",
+      "booth": "E3028",
+      "color": "黄色",
+      "item_refs": [
+        "OSP-AI（AI機械診断・AI加工診断）",
+        "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 24,
+          "company": "オークマ株式会社",
+          "booth": "E3028",
+          "item": "OSP-AI（AI機械診断・AI加工診断）"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 25,
+          "company": "オークマ株式会社",
+          "booth": "E3028",
+          "item": "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 19,
+          "company": "オークマ株式会社",
+          "booth": "E3028",
+          "item": "OSP-AI（AI機械診断・AI加工診断）"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 20,
+          "company": "オークマ株式会社",
+          "booth": "E3028",
+          "item": "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 2,
+      "company": "モリマシナリー株式会社",
+      "booth": "S3048",
+      "color": "黄色",
+      "item_refs": [
+        "ツールスコーププラス＋アナライザー"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 26,
+          "company": "モリマシナリー株式会社",
+          "booth": "S3048",
+          "item": "ツールスコーププラス＋アナライザー "
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 36,
+          "company": "モリマシナリー株式会社",
+          "booth": "S3048",
+          "item": "ツールスコーププラス＋アナライザー "
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 3,
+      "company": "株式会社サイバーRC",
+      "booth": "E7074（E7072の表記もあり）",
+      "color": "緑",
+      "item_refs": [
+        "GH5（AI搭載の自動刃先ホーニング機）※特許出願中"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 27,
+          "company": "株式会社サイバーRC",
+          "booth": "E7074（E7072の表記もあり）",
+          "item": "GH5（AI搭載の自動刃先ホーニング機）※特許出願中"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 31,
+          "company": "株式会社サイバーRC",
+          "booth": "E7074（E7072の表記もあり）",
+          "item": "GH5（AI搭載の自動刃先ホーニング機）※特許出願中"
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 4,
+      "company": "日東商事株式会社（HACARUS Check）",
+      "booth": "S1031",
+      "color": "青系",
+      "item_refs": [
+        "HACARUS Check"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 28,
+          "company": "日東商事株式会社（HACARUS Check）",
+          "booth": "S1031",
+          "item": "HACARUS Check"
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "行けたら訪問"
+    },
+    {
+      "order": 5,
+      "company": "興和オプトロニクス株式会社",
+      "booth": "S3104",
+      "color": "緑",
+      "item_refs": [
+        "Rotary Wiperシリーズ×ビジョンプロセッサ"
+      ],
+      "note": "写真右端の説明が途中で切れている。既存の注目アイテム・着眼点・質問を保持。",
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 29,
+          "company": "興和オプトロニクス株式会社",
+          "booth": "S3104",
+          "item": "Rotary Wiperシリーズ×ビジョンプロセッサ（AIによる刃先欠損・切粉巻き付き検知）※特許出願中"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 40,
+          "company": "興和オプトロニクス株式会社",
+          "booth": "S3104",
+          "item": "Rotary Wiperシリーズ×ビジョンプロセッサ（AIによる刃先欠損・切粉巻き付き検知）※特許出願中"
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 6,
+      "company": "Hexagon Manufacturing Intelligence株式会社",
+      "booth": "E2013",
+      "color": "緑",
+      "item_refs": [
+        "ESPRIT EDGE ProPlanAI（AI搭載CAM）",
+        "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認",
+        "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 30,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "ESPRIT EDGE ProPlanAI（AI搭載CAM）"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 31,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認"
+        },
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 32,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 53,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E7035",
+          "item": null
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 54,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "ESPRIT EDGE ProPlanAI（AI搭載CAM）"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 55,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認"
+        },
+        {
+          "sheet": "自動化・自律化50社",
+          "row": 56,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "item": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "次の優先度"
+    },
+    {
+      "order": 7,
+      "company": "株式会社ナベル",
+      "booth": "W2041",
+      "color": "青系",
+      "item_refs": [
+        "TM AI Cobot（Techman製）"
+      ],
+      "existing_matches": [
+        {
+          "sheet": "AI・フィジカルAI",
+          "row": 33,
+          "company": "株式会社ナベル",
+          "booth": "W2041",
+          "item": "TM AI Cobot（Techman製）"
+        }
+      ],
+      "new_company": false,
+      "already_received": false,
+      "priority": "行けたら訪問"
+    },
+    {
+      "order": 8,
+      "company": "ヤマザキマザック株式会社",
+      "booth": "E1001",
+      "color": "黄色",
+      "item_refs": [
+        "ABEJA共同開発：工程設計・生産計画AIエージェント＋ロボット学習環境 ※構想・展示未確認",
+        "MAZATROL DX／SOLID MAZATROL ※展示有無未確認"
+      ],
+      "source_candidate_ids": [
+        "IR-MAZAK-AGENT",
+        "FT-Z01"
+      ],
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 9,
+      "company": "株式会社CAMSUPS",
+      "booth": "E1053",
+      "color": "黄色",
+      "item_refs": [
+        "ENCY 3.0 Cam Agent（Beta）※Agent個別の実演は未確認"
+      ],
+      "source_candidate_ids": [
+        "GR-C01"
+      ],
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 10,
+      "company": "株式会社ナガセインテグレックス",
+      "booth": "E7097",
+      "color": "黄色",
+      "item_refs": [
+        "GRIDE EYE（生成AI画像変換＋CNN砥面解析）※個別展示未確認"
+      ],
+      "source_candidate_ids": [
+        "GR-N01"
+      ],
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 11,
+      "company": "シーメンス株式会社",
+      "booth": "E3006",
+      "color": "黄色",
+      "item_refs": [
+        "Eigen Engineering Agent ※展示未確認"
+      ],
+      "source_candidate_ids": [
+        "FT-SI01"
+      ],
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 12,
+      "company": "ハイデンハイン株式会社",
+      "booth": "E7043",
+      "color": "黄色",
+      "item_refs": [
+        "VT122＋VTC 6.0（AI摩耗診断・工具異常検出）※現地未確認"
+      ],
+      "source_candidate_ids": [
+        "FC038"
+      ],
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 13,
+      "company": "株式会社たけびし",
+      "booth": "S3015",
+      "color": "黄色",
+      "item_refs": [
+        "設備データをAIエージェントに渡す接続基盤（MCP Adapter）"
+      ],
+      "source_candidate_ids": [
+        "FC024"
+      ],
+      "note": "写真右端が切れているため、後続の注記全文は読めない。ブースと既存候補台帳で企業名を照合。",
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "最優先"
+    },
+    {
+      "order": 14,
+      "company": "ジェービーエムエンジニアリング株式会社",
+      "booth": "E2002",
+      "color": "色なし",
+      "item_refs": [
+        "Mastercam＋CAM Assist（AI CAM）※現地未確認"
+      ],
+      "source_candidate_ids": [
+        "FC020"
+      ],
+      "note": "写真では白地で色指定を確認できない。青系とは推定せず優先度未指定として保持。",
+      "existing_matches": [],
+      "new_company": true,
+      "already_received": false,
+      "priority": "未指定"
+    }
+  ],
+  "summary": {
+    "companies": 14,
+    "existing_companies": 7,
+    "new_companies": [
+      "ヤマザキマザック株式会社",
+      "株式会社CAMSUPS",
+      "株式会社ナガセインテグレックス",
+      "シーメンス株式会社",
+      "ハイデンハイン株式会社",
+      "株式会社たけびし",
+      "ジェービーエムエンジニアリング株式会社"
+    ],
+    "color_counts": {
+      "黄色": 8,
+      "緑": 3,
+      "青系": 2,
+      "色なし": 1
+    }
+  }
+}

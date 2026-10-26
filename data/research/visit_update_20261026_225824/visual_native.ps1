@@ -1,0 +1,5 @@
+$ErrorActionPreference='Stop';$root='C:\Users\paulr\resarch\JIMTOF2026_Research';$d=Join-Path $root 'data\research\visit_update_20261026_225824\_private'
+$excel=New-Object -ComObject Excel.Application;$excel.Visible=$false;$excel.DisplayAlerts=$false
+try {$b=$excel.Workbooks.Open((Join-Path $root 'outputs\visit_update_20261026_225824\JIMTOF2026_訪問先一覧_更新版_優先色と巡回順.xlsx'),0,$true)
+ try {foreach($entry in @(@('閲覧_AI・フィジカルAI','view-ai'),@('閲覧_自動化・自律化','view-auto'))){$s=$b.Worksheets.Item($entry[0]);if($s.Range('A1').MergeCells){throw 'Header merged unexpectedly'};if($s.Range('A2').Interior.Color -ne $(if($entry[1] -eq 'view-ai'){65535}else{15983311})){Write-Output 'Inspect first-row color in PDF'};$s.PageSetup.PrintArea='$A$1:$F$5';$s.PageSetup.Zoom=$false;$s.PageSetup.FitToPagesWide=1;$s.PageSetup.FitToPagesTall=1;$s.PageSetup.Orientation=2;$s.ExportAsFixedFormat(0,(Join-Path $d ($entry[1]+'.pdf')))}}finally{$b.Close($false)}
+}finally{$excel.Quit();[void][Runtime.InteropServices.Marshal]::ReleaseComObject($excel)}

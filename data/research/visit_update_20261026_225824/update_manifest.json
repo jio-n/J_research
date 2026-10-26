@@ -1,0 +1,128 @@
+{
+  "source_workbook": "outputs\\integrated_review_20261026_013801\\JIMTOF2026_訪問先一覧_コメント統合・企業別閲覧.xlsx",
+  "source_sha256": "ff2300aad88dc2e41d4df655304079fefdc0e9b5411f086743cba1973f15c7af",
+  "counts": {
+    "visit_companies": 34,
+    "new_companies": 9,
+    "excluded_companies": 15,
+    "unreviewed_original_companies": 20
+  },
+  "new_companies": [
+    "ヤマザキマザック株式会社",
+    "株式会社CAMSUPS",
+    "株式会社ナガセインテグレックス",
+    "シーメンス株式会社",
+    "ハイデンハイン株式会社",
+    "株式会社たけびし",
+    "東京エレクトロンデバイス株式会社",
+    "UEL株式会社",
+    "THK株式会社"
+  ],
+  "new_items": [
+    {
+      "company": "ヤマザキマザック株式会社",
+      "candidate_id": "IR-MAZAK-AGENT",
+      "sheet": "AI・フィジカルAI",
+      "row": 34,
+      "item": "ABEJA共同開発：工程設計・生産計画AIエージェント＋ロボット学習環境 ※構想・展示未確認",
+      "color": "黄色",
+      "user_focus_pending": true
+    },
+    {
+      "company": "ヤマザキマザック株式会社",
+      "candidate_id": "FT-Z01",
+      "sheet": "AI・フィジカルAI",
+      "row": 35,
+      "item": "MAZATROL DX／SOLID MAZATROL ※展示有無未確認",
+      "color": "黄色",
+      "user_focus_pending": true
+    },
+    {
+      "company": "株式会社CAMSUPS",
+      "candidate_id": "GR-C01",
+      "sheet": "AI・フィジカルAI",
+      "row": 36,
+      "item": "ENCY 3.0 Cam Agent（Beta）※Agent個別の実演は未確認",
+      "color": "黄色",
+      "user_focus_pending": true
+    },
+    {
+      "company": "株式会社ナガセインテグレックス",
+      "candidate_id": "GR-N01",
+      "sheet": "AI・フィジカルAI",
+      "row": 37,
+      "item": "GRIDE EYE（生成AI画像変換＋CNN砥面解析）※個別展示未確認",
+      "color": "黄色",
+      "user_focus_pending": true
+    },
+    {
+      "company": "シーメンス株式会社",
+      "candidate_id": "FT-SI01",
+      "sheet": "AI・フィジカルAI",
+      "row": 38,
+      "item": "Eigen Engineering Agent ※展示未確認",
+      "color": "黄色",
+      "user_focus_pending": true
+    },
+    {
+      "company": "ハイデンハイン株式会社",
+      "candidate_id": "FC038",
+      "sheet": "AI・フィジカルAI",
+      "row": 39,
+      "item": "VT122＋VTC 6.0（AI摩耗診断・工具異常検出）※現地未確認",
+      "color": "黄色",
+      "user_focus_pending": true
+    },
+    {
+      "company": "株式会社たけびし",
+      "candidate_id": "FC024",
+      "sheet": "AI・フィジカルAI",
+      "row": 40,
+      "item": "設備データをAIエージェントに渡す接続基盤（MCP Adapter）",
+      "color": "黄色",
+      "user_focus_pending": true
+    },
+    {
+      "company": "東京エレクトロンデバイス株式会社",
+      "candidate_id": "AC146",
+      "sheet": "自動化・自律化50社",
+      "row": 27,
+      "item": "3Dスキャン→面取り経路生成 ※東京エンジニアリングE7073内で展示予定",
+      "color": "緑",
+      "user_focus_pending": true
+    },
+    {
+      "company": "UEL株式会社",
+      "candidate_id": "FC060",
+      "sheet": "自動化・自律化50社",
+      "row": 28,
+      "item": "BreylSimulator（治具設計）※現地未確認",
+      "color": "青系",
+      "user_focus_pending": true
+    },
+    {
+      "company": "THK株式会社",
+      "candidate_id": "AC143",
+      "sheet": "自動化・自律化50社",
+      "row": 29,
+      "item": "NEXTAGE 双腕ロボット ※現地未確認",
+      "color": "青系",
+      "user_focus_pending": true
+    }
+  ],
+  "route_core": [
+    "ヤマザキマザック株式会社",
+    "株式会社CAMSUPS",
+    "シーメンス株式会社",
+    "オークマ株式会社",
+    "DMG森精機株式会社",
+    "ハイデンハイン株式会社",
+    "株式会社ナガセインテグレックス",
+    "ファナック株式会社",
+    "三菱電機株式会社",
+    "株式会社たけびし",
+    "モリマシナリー株式会社"
+  ],
+  "preserved_fields": "既存A:Iの全値と全リンクを保持。変更は行の色、訪問予定と履歴・未精査の区分、新規行、巡回表。",
+  "remaining": "Wintechのシート間優先色差／サイバーRCの小間表記差／個別展示と実演時刻／未掲載候補全体の精査"
+}

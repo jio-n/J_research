@@ -1,0 +1,2267 @@
+{
+  "status": "手持ち写真の受付完了・未掲載候補の精査は未完・Excel生成指示待ち",
+  "unreviewed_candidates": "写真にない候補は未精査として保持。訪問しないと判定しない。",
+  "batches": [
+    "photo_001.json",
+    "photo_002.json",
+    "photo_003.json",
+    "photo_004.json"
+  ],
+  "unique_companies": 49,
+  "active_companies": 34,
+  "new_companies": [
+    "ヤマザキマザック株式会社",
+    "株式会社CAMSUPS",
+    "株式会社ナガセインテグレックス",
+    "シーメンス株式会社",
+    "ハイデンハイン株式会社",
+    "株式会社たけびし",
+    "ジェービーエムエンジニアリング株式会社",
+    "東京エレクトロンデバイス株式会社",
+    "UEL株式会社",
+    "THK株式会社"
+  ],
+  "active_new_companies": [
+    "ヤマザキマザック株式会社",
+    "株式会社CAMSUPS",
+    "株式会社ナガセインテグレックス",
+    "シーメンス株式会社",
+    "ハイデンハイン株式会社",
+    "株式会社たけびし",
+    "東京エレクトロンデバイス株式会社",
+    "UEL株式会社",
+    "THK株式会社"
+  ],
+  "excluded_companies": [
+    "ジェービーエムエンジニアリング株式会社",
+    "三和ロボティクス株式会社",
+    "株式会社松浦機械製作所",
+    "松本機械工業株式会社",
+    "株式会社SANMATSU",
+    "東洋精機工業株式会社",
+    "株式会社ジーベックテクノロジー",
+    "パスカル株式会社",
+    "Walter Maschinenbau GmbH",
+    "株式会社ツガミ",
+    "株式会社エグロ",
+    "エヌティーツール株式会社",
+    "吉川鐵工株式会社",
+    "株式会社エス・ティ・シー",
+    "エスエムダブリューオートブロック株式会社"
+  ],
+  "color_conflicts": [
+    "Wintech Automation Co., Ltd"
+  ],
+  "selection_policy": {
+    "source": "ユーザーの今回指示",
+    "uncolored": "色なし・優先度未指定は本人判断で訪問しない。訪問予定リストから除外し、参照履歴として保存。写真2のJBMにも適用。",
+    "color_conflict": "複数の指定色が異なる企業は除外せず、色確定待ちの訪問予定として保持。",
+    "preserve_original": "既存Excelと写真ごとの受領記録は変更しない。Excel生成は完了指示まで待つ。"
+  },
+  "company_records": [
+    {
+      "company": "ファナック株式会社",
+      "new_company": false,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 1,
+          "company": "ファナック株式会社",
+          "booth": "S2001",
+          "color": "黄色",
+          "item_refs": [
+            "AI溶接エージェント",
+            "日立×ファナック フィジカルAI"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 2,
+              "company": "ファナック株式会社",
+              "booth": "S2001",
+              "item": "AI溶接エージェント ※展示有無未確認"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 3,
+              "company": "ファナック株式会社",
+              "booth": "S2001",
+              "item": "日立×ファナック フィジカルAI ※関連構想"
+            }
+          ],
+          "new_company": false,
+          "priority": "最優先",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "Ndotlight Co., Ltd.",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 2,
+          "company": "Ndotlight Co., Ltd.",
+          "booth": "S4004",
+          "color": "緑",
+          "item_refs": [
+            "TRINIX"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 4,
+              "company": "Ndotlight Co., Ltd.",
+              "booth": "S4004",
+              "item": "TRINIX"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "伊藤忠マシンテクノス株式会社",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 3,
+          "company": "伊藤忠マシンテクノス株式会社",
+          "booth": "E1002",
+          "color": "緑",
+          "item_refs": [
+            "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 5,
+              "company": "伊藤忠マシンテクノス株式会社",
+              "booth": "E1002",
+              "item": "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 13,
+              "company": "伊藤忠マシンテクノス株式会社",
+              "booth": "E1002",
+              "item": "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        },
+        {
+          "order": 9,
+          "company": "伊藤忠マシンテクノス株式会社",
+          "booth": "E1002",
+          "color": "緑",
+          "item_refs": [
+            "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 5,
+              "company": "伊藤忠マシンテクノス株式会社",
+              "booth": "E1002",
+              "item": "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 13,
+              "company": "伊藤忠マシンテクノス株式会社",
+              "booth": "E1002",
+              "item": "加工最適化／AIデータ解析／Physical AI開発・統合システム"
+            }
+          ],
+          "new_company": false,
+          "already_received": true,
+          "priority": "次の優先度",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社シマダマシンツール",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 4,
+          "company": "株式会社シマダマシンツール",
+          "booth": "E2018",
+          "color": "緑",
+          "item_refs": [
+            "HS4200＋フィジカルAI搭載ノーティーチロボット",
+            "SHIMADA AUTOMATION MODULE"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 6,
+              "company": "株式会社シマダマシンツール",
+              "booth": "E2018",
+              "item": "HS4200＋フィジカルAI搭載レール走行ロボット"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 7,
+              "company": "株式会社シマダマシンツール",
+              "booth": "E2018",
+              "item": "SHIMADA AUTOMATION MODULE"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 26,
+              "company": "株式会社シマダマシンツール",
+              "booth": "E2018",
+              "item": "HS4200＋フィジカルAI搭載レール走行ロボット"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 27,
+              "company": "株式会社シマダマシンツール",
+              "booth": "E2018",
+              "item": "SHIMADA AUTOMATION MODULE"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社ソフィックス",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 5,
+          "company": "株式会社ソフィックス",
+          "booth": "E1067",
+          "color": "緑",
+          "item_refs": [
+            "工場自律化システム（ミニ工場展示）",
+            "SOFIXCAN AI Forecast"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 8,
+              "company": "株式会社ソフィックス",
+              "booth": "E1067",
+              "item": "工場自律化システム（ミニ工場展示）"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 9,
+              "company": "株式会社ソフィックス",
+              "booth": "E1067",
+              "item": "SOFIXCAN AI Forecast"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 34,
+              "company": "株式会社ソフィックス",
+              "booth": "E1067",
+              "item": "工場自律化システム（ミニ工場展示）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 35,
+              "company": "株式会社ソフィックス",
+              "booth": "E1067",
+              "item": "SOFIXCAN AI Forecast"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "三菱商事テクノス株式会社",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 6,
+          "company": "三菱商事テクノス株式会社",
+          "booth": "S3100",
+          "color": "緑",
+          "item_refs": [
+            "音声 AIロボットティーチング支援",
+            "自動仕分けソリューション"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 10,
+              "company": "三菱商事テクノス株式会社",
+              "booth": "S3100",
+              "item": "豆蔵 AIロボットティーチング支援"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 11,
+              "company": "三菱商事テクノス株式会社",
+              "booth": "S3100",
+              "item": "自動仕分けソリューション ※開発中"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 8,
+              "company": "三菱商事テクノス株式会社",
+              "booth": "S3100",
+              "item": "豆蔵 AIロボットティーチング支援"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 9,
+              "company": "三菱商事テクノス株式会社",
+              "booth": "S3100",
+              "item": "自動仕分けソリューション ※開発中"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        },
+        {
+          "order": 5,
+          "company": "三菱商事テクノス株式会社",
+          "booth": "S3100",
+          "color": "緑",
+          "item_refs": [
+            "音声 AIロボットティーチング支援",
+            "自動仕分けソリューション ※開発中"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 10,
+              "company": "三菱商事テクノス株式会社",
+              "booth": "S3100",
+              "item": "豆蔵 AIロボットティーチング支援"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 11,
+              "company": "三菱商事テクノス株式会社",
+              "booth": "S3100",
+              "item": "自動仕分けソリューション ※開発中"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 8,
+              "company": "三菱商事テクノス株式会社",
+              "booth": "S3100",
+              "item": "豆蔵 AIロボットティーチング支援"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 9,
+              "company": "三菱商事テクノス株式会社",
+              "booth": "S3100",
+              "item": "自動仕分けソリューション ※開発中"
+            }
+          ],
+          "new_company": false,
+          "already_received": true,
+          "priority": "次の優先度",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "ベッコフオートメーション株式会社",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 7,
+          "company": "ベッコフオートメーション株式会社",
+          "booth": "E2028",
+          "color": "緑",
+          "item_refs": [
+            "TwinCAT CNC",
+            "TwinCAT CoAgent"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 12,
+              "company": "ベッコフオートメーション株式会社",
+              "booth": "E2028",
+              "item": "TwinCAT CNC（オープンなPCベースCNC）"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 13,
+              "company": "ベッコフオートメーション株式会社",
+              "booth": "E2028",
+              "item": "TwinCAT CoAgent"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社TAKISAWA",
+      "new_company": false,
+      "colors_received": [
+        "青系"
+      ],
+      "color_conflict": false,
+      "resolved_color": "青系",
+      "receipts": [
+        {
+          "order": 8,
+          "company": "株式会社TAKISAWA",
+          "booth": "E3013",
+          "color": "青系",
+          "item_refs": [
+            "台車型ロボットシステム TR-20W"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 14,
+              "company": "株式会社TAKISAWA",
+              "booth": "E3013",
+              "item": "台車型ロボットシステム「TR-20W」※フィジカルAI搭載・参考出品"
+            }
+          ],
+          "new_company": false,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "DMG森精機株式会社",
+      "new_company": false,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 9,
+          "company": "DMG森精機株式会社",
+          "booth": "E8005",
+          "color": "黄色",
+          "item_refs": [
+            "サービスエージェント",
+            "Condition Agent",
+            "GENIAC 製造フィジカルAI構想"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 15,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 16,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "Condition Agent（主軸・送り軸の予兆診断）"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 17,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 3,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 4,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "Condition Agent（主軸・送り軸の予兆診断）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 5,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認"
+            }
+          ],
+          "new_company": false,
+          "priority": "最優先",
+          "batch_file": "photo_001.json"
+        },
+        {
+          "order": 2,
+          "company": "DMG森精機株式会社",
+          "booth": "E8005",
+          "color": "黄色",
+          "item_refs": [
+            "サービスエージェント",
+            "Condition Agent",
+            "GENIAC 製造フィジカルAI構想"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 15,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 16,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "Condition Agent（主軸・送り軸の予兆診断）"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 17,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 3,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "サービスエージェント（生成AIによる不具合対応支援）※会場デモあり"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 4,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "Condition Agent（主軸・送り軸の予兆診断）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 5,
+              "company": "DMG森精機株式会社",
+              "booth": "E8005",
+              "item": "GENIAC 製造フィジカルAI構想（産総研と共同）※構想・展示有無未確認"
+            }
+          ],
+          "new_company": false,
+          "already_received": true,
+          "priority": "最優先",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "匠技研工業株式会社",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 10,
+          "company": "匠技研工業株式会社",
+          "booth": "S3011",
+          "color": "緑",
+          "item_refs": [
+            "匠フォース AIエージェント（見積作成）",
+            "AI類似図面検索"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 18,
+              "company": "匠技研工業株式会社",
+              "booth": "S3011",
+              "item": "匠フォース AIエージェント（見積作成）※会場で実演あり"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 19,
+              "company": "匠技研工業株式会社",
+              "booth": "S3011",
+              "item": "AI類似図面検索"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "三菱電機株式会社",
+      "new_company": false,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 11,
+          "company": "三菱電機株式会社",
+          "booth": "S2003",
+          "color": "黄色",
+          "item_refs": [
+            "ヒューマノイド×CNC連携"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 20,
+              "company": "三菱電機株式会社",
+              "booth": "S2003",
+              "item": "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 16,
+              "company": "三菱電機株式会社",
+              "booth": "S2003",
+              "item": "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標"
+            }
+          ],
+          "new_company": false,
+          "priority": "最優先",
+          "batch_file": "photo_001.json"
+        },
+        {
+          "order": 12,
+          "company": "三菱電機株式会社",
+          "booth": "S2003",
+          "color": "黄色",
+          "item_refs": [
+            "ヒューマノイド×CNC連携"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 20,
+              "company": "三菱電機株式会社",
+              "booth": "S2003",
+              "item": "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 16,
+              "company": "三菱電機株式会社",
+              "booth": "S2003",
+              "item": "ヒューマノイド×CNC連携（AI加工タスクプランナー＋CNCフィジカルAI）※会場デモ・実用化は2030年目標"
+            }
+          ],
+          "new_company": false,
+          "already_received": true,
+          "priority": "最優先",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "Wintech Automation Co., Ltd",
+      "new_company": false,
+      "colors_received": [
+        "緑",
+        "青系"
+      ],
+      "color_conflict": true,
+      "resolved_color": null,
+      "receipts": [
+        {
+          "order": 12,
+          "company": "Wintech Automation Co., Ltd",
+          "booth": "W3051",
+          "color": "緑",
+          "item_refs": [
+            "HGM-DX 自動両面研削システム"
+          ],
+          "note": "写真の既存優先欄『相対的に低め。他候補との比較後に決定』も保持。今回の緑色と区別する。",
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 21,
+              "company": "Wintech Automation Co., Ltd（WTA）",
+              "booth": "W3051",
+              "item": "HGM-DX 自動両面研削システム"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 18,
+              "company": "Wintech Automation Co., Ltd（WTA）",
+              "booth": "W3051",
+              "item": "HGM-DX 自動両面研削システム"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        },
+        {
+          "order": 14,
+          "company": "Wintech Automation Co., Ltd",
+          "booth": "W3051",
+          "color": "青系",
+          "item_refs": [
+            "HGM-DX 自動両面研削システム"
+          ],
+          "note": "写真1では緑、写真3では青系。元の優先注記も保持し、優先色を一意に確定しない。",
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 21,
+              "company": "Wintech Automation Co., Ltd（WTA）",
+              "booth": "W3051",
+              "item": "HGM-DX 自動両面研削システム"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 18,
+              "company": "Wintech Automation Co., Ltd（WTA）",
+              "booth": "W3051",
+              "item": "HGM-DX 自動両面研削システム"
+            }
+          ],
+          "new_company": false,
+          "already_received": true,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社東振テクニカル",
+      "new_company": false,
+      "colors_received": [
+        "青系"
+      ],
+      "color_conflict": false,
+      "resolved_color": "青系",
+      "receipts": [
+        {
+          "order": 13,
+          "company": "株式会社東振テクニカル",
+          "booth": "E7037",
+          "color": "青系",
+          "item_refs": [
+            "長尺研削高精度自動化システム（センタレス）／リング形状ワークの無人運転（事例）"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 22,
+              "company": "株式会社東振テクニカル",
+              "booth": "E7037",
+              "item": "長尺研削高精度自動化システム（センタレス）リング形状ワークの無人運転（事例）"
+            }
+          ],
+          "new_company": false,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "日本クリンゲルンベルグ株式会社",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 14,
+          "company": "日本クリンゲルンベルグ株式会社",
+          "booth": "E1006",
+          "color": "緑",
+          "item_refs": [
+            "Closed Loop（歯車の測定→補正値の自動生成）／DDQM／Smart Factory"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 23,
+              "company": "日本クリンゲルンベルグ株式会社",
+              "booth": "E1006",
+              "item": "Closed Loop（歯車の測定→補正値の自動生成）、DDQM、Smart Factory"
+            }
+          ],
+          "new_company": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_001.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "オークマ株式会社",
+      "new_company": false,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 1,
+          "company": "オークマ株式会社",
+          "booth": "E3028",
+          "color": "黄色",
+          "item_refs": [
+            "OSP-AI（AI機械診断・AI加工診断）",
+            "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 24,
+              "company": "オークマ株式会社",
+              "booth": "E3028",
+              "item": "OSP-AI（AI機械診断・AI加工診断）"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 25,
+              "company": "オークマ株式会社",
+              "booth": "E3028",
+              "item": "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 19,
+              "company": "オークマ株式会社",
+              "booth": "E3028",
+              "item": "OSP-AI（AI機械診断・AI加工診断）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 20,
+              "company": "オークマ株式会社",
+              "booth": "E3028",
+              "item": "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "最優先",
+          "batch_file": "photo_002.json"
+        },
+        {
+          "order": 15,
+          "company": "オークマ株式会社",
+          "booth": "E3028",
+          "color": "黄色",
+          "item_refs": [
+            "OSP-AI（AI機械診断・AI加工診断）",
+            "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 24,
+              "company": "オークマ株式会社",
+              "booth": "E3028",
+              "item": "OSP-AI（AI機械診断・AI加工診断）"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 25,
+              "company": "オークマ株式会社",
+              "booth": "E3028",
+              "item": "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 19,
+              "company": "オークマ株式会社",
+              "booth": "E3028",
+              "item": "OSP-AI（AI機械診断・AI加工診断）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 20,
+              "company": "オークマ株式会社",
+              "booth": "E3028",
+              "item": "新世代CNC OSP-P500（デジタルツイン・スマートOSP操作）"
+            }
+          ],
+          "new_company": false,
+          "already_received": true,
+          "priority": "最優先",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "モリマシナリー株式会社",
+      "new_company": false,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 2,
+          "company": "モリマシナリー株式会社",
+          "booth": "S3048",
+          "color": "黄色",
+          "item_refs": [
+            "ツールスコーププラス＋アナライザー"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 26,
+              "company": "モリマシナリー株式会社",
+              "booth": "S3048",
+              "item": "ツールスコーププラス＋アナライザー "
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 36,
+              "company": "モリマシナリー株式会社",
+              "booth": "S3048",
+              "item": "ツールスコーププラス＋アナライザー "
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "最優先",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社サイバーRC",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 3,
+          "company": "株式会社サイバーRC",
+          "booth": "E7074（E7072の表記もあり）",
+          "color": "緑",
+          "item_refs": [
+            "GH5（AI搭載の自動刃先ホーニング機）※特許出願中"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 27,
+              "company": "株式会社サイバーRC",
+              "booth": "E7074（E7072の表記もあり）",
+              "item": "GH5（AI搭載の自動刃先ホーニング機）※特許出願中"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 31,
+              "company": "株式会社サイバーRC",
+              "booth": "E7074（E7072の表記もあり）",
+              "item": "GH5（AI搭載の自動刃先ホーニング機）※特許出願中"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "日東商事株式会社（HACARUS Check）",
+      "new_company": false,
+      "colors_received": [
+        "青系"
+      ],
+      "color_conflict": false,
+      "resolved_color": "青系",
+      "receipts": [
+        {
+          "order": 4,
+          "company": "日東商事株式会社（HACARUS Check）",
+          "booth": "S1031",
+          "color": "青系",
+          "item_refs": [
+            "HACARUS Check"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 28,
+              "company": "日東商事株式会社（HACARUS Check）",
+              "booth": "S1031",
+              "item": "HACARUS Check"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "興和オプトロニクス株式会社",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 5,
+          "company": "興和オプトロニクス株式会社",
+          "booth": "S3104",
+          "color": "緑",
+          "item_refs": [
+            "Rotary Wiperシリーズ×ビジョンプロセッサ"
+          ],
+          "note": "写真右端の説明が途中で切れている。既存の注目アイテム・着眼点・質問を保持。",
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 29,
+              "company": "興和オプトロニクス株式会社",
+              "booth": "S3104",
+              "item": "Rotary Wiperシリーズ×ビジョンプロセッサ（AIによる刃先欠損・切粉巻き付き検知）※特許出願中"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 40,
+              "company": "興和オプトロニクス株式会社",
+              "booth": "S3104",
+              "item": "Rotary Wiperシリーズ×ビジョンプロセッサ（AIによる刃先欠損・切粉巻き付き検知）※特許出願中"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "Hexagon Manufacturing Intelligence株式会社",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 6,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "color": "緑",
+          "item_refs": [
+            "ESPRIT EDGE ProPlanAI（AI搭載CAM）",
+            "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認",
+            "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 30,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "ESPRIT EDGE ProPlanAI（AI搭載CAM）"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 31,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 32,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 53,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E7035",
+              "item": null
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 54,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "ESPRIT EDGE ProPlanAI（AI搭載CAM）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 55,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 56,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_002.json"
+        },
+        {
+          "order": 1,
+          "company": "Hexagon Manufacturing Intelligence株式会社",
+          "booth": "E2013",
+          "color": "緑",
+          "item_refs": [
+            "ESPRIT EDGE ProPlanAI（AI搭載CAM）",
+            "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認",
+            "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 30,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "ESPRIT EDGE ProPlanAI（AI搭載CAM）"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 31,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認"
+            },
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 32,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 53,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E7035",
+              "item": null
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 54,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "ESPRIT EDGE ProPlanAI（AI搭載CAM）"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 55,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "ODYSSEE（リアルタイム予測・最適化）※展示有無未確認"
+            },
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 56,
+              "company": "Hexagon Manufacturing Intelligence株式会社",
+              "booth": "E2013",
+              "item": "Nexus Materials Enrich（材料データセットの強化）※展示有無未確認"
+            }
+          ],
+          "new_company": false,
+          "already_received": true,
+          "priority": "次の優先度",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社ナベル",
+      "new_company": false,
+      "colors_received": [
+        "青系"
+      ],
+      "color_conflict": false,
+      "resolved_color": "青系",
+      "receipts": [
+        {
+          "order": 7,
+          "company": "株式会社ナベル",
+          "booth": "W2041",
+          "color": "青系",
+          "item_refs": [
+            "TM AI Cobot（Techman製）"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "AI・フィジカルAI",
+              "row": 33,
+              "company": "株式会社ナベル",
+              "booth": "W2041",
+              "item": "TM AI Cobot（Techman製）"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "ヤマザキマザック株式会社",
+      "new_company": true,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 8,
+          "company": "ヤマザキマザック株式会社",
+          "booth": "E1001",
+          "color": "黄色",
+          "item_refs": [
+            "ABEJA共同開発：工程設計・生産計画AIエージェント＋ロボット学習環境 ※構想・展示未確認",
+            "MAZATROL DX／SOLID MAZATROL ※展示有無未確認"
+          ],
+          "source_candidate_ids": [
+            "IR-MAZAK-AGENT",
+            "FT-Z01"
+          ],
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "最優先",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社CAMSUPS",
+      "new_company": true,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 9,
+          "company": "株式会社CAMSUPS",
+          "booth": "E1053",
+          "color": "黄色",
+          "item_refs": [
+            "ENCY 3.0 Cam Agent（Beta）※Agent個別の実演は未確認"
+          ],
+          "source_candidate_ids": [
+            "GR-C01"
+          ],
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "最優先",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社ナガセインテグレックス",
+      "new_company": true,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 10,
+          "company": "株式会社ナガセインテグレックス",
+          "booth": "E7097",
+          "color": "黄色",
+          "item_refs": [
+            "GRIDE EYE（生成AI画像変換＋CNN砥面解析）※個別展示未確認"
+          ],
+          "source_candidate_ids": [
+            "GR-N01"
+          ],
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "最優先",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "シーメンス株式会社",
+      "new_company": true,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 11,
+          "company": "シーメンス株式会社",
+          "booth": "E3006",
+          "color": "黄色",
+          "item_refs": [
+            "Eigen Engineering Agent ※展示未確認"
+          ],
+          "source_candidate_ids": [
+            "FT-SI01"
+          ],
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "最優先",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "ハイデンハイン株式会社",
+      "new_company": true,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 12,
+          "company": "ハイデンハイン株式会社",
+          "booth": "E7043",
+          "color": "黄色",
+          "item_refs": [
+            "VT122＋VTC 6.0（AI摩耗診断・工具異常検出）※現地未確認"
+          ],
+          "source_candidate_ids": [
+            "FC038"
+          ],
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "最優先",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社たけびし",
+      "new_company": true,
+      "colors_received": [
+        "黄色"
+      ],
+      "color_conflict": false,
+      "resolved_color": "黄色",
+      "receipts": [
+        {
+          "order": 13,
+          "company": "株式会社たけびし",
+          "booth": "S3015",
+          "color": "黄色",
+          "item_refs": [
+            "設備データをAIエージェントに渡す接続基盤（MCP Adapter）"
+          ],
+          "source_candidate_ids": [
+            "FC024"
+          ],
+          "note": "写真右端が切れているため、後続の注記全文は読めない。ブースと既存候補台帳で企業名を照合。",
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "最優先",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "ジェービーエムエンジニアリング株式会社",
+      "new_company": true,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 14,
+          "company": "ジェービーエムエンジニアリング株式会社",
+          "booth": "E2002",
+          "color": "色なし",
+          "item_refs": [
+            "Mastercam＋CAM Assist（AI CAM）※現地未確認"
+          ],
+          "source_candidate_ids": [
+            "FC020"
+          ],
+          "note": "写真では白地で色指定を確認できない。青系とは推定せず優先度未指定として保持。",
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "YKT株式会社",
+      "new_company": false,
+      "colors_received": [
+        "青系"
+      ],
+      "color_conflict": false,
+      "resolved_color": "青系",
+      "receipts": [
+        {
+          "order": 1,
+          "company": "YKT株式会社",
+          "booth": "E2026",
+          "color": "青系",
+          "item_refs": [],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 2,
+              "company": "YKT株式会社",
+              "booth": "E2026",
+              "item": null
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "三和ロボティクス株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 3,
+          "company": "三和ロボティクス株式会社",
+          "booth": "E7069",
+          "color": "色なし",
+          "item_refs": [
+            "NEXSRT J30 F／パレット交換自動化ロボット"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 6,
+              "company": "三和ロボティクス株式会社",
+              "booth": "E7069",
+              "item": "NEXSRT J30 F／パレット交換自動化ロボット"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社松浦機械製作所",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 4,
+          "company": "株式会社松浦機械製作所",
+          "booth": "E3030",
+          "color": "色なし",
+          "item_refs": [
+            "MX-520T PC7／MX-850T PC4：5軸・旋削・無人運転"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 7,
+              "company": "株式会社松浦機械製作所",
+              "booth": "E3030",
+              "item": "MX-520T PC7／MX-850T PC4：5軸・旋削・無人運転"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "松本機械工業株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 6,
+          "company": "松本機械工業株式会社",
+          "booth": "W2070",
+          "color": "色なし",
+          "item_refs": [
+            "Smart Terrace Adv／ワーク・チャック爪・工具・ケレの自動交換"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 10,
+              "company": "松本機械工業株式会社",
+              "booth": "W2070",
+              "item": "Smart Terrace Adv／ワーク・チャック爪・工具・ケレの自動交換"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社SANMATSU",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 7,
+          "company": "株式会社SANMATSU",
+          "booth": "S3102",
+          "color": "色なし",
+          "item_refs": [
+            "GentleGaiant＋AMR iRAYPE"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 11,
+              "company": "株式会社SANMATSU",
+              "booth": "S3102",
+              "item": "GentleGaiant＋AMR iRAYPE"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "東洋精機工業株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 8,
+          "company": "東洋精機工業株式会社",
+          "booth": "E3019",
+          "color": "色なし",
+          "item_refs": [
+            "TVT332S無人化セル：ワーク交換→洗浄→精度測定"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 12,
+              "company": "東洋精機工業株式会社",
+              "booth": "E3019",
+              "item": "TVT332S無人化セル：ワーク交換→洗浄→精度測定"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社ジーベックテクノロジー",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 10,
+          "company": "株式会社ジーベックテクノロジー",
+          "booth": "WA006",
+          "color": "色なし",
+          "item_refs": [
+            "XEBEC CPSオートホルダー"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 14,
+              "company": "株式会社ジーベックテクノロジー",
+              "booth": "WA006",
+              "item": "XEBEC CPSオートホルダー"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "パスカル株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 11,
+          "company": "パスカル株式会社",
+          "booth": "W2047",
+          "color": "色なし",
+          "item_refs": [
+            "RPGパレットグリッパ／センサ付きクランプ・自動パレット交換"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 15,
+              "company": "パスカル株式会社",
+              "booth": "W2047",
+              "item": "RPGパレットグリッパ／センサ付きクランプ・自動パレット交換"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "Walter Maschinenbau GmbH",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 13,
+          "company": "Walter Maschinenbau GmbH",
+          "booth": "E8001",
+          "color": "色なし",
+          "item_refs": [
+            "ATP：工具の研削・放電・測定をつなぐ自動化"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 17,
+              "company": "Walter Maschinenbau GmbH（*）",
+              "booth": "E8001",
+              "item": "ATP：工具の研削・放電・測定をつなぐ自動化"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "TPR大阪精密機械株式会社",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 16,
+          "company": "TPR大阪精密機械株式会社",
+          "booth": "E7033",
+          "color": "緑",
+          "item_refs": [
+            "クローズドループ対応：歯車測定→加工機へのフィードバック"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 21,
+              "company": "TPR大阪精密機械株式会社",
+              "booth": "E7033",
+              "item": "クローズドループ対応：歯車測定→加工機へのフィードバック"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社ツガミ",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 17,
+          "company": "株式会社ツガミ",
+          "booth": "S1004",
+          "color": "色なし",
+          "item_refs": [
+            "TMA8F／VA3S：コレット交換・機外測定・ワーク給排／パレット交換"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 22,
+              "company": "株式会社ツガミ",
+              "booth": "S1004",
+              "item": "TMA8F／VA3S：コレット交換・機外測定・ワーク給排・パレット交換"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社エグロ",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 18,
+          "company": "株式会社エグロ",
+          "booth": "E1045",
+          "color": "色なし",
+          "item_refs": [
+            "CT-101＋RoboStation：機械・ロボット一体型自動化"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 23,
+              "company": "株式会社エグロ",
+              "booth": "E1045",
+              "item": "CT-101＋RoboStation：機械・ロボット一体型自動化"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "BUFFOLI TRANSFER S.p.A.",
+      "new_company": false,
+      "colors_received": [
+        "青系"
+      ],
+      "color_conflict": false,
+      "resolved_color": "青系",
+      "receipts": [
+        {
+          "order": 19,
+          "company": "BUFFOLI TRANSFER S.p.A.",
+          "booth": "E1034",
+          "color": "青系",
+          "item_refs": [
+            "トランスファーマシン／AI品質検査・予知保全"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 24,
+              "company": "BUFFOLI TRANSFER S.p.A.（**）",
+              "booth": "E1034",
+              "item": "トランスファーマシン／AI品質検査・予知保全"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "エヌティーツール株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 20,
+          "company": "エヌティーツール株式会社",
+          "booth": "W2019",
+          "color": "色なし",
+          "item_refs": [
+            "マガハンホルダ／Boost Master：搬送・切屑処理の自動化"
+          ],
+          "note": "注目アイテムのホルダ名称は写真からの読みが不鮮明。既存値は変更しない。",
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 25,
+              "company": "エヌティーツール株式会社",
+              "booth": "W2019",
+              "item": "マテハンホルダ／Boost Master：搬送・切屑処理の自動化"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "吉川鐵工株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 2,
+          "company": "吉川鐵工株式会社",
+          "booth": "E7055",
+          "color": "色なし",
+          "item_refs": [],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 57,
+              "company": "吉川鐵工株式会社",
+              "booth": "E7055",
+              "item": null
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社エス・ティ・シー",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 3,
+          "company": "株式会社エス・ティ・シー",
+          "booth": "E1069",
+          "color": "色なし",
+          "item_refs": [],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 58,
+              "company": "株式会社エス・ティ・シー",
+              "booth": "E1069",
+              "item": null
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社牧野フライス製作所",
+      "new_company": false,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 4,
+          "company": "株式会社牧野フライス製作所",
+          "booth": "E1024",
+          "color": "緑",
+          "item_refs": [],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 59,
+              "company": "株式会社牧野フライス製作所",
+              "booth": "E1024",
+              "item": null
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "エスエムダブリューオートブロック株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 5,
+          "company": "エスエムダブリューオートブロック株式会社",
+          "booth": "W2074",
+          "color": "色なし",
+          "item_refs": [],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 60,
+              "company": "エスエムダブリューオートブロック株式会社",
+              "booth": "W2074",
+              "item": null
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "東京エレクトロンデバイス株式会社",
+      "new_company": true,
+      "colors_received": [
+        "緑"
+      ],
+      "color_conflict": false,
+      "resolved_color": "緑",
+      "receipts": [
+        {
+          "order": 6,
+          "company": "東京エレクトロンデバイス株式会社",
+          "booth": "E7073",
+          "color": "緑",
+          "item_refs": [
+            "3Dスキャン→面取り経路生成 ※東京エンジニアリングE7073内で展示予定"
+          ],
+          "source_candidate_ids": [
+            "AC146"
+          ],
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "次の優先度",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "UEL株式会社",
+      "new_company": true,
+      "colors_received": [
+        "青系"
+      ],
+      "color_conflict": false,
+      "resolved_color": "青系",
+      "receipts": [
+        {
+          "order": 7,
+          "company": "UEL株式会社",
+          "booth": "S1024",
+          "color": "青系",
+          "item_refs": [
+            "BreylSimulator（治具設計）※現地未確認"
+          ],
+          "source_candidate_ids": [
+            "FC060"
+          ],
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    },
+    {
+      "company": "THK株式会社",
+      "new_company": true,
+      "colors_received": [
+        "青系"
+      ],
+      "color_conflict": false,
+      "resolved_color": "青系",
+      "receipts": [
+        {
+          "order": 8,
+          "company": "THK株式会社",
+          "booth": "W2018",
+          "color": "青系",
+          "item_refs": [
+            "NEXTAGE 双腕ロボット ※現地未確認"
+          ],
+          "source_candidate_ids": [
+            "AC143"
+          ],
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "行けたら訪問",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問予定",
+      "include_in_final_visit_list": true,
+      "keep_for_reference": true
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "reason": "本人判断・写真の色なし",
+  "records": [
+    {
+      "company": "ジェービーエムエンジニアリング株式会社",
+      "new_company": true,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 14,
+          "company": "ジェービーエムエンジニアリング株式会社",
+          "booth": "E2002",
+          "color": "色なし",
+          "item_refs": [
+            "Mastercam＋CAM Assist（AI CAM）※現地未確認"
+          ],
+          "source_candidate_ids": [
+            "FC020"
+          ],
+          "note": "写真では白地で色指定を確認できない。青系とは推定せず優先度未指定として保持。",
+          "existing_matches": [],
+          "new_company": true,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_002.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "三和ロボティクス株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 3,
+          "company": "三和ロボティクス株式会社",
+          "booth": "E7069",
+          "color": "色なし",
+          "item_refs": [
+            "NEXSRT J30 F／パレット交換自動化ロボット"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 6,
+              "company": "三和ロボティクス株式会社",
+              "booth": "E7069",
+              "item": "NEXSRT J30 F／パレット交換自動化ロボット"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社松浦機械製作所",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 4,
+          "company": "株式会社松浦機械製作所",
+          "booth": "E3030",
+          "color": "色なし",
+          "item_refs": [
+            "MX-520T PC7／MX-850T PC4：5軸・旋削・無人運転"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 7,
+              "company": "株式会社松浦機械製作所",
+              "booth": "E3030",
+              "item": "MX-520T PC7／MX-850T PC4：5軸・旋削・無人運転"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "松本機械工業株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 6,
+          "company": "松本機械工業株式会社",
+          "booth": "W2070",
+          "color": "色なし",
+          "item_refs": [
+            "Smart Terrace Adv／ワーク・チャック爪・工具・ケレの自動交換"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 10,
+              "company": "松本機械工業株式会社",
+              "booth": "W2070",
+              "item": "Smart Terrace Adv／ワーク・チャック爪・工具・ケレの自動交換"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社SANMATSU",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 7,
+          "company": "株式会社SANMATSU",
+          "booth": "S3102",
+          "color": "色なし",
+          "item_refs": [
+            "GentleGaiant＋AMR iRAYPE"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 11,
+              "company": "株式会社SANMATSU",
+              "booth": "S3102",
+              "item": "GentleGaiant＋AMR iRAYPE"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "東洋精機工業株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 8,
+          "company": "東洋精機工業株式会社",
+          "booth": "E3019",
+          "color": "色なし",
+          "item_refs": [
+            "TVT332S無人化セル：ワーク交換→洗浄→精度測定"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 12,
+              "company": "東洋精機工業株式会社",
+              "booth": "E3019",
+              "item": "TVT332S無人化セル：ワーク交換→洗浄→精度測定"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社ジーベックテクノロジー",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 10,
+          "company": "株式会社ジーベックテクノロジー",
+          "booth": "WA006",
+          "color": "色なし",
+          "item_refs": [
+            "XEBEC CPSオートホルダー"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 14,
+              "company": "株式会社ジーベックテクノロジー",
+              "booth": "WA006",
+              "item": "XEBEC CPSオートホルダー"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "パスカル株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 11,
+          "company": "パスカル株式会社",
+          "booth": "W2047",
+          "color": "色なし",
+          "item_refs": [
+            "RPGパレットグリッパ／センサ付きクランプ・自動パレット交換"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 15,
+              "company": "パスカル株式会社",
+              "booth": "W2047",
+              "item": "RPGパレットグリッパ／センサ付きクランプ・自動パレット交換"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "Walter Maschinenbau GmbH",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 13,
+          "company": "Walter Maschinenbau GmbH",
+          "booth": "E8001",
+          "color": "色なし",
+          "item_refs": [
+            "ATP：工具の研削・放電・測定をつなぐ自動化"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 17,
+              "company": "Walter Maschinenbau GmbH（*）",
+              "booth": "E8001",
+              "item": "ATP：工具の研削・放電・測定をつなぐ自動化"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社ツガミ",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 17,
+          "company": "株式会社ツガミ",
+          "booth": "S1004",
+          "color": "色なし",
+          "item_refs": [
+            "TMA8F／VA3S：コレット交換・機外測定・ワーク給排／パレット交換"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 22,
+              "company": "株式会社ツガミ",
+              "booth": "S1004",
+              "item": "TMA8F／VA3S：コレット交換・機外測定・ワーク給排・パレット交換"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社エグロ",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 18,
+          "company": "株式会社エグロ",
+          "booth": "E1045",
+          "color": "色なし",
+          "item_refs": [
+            "CT-101＋RoboStation：機械・ロボット一体型自動化"
+          ],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 23,
+              "company": "株式会社エグロ",
+              "booth": "E1045",
+              "item": "CT-101＋RoboStation：機械・ロボット一体型自動化"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "エヌティーツール株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 20,
+          "company": "エヌティーツール株式会社",
+          "booth": "W2019",
+          "color": "色なし",
+          "item_refs": [
+            "マガハンホルダ／Boost Master：搬送・切屑処理の自動化"
+          ],
+          "note": "注目アイテムのホルダ名称は写真からの読みが不鮮明。既存値は変更しない。",
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 25,
+              "company": "エヌティーツール株式会社",
+              "booth": "W2019",
+              "item": "マテハンホルダ／Boost Master：搬送・切屑処理の自動化"
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_003.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "吉川鐵工株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 2,
+          "company": "吉川鐵工株式会社",
+          "booth": "E7055",
+          "color": "色なし",
+          "item_refs": [],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 57,
+              "company": "吉川鐵工株式会社",
+              "booth": "E7055",
+              "item": null
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "株式会社エス・ティ・シー",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 3,
+          "company": "株式会社エス・ティ・シー",
+          "booth": "E1069",
+          "color": "色なし",
+          "item_refs": [],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 58,
+              "company": "株式会社エス・ティ・シー",
+              "booth": "E1069",
+              "item": null
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    },
+    {
+      "company": "エスエムダブリューオートブロック株式会社",
+      "new_company": false,
+      "colors_received": [],
+      "color_conflict": false,
+      "resolved_color": "色なし",
+      "receipts": [
+        {
+          "order": 5,
+          "company": "エスエムダブリューオートブロック株式会社",
+          "booth": "W2074",
+          "color": "色なし",
+          "item_refs": [],
+          "existing_matches": [
+            {
+              "sheet": "自動化・自律化50社",
+              "row": 60,
+              "company": "エスエムダブリューオートブロック株式会社",
+              "booth": "W2074",
+              "item": null
+            }
+          ],
+          "new_company": false,
+          "already_received": false,
+          "priority": "未指定",
+          "batch_file": "photo_004.json"
+        }
+      ],
+      "visit_decision": "訪問しない（本人判断）",
+      "include_in_final_visit_list": false,
+      "keep_for_reference": true
+    }
+  ]
+}
