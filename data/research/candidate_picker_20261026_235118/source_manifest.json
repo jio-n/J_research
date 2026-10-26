@@ -1,0 +1,14 @@
+{
+  "source": "outputs\\integrated_review_20261026_013801\\JIMTOF2026_未掲載候補一覧_別冊.xlsx",
+  "source_sha256": "486ddaf861cde62493426787258a19b536baf7471d52ae2776a155246d92cd12",
+  "sheet": "未掲載候補",
+  "rows_inclusive": [
+    90,
+    302
+  ],
+  "items": 213,
+  "companies": 204,
+  "already_listed_company_items": 4,
+  "first_item": "Fusion／FeatureCAM／PLM連携",
+  "last_item": "FSH／FSB／QREC・組立自動化"
+}

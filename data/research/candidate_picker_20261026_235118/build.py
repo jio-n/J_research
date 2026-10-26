@@ -1,0 +1,29 @@
+import pathlib,json,zipfile,xml.etree.ElementTree as E,re,unicodedata,hashlib
+D=pathlib.Path(__file__).resolve().parent;R=D.parents[2];O=R/'outputs'/D.name;OLD=R/'data/research/mobile_compact_20261026_234006';NS={'s':'http://schemas.openxmlformats.org/spreadsheetml/2006/main'};RN='http://schemas.openxmlformats.org/officeDocument/2006/relationships'
+source=R/'outputs/integrated_review_20261026_013801/JIMTOF2026_未掲載候補一覧_別冊.xlsx';raw=json.loads((R/'data/research/integrated_review_20261026_013801/additional_candidates.json').read_text(encoding='utf8'))['items'];byid={x['id']:x for x in raw};visits=json.loads((OLD/'app_data.json').read_text(encoding='utf8'))
+def key(s):return re.sub(r'[\s.,・/&-]','',re.sub(r'\([^)]*\)','',unicodedata.normalize('NFKC',s).casefold()).replace('株式会社','').replace('有限会社',''))
+visited_companies={key(x['company']) for x in visits['companies']};items=[]
+with zipfile.ZipFile(source) as z:
+ ss=[''.join(t.text or '' for t in x.findall('s:t',NS)+x.findall('s:r/s:t',NS)) for x in E.fromstring(z.read('xl/sharedStrings.xml'))];root=E.fromstring(z.read('xl/worksheets/sheet1.xml'));rels={x.get('Id'):x.get('Target') for x in E.fromstring(z.read('xl/worksheets/_rels/sheet1.xml.rels'))};links={h.get('ref'):rels[h.get('{'+RN+'}id')]+('#'+h.get('location') if h.get('location') else '') for h in root.findall('s:hyperlinks/s:hyperlink',NS)}
+ for row in root.findall('s:sheetData/s:row',NS):
+  n=int(row.get('r'))
+  if n<90:continue
+  vals={}
+  for c in row:
+   v=c.find('s:v',NS)
+   if v is not None:vals[re.sub(r'\d+','',c.get('r'))]=ss[int(v.text)] if c.get('t')=='s' else v.text
+  if not vals.get('U'):continue
+  x=byid[vals['U']];items.append({'id':vals['U'],'excelRow':n,'company':vals.get('A',''),'shortName':vals.get('A','').replace('株式会社','').replace('有限会社',''),'booth':vals.get('B',''),'recommendation':vals.get('C',''),'item':vals.get('D',''),'tags':dict(zip(['AI','フィジカルAI','自律化','自動化'],[vals.get(c,'—') for c in 'EFGH'])),'task':vals.get('I',''),'method':vals.get('J',''),'reason':vals.get('K',''),'exhibit':vals.get('L',''),'history':vals.get('M',''),'questions':vals.get('N',''),'extraLabel':vals.get('O',''),'limits':vals.get('P',''),'depth':vals.get('T',''),'input':x.get('input',''),'output':x.get('output',''),'human':x.get('human',''),'tagReasons':{t:v.get('reason','') for t,v in x.get('tags',{}).items()},'sources':x.get('sources',[]),'companyUrl':links.get('A'+str(n),''),'url':links.get('D'+str(n),''),'extraUrl':links.get('O'+str(n),''),'alreadyListedCompany':key(vals.get('A','')) in visited_companies})
+assert len(items)==213 and items[0]['excelRow']==90 and items[-1]['excelRow']==302 and items[0]['company']=='オートデスク'
+data={'version':'picker-20261026','schema':'jimtof2026-candidate-picker/v1','sourceWorkbook':str(source.relative_to(R)),'sourceSheet':'未掲載候補','startExcelRow':90,'endExcelRow':302,'sourceTotal':213,'items':items}
+(D/'picker_data.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8');(D/'source_manifest.json').write_text(json.dumps({'source':data['sourceWorkbook'],'source_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'sheet':'未掲載候補','rows_inclusive':[90,302],'items':213,'companies':len({key(x['company']) for x in items}),'already_listed_company_items':sum(x['alreadyListedCompany'] for x in items),'first_item':items[0]['item'],'last_item':items[-1]['item']},ensure_ascii=False,indent=2),encoding='utf8')
+template=(D/'picker_template.html').read_text(encoding='utf8');(O/'candidates.html').write_text(template.replace('__PICKER_DATA__',json.dumps(data,ensure_ascii=False).replace('<','\\u003c')),encoding='utf8')
+# Preserve the existing visit memo key, company IDs and export implementation.
+v=(OLD/'template.html').read_text(encoding='utf8');v=v.replace('<strong>JIMTOF 訪問一覧</strong>','<strong>訪問一覧</strong>').replace('<div class="tools"><button','<div class="tools"><a class="picker-link" href="https://jio-n.github.io/J_research/candidates.html">候補抽出</a><button',1)
+v=v.replace('</style>','.visit-row{display:grid;grid-template-columns:34px minmax(0,1fr)}.visit-toggle{display:flex;align-items:center;justify-content:center;min-height:48px;background:#edf2f5;border:1px solid #d0dce2;border-top:0;cursor:pointer}.visit-toggle input{width:20px;height:20px;margin:0}.visit-row>.stop{min-width:0}.stop.visited>summary .name:before{content:""}.tools .picker-link{display:inline-flex;align-items:center;text-decoration:none;border:1px solid #bacdd7;border-radius:5px;padding:5px 7px;color:#174c65;font-size:13px;white-space:nowrap}.tools button{font-size:13px;padding:5px 7px}</style>')
+old="if(d)badges(d,id);}"
+new="if(d){badges(d,id);const inner=d.querySelector('.visitcheck input');if(inner)inner.checked=state[id].visited;}const outer=document.getElementById('visited-'+id);if(outer)outer.checked=state[id].visited;}"
+assert old in v;v=v.replace(old,new,1)
+old="sec.append(d);}content.append(sec);"
+new="const row=el('div','visit-row'),label=el('label','visit-toggle'),cb=el('input','');cb.type='checkbox';cb.id='visited-'+x.id;cb.checked=state[x.id]?.visited===true;cb.setAttribute('aria-label',x.company+' 訪問済み');cb.addEventListener('change',()=>update(x.id,{visited:cb.checked}));label.append(cb);row.append(label,d);sec.append(row);}content.append(sec);"
+assert old in v;v=v.replace(old,new,1);v=v.replace('一覧をタップして詳細を表示','左のチェック＝訪問済み').replace('企業名をタップすると、展示・着眼点・当日質問・入力メモが開きます。','左のチェックで訪問済みにできます。企業名をタップすると、展示・着眼点・当日質問・入力メモが開きます。');v=v.replace('• はメモあり、✓ は訪問済み。','左のチェックは訪問済み、• はメモあり。');(D/'visit_template.html').write_text(v,encoding='utf8');(O/'index.html').write_text(v.replace('__APP_DATA__',json.dumps(visits,ensure_ascii=False).replace('<','\\u003c')),encoding='utf8');print(json.dumps({'picker_items':213,'visit_companies':34,'source_unchanged':True},ensure_ascii=False))
