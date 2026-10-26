@@ -1,0 +1,17 @@
+{
+  "engine": "156.0.4314.42",
+  "checks": [
+    "All 34 stops retained",
+    "11 yellow stops visible by default",
+    "No horizontal body scroll 320",
+    "No horizontal body scroll 390",
+    "No horizontal body scroll 430",
+    "Eastern optional stops open",
+    "Touch target summary >=44px",
+    "Touch target summary >=44px",
+    "Touch target summary >=44px",
+    "Touch target summary >=44px",
+    "Touch target summary >=44px",
+    "Touch target summary >=44px"
+  ]
+}
