@@ -1,0 +1,47 @@
+{
+  "inputs": [
+    {
+      "path": "data/research/hearing_analysis_20261027_201005/R001.txt",
+      "sha256": "d904fe70d19b89c459f206070b80c3a97cff9c2ed448fcef6b1ffe1f10075bf0"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "a2a1c168bca22421b4e3f57d44e43e0e593c83b2ffae113f60ff8d8ba45f2c15"
+    },
+    {
+      "path": "RESEARCH_START.md",
+      "sha256": "f715fa0e879386767d7d9d9c68f0efbc83f0a84d59216e01e5b4d0f00a1499c8"
+    },
+    {
+      "path": "data/research/hearing_raw_20261027_175238/hearing_records.json",
+      "sha256": "69607b4f0ea93a837be80a62de0155949c7c228136dd7d5cd203ef691d98407f"
+    },
+    {
+      "path": "data/research/strategy_review_20261021/strategy_review.json",
+      "sha256": "4b2051d00c8f51dd24d8171b333510a5eb17a1a077d1f27eb38268bf8b6331f8"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/report_content.json",
+      "sha256": "8b84c902e01ae83915a4920c30ad955ef653f8fb093ff8eceef0003f616cbc53"
+    },
+    {
+      "path": "data/research/astra_refinement_20261023_013112/evidence_review.json",
+      "sha256": "1f77404e8203bda4f8e954a4ed70795141a4315d46a457250b2eb3763b12cdb3"
+    },
+    {
+      "path": "data/research/deep_reading_20261021/01_source_readings.md",
+      "sha256": "0eb31ce87067e405d780a03bec8d780625eab486995f80dd45a8f85e4e2bef68"
+    },
+    {
+      "path": "data/research/quotation_evidence_20261022/02_physical_ai_and_tasks.md",
+      "sha256": "a1bee44dbfeee709fa38405ae336632e6b2c006cf42a5dd27f171d29ec64b7d5"
+    },
+    {
+      "path": "data/research/quotation_evidence_20261022/01_verbatim_evidence.md",
+      "sha256": "e3bacaae10ec00f31fb107925f9f3417a4eea8497cde66898e0b94a0d2c2fba5"
+    }
+  ],
+  "readingScope": "事前報告のthesis・主篇とanalysis、H1〜H5、精読ノートS01〜S09/S24〜S30、作業定義、現地7社全文を重点照合。40原典の全再精読を意味しない。",
+  "unassignedMemoExcluded": "U001",
+  "rawUnchanged": true
+}
