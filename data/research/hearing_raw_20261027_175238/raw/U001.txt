@@ -1,0 +1,2 @@
+autodegk
+cam AI エージェントが、cam

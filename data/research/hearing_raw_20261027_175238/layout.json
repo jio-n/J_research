@@ -1,0 +1,39 @@
+{
+  "locations": {
+    "H001": {
+      "start": 7,
+      "end": 41
+    },
+    "H002": {
+      "start": 42,
+      "end": 63
+    },
+    "H003": {
+      "start": 64,
+      "end": 72
+    },
+    "H004": {
+      "start": 73,
+      "end": 80
+    },
+    "H005": {
+      "start": 81,
+      "end": 96
+    },
+    "H006": {
+      "start": 97,
+      "end": 109
+    },
+    "H007": {
+      "start": 110,
+      "end": 134
+    },
+    "U001": {
+      "start": 135,
+      "end": 136
+    }
+  },
+  "lineRows": 130,
+  "visitedCompanies": 7,
+  "unassignedMemos": 1
+}
