@@ -1,0 +1,22 @@
+[
+  {
+    "id": "W08",
+    "publisher": "三菱電機（関口俊一氏、企業講演資料）",
+    "host": "大阪大学ELSIセンター",
+    "date": "2025-01-24",
+    "pagePrinted": 8,
+    "refersTo": "JIMTOF2024",
+    "url": "https://elsi.osaka-u.ac.jp/system/wp-content/uploads/2025/02/2_MitsubishiSekiguchi_ELSIForum2024_forWEB.pdf",
+    "checked": "2026-10-27",
+    "verification": "本文と該当ページ画像を確認",
+    "supports": [
+      "JIMTOF2024の生成AIトラブルシューティングアプリ",
+      "装置データを使う解析と利用を通じた学習の構想も当時の図に存在"
+    ],
+    "doesNotEstablish": [
+      "JIMTOF2024アプリの方式がRAGだったこと",
+      "2024で全機能が実装済みだったこと",
+      "2026の導入率・普及率の定量比較"
+    ]
+  }
+]
