@@ -1,0 +1,31 @@
+{
+  "engine": "156.0.4314.42",
+  "checks": [
+    "45 companies rendered",
+    "45 direct visited checkboxes",
+    "59 items",
+    "All34 old company IDs retained",
+    "Old visited flag retained",
+    "Old memo retained",
+    "Old questions retained",
+    "Priority filter yellow 13",
+    "Priority filter yg 30",
+    "Priority filter unset 3",
+    "Priority filter all 45",
+    "Siemens updated rather than duplicated",
+    "Phoxter2 items grouped",
+    "Phoxter company yellow and chatbot green retained",
+    "New company search",
+    "User adoption memo preserved",
+    "Both Phoxter user comments",
+    "Exhibition confidence visible",
+    "No overflow320",
+    "No overflow390",
+    "No overflow430",
+    "Exported HTML restores45 companies",
+    "Exported HTML retains visited",
+    "Exported HTML retains private memo",
+    "No browser errors"
+  ],
+  "errors": []
+}

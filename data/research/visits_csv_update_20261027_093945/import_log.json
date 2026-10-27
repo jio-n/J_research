@@ -1,0 +1,161 @@
+{
+  "sourceFile": "1-JIMTOF2026_候補判断_20261027_003751.csv",
+  "sourceSha256": "c0ec2883f7afcd2911b51d3e9748c097f8bdc9f40a9db4c077b078aa3d384370",
+  "inputRows": 13,
+  "acceptedItems": 13,
+  "ignoredRows": [],
+  "duplicates": [],
+  "newCompanies": [
+    "クオリカ株式会社",
+    "シチズンマシナリー株式会社",
+    "スター精密株式会社",
+    "テクノア",
+    "ミロクリエ",
+    "有限会社ツールディスカバリー",
+    "株式会社C＆Gシステムズ",
+    "株式会社Fact Base",
+    "株式会社GAZIRU",
+    "株式会社Phoxter",
+    "株式会社キーエンス"
+  ],
+  "companyCount": 45,
+  "itemCount": 59,
+  "priorityCounts": {
+    "黄色": 13,
+    "緑": 17,
+    "青系": 12,
+    "未指定": 3
+  },
+  "changes": [
+    {
+      "company": "クオリカ株式会社",
+      "companyId": "E1058-91cdb1f17b",
+      "existing_company": false,
+      "candidateId": "GR-Q01",
+      "item": "KOM-MICS：切削負荷可視化・NC最適化支援",
+      "priority_from_memo": "緑",
+      "company_priority": "緑",
+      "user_memo": "緑。KOMMICSの進化があるか"
+    },
+    {
+      "company": "シチズンマシナリー株式会社",
+      "companyId": "S2002-c92436bdaa",
+      "existing_company": false,
+      "candidateId": "GR-CI01",
+      "item": "見積支援／図面管理ツール（アルカプリ）",
+      "priority_from_memo": "未指定",
+      "company_priority": "未指定",
+      "user_memo": "シチズンクラウドサービス】\n見積支援／図面管理ツールの類似場面検索の技術を見る"
+    },
+    {
+      "company": "シーメンス株式会社",
+      "companyId": "E3006-319dc0d98f",
+      "existing_company": true,
+      "candidateId": "AC098",
+      "item": "デジタルツイン／人型ロボット紹介",
+      "priority_from_memo": "未指定",
+      "company_priority": "黄色",
+      "user_memo": "ヒューマノイドロボ"
+    },
+    {
+      "company": "スター精密株式会社",
+      "companyId": "S1003-0c20c1bf95",
+      "existing_company": false,
+      "candidateId": "AC112",
+      "item": "SC系・自動旋盤の連続加工",
+      "priority_from_memo": "未指定",
+      "company_priority": "未指定",
+      "user_memo": "ヒューマノイド"
+    },
+    {
+      "company": "テクノア",
+      "companyId": "S3009-e7f91da206",
+      "existing_company": false,
+      "candidateId": "FC061",
+      "item": "TECHS系：スマホ実績・購買API",
+      "priority_from_memo": "青系",
+      "company_priority": "青系",
+      "user_memo": "類似図面検索。青"
+    },
+    {
+      "company": "ミロクリエ",
+      "companyId": "E2016-3f2f31a25e",
+      "existing_company": false,
+      "candidateId": "FC058",
+      "item": "ミロクルAI保全ナビ／分析レポート",
+      "priority_from_memo": "緑",
+      "company_priority": "緑",
+      "user_memo": "ミロクルAI分析レポート：\n　保全記録をAIが読み解き、業界標準KPIのグラフ＋解説レポートを即時生成\nチャットボットベンチマーキング。\n優先度緑。"
+    },
+    {
+      "company": "有限会社ツールディスカバリー",
+      "companyId": "W1069-2e68bee73c",
+      "existing_company": false,
+      "candidateId": "AC136",
+      "item": "切削条件AI計算ツール",
+      "priority_from_memo": "緑",
+      "company_priority": "緑",
+      "user_memo": "優先度緑\n切削条件AI計算ツールのロジックは？"
+    },
+    {
+      "company": "株式会社C＆Gシステムズ",
+      "companyId": "E2008-407e43467a",
+      "existing_company": false,
+      "candidateId": "AC095",
+      "item": "CAM-TOOL AI切削条件算出",
+      "priority_from_memo": "黄色",
+      "company_priority": "黄色",
+      "user_memo": "優先度黄色\n岡山大学、MOLDINO社、ゼノーテック社との共同研究により開発\nその辺の話を聞く"
+    },
+    {
+      "company": "株式会社Fact Base",
+      "companyId": "S3017-d96d1dafd4",
+      "existing_company": false,
+      "candidateId": "AC195",
+      "item": "ズメーン AI・OCR登録",
+      "priority_from_memo": "未指定",
+      "company_priority": "未指定",
+      "user_memo": "類似図面検索の技術のロジック"
+    },
+    {
+      "company": "株式会社GAZIRU",
+      "companyId": "E3008-144eb52dac",
+      "existing_company": false,
+      "candidateId": "FT-G01",
+      "item": "GAZIRU.eye 良品学習AI検査",
+      "priority_from_memo": "青系",
+      "company_priority": "青系",
+      "user_memo": "画像診断の技術について\n優先度青"
+    },
+    {
+      "company": "株式会社Phoxter",
+      "companyId": "S4028-8939a95351",
+      "existing_company": false,
+      "candidateId": "FT-P01",
+      "item": "StellaDeepVision Studio／StellaController2.0",
+      "priority_from_memo": "黄色",
+      "company_priority": "黄色",
+      "user_memo": "優先度黄色\n計測などの「ルールベース検査」と、傷や異物を検出する「AI検査」を併用できるハイブリッド画像処理システムでの技術"
+    },
+    {
+      "company": "株式会社Phoxter",
+      "companyId": "S4028-8939a95351",
+      "existing_company": true,
+      "candidateId": "FT-P02",
+      "item": "StellaDrive＋保守AIチャットボット",
+      "priority_from_memo": "緑",
+      "company_priority": "黄色",
+      "user_memo": "優先度緑\n保守チャットボットベンチマーク"
+    },
+    {
+      "company": "株式会社キーエンス",
+      "companyId": "S4021-511ef01a2b",
+      "existing_company": false,
+      "candidateId": "GR-K01",
+      "item": "VSシリーズ：良品・不良品学習AI＋ルール検査",
+      "priority_from_memo": "青系",
+      "company_priority": "青系",
+      "user_memo": "AI画像判定\n優先度青"
+    }
+  ]
+}
