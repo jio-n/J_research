@@ -1,0 +1,217 @@
+{
+  "created": "2026-10-28",
+  "scope": "ここまでの中間集約・既存ファイル不変更",
+  "originalRecords": 12,
+  "chatTranscribedRecords": 1,
+  "photos": 12,
+  "notes": 4,
+  "sources": [
+    {
+      "source": "data/research/hearing_raw_20261027_175238/raw/H001.txt",
+      "copy": "raw/H001.txt",
+      "role": "現地ヒアリング原文",
+      "sha256": "b9c8c595da94e45b31ec22868ccba2694b3be3ac15f19264ccc29765f955283f",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_raw_20261027_175238/raw/H002.txt",
+      "copy": "raw/H002.txt",
+      "role": "現地ヒアリング原文",
+      "sha256": "926d9fdb5a5dfa454292b47a7e6e71d972efa2b9997dda6a8836cb6a7e2eea5d",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_raw_20261027_175238/raw/H003.txt",
+      "copy": "raw/H003.txt",
+      "role": "現地ヒアリング原文",
+      "sha256": "d794663b9b3e37fb3772b496b7d3013c6cc6b40100507764069e8fe1f189defc",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_raw_20261027_175238/raw/H004.txt",
+      "copy": "raw/H004.txt",
+      "role": "現地ヒアリング原文",
+      "sha256": "2f1613857c58c41fcf31e8a46e196bb661ea97d440c9f4916d2034edbdd77482",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_raw_20261027_175238/raw/H005.txt",
+      "copy": "raw/H005.txt",
+      "role": "現地ヒアリング原文",
+      "sha256": "bcba16ed3c21f0fe9c08b19d9029a3eb6a949df4bf7baaf8719b5bf2ffb0af8f",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_raw_20261027_175238/raw/H006.txt",
+      "copy": "raw/H006.txt",
+      "role": "現地ヒアリング原文",
+      "sha256": "3de3577d07f8a6ef9c421fd6754f18dae347e4429a2b01b7e9957595deafc9cc",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_raw_20261027_175238/raw/H007.txt",
+      "copy": "raw/H007.txt",
+      "role": "現地ヒアリング原文",
+      "sha256": "fba2acc8451aed6743ff181e9230021d4eb9b8cf298fd5520079394013aae8a0",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_raw_20261027_175238/raw/U001.txt",
+      "copy": "raw/U001.txt",
+      "role": "企業未確定の断片",
+      "sha256": "77392c84b217563a98796f4123be1bcc4bbb01b1803edbefa6f6caad9e9a3cd7",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_analysis_20261027_201005/R001.txt",
+      "copy": "raw/R001.txt",
+      "role": "本人追補",
+      "sha256": "d904fe70d19b89c459f206070b80c3a97cff9c2ed448fcef6b1ffe1f10075bf0",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/hearing_analysis_20261027_204351/R002.txt",
+      "copy": "raw/R002.txt",
+      "role": "本人追補",
+      "sha256": "9c496695b27c308c8d18606b412bd7e5ac022b1a345d739feeb43bda940f3fb6",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/photo_review_20261028_000151/01_DMG森精機_本人補足原文.txt",
+      "copy": "raw/P001.txt",
+      "role": "写真補足原文",
+      "sha256": "7de0fc3c5c794922865fe923d35e651b5fe32c3ad81f302767dccddbd512d1ad",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/photo_review_20261028_080357_fanuc/本人補足原文.txt",
+      "copy": "raw/P002.txt",
+      "role": "写真補足原文",
+      "sha256": "4d8e48f2613b1656a6406668dd31d31d43a4e35342dfb975f29dbe2a2cae4a30",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/photo_review_20261028_000151/photos/DMG_01.jpg",
+      "copy": "evidence/photos/DMG_01.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "aa1ff595330d5525df3a450d71fb014c5d8f63bc1b752a8fbbd37d6b5f888815",
+      "unchangedBytes": true
+    },
+    {
+      "source": "data/research/photo_review_20261028_000151/photos/DMG_02.jpg",
+      "copy": "evidence/photos/DMG_02.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "b1f0438c399d554cbfb0a384b4ce4c6cb206d5aab93af4a913ab3effcec97294",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_01.jpg",
+      "copy": "evidence/photos/FANUC_01.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "170ce239532546f265083ce8e2b295243d52bc40b7216f6103c56f29faddf0a7",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_02.jpg",
+      "copy": "evidence/photos/FANUC_02.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "49067433d37f9e4bd0edd3da8a137bd4ab8da12490bfccc5599d9ef8fc8d22ce",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_03.jpg",
+      "copy": "evidence/photos/FANUC_03.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "9b0af2bf10834e4d5e97ff318c82b3734109ba3f634fd30984f24c3f51742062",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_04.jpg",
+      "copy": "evidence/photos/FANUC_04.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "52346b3ef73b33c060044cdd76b67c2d82db2679076b784d34c443b11a9ff46e",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_05.jpg",
+      "copy": "evidence/photos/FANUC_05.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "ddbb5dfcfcf125afedf07f443d877fb097f08f7c959ebb8c33e73c72930213f2",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_06.jpg",
+      "copy": "evidence/photos/FANUC_06.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "c342bdddd75ed5d76618f77fb70c0b4225c3602cfb9c83e19b386703e3462872",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_07.jpg",
+      "copy": "evidence/photos/FANUC_07.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "c38bd14abeba2705c1c94ae5b4491fa88a33294fe2ccc211271286a1fe0e07e9",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_08.jpg",
+      "copy": "evidence/photos/FANUC_08.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "77352c04525c2a1d18df7add09683444485b6a897338522a87647cf4720dee49",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_09.jpg",
+      "copy": "evidence/photos/FANUC_09.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "956895f0e2ae86748c1331173e631c33c5dd1b3e70aab4925c1dafde54d62a13",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/photos/FANUC_10.jpg",
+      "copy": "evidence/photos/FANUC_10.jpg",
+      "role": "本人撮影写真・無加工",
+      "sha256": "39dd3c26378cd727c489a33338706b880b1774cc08a06df675914b5ef4571f72",
+      "unchangedBytes": true
+    },
+    {
+      "source": "outputs/discussion_notes_20261028_074731/JIMTOF2026_追加議論まとめ_20261028.md",
+      "copy": "notes/discussion.md",
+      "role": "分析・検討MDの複製",
+      "sourceSha256": "2939210eae6145dcea2b203d94006ba33782ea34170cfb6314eb1dd846f81fe0",
+      "copySha256": "1391efba3a609505ece4bc7fb0b8ce8e7b04e49103c027146330905b58bcc12f",
+      "edits": "状態注記とローカルリンクの付替えのみ"
+    },
+    {
+      "source": "data/research/photo_review_20261028_000151/01_DMG森精機_検討メモ.md",
+      "copy": "notes/dmg.md",
+      "role": "分析・検討MDの複製",
+      "sourceSha256": "d89979f10e68d9c8ec7804d921b8de77eb75c70b26b53425575e39d742a4a687",
+      "copySha256": "cb17a8f3cb8d5ba45ae721dae537580868de0624b0e58e0fcf28bdfafdc60dcc",
+      "edits": "状態注記とローカルリンクの付替えのみ"
+    },
+    {
+      "source": "data/research/photo_review_20261028_000151/02_製造版BERT仮説とフィジカルAI定義.md",
+      "copy": "notes/bert.md",
+      "role": "分析・検討MDの複製",
+      "sourceSha256": "49af8ce514df23b0dec83dcc825122c3b70d229c97c16b840a1c39136efcad35",
+      "copySha256": "010e2d1a8686f8fcf7bbe3ab9fcda3efeb1a7bd923c948c81dc7f0c3f1b6a262",
+      "edits": "状態注記とローカルリンクの付替えのみ"
+    },
+    {
+      "source": "outputs/photo_review_20261028_080357_fanuc/JIMTOF2026_FANUC_フィジカルAI_CNC_追加検討.md",
+      "copy": "notes/fanuc.md",
+      "role": "分析・検討MDの複製",
+      "sourceSha256": "d640fa2d884ebbe2ae3ba9fe3b9820838d0fc8540cc26f6020b081cd486ee2ea",
+      "copySha256": "66cd31e9f08bef08fcebe1f6fe14c9ccc46f0f06743ea6751c896ef8387b7407",
+      "edits": "状態注記とローカルリンクの付替えのみ"
+    },
+    {
+      "source": "data/research/onsite_snapshot_20261028_084540/analysis.md",
+      "copy": "report.md",
+      "role": "今回編集した統合分析",
+      "sha256": "bf132091a24238d64d039b65fa42ae39eb7e5179bc7b38f640c7c61e5ca719e3",
+      "unchangedBytes": true
+    }
+  ]
+}

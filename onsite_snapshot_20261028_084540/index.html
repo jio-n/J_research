@@ -1,0 +1,341 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>技術動向・仮説の照合｜JIMTOF2026</title><link rel="stylesheet" href="assets/style.css"><script defer src="assets/app.js"></script></head><body><header><div class="brand">JIMTOF2026 <span>現地調査・追加議論</span></div><nav aria-label="資料の切替"><a href="index.html" aria-current="page">分析</a><a href="raw_memos.html" >生メモ</a><a href="notes.html" >詳細検討</a><a href="evidence.html" >写真根拠</a></nav></header><main><div class="eyebrow">2026.10.28／中間集約版</div><h1>AIが製造の判断と実行をつなぐ</h1><p class="lead">現地7社のヒアリングと、DMG森精機・FANUCの写真12点から、技術動向・各社の方式・仮説の支持と修正を整理。</p><div class="downloads"><a href="report.md" download>分析MD</a><a href="raw_memos.md" download>生メモMD</a><a href="raw_memos.txt" download>生メモTXT</a><a href="snapshot.zip" download>一式ZIP</a></div><figure class="workflow"><figcaption>課題解決の流れと、次の案件への循環</figcaption><ol><li>要求・観測状態</li><li>判断知識・切分け</li><li>解析・仮想検証</li><li>人の承認</li><li>実機への適用</li><li>結果・事例を保存</li></ol><p>↺ 評価済みの結果を、知識・モデル・ツールへ戻す段階は一部未確認。</p></figure><div class="toolbar"><button type="button" data-expand>全章を開く</button><button type="button" data-collapse>閉じる</button><span>章名をタップして展開</span></div><details class="toc-panel"><summary>目次（12章）</summary><div class="toc"><a href="#s1">1. 技術動向の主張</a><a href="#s2">2. 2024年からの変化：製品UI・実データ・専門機能との接続</a><a href="#s3">3. 各社比較：対象タスク・方式・人の分担</a><a href="#s4">4. 熟練判断の形式知化：何をAIへ渡すか</a><a href="#s5">5. 設備・解析機能のインターフェースと、人の承認</a><a href="#s6">6. データ循環：事例の保存から、検証された知識へ</a><a href="#s7">7. DMG森精機：製造データと共通表現の戦略</a><a href="#s8">8. フィジカルAI・基盤モデル・自律制御の定義</a><a href="#s9">9. 事前仮説との照合：支持・修正・保留</a><a href="#s10">10. 顧客向け開発の重点</a><a href="#s11">11. 未確認事項と記録上の修正</a><a href="#s12">12. 根拠と読み方</a></div></details><article>
+<details class="chapter" id="s1" open><summary><h2>1. 技術動向の主張</h2></summary><section class="chapter-body">
+<p><strong>生成AIの適用は、製造の知識を参照して回答する支援から、機械状態と判断知識を使い、解析・シミュレーション・最適化・操作をつなぐ業務支援へ具体化している。</strong> 自然言語は目的を伝える入口となり、AIエージェントが専門機能を使って改善を進める。その成立には、製造の判断知識、信頼できる解析機能、設備・ソフトへの接続、結果を再利用する運用が必要になる。</p>
+<p>今回、特に根拠が強まったのはFANUCの展示である。加工面改善手順の利用、加工面の定量評価、CNCガイド2による検証、人の承認付き実機適用、改善事例のDB保存が同じ課題解決の流れに置かれていた。<a href="evidence/photos/FANUC_01.jpg">写真1</a>・<a href="evidence/photos/FANUC_04.jpg">写真4</a></p>
+<p>DMG森精機・産総研の資料は、もう一つの方向を示す。企業横断の製造データをAI-ready化し、共通の中間表現から特化型の予測モデルへ展開する構想である。<strong>課題解決を進めるエージェントと、課題解決のための予測・判定機能を育てる基盤が、異なる層で発展している</strong>と捉えられる。<a href="evidence/photos/DMG_01.jpg">DMG資料・印刷頁6</a></p>
+<p>ただし、この7社は関心に沿って選んだ訪問先であり、全業界の普及率を表す標本ではない。工場全体の無人最適化や、任意の加工を自律的に解決する段階に達したという結論にも置かない。</p>
+</section></details><details class="chapter" id="s2" ><summary><h2>2. 2024年からの変化：製品UI・実データ・専門機能との接続</h2></summary><section class="chapter-body">
+<p>本人は、2024年の知識回答型の印象に対し、2026年は機械・CAD/CAMのUIにエージェントが入り、内部データを利用した工程・プログラム作成支援や対策提示へ適用が拡大したと観察した。<a href="raw_memos.html#R002">本人追補R002</a></p>
+<p>2024年にも設備データを使う構想はあった。三菱電機の2025年1月24日の講演資料・印刷頁8は、JIMTOF2024の生成AIトラブルシューティングを紹介し、装置データの利用と継続学習の将来像を示す。したがって、世代差は、<strong>構想の初出ではなく、適用範囲・製品への組込み・実データ利用・実行接続の具体化</strong>として表す。<a href="https://elsi.osaka-u.ac.jp/system/wp-content/uploads/2025/02/2_MitsubishiSekiguchi_ELSIForum2024_forWEB.pdf#page=8">三菱電機講演資料・頁8</a></p>
+<div class="table-scroll" tabindex="0" aria-label="比較表：左右にスクロール"><table>
+<thead>
+<tr>
+<th>比較軸</th>
+<th>今回読み取れる前進</th>
+<th>比較の限界</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>利用者との接点</td>
+<td>対話を機械画面やCAD/CAMの業務操作へ組み込む。</td>
+<td>全製品の提供開始・導入数は未集計。</td>
+</tr>
+<tr>
+<td>利用する情報</td>
+<td>マニュアル・事例と、その時点の機械状態を組み合わせる。</td>
+<td>機種・条件別の網羅性、誤回答率は不明。</td>
+</tr>
+<tr>
+<td>AIに任せる仕事</td>
+<td>情報参照から、専門機能の選択・利用、仮想検証、対策提示へ広がる。</td>
+<td>固定シナリオを超える汎用性は未確認。</td>
+</tr>
+<tr>
+<td>結果の利用</td>
+<td>課題解決事例を残し、次の案件へ参照する構成。</td>
+<td>実測結果の紐付けや、モデル更新の効果は未確認。</td>
+</tr>
+</tbody></table></div>
+</section></details><details class="chapter" id="s3" ><summary><h2>3. 各社比較：対象タスク・方式・人の分担</h2></summary><section class="chapter-body">
+<p>以下は本人の現地メモを整理したもの。写真で裏付けたFANUC・DMGの構成と、ヒアリングのみの説明では根拠の種類が異なる。メモ中の製品名・性能・予定を、すべて公式仕様として認定してはいない。</p>
+<div class="table-scroll" tabindex="0" aria-label="比較表：左右にスクロール"><table>
+<thead>
+<tr>
+<th>企業・ブース</th>
+<th>対象タスク／顧客課題</th>
+<th>入力・実現方式・出力</th>
+<th>人が担う部分／残る課題</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>FANUC・S2001</td>
+<td>加工面改善、NC生成、アラーム対応。熟練者の試行錯誤・操作負担。</td>
+<td>要求・CNC状態＋改善手順→エージェント→MCP経由の解析・CNCガイド2等→検証・対策→承認後の実機反映。</td>
+<td>写真に確認・承認を明示。サンプル展示。実加工での改善率、未知課題の対応範囲は未確認。<a href="raw_memos.html#H001">H001</a>・<a href="raw_memos.html#P002">P002</a></td>
+</tr>
+<tr>
+<td>ヤマザキマザック・E1001</td>
+<td>保守情報の探索、NCプログラム作成時のエラー対応。</td>
+<td>保守メンテ情報・ソフト内データ→条件で参照DBを絞るRAG等→対策提案・作成支援。</td>
+<td>プログラム作成工数40％削減という現地メモは、条件・測定方法未確認。APIをMCPと確定しない。<a href="raw_memos.html#H005">H005</a></td>
+</tr>
+<tr>
+<td>オークマ・E3028</td>
+<td>機械状態からの加工異常分析・生産改善。</td>
+<td>機械データ＋知識DB＋ローカルLLM→原因分析・対策・表形式レポート。参照先選択にも工夫。</td>
+<td>一部RAGとの説明。回答5～10分は現地説明の値。独自の接続方式・責任分担の具体仕様は未確認。<a href="raw_memos.html#H006">H006</a></td>
+</tr>
+<tr>
+<td>三菱電機・S2003</td>
+<td>ジョブショップ・変種変量での作業連携、機械状態の説明・対策。</td>
+<td>自然言語→タスク認識→ロボットとCNC連携。別の説明では、機械状態・知識を使う対話支援。</td>
+<td>汎用モデル利用との説明。現場データ収集と、対話・状態の構造化・再利用は試行中。<a href="raw_memos.html#H002">H002</a></td>
+</tr>
+<tr>
+<td>DMG森精機・E8005</td>
+<td>問合せの具体化、データ分析支援、品質予測モデルの展開。</td>
+<td>サービスエージェントは選択肢で現象を具体化しマニュアル参照・問合せへ。Tulip側はデータ・アプリ利用を支援。別途、製造データ基盤・共通表現を構想。</td>
+<td>複数の取組を一つの万能エージェントへ混同しない。サービスの判断方式や販売形態は未確定。<a href="raw_memos.html#H007">H007</a>・<a href="raw_memos.html#P001">P001</a></td>
+</tr>
+<tr>
+<td>モリマシナリー・S3048</td>
+<td>工具の欠け・摩耗の判別。目視判定の負担。</td>
+<td>画像を学習したモデルで判別。既存対象では導入しやすく、新規対象は撮像・注釈とメーカー側の学習が必要との説明。</td>
+<td>原因・寿命・多クラス分類への展開は限定的。顧客が判断基準を調整・運用する範囲は小さいとの本人理解。<a href="raw_memos.html#H004">H004</a></td>
+</tr>
+<tr>
+<td>シチズンマシナリー・S2002※</td>
+<td>図面の検索・差分確認・寸法情報の管理。</td>
+<td>OCRで文字抽出、要素ごとの形状類似、重ね合わせ差分、動的なキー・値の登録と検索。</td>
+<td>局所的な注記や変更理由を使う検索は難しいとの説明。※ブースは既存台帳による対応付けで、生メモへの追記ではない。<a href="raw_memos.html#H003">H003</a></td>
+</tr>
+</tbody></table></div>
+<p>モリマシナリーとシチズンの例は、AIの適用拡大に対する重要な補助線になる。特定対象の分類・検索ができることと、顧客の多様な判断を再現することには隔たりがある。<strong>対象変更時のデータ・調整・評価の負担を減らせるか</strong>は、モデルやエージェントの共通の実用課題である。</p>
+</section></details><details class="chapter" id="s4" ><summary><h2>4. 熟練判断の形式知化：何をAIへ渡すか</h2></summary><section class="chapter-body">
+<p>本人の補足を踏まえ、形式知化の対象を対話履歴の保存に限定しない。核心は、<strong>どの状態で何を疑い、何を確かめ、どの対策を選び、何をもって改善とするか</strong>という判断知識を洗い出すことにある。<a href="raw_memos.html#R001">R001</a></p>
+<div class="table-scroll" tabindex="0" aria-label="比較表：左右にスクロール"><table>
+<thead>
+<tr>
+<th>整理する知識</th>
+<th>具体的に残す項目</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>適用条件</td>
+<td>材料、工具、機械、加工区間、要求精度、前提条件。</td>
+</tr>
+<tr>
+<td>原因の切り分け</td>
+<td>症状、注目信号、原因候補、候補を区別する追加確認。</td>
+</tr>
+<tr>
+<td>対策・ツールの選択</td>
+<td>試す順番、使う計測・解析・最適化機能、結果の解釈。</td>
+</tr>
+<tr>
+<td>制約・承認</td>
+<td>変更の上限、適用外条件、人へ引き継ぐ条件、実機変更の承認点。</td>
+</tr>
+<tr>
+<td>結果の評価</td>
+<td>品質・時間・工具状態の合否、失敗時の次の確認。</td>
+</tr>
+</tbody></table></div>
+<p>FANUCの全体構成図は、実行可能な「ツール」と、参照可能な「リソース（情報・知識）」を明示する。加工面改善のパネルは、さらに「加工面改善手順（ナレッジ）を取得＆利用」と記す。これは、熟練知を課題解決の進行へ使う構成として、今回の仮説を強める。<a href="evidence/photos/FANUC_01.jpg">写真1</a>・<a href="evidence/photos/FANUC_04.jpg">写真4</a></p>
+<p>各社の工夫は、知識の渡し方にも現れる。マザックは参照DBの絞込み、オークマはタスクに応じた参照選択、三菱電機は構造化・再利用方法の模索、FANUCは手順知識と実行機能の接続という説明だった。これらは排他的な方式ではなく、併用し得る。</p>
+</section></details><details class="chapter" id="s5" ><summary><h2>5. 設備・解析機能のインターフェースと、人の承認</h2></summary><section class="chapter-body">
+<p>業界動向としての表現は、<strong>エージェントが設備・解析機能を利用できるインターフェースの整備</strong>とする。MCPはFANUC等の具体例であり、全社に必須の規格とはしない。Markdown等の知識表現、RAG等の参照方法、MCP等の接続方式は別の設計軸である。<a href="https://modelcontextprotocol.io/specification/2025-06-18/server">MCP参照仕様</a></p>
+<p>FANUCの三つの応用展示を、次のように位置付ける。</p>
+<div class="table-scroll" tabindex="0" aria-label="比較表：左右にスクロール"><table>
+<thead>
+<tr>
+<th>タスク</th>
+<th>実行の流れ</th>
+<th>確認できる自律化の範囲</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>文字彫り</td>
+<td>手書き文字・字体指定→デザイン・Gコード生成→CNCガイド2で軌跡検証→人の承認→実機。</td>
+<td>要求解釈とプログラム生成・検証を接続。任意形状の工程設計へは一般化しない。<a href="evidence/photos/FANUC_10.jpg">写真10</a></td>
+</tr>
+<tr>
+<td>加工面改善</td>
+<td>要求・設定→改善手順参照→加工面推定・Sa評価→パラメータ改善・仮想検証→承認・適用→事例DB。</td>
+<td>改善検討・検証の業務を自律化する構成。実測品質の改善まで検証したとは扱わない。<a href="evidence/photos/FANUC_04.jpg">写真4</a></td>
+</tr>
+<tr>
+<td>アラーム対応</td>
+<td>アラーム情報→ノウハウを使う原因特定・解消→確認・承認。</td>
+<td>本人説明ではイベント起点も可能。機械故障の物理修理や、解除後の品質保証まで無人化した証拠ではない。<a href="evidence/photos/FANUC_07.jpg">写真7</a></td>
+</tr>
+</tbody></table></div>
+<p>人の承認を残しながら、分析・仮想検証をエージェントへ委ねる構成は、実用化への一つの進め方と読める。実機を変える権限と、改善案を検討する自律性を分けるためである。比較では、承認前にどこまで処理が進むか、承認者へどの根拠・変更差分を示すかを見る。</p>
+<p>今回のFANUC CNC展示の主対象は、改善の検討・検証工程である。加工中の信号から送り・切込み等を連続調整する適応制御の到達点は、この展示だけでは評価できない。直接加工の自律制御への関心は、引き続き別の検証課題として保持する。</p>
+</section></details><details class="chapter" id="s6" ><summary><h2>6. データ循環：事例の保存から、検証された知識へ</h2></summary><section class="chapter-body">
+<p>FANUCのサンプル画面には「過去事例DB更新」と、今回の改善事例を追加し次回以降参照できるという応答がある。このため、<strong>一連の課題解決を経て事例を残す構成</strong>は写真で支持される。<a href="evidence/photos/FANUC_04.jpg">写真4</a></p>
+<p>ここからの仮説は、業務の中で問い・状態・判断・ツール・変更・結果を対応付け、次の案件に使える知識資産を育てられるということだ。従来の設備接続やデータ統合に加え、人の目的と判断の経緯まで残す入口になる。</p>
+<p>ただし、次の四段階を区別する。</p>
+<ol>
+<li><strong>履歴保存</strong>：会話・操作を残す。</li>
+<li><strong>事例再利用</strong>：適用条件と結果を参照し、次の判断へ使う。</li>
+<li><strong>評価データ整備</strong>：対象・版・実測結果を揃え、対策やモデルを評価する。</li>
+<li><strong>モデル・知識更新</strong>：評価を経て判断手順やモデルを改訂する。</li>
+</ol>
+<p>写真は事例保存・参照の機能を示すが、後二段階の完成や、使えば必ず精度が上がることは示していない。三菱電機が構造化・再利用を模索していたという説明とも整合する。</p>
+<p>循環を確かめる上で特に重要なのは、<strong>仮想検証の予測と、その後の実加工品質が同じ案件として記録されるか</strong>である。これが閉じれば、判断知識だけでなく、加工モデルの誤差や適用範囲も改善対象にできる。</p>
+</section></details><details class="chapter" id="s7" ><summary><h2>7. DMG森精機：製造データと共通表現の戦略</h2></summary><section class="chapter-body">
+<p>DMG森精機・産総研の共同提案は、CELOS Xchangeを基盤に設備・加工・品質・周辺設備のデータを企業横断で集め、産総研が中立ハブとして匿名化・構造化・権利処理を担うと説明する。100社・1,000台は目標値で、資料には2028年7月の注記がある。現在の達成数と混同しない。<a href="evidence/photos/DMG_02.jpg">資料・印刷頁5</a></p>
+<p>別の図は、大規模加工データによる基盤モデルから、小規模・高精度データを加えた特化型モデルへ転移し、品質予測を検証する構成を示す。小さな説明文に<strong>VAEで学習した中間表現</strong>の利用が記されている。以前のH007の「VLM」は原文のまま残し、写真側はVAEとして扱う。<a href="evidence/photos/DMG_01.jpg">資料・印刷頁6</a></p>
+<p>本人の「製造版BERT」という比喩は、<strong>多様な製造データから共通表現を学び、少量の対象データで複数の下流タスクへ適応する戦略</strong>として有効である。BERTと同じ方式や、言語でツールを選ぶ能力の保有を意味しない。</p>
+<p>戦略上の仮説は、一つの異常検知器の精度向上を超え、新しい顧客・設備・用途へモデルを立ち上げる負担を減らす共通資産を作ろうとしている、というものだ。検証には、異なる設備・材料への転移効果、必要ラベル数、立上げ工数、精度を比べる必要がある。</p>
+<p>さらに、次の三能力は分けて評価する。</p>
+<div class="table-scroll" tabindex="0" aria-label="比較表：左右にスクロール"><table>
+<thead>
+<tr>
+<th>能力</th>
+<th>問い</th>
+<th>今回の根拠</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>状態表現・判別</td>
+<td>いま正常か、どんな状態か。</td>
+<td>図の正常／異常判定。</td>
+</tr>
+<tr>
+<td>条件変更後の予測</td>
+<td>条件を変えたら品質・工具状態はどう変わるか。</td>
+<td>品質予測への展開は図示。操作の効果まで予測する範囲は未確認。</td>
+</tr>
+<tr>
+<td>対策・ツールの選択</td>
+<td>どの対策を試し、何で検証するか。</td>
+<td>図②のモデルにこの能力があるとは確認していない。</td>
+</tr>
+</tbody></table></div>
+<p>したがって、「製造データを学んだので、判断知識を外から渡す必要がなくなる」とはまだ言えない。判断手順やツール利用・実行結果を学習へ含める、または外部知識として接続する橋渡しが必要になる。</p>
+</section></details><details class="chapter" id="s8" ><summary><h2>8. フィジカルAI・基盤モデル・自律制御の定義</h2></summary><section class="chapter-body">
+<div class="table-scroll" tabindex="0" aria-label="比較表：左右にスクロール"><table>
+<thead>
+<tr>
+<th>用語</th>
+<th>本集約での作業定義・比較軸</th>
+<th>具体的な位置付け</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>AIエージェント</td>
+<td>目的・状態・知識に応じて情報・機能を選び、課題解決の処理を進める構成。</td>
+<td>FANUCの解析・検証の接続、各社の設備状態を使う支援。</td>
+</tr>
+<tr>
+<td>フィジカルAI</td>
+<td>物理状態を認識・予測し、目的・制約に応じた判断を設備・ロボットの動作へ結ぶ仕組み。</td>
+<td>メーカーの呼称と、実際に接続した入力・判断・動作・承認を併記する。</td>
+</tr>
+<tr>
+<td>基盤モデル</td>
+<td>広いデータから学び、複数の下流タスクへ適応可能な共通モデル。</td>
+<td>DMG資料の共通表現・特化型モデル。LLMに限定しない。</td>
+</tr>
+<tr>
+<td>自律化</td>
+<td>変化・状態・目的に応じ、次の判断や処理を人の逐次指示なしに進める範囲。</td>
+<td>原因切分け、候補比較、仮想検証、実機反映などを段階別に見る。</td>
+</tr>
+<tr>
+<td>自動化</td>
+<td>対象作業や定められた処理の実行を自動にすること。</td>
+<td>プログラム実行・搬送等。AI方式や未知条件への適応を必須としない。</td>
+</tr>
+<tr>
+<td>適応制御・自律加工制御</td>
+<td>加工状態・測定結果等に応じて条件・補正を調整し、品質・安定性を保つ制御。</td>
+<td>今回の改善業務エージェントと区別して、制御対象・周期・実測結果を確認する。</td>
+</tr>
+</tbody></table></div>
+<p>フィジカルAIと基盤モデルは別の軸である。基盤モデルを持たなくても、汎用LLM・判断知識・専門ツールを組み合わせる構成は成立し得る。固定設置・単一タスク・人の承認という理由だけで除外せず、同時にAIカメラとロボットの併設だけで高度な自律動作を認定しない。<a href="notes.html#bert">定義の詳細検討</a></p>
+</section></details><details class="chapter" id="s9" ><summary><h2>9. 事前仮説との照合：支持・修正・保留</h2></summary><section class="chapter-body">
+<div class="table-scroll" tabindex="0" aria-label="比較表：左右にスクロール"><table>
+<thead>
+<tr>
+<th>事前・追加議論の仮説</th>
+<th>今回の評価</th>
+<th>理由</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>個別機能から、判断と実行の接続へ進む。</td>
+<td>支持が強まる。</td>
+<td>FANUCは知識・解析・検証・CNC適用をつなぐ。複数社でも機械データと支援UIの接続を聞けた。</td>
+</tr>
+<tr>
+<td>工程・工場全体の最適化へ向かう。</td>
+<td>方向性を支持、到達範囲は限定。</td>
+<td>DMGの全体最適の問題意識、三菱電機のCNC・ロボット連携がある。一方、今回確認した主な実装は対象タスク単位。</td>
+</tr>
+<tr>
+<td>判断ナレッジの形式知化が重要。</td>
+<td>支持が強まる。</td>
+<td>FANUCパネルに改善手順の取得・利用を明記。各社も参照知識の選択・構造化を工夫。</td>
+</tr>
+<tr>
+<td>利用によって文脈付きデータが蓄積する。</td>
+<td>構成を支持、効果は保留。</td>
+<td>事例DB追加表示はある。実測結果との対応、再利用・更新の有効性は未確認。</td>
+</tr>
+<tr>
+<td>各社が独自の基盤モデルを開発する。</td>
+<td>一律の説明を修正する。</td>
+<td>DMGの構想と、FANUC・三菱電機等の汎用モデル活用は異なる経路。</td>
+</tr>
+<tr>
+<td>MCP対応が必須になる。</td>
+<td>一般化を修正する。</td>
+<td>必要なのは設備・解析機能を利用するインターフェース。MCPは具体的な実現方式の一つ。</td>
+</tr>
+<tr>
+<td>データが増えるとサービス収益性が上がる。</td>
+<td>事業仮説として保留。</td>
+<td>サービス価値向上の可能性はあるが、支払意思・解約率・保守費・利益率の根拠が不足。</td>
+</tr>
+<tr>
+<td>熟練者の技能を幅広く代替できる。</td>
+<td>対象・段階を絞る。</td>
+<td>特定の改善・復旧手順を支援する根拠はある。工具判定や図面検索には対象変更時の限界もある。</td>
+</tr>
+</tbody></table></div>
+</section></details><details class="chapter" id="s10" ><summary><h2>10. 顧客向け開発の重点</h2></summary><section class="chapter-body">
+<p>顧客が求めるのは、目的を伝えるだけで必要な確認・解析が進み、品質・時間・復旧の改善につながる支援である、というニーズ仮説を置く。未熟練者の操作負担を減らすだけでなく、熟練者が行う切り分けと検証の負担を減らせるかを見る。</p>
+<p><strong>加工現象の理解、観測、予測・最適化技術は、エージェントの接続が進んでも競争力として残る。</strong> 呼び出す機能の精度・適用範囲を超える改善は、接続だけでは得られない。FANUCの加工面改善でも、Saとサイクルタイムの比較という製造固有の評価が中核にある。</p>
+<div class="table-scroll" tabindex="0" aria-label="比較表：左右にスクロール"><table>
+<thead>
+<tr>
+<th>開発対象</th>
+<th>提供する顧客価値</th>
+<th>効果の検証</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>状態・品質・工具の推定、加工モデル、最適化</td>
+<td>対策を変えた効果を予測し、試行錯誤を減らす。</td>
+<td>実測との誤差、適用外条件、品質と生産性の両立。</td>
+</tr>
+<tr>
+<td>判断知識の形式知化</td>
+<td>症状から切分け・対策・ツール選択へ進む。</td>
+<td>誤った対策、例外時の引継ぎ、熟練者介入の削減。</td>
+</tr>
+<tr>
+<td>解析機能の利用インターフェース</td>
+<td>既存技術をエージェントや顧客システムから使いやすくする。</td>
+<td>入出力・単位・前提・失敗状態・版の明確さ。</td>
+</tr>
+<tr>
+<td>実結果を含む事例の評価・再利用</td>
+<td>顧客固有の改善能力を継続して高める。</td>
+<td>再利用できた案件数、再現性、立上げ工数、誤適用の抑制。</td>
+</tr>
+</tbody></table></div>
+<p>FANUCのローカルLLM活用の説明は、推論の中核を入れ替えても製造の知識・専門機能に価値を残せる構成として興味深い。一方、導入費・応答時間・運用費の制約も各社で残る。モデル名やUIの新しさだけで優劣を決めない。</p>
+</section></details><details class="chapter" id="s11" ><summary><h2>11. 未確認事項と記録上の修正</h2></summary><section class="chapter-body">
+<ul>
+<li><strong>VLM／VAE</strong>：H007はVLMという生メモ。DMGの図②はVAEと記載。同一対象の聞取り差か別モデルかは未確認。原文を置換しない。</li>
+<li><strong>31Bモデル名</strong>：H001は「Olympus 31B」、最新FANUC補足P002は「Ornithの31Bモデル」。正式名は未確認で、既知のモデル名へ推定で置換しない。</li>
+<li><strong>提供予定</strong>：FANUCの12月リリース・翌年第2版は開発者から聞いた予定。2026年12月・2027年と読む場合も、公式確定日とはしない。</li>
+<li><strong>AIの学習と責任</strong>：事例保存、RAG、手順参照、モデルの再学習は区別。誤回答への説明には聞取り上の曖昧さがあり、正式な契約・保証方針へ一般化しない。</li>
+<li><strong>実用段階</strong>：サンプル、試用、参考出展、構想、実運用を分ける。展示パネルと画面を確認したことは、製品性能の独立検証ではない。</li>
+<li><strong>訪問実績</strong>：生メモのある7社を採用。見学予定だけでメモが空の企業は訪問済みに含めない。企業未確定のAutodeskらしき断片はU001のまま保持する。</li>
+</ul>
+</section></details><details class="chapter" id="s12" ><summary><h2>12. 根拠と読み方</h2></summary><section class="chapter-body">
+<p>本集約は、新しい広範なWeb調査を追加したものではなく、ここまでの現地メモ・写真・追加議論と、以前に照合した比較資料を統合した版である。</p>
+<ul>
+<li><a href="raw_memos.html">生メモ集約HTML</a>：企業別ヒアリング・本人追補を検索し、原文のまま閲覧する。</li>
+<li><a href="raw_memos.md">生メモ集約MD</a>／<a href="raw_memos.txt">TXT</a>：本文の誤字・表記差・改行を残す。追加した見出し・分類は本文の外側。</li>
+<li><a href="notes.html">詳細検討HTML</a>：追加議論、DMG写真読解、製造版BERT仮説、FANUC写真分析を読む。</li>
+<li><a href="evidence.html">写真根拠HTML</a>：写真12点と、重要な記載・掲載位置を確認する。</li>
+<li><a href="data/raw_memos.json">生メモ構造化データ</a>／<a href="data/source_manifest.json">出典・複製台帳</a>。</li>
+</ul>
+<p>技術概念の補助資料は、<a href="https://arxiv.org/abs/1810.04805">BERT</a>、<a href="https://arxiv.org/abs/2108.07258">基盤モデル</a>、<a href="https://arxiv.org/abs/1312.6114">VAE</a>、<a href="https://www.nvidia.com/en-us/glossary/generative-physical-ai/">NVIDIAのPhysical AI説明</a>、<a href="https://www.aist.go.jp/aist_j/news/pr20260702.html">産総研の製造AX拠点発表</a>。一般概念の説明から、メーカー固有の実装や性能を認定しない。</p>
+</section></details></article></main><footer>2026.10.28 中間集約版 · 生メモ7社／写真12点 · <a href="README.md">読み方・ファイル一覧</a><br>写真の記載／現地説明／分析上の仮説を区別。追加資料の受領途中での保存版。</footer></body></html>
