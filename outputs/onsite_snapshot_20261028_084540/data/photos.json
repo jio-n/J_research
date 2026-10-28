@@ -1,0 +1,74 @@
+[
+  {
+    "id": "DMG-01",
+    "company": "DMG",
+    "title": "製造データ・共通表現・特化型モデル（印刷頁6）",
+    "src": "evidence/photos/DMG_01.jpg"
+  },
+  {
+    "id": "DMG-02",
+    "company": "DMG",
+    "title": "中立ハブ・AI-readyデータ基盤（印刷頁5）",
+    "src": "evidence/photos/DMG_02.jpg"
+  },
+  {
+    "id": "FANUC-01",
+    "company": "FANUC",
+    "title": "全体構成：ツールとリソース",
+    "src": "evidence/photos/FANUC_01.jpg"
+  },
+  {
+    "id": "FANUC-02",
+    "company": "FANUC",
+    "title": "文字彫りの展示",
+    "src": "evidence/photos/FANUC_02.jpg"
+  },
+  {
+    "id": "FANUC-03",
+    "company": "FANUC",
+    "title": "加工面改善・仮想検証",
+    "src": "evidence/photos/FANUC_03.jpg"
+  },
+  {
+    "id": "FANUC-04",
+    "company": "FANUC",
+    "title": "加工面改善・事例DBの表示",
+    "src": "evidence/photos/FANUC_04.jpg"
+  },
+  {
+    "id": "FANUC-05",
+    "company": "FANUC",
+    "title": "加工面改善の全景",
+    "src": "evidence/photos/FANUC_05.jpg"
+  },
+  {
+    "id": "FANUC-06",
+    "company": "FANUC",
+    "title": "フィジカルAI CNCコンセプト",
+    "src": "evidence/photos/FANUC_06.jpg"
+  },
+  {
+    "id": "FANUC-07",
+    "company": "FANUC",
+    "title": "アラーム対応・自動復旧",
+    "src": "evidence/photos/FANUC_07.jpg"
+  },
+  {
+    "id": "FANUC-08",
+    "company": "FANUC",
+    "title": "全体構成の説明風景",
+    "src": "evidence/photos/FANUC_08.jpg"
+  },
+  {
+    "id": "FANUC-09",
+    "company": "FANUC",
+    "title": "全体構成の別角度",
+    "src": "evidence/photos/FANUC_09.jpg"
+  },
+  {
+    "id": "FANUC-10",
+    "company": "FANUC",
+    "title": "文字彫り：生成・検証・承認",
+    "src": "evidence/photos/FANUC_10.jpg"
+  }
+]
