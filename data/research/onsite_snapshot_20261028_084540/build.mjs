@@ -15,6 +15,7 @@ const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const rel=p=>path.relative(root,p).split(path.sep).join('/');
 const write=(p,s)=>fs.writeFileSync(path.join(out,p),s,{encoding:'utf8',flag:'wx'});
+write('.gitattributes','* -text\n');
 const sources=[];
 const mapping=new Map();
 function copy(src,dst,role){
